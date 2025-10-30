@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-marini:
+  mariniupdate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -23,12 +23,12 @@ jobs:
           pip install requests lxml
 
       - name: Run update script
-        run: python marini_update_stock_xml.py
+        run: python marinistockupdate.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add marini-b2b.xml stock.csv updated_products.xml
+          git add marini-b2b.xml stock.csv piguasortimentas.xml
           git commit -m "Marini automatinis atnaujinimas: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
