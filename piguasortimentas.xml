@@ -5,7 +5,7 @@
     <ean>5061047480113</ean>
     <price_lt>120.99</price_lt>
     <price_after_discount_lt>158.49</price_after_discount_lt>
-    <stock>209</stock>
+    <stock>2</stock>
     <collection_hours_lt>336</collection_hours_lt>
   </product>
     <product>
@@ -13,7 +13,7 @@
     <ean>5908214738380</ean>
     <price_lt>153.59</price_lt>
     <price_after_discount_lt>153.59</price_after_discount_lt>
-    <stock>209</stock>
+    <stock>2</stock>
     <collection_hours_lt>336</collection_hours_lt>
   </product>
     <product>
@@ -21,7 +21,7 @@
     <ean>5903771704205</ean>
     <price_lt>62.99</price_lt>
     <price_after_discount_lt>62.99</price_after_discount_lt>
-    <stock>209</stock>
+    <stock>0</stock>
     <collection_hours_lt>336</collection_hours_lt>
   </product>
 </products>
