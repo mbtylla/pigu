@@ -9,6 +9,71 @@
     <collection_hours_lt>216</collection_hours_lt>
     </product>
   <product>
+    <product>
+    <sku>CTR00212ME</sku>
+    <ean>850036293194</ean>
+    <price_lt>217.89</price_lt>
+    <price_after_discount_lt>217.89</price_after_discount_lt>
+    <stock>2</stock>
+    <collection_hours_lt>24</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTR00102CR</sku>
+    <ean>850036293361</ean>
+    <price_lt>117.79</price_lt>
+    <price_after_discount_lt>117.79</price_after_discount_lt>
+    <stock>4</stock>
+    <collection_hours_lt>24</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTR00092BR</sku>
+    <ean>850036293149</ean>
+    <price_lt>97.89</price_lt>
+    <price_after_discount_lt>97.89</price_after_discount_lt>
+    <stock>5</stock>
+    <collection_hours_lt>24</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTP00120CR</sku>
+    <ean>850036293040</ean>
+    <price_lt>134.79</price_lt>
+    <price_after_discount_lt>134.79</price_after_discount_lt>
+    <stock>5</stock>
+    <collection_hours_lt>216</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTRR00060ST</sku>
+    <ean>850036293347</ean>
+    <price_lt>82.69</price_lt>
+    <price_after_discount_lt>82.69</price_after_discount_lt>
+    <stock>5</stock>
+    <collection_hours_lt>24</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTR00050TR</sku>
+    <ean>850036293224</ean>
+    <price_lt>77.79</price_lt>
+    <price_after_discount_lt>77.79</price_after_discount_lt>
+    <stock>5</stock>
+    <collection_hours_lt>24</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTP00202ME</sku>
+    <ean>850036293057</ean>
+    <price_lt>106.69</price_lt>
+    <price_after_discount_lt>233.49</price_after_discount_lt>
+    <stock>5</stock>
+    <collection_hours_lt>233.49</collection_hours_lt>
+  </product>
+    <product>
+    <sku>CTRBG002BP</sku>
+    <ean>850036293156</ean>
+    <price_lt>47.89</price_lt>
+    <price_after_discount_lt>47.89</price_after_discount_lt>
+    <stock>5</stock>
+    <collection_hours_lt>24</collection_hours_lt>
+  </product>
+    <product>
     <sku>mari4813</sku>
     <ean>5906724206511</ean>
     <price_lt>701.49</price_lt>
