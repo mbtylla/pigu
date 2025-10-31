@@ -32,18 +32,19 @@ def update_product(match):
         ean = ean_match.group(1).strip()
         if ean in product_info:
             info = product_info[ean]
-            price_after_discount_lt_new = info["price_after_discount_lt"]
+            price_new = info["price_after_discount_lt"]
             collection_hours_lt_new = info["collection_hours_lt"]
 
             # Atnaujinam <price_after_discount_lt>
             product_block = re.sub(
                 r"(<price_after_discount_lt>).*?(</price_after_discount_lt>)",
-                lambda m: f"{m.group(1)}{price_after_discount_lt_new}{m.group(2)}",
+                lambda m: f"{m.group(1)}{price_new}{m.group(2)}",
                 product_block,
                 flags=re.DOTALL
             )
 
-                        product_block = re.sub(
+            # Atnaujinam <price_lt>
+            product_block = re.sub(
                 r"(<price_lt>).*?(</price_lt>)",
                 lambda m: f"{m.group(1)}{price_new}{m.group(2)}",
                 product_block,
