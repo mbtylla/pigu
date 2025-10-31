@@ -8,7 +8,7 @@ product_info = {}
 with open(PRICE_CSV, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        ean = row.get("ean")
+        ean = row.get("ean", "").strip()
         price_after_discount_lt = row.get("price_after_discount_lt")
         collection_hours_lt = row.get("collection_hours_lt", "").strip()
         
