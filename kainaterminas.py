@@ -6,7 +6,7 @@ TARGET_XML = "piguasortimentas.xml"
 
 product_info = {}
 with open(PRICE_CSV, newline='', encoding='utf-8') as csvfile:
-    reader = csv.DictReader(csvfile)
+    reader = csv.DictReader(csvfile, delimiter=';')  # <- svarbu
     for row in reader:
         ean = row.get("ean", "").strip()
         price_after_discount_lt = row.get("price_after_discount_lt")
