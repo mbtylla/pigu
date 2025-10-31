@@ -43,6 +43,13 @@ def update_product(match):
                 flags=re.DOTALL
             )
 
+                        product_block = re.sub(
+                r"(<price_lt>).*?(</price_lt>)",
+                lambda m: f"{m.group(1)}{price_new}{m.group(2)}",
+                product_block,
+                flags=re.DOTALL
+            )
+
             # Atnaujinam <collection_hours_lt>
             product_block = re.sub(
                 r"(<collection_hours_lt>).*?(</collection_hours_lt>)",
