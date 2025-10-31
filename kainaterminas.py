@@ -27,7 +27,7 @@ with open(TARGET_XML, "r", encoding="utf-8") as f:
 # Regex, kuris randa <product> bloką su barcode ir quantity
 def update_product(match):
     product_block = match.group(0)
-    ean = re.search(r"<ean>(.*?)</ean>", product_block, re.DOTALL)
+    ean_match = re.search(r"<ean>(.*?)</ean>", product_block, re.DOTALL)
     if ean_match:
         ean = ean_match.group(1).strip()
         if ean in product_info:
@@ -35,7 +35,7 @@ def update_product(match):
             price_after_discount_lt_new = info["price_after_discount_lt"]
             collection_hours_lt_new = info["collection_hours_lt"]
 
-            # Atnaujinam <price>
+            # Atnaujinam <price_after_discount_lt>
             product_block = re.sub(
                 r"(<price_after_discount_lt>).*?(</price_after_discount_lt>)",
                 lambda m: f"{m.group(1)}{price_after_discount_lt_new}{m.group(2)}",
@@ -43,7 +43,7 @@ def update_product(match):
                 flags=re.DOTALL
             )
 
-            # Atnaujinam <delivery_text>
+            # Atnaujinam <collection_hours_lt>
             product_block = re.sub(
                 r"(<collection_hours_lt>).*?(</collection_hours_lt>)",
                 lambda m: f"{m.group(1)}{collection_hours_lt_new}{m.group(2)}",
@@ -52,6 +52,7 @@ def update_product(match):
             )
 
     return product_block
+
 
 xml_text_new = re.sub(r"<product>.*?</product>", update_product, xml_text, flags=re.DOTALL)
 
