@@ -11,16 +11,16 @@
     <product>
     <sku>CTR00212ME</sku>
     <ean>850036293194</ean>
-    <price_lt>217.57</price_lt>
-    <price_after_discount_lt>217.57</price_after_discount_lt>
+    <price_lt>217.49</price_lt>
+    <price_after_discount_lt>217.49</price_after_discount_lt>
     <stock>5</stock>
     <collection_hours_lt>24</collection_hours_lt>
   </product>
     <product>
     <sku>CTR00102CR</sku>
     <ean>850036293361</ean>
-    <price_lt>117.59</price_lt>
-    <price_after_discount_lt>117.59</price_after_discount_lt>
+    <price_lt>117.57</price_lt>
+    <price_after_discount_lt>117.57</price_after_discount_lt>
     <stock>5</stock>
     <collection_hours_lt>24</collection_hours_lt>
   </product>
@@ -43,8 +43,8 @@
     <product>
     <sku>CTRR00060ST</sku>
     <ean>850036293347</ean>
-    <price_lt>82.39</price_lt>
-    <price_after_discount_lt>82.39</price_after_discount_lt>
+    <price_lt>82.35</price_lt>
+    <price_after_discount_lt>82.35</price_after_discount_lt>
     <stock>5</stock>
     <collection_hours_lt>24</collection_hours_lt>
   </product>
@@ -67,8 +67,8 @@
     <product>
     <sku>CTRBG002BP</sku>
     <ean>850036293156</ean>
-    <price_lt>47.67</price_lt>
-    <price_after_discount_lt>47.67</price_after_discount_lt>
+    <price_lt>47.65</price_lt>
+    <price_after_discount_lt>47.65</price_after_discount_lt>
     <stock>5</stock>
     <collection_hours_lt>24</collection_hours_lt>
   </product>
