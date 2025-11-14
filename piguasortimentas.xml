@@ -14,7 +14,7 @@
     <price_lt>217.49</price_lt>
     <price_after_discount_lt>217.49</price_after_discount_lt>
     <stock>5</stock>
-    <collection_hours_lt>168</collection_hours_lt>
+    <collection_hours_lt>120</collection_hours_lt>
   </product>
     <product>
     <sku>CTR00102CR</sku>
@@ -22,7 +22,7 @@
     <price_lt>117.55</price_lt>
     <price_after_discount_lt>117.55</price_after_discount_lt>
     <stock>5</stock>
-    <collection_hours_lt>24</collection_hours_lt>
+    <collection_hours_lt>120</collection_hours_lt>
   </product>
     <product>
     <sku>CTR00092BR</sku>
