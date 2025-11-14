@@ -1,0 +1,38 @@
+name: Anvol Update Full
+
+on:
+  schedule:
+    - cron: '0 17 * * *'  # kasdien 20:00 Lietuvos laiku (UTC+3 → 17:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKENAS1 }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests lxml
+
+      - name: Run update script
+        run: python anvolstockupdate.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions@users.noreply.github.com"
+          git add anvol.xml anvolstock.csv piguasortimentas.xml
+          git commit -m "Anvol automatinis atnaujinimas: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push
