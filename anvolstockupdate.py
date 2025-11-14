@@ -63,13 +63,13 @@ def update_stock(match):
         except:
             price_value = None
 
-    # Jei kaina < 10 €, visada rodomas 0 likutis
-    if price_value is not None and price_value < 10:
-        stock_new = "0"
-    else:
-        stock_new = stock_dict.get(ean)
-        if stock_new is None:
-            return product_block  # Nėra ANVOL likučio šiam EAN
+supplier_price = stock_dict[ean]["price"]
+supplier_stock = stock_dict[ean]["stock"]
+
+if supplier_price < 7:
+    stock_new = "0"
+else:
+    stock_new = supplier_stock
 
     # Pakeičiame stock reikšmę
     product_block = re.sub(
