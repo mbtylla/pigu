@@ -2,7 +2,7 @@ name: Anvol Update Full
 
 on:
   schedule:
-    - cron: '0 17 * * *'  # kasdien 20:00 Lietuvos laiku (UTC+3 → 17:00 UTC)
+    - cron: '0 */3 * * *'   # kas 3 valandas
   workflow_dispatch:
 
 permissions:
