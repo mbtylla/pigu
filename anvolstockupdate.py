@@ -54,24 +54,21 @@ def update_stock(match):
 
     ean = ean_match.group(1).strip()
 
-    # Surandame kainą
-    price_match = re.search(r"<price>(.*?)</price>", product_block, re.DOTALL)
-    price_value = None
-    if price_match:
-        try:
-            price_value = float(price_match.group(1).strip())
-        except:
-            price_value = None
+    # Jei tiekėjo duomenų nėra – nekeičiam
+    if ean not in stock_dict:
+        return product_block
 
-supplier_price = stock_dict[ean]["price"]
-supplier_stock = stock_dict[ean]["stock"]
+    supplier_price = stock_dict[ean]["price"]
+    supplier_stock = stock_dict[ean]["stock"]
 
-if supplier_price < 7:
-    stock_new = "0"
-else:
-    stock_new = supplier_stock
+    # —— NAUJA TAISYKLĖ ——
+    # Jei tiekėjo ANVOL kaina < 7 €, rodomas stock = 0
+    if supplier_price < 7:
+        stock_new = "0"
+    else:
+        stock_new = supplier_stock
 
-    # Pakeičiame stock reikšmę
+    # Pakeičiame <stock> reikšmę XML'e
     product_block = re.sub(
         r"(<stock>).*?(</stock>)",
         lambda m: f"{m.group(1)}{stock_new}{m.group(2)}",
@@ -80,7 +77,7 @@ else:
     )
 
     return product_block
-
+    
 xml_text_new = re.sub(
     r"<product>.*?</product>",
     update_stock,
