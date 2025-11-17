@@ -27,7 +27,7 @@ with open(STOCK_CSV, "w", newline="", encoding="utf-8") as csvfile:
         ean = p.findtext("barcode")
         stock = p.findtext("total_quantity")
 
-        if ean and stock:
+        if ean is not None and stock is not None:
             writer.writerow([ean.strip(), stock.strip()])
 
 print(f"[INFO] {STOCK_CSV} sugeneruotas.")
@@ -59,6 +59,7 @@ def update_stock(match):
 
     stock_new = stock_dict[ean]
 
+    # Pakeičiame stock reikšmę
     product_block = re.sub(
         r"(<stock>).*?(</stock>)",
         lambda m: f"{m.group(1)}{stock_new}{m.group(2)}",
@@ -68,6 +69,7 @@ def update_stock(match):
 
     return product_block
 
+# Visų product blokų keitimas
 xml_text_new = re.sub(
     r"<product>.*?</product>",
     update_stock,
