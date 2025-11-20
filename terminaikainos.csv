@@ -6566,10 +6566,10 @@ ean;name;price_after_discount_lt;collection_hours_lt
 5902963015129;TEGA FF-002-108 M?lynos spalvos neslystanti tualeto s?dyn? FOREST STORY;8.89;216
 5902963004680;TEGA MN-001-126 Monsters neslystantis puodukas m?lynas;8.89;216
 5902963015808;TEGA PO-072-122 Puodukas su muzikine d?žute, pilka;8.89;216
-5902963015815;TEGA PO-072-129 DUCK puodukas su muzikine d?žute m?lynas;8.89;216
-5902963015822;TEGA PO-072-130 Puodukas su muzikine d?žute rožin?;8.89;216
-5902963015839;TEGA PO-072-131 Puodukas su muzikine d?žute žalia;8.89;216
-5902963015846;TEGA PO-072-132 Puodukas su muzikine d?žute geltona;8.89;216
+5902963015815;TEGA PO-072-129 DUCK puodukas su muzikine d?žute m?lynas;8.89;24
+5902963015822;TEGA PO-072-130 Puodukas su muzikine d?žute rožin?;8.89;24
+5902963015839;TEGA PO-072-131 Puodukas su muzikine d?žute žalia;8.89;24
+5902963015846;TEGA PO-072-132 Puodukas su muzikine d?žute geltona;8.89;24
 5902963015853;TEGA PO-072-133 Puodukas su muzikine d?žute violetin?;8.89;216
 5902963011244;TEGA SO-001-103 Neslystantis puodukas OWL baltas;8.89;216
 5902963011282;TEGA SO-002-106 Tualeto s?dyn?s užvalkalas neslystantis OWL pilkas;8.89;216
@@ -7406,4 +7406,5 @@ PIGU74011663;ABCDE;27.28;168
 5055394027121;ABCDE;17.48;168
 5055394011113;ABCDE;26.08;168
 5055394015326;ABCDE;21.88;168
+
 
