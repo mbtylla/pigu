@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2025-12-02T17:55:00.107">
+<MARINI timestamp="2025-12-03T17:55:00.097">
 <b2b>
 <kod>764966</kod>
 <nazwa> B.O.1460 Miękka łyżeczka silikonowa Baby's Smile zielona</nazwa>
@@ -401,7 +401,7 @@ System ISOFIX zastosowany w foteliku App-fix świetnie stabilizuje siedzisko i u
 <nazwa>4 BABY Fotelik APP-FIX XXIV 100-150 cm Mokka I-Size</nazwa>
 <cena>307.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959637</EAN>
 <grupa>4BABY/FOTELIKI/APP-FIX</grupa>
 <opis>App-Fix to doskonały model dla dzieci o wzroście od 100 do 150 cm. Produkt spełnia restrykcyjną normę I-Size, gwarantując najwyższy poziom bezpieczeństwa i wygody małym pasażerom w grupie wagowej II i III (15-25 kg i 22-36 kg). Z powodzeniem będzie towarzyszył dziecku w podróży aż do 12 roku życia.
@@ -1554,7 +1554,7 @@ Waga: 14.7 kg</opis>
 <b2b>
 <kod>5910879</kod>
 <nazwa>4 BABY Huśtawka ROCK'N RELAX XXIV BLACK</nazwa>
-<cena>271.68</cena>
+<cena>218.54</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5901691959460</EAN>
@@ -1585,7 +1585,7 @@ Pluszaki w zestawie
 <b2b>
 <kod>5910878</kod>
 <nazwa>4 BABY Huśtawka ROCK'N RELAX XXIV GREY</nazwa>
-<cena>271.68</cena>
+<cena>218.54</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5901691959453</EAN>
@@ -2015,7 +2015,7 @@ Waga: 0.20 kg</opis>
 <nazwa>4 BABY OP01 P&amp;E Zabawka pozytywka Music Toy OWL</nazwa>
 <cena>29.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691957664</EAN>
 <grupa>4BABY/AKCESORIA</grupa>
 <opis>Zabawka pozytywka jest niezwykle miła w dotyku dzięki czemu zachęci malca do zabawy, co stymuluje rozwój koordynacji wzrokowo-słuchowej i motorycznej dziecka. Delikatne i przyjemne dźwięki pozytywki uspokoją malucha oraz ułatwią mu zasypianie. Wygodny i lekki zaczep pozwala zamontować zabawkę w zależności od potrzeb.
@@ -4440,7 +4440,7 @@ W zestawie znajdują się:
 <nazwa>AKUKU A0055 Gryzak silikonowy Panda</nazwa>
 <cena>9.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907644000555</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
 <opis>Gryzak silikonowy PANDA – zawieszka.
@@ -5806,7 +5806,7 @@ Piłeczki marki „akuku” rozbudzają kreatywność, pobudzają wyobraźnię i
 <nazwa>AKUKU A0456 Sitko/kosz z zabawkami kąpielowymi</nazwa>
 <cena>16.94</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644004560</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Dwufunkcyjny zestaw marki „akuku” do zabawy podczas kąpieli:
@@ -7045,7 +7045,7 @@ Przed każdym użyciem należy sprawdzić czy produkt nie posiada uszkodzeń. W 
 <nazwa>AKUKU A0638 Rodzina Treflików/Magiczna mata do malowania</nazwa>
 <cena>18.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907644006380</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>MAGICZNA TREFLIKOWA MATA WODNA DLA DZIECI
@@ -9310,7 +9310,7 @@ Dostępne rozmiary:
 <nazwa>AKUKU A1280 Podkład podgumowany bawełna 50x70</nazwa>
 <cena>10.73</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644012800</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
 <opis>Miękka bawełniana warstwa wierzchnia. Podgumowany spód chroni materac przed zmoczeniem. Podkład wykonany jest z wodoszczelnej tkaniny medycznej. Nie zawiera ftalanów. Niezastąpiony przy pielęgnacji osób obłożnie chorych. Przydatny przy chorobach przebiegających z nietrzymaniem moczu. Antyodleżynowy i antyodparzeniowy. Przeznaczony do wielokrotnego użytku. Można stosować jako ochraniacz na materac dla dzieci i dorosłych, podkład higieniczny pod prześcieradło i jako podkład do przewijania.</opis>
@@ -11218,7 +11218,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 432 LENIWCE</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904165685384</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Mata miękka do przewijania (MM70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczona jest do nałożenia na komodę lub półkoprzewijak. Nie posiada dodatkowego usztywnienia.
@@ -12409,7 +12409,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 F001 Kwiecista polana*</nazwa>
 <cena>36.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165681195</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania / Soft changing mat 70 x 50 cm
@@ -15216,7 +15216,7 @@ Tkanina 1: satyna bawełniana - 100% bawełna, tkanina 2: double gauze - 100% ba
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak CP7 Krabik i przyjaciele</nazwa>
 <cena>38.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165687319</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło do gondoli 2-pak to zestaw dwóch prześcieradeł, co oznacza podwójną wygodę i praktyczność. Jedno z prześcieradeł wykonane jest z jednokolorowej tkaniny double gauze czyli podwójnego muślinu - 100% bawełna. To naturalna tkanina, bezpieczna dla wrażliwej skóry dziecka. Posiada dwie, cienkie warstwy materiału, jest lekko elastyczna, ale jednocześnie bardzo dobrze utrzymuje swoją charakterystyczną, marszczoną strukturę. Drugie prześcieradło wykonane jest z bawełny satynowej z nadrukiem wzoru. Nadruk na tkaninach jest nadrukiem ekologicznym, bezpiecznym dla najmłodszych. Tkanina, które została użyte do produkcji, to tkanina z certyfikatem OEKO-TEX klasy I.
@@ -19295,7 +19295,7 @@ Rozmiar: 62x34 cm (+/-2 cm)</opis>
 <nazwa>ALBERO MIO Śpiworek do spania S (1,5 tog) 447 Śpiące owieczki</nazwa>
 <cena>63.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901571374338</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ŚPIWORKI</grupa>
 <opis>Śpiworek do spania 1,5 TOG S
@@ -20430,7 +20430,7 @@ Wymiar: S - długość całkowita 90cm, szerokość pod pachami 36cm.</opis>
 <nazwa>ALBERO MIO Śpiworek z nogawkami S 1,5 tog C012 Africa World</nazwa>
 <cena>63.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165688682</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ŚPIWORKI</grupa>
 <opis>Śpiworek z nogawkami dla dzieci wykonany z bawełny jest idealnym wyborem dla dzieci, które potrafią już chodzić. Został zaprojektowany tak, aby zapewnić dzieciom pełen komfort i ciepło podczas snu.
@@ -22272,7 +22272,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 132490 Bajkowy pojazd zdalnie sterowany pomarańczowy</nazwa>
 <cena>25.63</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811132490</EAN>
 <grupa>ARTYK</grupa>
 <opis>W ZESTAWIE:
@@ -22339,7 +22339,7 @@ WIEK: 3+</opis>
 <nazwa>ARTYK 132544 Bajkowy pojazd zdalnie sterowany niebieski</nazwa>
 <cena>25.63</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901811132544</EAN>
 <grupa>ARTYK</grupa>
 <opis>W ZESTAWIE:
@@ -24410,7 +24410,7 @@ wiek: 3+</opis>
 <nazwa>ARTYK 185953 Zwierzątka Psy 6 szt/disp.</nazwa>
 <cena>8.75</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901811185953</EAN>
 <grupa>ARTYK</grupa>
 <opis>- 6 zestawów do wyboru
@@ -30433,7 +30433,7 @@ Podczas zabawy z przytulnym Misiem Olafem Twoje dziecko będzie najlepszym przyj
 <nazwa>AXIOM 9348 Krówka Magdalenka 27 cm</nazwa>
 <cena>30.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209893485</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -44184,7 +44184,7 @@ Całkowicie bezpieczne dla Twojego malca. Nasze łyżeczki dla niemowląt wykona
 <nazwa>B.O.1070/03 Miseczka z przyssawką utrzymująca temperaturę pokarmu SZARA</nazwa>
 <cena>15.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435411452</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Miseczka utrzymująca temperaturę pokarmu sprawdzi się idealnie kiedy karmienie dziecka trwa dłużej niż zwykle. Dzięki specjalnej komorze w podstawie możesz napełnić miseczkę gorącą wodą, a pokarm dłużej utrzyma swoją temperaturę. Przyssawka znajdująca się na spodzie miseczki zapewni Ci komfort i zabezpieczy pokarm przed przypadkowym wylaniem. Produkt nie zawiera bisfenolu A.
@@ -45764,7 +45764,7 @@ Wiek dziecka: 6m-2y
 <nazwa>B.O.1476/03 Śliniak z długim rękawem PLANE</nazwa>
 <cena>15.30</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417003</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak z długim rękawem to praktyczny fartuszek, który ochroni ubranie Twojego dziecka. W trakcie jedzenia zabezpieczy nie tylko przód ubranka, ale również rękawy, które „lubią się” brudzić. Dzięki elastycznym gumkom będzie dobrze przylegał nawet do małych dziecięcych rączek. Śliniak z rękawkami ma też praktyczną kieszonkę na okruszki, do której wpadają resztki posiłku.
@@ -45889,7 +45889,7 @@ Wymiary opakowania: 35 × 52 cm</opis>
 <nazwa>B.O.1478/01 Kocyk dzianina bambusowy brudny róż</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435415405</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -47401,7 +47401,7 @@ Wymiar opakowania: 10 x 16 cm</opis>
 <nazwa>B.O.1547 Grzechotka SNAIL*</nazwa>
 <cena>7.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435415894</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
 <opis>Nasza grzechotka to idealna zabawka stymulująca rozwój zmysłów malucha. Wykonana z bezpiecznych materiałów, posiada ergonomiczny kształt, który doskonale pasuje do małych rączek. Dźwięki wydawane przez grzechotkę pobudzają słuch dziecka, a różnorodne tekstury pomagają rozwijać zmysł dotyku.
@@ -47694,6 +47694,46 @@ Rzeczywisty kolor okrycia może nieznacznie różnić się od tego przedstawione
 wymiary okrycia 100 x 100 cm
 wymiary opakowania 26 x 38 x 3 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908863-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914249</kod>
+<nazwa>B.O.1553/04 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm różowe</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418000</EAN>
+<grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914250</kod>
+<nazwa>B.O.1553/05 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm jasny beż</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418017</EAN>
+<grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914251</kod>
+<nazwa>B.O.1553/06 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm ciemny beż</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418024</EAN>
+<grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914252</kod>
+<nazwa>B.O.1553/07 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm kremowe</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418031</EAN>
+<grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5910059</kod>
@@ -50687,7 +50727,7 @@ Etui na smoczek wykonaliśmy z silikonu wolnego od BPA. Jest miękkie, trwałe i
 <nazwa>B.O.1659/01 Kocyk bawełniany z ociepleniem różowy</nazwa>
 <cena>77.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417614</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis/>
@@ -51899,6 +51939,26 @@ Rzeczywisty kolor okrycia może nieznacznie różnić się od tego przedstawione
 wymiary okrycia 100 x 100 cm
 wymiary opakowania 26 x 38 x 3 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909845-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914253</kod>
+<nazwa>B.O.347/10 Bambusowa myjka kąpielowa NATURAL BAMBOO różowa</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418130</EAN>
+<grupa>BABYONO/PIELĘGNACJA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914254</kod>
+<nazwa>B.O.347/11 Bambusowa myjka kąpielowa NATURAL BAMBOO jasny beż</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418147</EAN>
+<grupa>BABYONO/PIELĘGNACJA</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>770161</kod>
@@ -58288,7 +58348,7 @@ Wyprodukowane i zaprojektowane w Polsce.</opis>
 <nazwa>BABY 01349 Muślinowa Bandama Gwiazdki Szara</nazwa>
 <cena>17.82</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904830708479</EAN>
 <grupa>BABY IN WORLD</grupa>
 <opis>Bandama składa się z dwóch warstw, aby zapewnić maksymalną chłonność i może być używany m.in. do wycierania śliny i ew. ulewania pokarmu po karmieniu oraz jako chustka pod szyję.
@@ -62546,7 +62606,7 @@ Zabawka przeznaczona dla dzieci od dnia narodzin.Cechy zabawki:
 <nazwa>BALIBAZOO BB 80217 Zawieszka chmurka pozytywka</nazwa>
 <cena>32.24</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783802174</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>W Pluszakowej krainie zawsze panuje piękna pogoda! Uśmiechnięta chmurka towarzyszy Luzakom w zabawie i wygrywa słodką melodię. Posiada także piszczałkę w postaci kropelki oraz dzwoneczek – gwiazdkę. Aby uruchomić pozytywkę wystarczy pociągnąć za tęczę. Słoneczko i kropelka deszczu uroczo zaszeleszczą za każdym razem, gdy maluszek je dotknie. Chmurka skrywa także bezpieczne lusterko  do samopoznania dziecka, a wygodny uchwyt, na którym jest zawieszona umożliwi przymocowanie zabawki w dowolnym miejscu.
@@ -64743,7 +64803,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82818 Zawieszka do wózka Kolorowa dżungla</nazwa>
 <cena>20.43</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783828181</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Egzotyczna zawieszka wypełniona sensorycznymi niespodziankami to pomysł na wesołą zabawę w poznawanie świata za pomocą zmysłów! Zawieszka wykonana jest z materiałów o zróżnicowanych fakturach, a elastyczna taśma, do której przyszyte są zabawki, rozciąga się, co ułatwia przymocowanie zawieszki w wybranym miejscu. Ponadto znajdziemy tu dwa rodzaje mocowań – zapinane kółeczka oraz wiązane tasiemki. Taśmę zdobi bezpieczne lustereczko, służące do samopoznania bobasa, miękki gryzaczek w kształcie kiści bananów, dzwoneczek w kształcie żyrafy i grzechoczące kółeczko przymocowane do materiałowego tukana.
@@ -64766,7 +64826,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82819 Zawieszka do wózka Kontrastowa krowa</nazwa>
 <cena>20.43</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783828198</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Kontrastowa zabawa w zasięgu ręki bobasa! Ta praktyczna zawieszka, wyposażona w elastyczną taśmę, dwa rodzaje mocowań (zapinane kółka oraz wiązane tasiemki) i cztery różne zabawki, sprawdzi się zarówno w domu, jak i na spacerze. Znajdziemy tu bezpieczne lusterko do samopoznania dziecka, materiałową głowę krówki z gryzaczkiem, dzwoneczek, a także twarde kształty, zawieszone na odczepianym kółeczku. Zabawka wykonana została z kontrastowych materiałów o zróżnicowanych fakturach, co stymulować będzie zmysły bobasa, rozwijając przy tym jego zdolności poznawcze.
@@ -75729,7 +75789,7 @@ Wiek: 6+</opis>
 <nazwa>BRICK TRICK 61546 Pałac Kultury</nazwa>
 <cena>96.36</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511615463</EAN>
 <grupa>TREFL/BRICK TRICK</grupa>
 <opis>Pałac Kultury i Nauki to z pewnością najbardziej rozpoznawalna konstrukcja w Polsce! Dzięki serii Brick Trick Podróże będziesz mieć okazję zbudować od podstaw replikę gmachu! Jasne, naturalne i wypalane w temperaturze 1000 stopni Celsjusza cegły znakomicie oddają charakter tego monumentalnego budynku. Mnóstwo zabawy zapewni ponad 470 prawdziwych cegieł. Co więcej, prawdziwe deseczki i elementy tekturowe, z których złożysz m.in. dach, zegary czy balustrady dopełniają konstrukcję. Po złożeniu Pałac mierzy ponad 40cm wysokości, zwieńczeniem jest charakterystyczna iglica. Zestaw zawiera aż 96% naturalnych składników!</opis>
@@ -75974,7 +76034,7 @@ Waga opakowania zbiorczego (kg): 2.364000</opis>
 <nazwa>BRICK TRICK 62050 Moro - Lotnisko wojskowe</nazwa>
 <cena>68.38</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511620504</EAN>
 <grupa>TREFL/BRICK TRICK</grupa>
 <opis>Wciel się w rolę budowniczego i wznieś lotnisko wojskowe, wykorzystując prawdziwe cegły oraz drewniane deseczki! Skorzystaj z gotowych planów budowy lub puść wodze wyobraźni i stwórz własną, niepowtarzalną konstrukcję, a następnie dodaj naturalny mech, kamienie i tekturowe elementy, aby udekorować otoczenie. To nie koniec zabawy! Klej rozpuszcza się w wodzie — rozpuść konstrukcję i buduj dalej, wykorzystując ponownie te same cegły!
@@ -79542,7 +79602,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 34/929 Smoczek uspokajający silikon 18m+ symetryczny BabiesBoo 2 szt biały</nazwa>
 <cena>8.00</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5901691889552</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający BabiesBoo zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Smoczek jest bezpieczny i łatwy do utrzymania w czystości – nowoczesne etui, które może służyć do przechowywania, ale też do szybkiej i wygodnej sterylizacji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty by zapewnić smoczkom higieniczną czystość. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Smoczek symetryczny Canpol babies 18m+ BabiesBoo jest trwały i odporny na odkształcenia. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek symetryczny Canpol babies 18m+ BabiesBoo dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku powyżej 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ BabiesBoo jest dostępny w dwóch wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem.
@@ -80741,7 +80801,7 @@ Wyprofilowany kształt butelki ułatwia prawidłowe trzymanie butelki podczas ka
 <nazwa>CANPOL 4/401 Plastikowy zestaw stołowy Cute Animals kotek różowy</nazwa>
 <cena>26.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691812680</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Plastikowy zestaw naczyń jest polecany dla dzieci powyżej 1 roku życia i zawiera: talerzyk, miseczkę, kubeczek i sztućce. Kolorowe nadruki zachęcą dziecko do jedzenia, a  zaokrąglone kształty sztućców nie podrażniają delikatnych dziąseł małego dziecka. Idealny do nauki samodzielnego jedzenia.
@@ -82653,7 +82713,7 @@ Transparentny - pozwala na kontrolowanie ilości płynów w bidonie.</opis>
 <nazwa>CANPOL 56/523 Zestaw naczyń 2 elem. Exotic Animals pink</nazwa>
 <cena>17.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407565156</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Idealnie sprawdzi się w czasie nauki samodzielnego jedzenia i poznawania nowych smaków. Jest lekki i poręczny, a szersze brzegi umożliwiają wygodne trzymanie naczyń podczas karmienia. Wesołe nadruki w modnych pastelowych kolorach i matowym wykończeniu z pewnością zaciekawią i zachęcą malucha do jedzenia. Zestaw składa się z talerzyka i miseczki, ale możesz rozbudować go o inne akcesoria z kolekcji EXOTIC ANIMALS. Wykonany jest z bezpiecznego, wolnego od BPA materiału. Przeznaczony dla dzieci w wieku 4m+.</opis>
@@ -83731,7 +83791,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/086 Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo</nazwa>
 <cena>20.10</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691870727</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Uroczy sensoryczny gryzak z grzechotką Canpol babies BabiesBoo to idealny pierwszy towarzysz do treningu chwytania, który zachęci do wesołej zabawy każdego Maluszka. Zabawka jest lekka i wygodna do chwytania i utrzymania w małych dziecięcych rączkach. Potrząsana wydaje delikatne, przyjemne dla ucha dźwięki. Miękki żółty gryzak z wypustkami masuje dziąsła łagodząc swędzenie od wyrzynających się zębów. Miły w dotyku materiał oraz przyjazna buzia pandy z kontrastowymi kolorami przyciąga uwagę dziecka, pobudzając zmysły i wspomagając ich rozwój – wzrok, słuch i dotyk. Doszyte kolorowe metki i ziarenka w łapkach dodatkowo stymulują sensorycznie dziecko. Gryzak sensoryczny z grzechotką Canpol babies BabiesBoo rozwija małą motorykę (chwytanie i potrząsanie), aktywizuje zmysł słuchu, wzroku i dotyku, a jako gryzak – przynosi ulgę w trudnym okresie ząbkowania. Gryzak sensoryczny z grzechotką Canpol babies to doskonały wybór dla najmłodszych dzieci.
@@ -84097,7 +84157,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 70/001 Sterylne torebki do przechowywania pokarmu</nazwa>
 <cena>10.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407700014</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Torebki Canpol babies służą są do przechowywania świeżego, ściągniętego z piersi pokarmu w lodówce lub zamrażarce. Każda torebka poddana została dokładnej sterylizacji, dzięki czemu umożliwia długotrwałe utrzymanie najwyższej jakości pokarmu. Konstrukcja torebki ułatwia postawienie jej w pozycji pionowej bez ryzyka rozlania, a samoprzylepne etykiety umożliwiają czytelne opisanie i późniejsze sprawdzenie terminu przydatności.
@@ -84279,7 +84339,7 @@ W opakowaniu 2 sztuki.</opis>
 <nazwa>CANPOL 74/016 Gryzak wodny Sowa</nazwa>
 <cena>4.40</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407740164</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny SOWA idealnie sprawdzi się w okresie ząbkowania, gdy dziąsła są rozpulchnione, bardzo swędzą i dziecko ma silną potrzebę gryzienia. Wykonany z miękkiego tworzywa, które dopasowuje się do dziąseł malucha. Różnorodne kształty i kolory stymulują rozwój koordynacji wzrokowo ruchowej dziecka. Gryzak jest lekki i poręczny, dzięki czemu maluchowi jest łatwiej go złapać i utrzymać w małych rączkach. Przeznaczony dla dzieci w wieku 0m+. Przed podaniem dziecku gryzak należy schłodzić w lodówce.</opis>
@@ -84290,7 +84350,7 @@ W opakowaniu 2 sztuki.</opis>
 <nazwa>CANPOL 74/018 Gryzak wodny z grzechotką Konik</nazwa>
 <cena>5.76</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407740188</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny KONIK idealnie sprawdzi się w okresie ząbkowania, gdy dziąsła swędzą i dziecko ma silną potrzebę gryzienia. Wykonany z miękkiego tworzywa, które dopasowuje się do dziąseł malucha. Różnorodne kształty i kolory stymulują rozwój koordynacji wzrokowo ruchowej dziecka. Ma wbudowaną grzechotkę, która z pewnością przykuje jego uwagę. Gryzak jest lekki i poręczny, dzięki czemu maluchowi jest łatwiej go złapać i utrzymać w małych rączkach. Przeznaczony dla dzieci w wieku 3m+. Przed podaniem dziecku gryzak należy schłodzić w lodówce.</opis>
@@ -85969,7 +86029,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 143-000-781 Przewijak miękki mały 50x70 Basic Elephant Family</nazwa>
 <cena>34.44</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672345222</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -86279,7 +86339,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-750 Przewijak twardy krótki 50x70 Ultra Light Fox with Balloon</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672341903</EAN>
 <grupa>CEBA/PRZEWIJAKI</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Ultra Light od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -87038,7 +87098,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 307-132-683 Składana mata do przewijania duża 50x80 Fluffy Puffy Stu</nazwa>
 <cena>16.61</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672337388</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Pielęgnuj swoje dziecko bezpiecznie i komfortowo w każdych okolicznościach. Decydując się na zakup naszej składanej maty masz pewność, że wybierasz produkt najwyższej jakości, który został przetestowany i jest wyrobem certyfikowanym.
@@ -87583,7 +87643,7 @@ Głębokość w opakowaniu mm
 <nazwa>CEBA 745-000-000 Mikroperła styropianowa granulat - wypełnienie do poduszek</nazwa>
 <cena>15.34</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672317656</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Komfort użytkowania Cebuszki zależny jest od indywidualnych upodobań – niektórzy wolą, gdy poduszka jest mocno wypełniona, inni, gdy ma nieco mniej mikroperły. Warto pamiętać, że poduszka naturalnie – w wyniku użytkowania – zmniejszać swoją objętość, gdyż mikroperła się ugniata. Można Cebuszkę wtedy samodzielnie uzupełnić wkładem (z dodatkowego opakowania mikroperły), dopasowując rozmiar do swoich oczekiwań. Co ważne, ugniatanie się Cebuszki jest równoległe z procesem wzrostu dziecka, a więc nawet mniejsza objętość nie powinna być wadą, a zaletą np. przy karmieniu czy opiece nad starszym dzieckiem.</opis>
@@ -94955,7 +95015,7 @@ Urocza lampka nocna i grzechotka Tranquil Whale to wspaniali pomocnicy i przyjac
 <nazwa>CLOUD B CLTT-8001 Muzyczny projektor z bajkami CLOUDBOX polsko-angielski</nazwa>
 <cena>177.59</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>3700552320522</EAN>
 <grupa>CLOUD B</grupa>
 <opis>CloudBox™ – Mój pierwszy projektor opowiadający bajki!
@@ -95449,7 +95509,7 @@ Kod EAN 5908214730001
 Wysokość opakowania 71 cm
 Długość opakowania 45 cm
 Szerokość opakowania 45 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910774-1.jpg https://marini.pl/b2b/pictures/5910774-2.jpg https://marini.pl/b2b/pictures/5910774-3.jpg https://marini.pl/b2b/pictures/5910774-4.jpg https://marini.pl/b2b/pictures/5910774-5.jpg https://marini.pl/b2b/pictures/5910774-6.jpg https://marini.pl/b2b/pictures/5910774-7. https://marini.pl/b2b/pictures/5910774-8.jpg https://marini.pl/b2b/pictures/5910774-9.jpg https://marini.pl/b2b/pictures/5910774-10.jpg</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5910774-1.jpg https://marini.pl/b2b/pictures/5910774-2.jpg https://marini.pl/b2b/pictures/5910774-3.jpg https://marini.pl/b2b/pictures/5910774-4.jpg https://marini.pl/b2b/pictures/5910774-5.jpg https://marini.pl/b2b/pictures/5910774-6.jpg https://marini.pl/b2b/pictures/5910774-7.jpg https://marini.pl/b2b/pictures/5910774-8.jpg https://marini.pl/b2b/pictures/5910774-9.jpg https://marini.pl/b2b/pictures/5910774-10.</zdjecia>
 </b2b>
 <b2b>
 <kod>5910797</kod>
@@ -98756,7 +98816,7 @@ Opisy są własnością firmy  Damizabawki.pl, Hutnicza 38, 81-061 Gdynia. Firma
 <nazwa>DANPOL Materac ECO KOMFORT 120x60x10 T18 DP/M</nazwa>
 <cena>87.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903003142867</EAN>
 <grupa>DANPOL</grupa>
 <opis>To jednostronnie użytkowy materac. Jako pokrowiec użyta została dzianina z właściwościami antybakteryjnymi, która uniemożliwia rozwój roztoczom utrzymując świeżość. Wypełnienie materaca to połączenie płyty z orzecha kokosowego ze wzmacnianą pianką poliuretanowa – ECO KOMFORT lub formatką bonelową – ECO KOMFORT VERNUM. Porowata struktura formatki kokosowej pozwala na swobodną cyrkulację powietrza co sprawia, że nie zatrzymuje wilgoci na powierzchni materaca. Dzięki łączeniu włókien kokosa naturalnym lateksem materac odporny jest na jakiekolwiek uszkodzenia powstałe pod wpływem długotrwałego nacisku.
@@ -98768,7 +98828,7 @@ Opisy są własnością firmy  Damizabawki.pl, Hutnicza 38, 81-061 Gdynia. Firma
 <nazwa>DANPOL Materac ECO KOMFORT 120x60x10 T18DCP</nazwa>
 <cena>90.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900000028248</EAN>
 <grupa>DANPOL</grupa>
 <opis>To jednostronnie użytkowy materac. Jako pokrowiec użyta została tkanina KASZMIR który  jest jednym z najbardziej ekskluzywnych surowców stosowanych do produkcji pokrowców na materace charakteryzującym się znakomitą izolacyjnością cieplną. Pokrowiec jest miły i delikatny w dotyku. Nadaje się do prania w temperaturze do 60°C, co znacznie poprawia właściwości antyalergiczne materaca.  Wypełnienie materaca to połączenie płyty z orzecha kokosowego ze wzmacnianą pianką poliuretanowa – ECO KOMFORT lub formatką bonelową – ECO KOMFORT VERNUM. Porowata struktura formatki kokosowej pozwala na swobodną cyrkulację powietrza co sprawia, że nie zatrzymuje wilgoci na powierzchni materaca. Dzięki łączeniu włókien kokosa naturalnym lateksem materac odporny jest na jakiekolwiek uszkodzenia powstałe pod wpływem długotrwałego nacisku.</opis>
@@ -98796,7 +98856,7 @@ stosowany w rehabilitacji leczniczej</opis>
 <nazwa>DANPOL Materac gryko-kokos 120x60x9 T18</nazwa>
 <cena>92.20</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5907645897000</EAN>
 <grupa>DANPOL</grupa>
 <opis>GRYKO-KOKO jest materacem dwustronnym. Strona gryczana jest jedynym naturalnym podkładem do spania. Zawarte w łusce taniny uniemożliwiają rozwój roztoczy i bakterii w materacu i na powierzchni skóry. Dzięki układowi łusek przepływ powietrza jest łatwiejszy, przez co wykazuje zdolności wentylacyjne i kontroluje wilgotność ciała Strona kokosowa stanowi uzupełnienie właściwości zdrowotnych materaca. Mata kokosowa dzięki swojej strukturze pozwala na swobodny przepływ powietrza. Dzięki łączeniu włókien kokosa naturalnym lateksem materac odporny jest na jakiekolwiek uszkodzenia powstałe pod wpływem nacisku. Materac dostępny z wypełnieniem piankowym. Nie zależnie, na której ze stron śpi nasze dziecko, mamy pewność, że zawsze śpi zdrowo i bezpiecznie.
@@ -98809,7 +98869,7 @@ stosowany w rehabilitacji leczniczej</opis>
 <nazwa>DANPOL Materac gryko-kokos 140x70x9 T18</nazwa>
 <cena>117.28</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5907645897017</EAN>
 <grupa>DANPOL</grupa>
 <opis>GRYKO-KOKOS jest materacem dwustronnym. Strona gryczana jest jedynym naturalnym podkładem do spania. Zawarte w łusce taniny uniemożliwiają rozwój roztoczy i bakterii w materacu i na powierzchni skóry. Dzięki układowi łusek przepływ powietrza jest łatwiejszy, przez co wykazuje zdolności wentylacyjne i kontroluje wilgotność ciała Strona kokosowa stanowi uzupełnienie właściwości zdrowotnych materaca. Mata kokosowa dzięki swojej strukturze pozwala na swobodny przepływ powietrza. Dzięki łączeniu włókien kokosa naturalnym lateksem materac odporny jest na jakiekolwiek uszkodzenia powstałe pod wpływem nacisku. Materac dostępny z wypełnieniem piankowym (A) lub sprężynowym (B). Nie zależnie, na której ze stron śpi nasze dziecko, mamy pewność, że zawsze śpi zdrowo i</opis>
@@ -98839,9 +98899,9 @@ stosowany w rehabilitacji leczniczej</opis>
 <b2b>
 <kod>4646</kod>
 <nazwa>DANPOL Materac gryko-sen 120x60x7 T18B</nazwa>
-<cena>68.13</cena>
+<cena>69.61</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5907645897024</EAN>
 <grupa>DANPOL</grupa>
 <opis>Jednostronny materac GRYKO-SEN wykorzystuje właściwości łuski gryczanej, która jest jedynym 100% naturalnym podkładem do spania dostępnym na rynku. Zawarte w łusce taniny uniemożliwiają rozwój roztoczy i bakterii w materacu i na powierzchni skóry. Dzięki układowi łusek przepływ powietrza jest łatwiejszy, przez co wykazuje zdolności wentylacyjne i kontroluje wilgotność ciała. Łuski gryki podczas poruszania się na materacu powodują delikatny masaż skóry i tkanki podskórnej. Wkład materaca został wykonany z odpowiednio dobranej pianki, która zapewnia prawidłowy rozwój kostny dziecka.</opis>
@@ -98863,7 +98923,7 @@ stosowany w rehabilitacji leczniczej</opis>
 <nazwa>DANPOL Materac kokos 120x60x6 KOALA</nazwa>
 <cena>100.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5907645897086</EAN>
 <grupa>DANPOL</grupa>
 <opis>Materac kokosowy KOALA wykonany jest w stu procentach ze sprasowanych włókien orzecha kokosowego połączone naturalnym lateksem. Porowata struktura formatki kokosowej pozwala na swobodną cyrkulację powietrza co sprawia, że nie zatrzymuje wilgoci na powierzchni materaca. Dzięki łączeniu włókien kokosa naturalnym lateksem materac odporny jest na jakiekolwiek uszkodzenia powstałe pod wpływem długotrwałego nacisku.</opis>
@@ -99097,7 +99157,7 @@ aby stworzyć bezpieczne, niezawodne, a jednocześnie wysoce skuteczne, hipoaler
 <nazwa>Dr.Brown AC247 Pojemnik na mleko w proszku szary</nazwa>
 <cena>17.15</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>072239331439</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis/>
@@ -99125,7 +99185,7 @@ aby stworzyć bezpieczne, niezawodne, a jednocześnie wysoce skuteczne, hipoaler
 <b2b>
 <kod>13226</kod>
 <nazwa>Dr.Browns 292 Smoczek silikonowy do butelki Standard dla wcześniaków 2-pak</nazwa>
-<cena>22.83</cena>
+<cena>22.82</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
 <EAN>072239304860</EAN>
@@ -99284,7 +99344,7 @@ pojemnika;
 <nazwa>Dr.Browns AC039 Pojemnik na mleko w proszku niebieski</nazwa>
 <cena>17.15</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>072239302651</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis>Pojemnik na mleko w proszku.
@@ -99505,7 +99565,7 @@ szczotka do czyszczenia butelek i smoczków.</opis>
 <b2b>
 <kod>776687</kod>
 <nazwa>Dr.Browns HG060 Szczoteczka do zębów dla niemowląt i małych dzieci Żyrafa</nazwa>
-<cena>18.43</cena>
+<cena>18.42</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>072239316764</EAN>
@@ -100533,9 +100593,9 @@ Idealne do masażu podrażnionych dziąseł, w łatwy sposób docierają do prze
 <b2b>
 <kod>5914232</kod>
 <nazwa>Dr.Browns TF005 Silikonowy gryzak do podawania pokarmu różowy</nazwa>
-<cena>0.00</cena>
+<cena>18.99</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>072239315767</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis/>
@@ -100543,9 +100603,9 @@ Idealne do masażu podrażnionych dziąseł, w łatwy sposób docierają do prze
 <b2b>
 <kod>5914233</kod>
 <nazwa>Dr.Browns TF006 Silikonowy gryzak do podawania pokarmu zielony</nazwa>
-<cena>0.00</cena>
+<cena>18.99</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>072239315774</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis/>
@@ -100553,9 +100613,9 @@ Idealne do masażu podrażnionych dziąseł, w łatwy sposób docierają do prze
 <b2b>
 <kod>5914234</kod>
 <nazwa>Dr.Browns TF007 Silikonowy gryzak do podawania pokarmu szary</nazwa>
-<cena>0.00</cena>
+<cena>18.99</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>072239315781</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis/>
@@ -100563,9 +100623,9 @@ Idealne do masażu podrażnionych dziąseł, w łatwy sposób docierają do prze
 <b2b>
 <kod>5914235</kod>
 <nazwa>Dr.Browns TF010 Miseczka z łyżeczką do karmienia w podróży</nazwa>
-<cena>0.00</cena>
+<cena>29.13</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>072239316474</EAN>
 <grupa>DR. BROWN'S/NACZYNIA I SZTUĆCE</grupa>
 <opis/>
@@ -100621,9 +100681,9 @@ sposób oraz danie możliwości samodzielnego spożycia przez dziecko.
 <b2b>
 <kod>5914228</kod>
 <nazwa>Dr.Browns WB02640 Zestaw startowy szeroka szyjka Options+ 1+1</nazwa>
-<cena>0.00</cena>
+<cena>87.71</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>072239330357</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/ZESTAWY</grupa>
 <opis/>
@@ -100715,9 +100775,9 @@ instrukcja.</opis>
 <b2b>
 <kod>5914226</kod>
 <nazwa>Dr.Browns WB51008 Butelka szeroka szyjka 150ml Options+Dżungla</nazwa>
-<cena>0.00</cena>
+<cena>44.08</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>072239331071</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/SZEROKIE</grupa>
 <opis/>
@@ -100725,9 +100785,9 @@ instrukcja.</opis>
 <b2b>
 <kod>5914227</kod>
 <nazwa>Dr.Browns WB51009 Butelka szeroka szyjka 150ml Options+Las</nazwa>
-<cena>0.00</cena>
+<cena>44.08</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>072239331088</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/SZEROKIE</grupa>
 <opis/>
@@ -100861,9 +100921,9 @@ system odpowietrzający w smoczku tworzy odpowiednią szybkość przepływu</opi
 <b2b>
 <kod>5914231</kod>
 <nazwa>Dr.Browns WB91019 Butelka szeroka szyjka 270ml Options+ ze smoczkiem 3m+ dekor żyrafa</nazwa>
-<cena>0.00</cena>
+<cena>45.53</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>072239328781</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/SZEROKIE</grupa>
 <opis/>
@@ -100979,9 +101039,9 @@ Butelka posiada nowy kształt smoczka, przypominający pierś matki oraz innowac
 <b2b>
 <kod>5914229</kod>
 <nazwa>Dr.Browns WB91801 Butelka szeroka szyjka 270ml Options+ różowa dekor słoneczniki</nazwa>
-<cena>0.00</cena>
+<cena>44.35</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>072239325476</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/SZEROKIE</grupa>
 <opis/>
@@ -100989,9 +101049,9 @@ Butelka posiada nowy kształt smoczka, przypominający pierś matki oraz innowac
 <b2b>
 <kod>5914230</kod>
 <nazwa>Dr.Browns WB91802 Butelka szeroka szyjka 270ml Options+ niebieska dekor morski</nazwa>
-<cena>0.00</cena>
+<cena>44.35</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>072239325483</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/SZEROKIE</grupa>
 <opis/>
@@ -103420,7 +103480,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 24752 Traktor Farmer</nazwa>
 <cena>94.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>661148247520</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Traktor samodzielnie jeździ, wydając realistyczny odgłos, zapalają się w nim światełka, a farmer śpiewa wesołą piosenkę. Na przyczepce znajduje się 5 zwierzątek, które nagrodzą dzieci realistycznymi odgłosami bądź zabawną rymowanką za każdym razem, gdy odgadną prawidłowy kształt i umieszczą je w odpowiednim miejscu.
@@ -104456,7 +104516,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30826 Kostka kosmiczna zabawa</nazwa>
 <cena>55.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692308265</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis/>
@@ -107634,7 +107694,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO EBONY BLACK</nazwa>
 <cena>950.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5908214739400</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -125323,6 +125383,16 @@ Do wyboru dwa kolory: biały lub szary</opis>
 <zdjecia>https://marini.pl/b2b/pictures/760318-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914255</kod>
+<nazwa>FISHER PRICE HTW91 Aktywizujący Jamnik</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>194735199181</EAN>
+<grupa>FISHER PRICE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5909490</kod>
 <nazwa>Fotelik samochodowy siedzisko Lionelo Luuk i-Size Black</nazwa>
 <cena>82.19</cena>
@@ -134969,7 +135039,7 @@ W opakowaniu znajdują się dwa produkty GIOmum Line Handy.</opis>
 <nazwa>INNOGIO GIO-356-SP-SI21 Silikonowa wkładka 21 mm do GIO-356</nazwa>
 <cena>13.65</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5906630333226</EAN>
 <grupa>INNOGIO</grupa>
 <opis>Wkładka do laktatorów GIO-356 i GIO-356I zmniejszająca średnicę otworu z 24 mm do 21 mm. Wykonana jest z wysokiej jakości silikonu, który jest przyjazny dla skóry i nie zawiera BPA.</opis>
@@ -135059,7 +135129,7 @@ Torebka do przechowywania laktatora</opis>
 <nazwa>INNOGIO GIO-357I GIOmum Line Comfort Laktator muszlowy pojedynczy z pilotem</nazwa>
 <cena>230.73</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5906630333363</EAN>
 <grupa>INNOGIO</grupa>
 <opis>Laktator GIOmum Line Comfort jest prosty w obsłudze i wygodny w użyciu. Posiada duży wyświetlacz LED, który w czytelny sposób informuje o wybranym trybie pracy i wybranej siły ssania. Dla wygody użytkowania do laktatora dołączony jest pilot zdalnego sterowania i praktyczna torba do przechowywania.
@@ -136341,7 +136411,7 @@ Zasilanie: kabel USB, Napięcie/moc znamionowa DC 3,7 V–0,5 W?</opis>
 <nazwa>INNOGIO GIO-460GIRAFFE Soniczna szczoteczka</nazwa>
 <cena>52.37</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5904405021798</EAN>
 <grupa>INNOGIO</grupa>
 <opis>GIOsonic Giraffe soniczna szczoteczka dla dzieci
@@ -139108,7 +139178,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA PAW PATROL Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>11.22</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396092899</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -139168,7 +139238,7 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER IGOR BAMBI Podest dziecięcy dwustopniowy z funkcją antypoślizgową nordic white</nazwa>
 <cena>27.12</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396092998</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podnóżek dla dziecka zapewni maluchowi wygodę i ułatwi mu korzystanie z umywalki lub toalety. Doskonale sprawdzi się również w codziennym użytkowaniu, gdzie dziecko potrzebuje bezpiecznego podwyższenia.
@@ -139619,7 +139689,7 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <nazwa>KEEEPER TOMEK FUNNY FARM Podest z funkcją antypoślizgową nordic green</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396083279</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis/>
@@ -147395,7 +147465,7 @@ Waga: 6 kg</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 i-Size 76-150cm BLACK 8kg</nazwa>
 <cena>219.95</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533923120</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>Fotelik samochodowy COMFORT UP i-Size 76-150 cm Kinderkraft
@@ -158540,7 +158610,7 @@ Kod EAN: 5901912245877</opis>
 <nazwa>KLUPŚ Komoda PAULINE grafit-dąb</nazwa>
 <cena>546.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912245327</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Komoda PAULINE to przede wszystkim nowoczesność. Głębię grafitu przełamuje drewno sosnowe, które uzupełnia zestaw o ciepły akcent kolorystyczny.
@@ -159706,7 +159776,7 @@ Rozmiar zewnętrzny (cm):-54 |9 •73
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 biały</nazwa>
 <cena>96.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912241084</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Opis produktu:
@@ -159897,7 +159967,7 @@ Płyta meblowa</opis>
 <nazwa>KLUPŚ Regał SOFIE buk-biały</nazwa>
 <cena>551.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912244269</EAN>
 <grupa>KLUPŚ/MEBLE/REGAŁY</grupa>
 <opis>Regał Sofie
@@ -163947,7 +164017,7 @@ Specyfikacja
 <nazwa>LIONELO Jeździk Sammy Pink Rose</nazwa>
 <cena>89.76</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903771704939</EAN>
 <grupa>LIONELO/POJAZDY/JEŻDZIKI</grupa>
 <opis>Jeździk Lionelo Sammy - rozwój dziecka poprzez zabawę
@@ -169756,7 +169826,7 @@ płyta meblowa</opis>
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę buk</nazwa>
 <cena>65.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912245594</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Nakładka do przewijania to przydatny dodatek do pokoju każdego dziecka. Posiada zabezpieczenia, które powodują, że bez obaw możesz zająć się pielęgnacją maluszka.
@@ -174949,7 +175019,7 @@ Pamiętaj, aby po wrzuceniu pieluszki wrócić rączką do pozycji pierwotnej, d
 <nazwa>MAGIC MA-C110CO Kosz na zużyte pieluchy Majestic kobalt na 25 pieluch</nazwa>
 <cena>82.07</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>628123810193</EAN>
 <grupa>MARKO</grupa>
 <opis>Kosz na zużyte pieluchy
@@ -175404,7 +175474,7 @@ czas pracy : 45 min</opis>
 <nazwa>MAISTO 82334 RC Premium Ferrari</nazwa>
 <cena>63.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>090159823346</EAN>
 <grupa>MAISTO</grupa>
 <opis>Ferrari SF90 Stradale w kolorze czerwonym to model auta w skali 1:24, sterowany pilotem.
@@ -181585,84 +181655,6 @@ Grubość materaca: 2 cm, materiał: poliester z płytą pilśniową</opis>
 <zdjecia>https://marini.pl/b2b/pictures/781227-1.jpg https://marini.pl/b2b/pictures/781227-2.jpg https://marini.pl/b2b/pictures/781227-3.jpg https://marini.pl/b2b/pictures/781227-4.jpg https://marini.pl/b2b/pictures/781227-5.jpg https://marini.pl/b2b/pictures/781227-6.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>790282</kod>
-<nazwa>MARKO CC843633 Śpiworek COMFI-SNUG 2w1 różowy</nazwa>
-<cena>68.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5060295843633</EAN>
-<grupa>MARKO</grupa>
-<opis>Uniwersalny śpiworek i wkładka do wózka 2w1.
-
-Delikatnie pikowany i wypełniony miękkim, delikatnym puchem zapewni dziecku maksimum wygody i ciepła podczas chłodniejszych dni zapewniając jednocześnie komfortowe podróżowanie.
-Śpiworek Comfi-Snug jest bardzo lekki i z łatwością mieści się w niewielkiej torbie zajmując bardzo mało miejsca - kompaktowy i zawsze pod ręką.
-
-Cechy:
-uniwersalny - śpiworek i wkładka do wózka w jednym
-delikatnie pikowany
-Thermo-Technology - technologia idealnie utrzymująca ciepło
-wypełniony miękkim, delikatnym puchem
-super lekki
-z łatwością mieści się w niewielkiej torbie
-kompaktowy, zawsze pod ręką
-możliwość prania w pralce w 30°C
-możliwość dopasowania do prawie każdego wózka
-w zestawie pokrowiec/worek na śpiworek</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790282-1.jpg https://marini.pl/b2b/pictures/790282-2.jpg https://marini.pl/b2b/pictures/790282-3.jpg https://marini.pl/b2b/pictures/790282-4.jpg https://marini.pl/b2b/pictures/790282-5.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790281</kod>
-<nazwa>MARKO CC843640 Śpiworek COMFI-SNUG 2w1 jasny szary</nazwa>
-<cena>68.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5060295843640</EAN>
-<grupa>MARKO</grupa>
-<opis>Uniwersalny śpiworek i wkładka do wózka 2w1.
-
-Delikatnie pikowany i wypełniony miękkim, delikatnym puchem zapewni dziecku maksimum wygody i ciepła podczas chłodniejszych dni zapewniając jednocześnie komfortowe podróżowanie.
-Śpiworek Comfi-Snug jest bardzo lekki i z łatwością mieści się w niewielkiej torbie zajmując bardzo mało miejsca - kompaktowy i zawsze pod ręką.
-
-Cechy:
-uniwersalny - śpiworek i wkładka do wózka w jednym
-delikatnie pikowany
-Thermo-Technology - technologia idealnie utrzymująca ciepło
-wypełniony miękkim, delikatnym puchem
-super lekki
-z łatwością mieści się w niewielkiej torbie
-kompaktowy, zawsze pod ręką
-możliwość prania w pralce w 30°C
-możliwość dopasowania do prawie każdego wózka
-w zestawie pokrowiec/worek na śpiworek</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790281-1.jpg https://marini.pl/b2b/pictures/790281-2.jpg https://marini.pl/b2b/pictures/790281-3.jpg https://marini.pl/b2b/pictures/790281-4.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790283</kod>
-<nazwa>MARKO CC843657 Śpiworek COMFI-SNUG 2w1 granatowy</nazwa>
-<cena>68.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5060295843657</EAN>
-<grupa>MARKO</grupa>
-<opis>Uniwersalny śpiworek i wkładka do wózka 2w1.
-
-Delikatnie pikowany i wypełniony miękkim, delikatnym puchem zapewni dziecku maksimum wygody i ciepła podczas chłodniejszych dni zapewniając jednocześnie komfortowe podróżowanie.
-Śpiworek Comfi-Snug jest bardzo lekki i z łatwością mieści się w niewielkiej torbie zajmując bardzo mało miejsca - kompaktowy i zawsze pod ręką.
-
-Cechy:
-uniwersalny - śpiworek i wkładka do wózka w jednym
-delikatnie pikowany
-Thermo-Technology - technologia idealnie utrzymująca ciepło
-wypełniony miękkim, delikatnym puchem
-super lekki
-z łatwością mieści się w niewielkiej torbie
-kompaktowy, zawsze pod ręką
-możliwość prania w pralce w 30°C
-możliwość dopasowania do prawie każdego wózka
-w zestawie pokrowiec/worek na śpiworek</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790283-1.jpg https://marini.pl/b2b/pictures/790283-2.jpg https://marini.pl/b2b/pictures/790283-3.jpg https://marini.pl/b2b/pictures/790283-4.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>790278</kod>
 <nazwa>MARKO CC844210 Śpiwór do nosidełka/wózka fuksja</nazwa>
 <cena>64.57</cena>
@@ -184024,7 +184016,7 @@ MARY'S LAMPKA NOCNA LED JABŁKO  ta stylowa lampka „Jabłko” to idealny wyb�
 </b2b>
 <b2b>
 <kod>5911199</kod>
-<nazwa>MARY'S MW61097 Lampka nocna led Kotek</nazwa>
+<nazwa>MARY'S MW61097 Lampka nocna led Kotek*</nazwa>
 <cena>31.25</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -184081,7 +184073,7 @@ Lampka Choinka RGB to nie tylko źródło światła, ale także dekoracyjny akce
 <nazwa>MARY'S MW61108 Lampka nocna led Kapibara Florystka</nazwa>
 <cena>35.46</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5906555611089</EAN>
 <grupa>MARY'S</grupa>
 <opis>MARY'S LAMPKA NOCNA LED KAPIBARA FLORYSTKA RGB to połączenie unikalnego designu, funkcjonalności i nowoczesnych technologii. Urocza lampka nocna w kształcie kapibary z efektem wielokolorowego światła RGB wprowadza wyjątkowy klimat do każdego wnętrza. Idealna do sypialni, pokoju dziecięcego czy jako oryginalny element dekoracyjny w salonie.
@@ -192140,7 +192132,7 @@ Waga z opakowaniem: 10,6 kg</opis>
 <nazwa>MILLY MALLY 2596 Pojazd JAKE NATURAL</nazwa>
 <cena>124.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761124705</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Rowerek JAKE jest idealnym rozwiązaniem dla maluszków, które dopiero rozpoczynają naukę jazdy na rowerku i jeszcze nie potrafią utrzymać równowagi na dwóch kółkach, ale chcą już samodzielnie się przemieszczać. Szerokie rozstawienie kółek zapewni niezwykłą stabilność, bezpieczeństwo i komfort jazdy zarówno w domu jak i na zewnątrz, np. w ogrodzie, a lekka i jednocześnie wytrzymała konstrukcja, sprawdzi się w każdych warunkach. Natomiast piankowe koła zapewniają komfort toczenia i nie męczą naszego kierowcy.
@@ -197401,7 +197393,7 @@ Waga – 2,7 kg</opis>
 <cena>87.00</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
-<EAN>7290115246605</EAN>
+<EAN>5061047480991</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Rowerek trójkołowy Sweetie od marki Qplay to idealna propozycja dla dzieci rozpoczynających przygodę z rowerkiem biegowych. Doskonały wstęp do rowerka biegowego – zastosowanie podwójnych kółeczek które gwarantują stabilność oraz wspomagają naukę jazdy. Rowerek Sweetie łączy w sobie najwyższą jakość z wyjątkowym designem. Sweetie posiada tylne podwójne kółeczka – łącznie jest ich 3, zapewniają one wyjątkową stabilność, opony wykonane z pianki EVA są ciche i pozwalają na używanie pojazdu zarówno w domu jak i na zewnątrz. Regulowana kierownica i siodełko pozwala na dopasowanie pojazdu do wzrostu dziecka. Opływowy kształt zmniejsza opór powietrza co przekłada się na większą prędkość jazdy. Zgodnie z zasadami fizyki im szybciej porusza się pojazd / rowerek tym łatwiej zachować pionową pozycję. Miękkie i wyprofilowane siodełko oraz antypoślizgowe rączki zapewniają komfort i wygodę użytkowania. Stalowa konstrukcja ramy oraz układu kierownicy – pozwala korzystać z roweru dzieciom do wagi 20 kg. Rama Sweetie została obudowana solidnym płatkowym kadłubem o najwyższej jakości, który dodaje mu jednocześnie oryginalnego designu.
 Niewielkie rozmiary i niska waga rowerka trójkołowego sprzyjają podróżom wraz z nim, zarówno dużym jak i małym.
@@ -212649,9 +212641,9 @@ www.pminvestment.pl/manual/mercedes_c_class_manual.pdf</opis>
 <b2b>
 <kod>5911701</kod>
 <nazwa>MILLY MALLY 6111 Pojazd z rączką Mercedes C-Class Deluxe Black</nazwa>
-<cena>186.77</cena>
+<cena>168.02</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901761127249</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Pojazd z rączką Mercedes C-Class to elegancka i niezwykle realistyczna zabawka, która zapewnia dziecku nie tylko mnóstwo frajdy, ale także wspiera jego rozwój. Zaprojektowany z myślą o najmłodszych fanach motoryzacji, ten miniaturowy Mercedes przyciąga uwagę swoim wyglądem oraz dbałością o detale. Dzieci mogą poczuć się jak prawdziwi kierowcy, odkrywając przy tym radość z pierwszych „przejażdżek” i eksplorowania otoczenia. To wyjątkowe połączenie klasycznego stylu, wygody i funkcjonalności, które szybko stanie się ulubioną zabawką każdego malucha.
@@ -214116,6 +214108,16 @@ Podkowy 18
 04-937 Warszawa, Polska
 email: info@pminvestment.pl</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911918-1.jpg https://marini.pl/b2b/pictures/5911918-2.jpg https://marini.pl/b2b/pictures/5911918-3.jpg https://marini.pl/b2b/pictures/5911918-4.jpg https://marini.pl/b2b/pictures/5911918-5.jpg https://marini.pl/b2b/pictures/5911918-6.jpg https://marini.pl/b2b/pictures/5911918-7.jpg https://marini.pl/b2b/pictures/5911918-8.jpg https://marini.pl/b2b/pictures/5911918-9.jpg https://marini.pl/b2b/pictures/5911918-10.jpg https://marini.pl/b2b/pictures/5911918-11.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914256</kod>
+<nazwa>MILLY MALLY 6183 Rowerek trójkołowy Bobby beige</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907090700153</EAN>
+<grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5911678</kod>
@@ -221000,7 +221002,7 @@ www.pminvestment.pl/manual/qplay_sema_evo_manual.pdf</opis>
 <nazwa>MILLY MALLY 6310 Qplay Hulajnoga Sema Evo 3w1 Coral Pink</nazwa>
 <cena>182.41</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047482049</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Hulajnoga Sema Evo 3w1
@@ -243514,7 +243516,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM001-G-07 Rajstopy micro 40 den czerwone 128/134</nazwa>
 <cena>5.22</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905204300244</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -243965,7 +243967,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM005-G-02 Rajstopy micro 100 den czarne 3D 128/134</nazwa>
 <cena>9.75</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204300817</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -244567,7 +244569,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RN034-G-01 Rękawiczki narciarskie 1P dziewczęce serca 12</nazwa>
 <cena>11.85</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905204365076</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -244589,7 +244591,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RN039-B-01 Rękawiczki narciarskie 1P chłopięce zwierzak 14</nazwa>
 <cena>16.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905204365120</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -244629,22 +244631,11 @@ Pakowane po 3szt.
 <zdjecia>https://marini.pl/b2b/pictures/5909985-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909990</kod>
-<nazwa>NOVITI RN064-B-01 Rękawiczki narciarskie 5P chłopięce dinozaury 12</nazwa>
-<cena>17.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905204365373</EAN>
-<grupa>NOVITI/RĘKAWICZKI</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5909990-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5909991</kod>
 <nazwa>NOVITI RN065-B-01 Rękawiczki narciarskie 5P chłopięce auta 14</nazwa>
 <cena>17.45</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905204365380</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -244677,7 +244668,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RZ049-G-01 Rękawiczki dziewczęce 1P puszyste pojedyncze kotek 12</nazwa>
 <cena>6.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5905204370643</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -244721,7 +244712,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RZ076-G-01 Rękawiczki dziewczęce 1P akryl sznurek podwójne 10</nazwa>
 <cena>7.62</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907220816921</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -244731,7 +244722,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RZ077-G-01 Rękawiczki dziewczęce 1P akryl sznurek pojedyncze 14</nazwa>
 <cena>6.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907220816969</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -244741,7 +244732,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RZ081-G-01 Rękawiczki dziewczęce 5P akryl pojedyncze miś TS 14</nazwa>
 <cena>5.33</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907220817058</EAN>
 <grupa>NOVITI/RĘKAWICZKI</grupa>
 <opis/>
@@ -246580,7 +246571,7 @@ Niania elektroniczna NUK Eco Control Audio Display 530D posiada też inne przyda
 <nazwa>NUK 713242 FC+ Smoczek 2 M na butelkę lateksowy 2szt</nazwa>
 <cena>15.80</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4008600208693</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Smoczki do butelki NUK First Choice+:
@@ -248804,7 +248795,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415367 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Celestial Planets</nazwa>
 <cena>20.15</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8596202016984</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -250909,7 +250900,7 @@ Cechy:
 - Rozmiar: 16 x 34 cm
 - Można prać ręcznie w temperaturze 30°.
 </opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913679-1.jpg https://marini.pl/b2b/pictures/5913679-2.jpg https://marini.pl/b2b/pictures/5913679-3.jpg https://marini.pl/b2b/pictures/5913679-4.png</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5913679-1.jpg https://marini.pl/b2b/pictures/5913679-2.jpg https://marini.pl/b2b/pictures/5913679-3.png https://marini.pl/b2b/pictures/5913679-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913682</kod>
@@ -260115,7 +260106,7 @@ Zasilanie:
 <nazwa>SMILY PLAY 0720 Dogonię cię Biedroneczko</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4895038543423</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Kolorowa biedronka Smily Play to wesoła zabawka dla dzieciaków w wieku powyżej 6 miesiąca życia. Biedroneczka ucieka, kiedy dziecko naciśnie na jej grzbiet – specjalny mechanizm wprawia ją w ruch. Grzechocze i wesoło gra.
@@ -260327,7 +260318,7 @@ Długość stolika : 37,5 cm</opis>
 <nazwa>SMILY PLAY 0845 Karuzela muzyczna</nazwa>
 <cena>89.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4895038508453</EAN>
 <grupa>SMILY PLAY/KARUZELKI</grupa>
 <opis>Karuzela dla niemowlaka to zabawka typu 2 w 1: muzyczna karuzelka i projektor z rzutnikiem. Karuzela obraca się, grając spokojne melodie. Materiałowe zwierzątka powoli przesuwają się. Projektor wyświetla na suficie obrazki, których kolory powoli zmieniają się. Zabawka pomaga dziecku zasnąć . Łagodne światło oraz delikatne dźwięki pomogą uspokoić naszego maluszka.
@@ -260626,7 +260617,7 @@ Dedykowana dla dzieci w wieku niemowlęcym, doskonała już od narodzin.</opis>
 <nazwa>SMILY PLAY 250303 Książeczka edukacyjna</nazwa>
 <cena>56.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4895038553866</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Edukacyjna książeczka elektroniczna marki Winfun, przeznaczona dla dzieci od 12 miesiąca życia. Idealna do nauki pierwszych słów w dwóch językach angielskim i hiszpańskim. Zabawka wspiera rozwój mowy, pamięci oraz umiejętności poznawczych.
@@ -261772,7 +261763,7 @@ Sterowany samolot marki Hola (model HE999500) to innowacyjna zabawka, która ł�
 <nazwa>SMILY PLAY SN807 Ciasto - masa cukiernia</nazwa>
 <cena>18.53</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375848071</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>CIASTO-MASA CUKIERNIA SN807 EAN: 5905375848071 Wiek: 36m+ Zestaw ciasto-masy plastycznej. Dzięki naszej masie plastycznej możesz zrealizować nawet najbardziej szalone pomysły! Zabawa fantastycznie rozwija wyobraźnię i kreatywność. Wpływa też pozytywnie na koordynację ruchową i motorykę. W zestawie: ciastolina – 4 kolory 1 składana patera 4 foremki do ciastek 1 kubeczek 2 talerzyki 1 nożyk 1 walec Wyciskarka 1 widelczyk 1 szczypce</opis>
@@ -263529,7 +263520,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83976 Książeczka Wodne zabawy</nazwa>
 <cena>6.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375839765</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Mięciutka książeczka do kąpieli z motywem zwierzęcym. Podczas naciskania wydaje piszczący dźwięk.
@@ -264024,7 +264015,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP84372 Lalka Julka Bobas (folia)</nazwa>
 <cena>29.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905375843724</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>LALKA BOBAS SMILY PLAY Lalka Julka to idealna towarzyszka spacerów dla małej opiekunki.Włóż ją do wózka, zabierz na spacer, zaproś na herbatkę. Przytul i baw się razem ze swoim bobaskiem. Lalka i jej ubrania wykonane są z wysokiej jakości materiałów. Dobrze dopracowane detale. Dziewczynka, która zaopiekuje się bobaskiem nauczy się: • Opiekować inną osobą • Tworzyć i pielęgnować więzi Razem z Julką dziecko nauczy się angielskiego, ponad 60 słow angielskich i polskich. Zaśpiewa trzy piosenki i wysłucha dwóch bajeczek: Złotowłosa i 3misie, Czerwony Kapturek. SPECYFIKACJA: • SP84372 AN01 • EAN 5905375843724 • wym. • baterie 3x AG13 • wiek 2+ • marka Smily Play</opis>
@@ -265345,7 +265336,7 @@ Bezpieczeństwo: Wykonana z bezpiecznych i trwałych materiałów, lalka jest od
 <nazwa>SMILY PLAY SP85299 Książka magnetyczna - puzzle zwierzęta</nazwa>
 <cena>18.81</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375852993</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis/>
@@ -265411,7 +265402,7 @@ Bezpieczeństwo: Wykonana z bezpiecznych i trwałych materiałów, lalka jest od
 <nazwa>SMILY PLAY SP98275 Smart Tablet Zdobywam wiedzę o zwierzętach</nazwa>
 <cena>39.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908288982757</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>
@@ -266679,7 +266670,7 @@ Opis produktu:
 <nazwa>TEGA DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5902963071682</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>• Fukcjonalna i wygodna wanienka o anatomicznym kształcie.
@@ -267754,7 +267745,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA FF-004-112 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.zielony</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963014993</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>• Funkcjonalna i wygodna wanienka o anatomicznym kształcie.
@@ -267852,7 +267843,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA FF-006-108 Podnóżek antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071934</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis>• Wytrzymały i praktyczny dwukomponentowy podnóżek.
@@ -268236,7 +268227,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały</nazwa>
 <cena>26.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008053</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>• Fukcjonalna i wygodna wanienka o anatomicznym kształcie.
@@ -270032,7 +270023,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-059-105 Nocnik z pozytywką ECO KRÓLICZKI j.zielony</nazwa>
 <cena>12.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963010308</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Ergonomiczny nocnik ECO wykonany z wysokiej jakości plastiku, całkowicie bezpiecznego dla dzieci.
@@ -270427,7 +270418,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-073-107 Nocnik krzesełko z pozytywką LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963015693</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -270628,7 +270619,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-079-164 Nocnik antypoślizgowy z pozytywką METEO granatowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963002884</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik z pozytywką.
@@ -270793,7 +270784,7 @@ Wymiary: 55x35x25cm</opis>
 <nazwa>TEGA PW-002-106 Pojemnik wielofunkcyjny średni szary</nazwa>
 <cena>31.58</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963004192</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis/>
@@ -271360,7 +271351,7 @@ Cechy produktu:
 <nazwa>TEGA TI-001-164/103 Nocnik teggi granatowy/biały</nazwa>
 <cena>22.37</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905489408017</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Specjalnie zaprojektowany symetryczny i ergonomiczny kształt nocnika Teggi jest wynikiem współpracy fizjoterapeutów, rodziców i projektantów wzornictwa. Jego anatomiczny kształt i rozmiar są idealnie dopasowane do budowy ciała dziecka. Dzięki wysokości siedziska dzieciom łatwiej siadać i wstawać z nocnika. Zdejmowana wewnętrzna część nocnika ułatwia czyszczenie. Dolna krawędź posiada wykończenie antypoślizgowe, co zapewnia stabilność nocnika na podłodze.
@@ -272036,7 +272027,7 @@ Cechy:
 <nazwa>TINY LOVE TL11140004 Tiny Smarts Dzwoneczek zajączek Thomas</nazwa>
 <cena>18.32</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>7290108861136</EAN>
 <grupa>TINY LOVE/PRZYWIESZKI</grupa>
 <opis>Zawieszka wydająca delikatne dźwięki dzwoneczka - Króliczek Thomas
@@ -277673,7 +277664,7 @@ Gra przyjazna dziecku! Elementy gry wykonane są z płótnowanego papieru pokryt
 <nazwa>TREFL 01904 Gra Skoczki Paw Patrol</nazwa>
 <cena>32.71</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511019049</EAN>
 <grupa>TREFL</grupa>
 <opis>Skoczki na licencji bajki "Psi Patrol" to prosta gra zręcznościowa dla całej rodziny. Kto okaże się najlepszym strzelcem i trafi swoimi skoczkami w środek specjalnej tarczy? Przekonajcie się już teraz! Bohaterowie znanej bajki "Psi Patrol" zapraszają do wspólnej zabawy. 
@@ -277830,7 +277821,7 @@ Cyferki to układanka edukacyjna, która poprzez wesołą zabawę wprowadza dzie
 <nazwa>TREFL 01949 Gra Angielski dla przedszkolaka/Mały Odkrywca</nazwa>
 <cena>17.66</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511019490</EAN>
 <grupa>TREFL</grupa>
 <opis>Angielskie edupuzzle zostały stworzone, by wspierać przedszkolaki w nauce języka angielskiego. Podczas wesołej zabawy dzieci uczą się słów ze swojego najbliższego kręgu zainteresowań. Słówka podzielone są na plansze tematyczne, co ułatwia dziecku ich zapamiętywanie.
@@ -277981,7 +277972,7 @@ Instrukcja z propozycjami gier i zabaw</opis>
 <nazwa>TREFL 02063 Gra Moja pierwsza gra - Na Jagody</nazwa>
 <cena>30.74</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511020632</EAN>
 <grupa>TREFL</grupa>
 <opis>Bohaterowie serialu Bobaski i Miś wyruszają na leśną przygodę, po drodze zbierając pyszne jagódki. Ile owoców uda im się zebrać, zanim dojdą do chatki Misia? Proste zasady, przestrzenna plansza oraz duże drewniane elementy, sprawiają, że gra jest idealna na początek przygody z grami planszowymi. Świetna zabawa w towarzystwie lubianych przez najmłodszych bohaterów.
@@ -279228,9 +279219,9 @@ Wiek: +5</opis>
 <b2b>
 <kod>5913978</kod>
 <nazwa>TREFL 02734 Gra Memos Trefliki ratują święta</nazwa>
-<cena>18.96</cena>
+<cena>19.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5900511027341</EAN>
 <grupa>TREFL</grupa>
 <opis>Memos to popularna gra ćwicząca pamięć i spostrzegawczość, która podbiła serca graczy na całym świecie. Tym razem do gry zaprasza Rodzina Treflików! Na kartonikach znajdziesz postacie z bajki Trefliki ratują święta.
@@ -279434,7 +279425,7 @@ Waga opakowania zbiorczego (kg): 0.410000</opis>
 <nazwa>TREFL 02808 Gra Skojarzenia / Mały Odkrywca</nazwa>
 <cena>16.18</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5900511028089</EAN>
 <grupa>TREFL</grupa>
 <opis>Poznajcie wyjątkową układankę edukacyjną Skojarzenia, która w prosty i przyjemny sposób wprowadza maluchy w świat nauki nazywania i klasyfikowania przedmiotów oraz zjawisk!. To nie tylko nauka, ale też świetna zabawa rozwijająca koncentrację, spostrzegawczość i umiejętności manualne. Idealny pomysł na prezent, który wspiera wszechstronny rozwój Twojego dziecka!
@@ -279646,25 +279637,6 @@ Wysoką jakość, nasycenie kolorów i bezpieczeństwo układania zapewnia kalan
 <zdjecia>https://marini.pl/b2b/pictures/783833-1.png</zdjecia>
 </b2b>
 <b2b>
-<kod>789732</kod>
-<nazwa>TREFL 13276 Puzzle 200 Gotowi do walki</nazwa>
-<cena>11.90</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5900511132762</EAN>
-<grupa>TREFL</grupa>
-<opis>Gotowi do walki to puzzle z bohaterami serii filmów Gwiezdne Wojny.
-wysoka jakość nadruku
-precyzja wykonania
-idealne dopasowanie elementów
-odporne na zginanie
-rozwijają zdolności manualne u dziecka
-kształtują wyobraźnię i logiczne myślenie
-wielkość obrazka po ułożeniu: 48x34 cm
-ilość elementów: 200</opis>
-<zdjecia>https://marini.pl/b2b/pictures/789732-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>789733</kod>
 <nazwa>TREFL 13277 Puzzle 200 W świecie magii i czarów</nazwa>
 <cena>11.90</cena>
@@ -279797,7 +279769,7 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <nazwa>TREFL 13327 Puzzle 160 Domowy kotek</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511133271</EAN>
 <grupa>TREFL</grupa>
 <opis>Domowy kotek to puzzle składające się ze 160 elementów, które zachwycą małych fanów zwierząt domowych. Po ich ułożeniu powstanie obrazek o wymiarach 410x275 mm, przedstawiający kota w chmurach.
@@ -280114,7 +280086,7 @@ Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specj
 <nazwa>TREFL 14356 Puzzle 24 MAXI Strażak Sam i przyjaciele</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511143560</EAN>
 <grupa>TREFL</grupa>
 <opis>Strażak Sam i przyjaciele to puzzle składające się z 24 MAXI elementów, zaprojektowane z myślą o fanach bajki Strażak Sam. Po ułożeniu powstanie obrazek o wymiarach 600x400 mm.
@@ -280136,6 +280108,17 @@ Po ułożeniu układanki powstanie duży obrazek, o wymiarach 600x400mm.
 
 Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru odbijającego światło, co ułatwia układanie. Produkt został wyprodukowany w Polsce, a do produkcji zostały użyte materiały ekologiczne.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5906772-1.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5906773</kod>
+<nazwa>TREFL 14360 Puzzle 24 MAXI Rodzina Treflików / Zimowy czas z Treflikami</nazwa>
+<cena>17.01</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5900511143607</EAN>
+<grupa>TREFL</grupa>
+<opis>Zimowy czas z Treflikami to puzzle 24 Maxi składające się z 24 bardzo dużych elementów. Zostały zaprojektowane z myślą o wszystkich fanach i fankach bajki Rodzina Treflików. Po ułożeniu układanki powstanie duży obrazek, o wymiarach 600x400mm. Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru odbijającego światło, co ułatwia układanie. Produkt wyprodukowano w Polsce, a do produkcji zostały użyte materiały ekologiczne.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5906773-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5906854</kod>
@@ -280189,6 +280172,16 @@ Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specj
 Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru odbijającego światło, co ułatwia układanie. Wyprodukowano go w Polsce, z użyciem ekologicznych materiałów.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911143-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914244</kod>
+<nazwa>TREFL 14375 Puzzle 24 MAXI Trefliki lepią bałwana</nazwa>
+<cena>17.01</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5900511143751</EAN>
+<grupa>TREFL</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5905542</kod>
@@ -280563,6 +280556,16 @@ Przeznaczone dla dzieci powyżej 5 roku życia.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905545-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914245</kod>
+<nazwa>TREFL 16459 Puzzle 100 Zimowe Trefliki</nazwa>
+<cena>10.21</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5900511164596</EAN>
+<grupa>TREFL</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5905715</kod>
 <nazwa>TREFL 16460 Puzzle 100 Poznaj Psi Patrol</nazwa>
 <cena>9.62</cena>
@@ -280684,7 +280687,7 @@ Wiek:+5</opis>
 <nazwa>TREFL 16481 Puzzle 100 Nauki Papy Smerfa</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511164817</EAN>
 <grupa>TREFL</grupa>
 <opis>Nauki Papy Smerfa to puzzle składające się z 100 elementów, zaprojektowane z myślą o małych fanach bajki Smerfy. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm.
@@ -280752,7 +280755,7 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <nazwa>TREFL 16490 Puzzle 100 Wyścig z czasem</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511164909</EAN>
 <grupa>TREFL</grupa>
 <opis>Wyścig z czasem to puzzle składające się ze 100 elementów, zaprojektowane z myślą o małych fanach motoryzacji. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm, przedstawiają pojazd na torze jazdy.
@@ -280818,7 +280821,7 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <nazwa>TREFL 16494 Puzzle 100 Maszyny rolnicze - traktor z przyczepą</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511164947</EAN>
 <grupa>TREFL</grupa>
 <opis>Maszyny rolinicze - traktor z przyczepą to puzzle składające się ze 100 elementów, zaprojektowane z myślą o małych fanach pojazdów rolniczych. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm, przedstawiający traktor z przyczepą na polu pszenicy.
@@ -281073,12 +281076,32 @@ Kraj pochodzenia: Polska</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913999-1.png</zdjecia>
 </b2b>
 <b2b>
+<kod>5914246</kod>
+<nazwa>TREFL 16560 Puzzle 100 Spacer wśród słoneczników / Rodzina Treflików</nazwa>
+<cena>10.21</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5900511165609</EAN>
+<grupa>TREFL</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5914157</kod>
-<nazwa>TREFL 16561 Puzzle 100 Spotkanie w kawiarni Rodzina Treflików</nazwa>
+<nazwa>TREFL 16561 Puzzle 100 Spotkanie w kawiarni / Rodzina Treflików</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5900511165616</EAN>
+<grupa>TREFL</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914158</kod>
+<nazwa>TREFL 16562 Puzzle 100 Kosmiczne fantazje / Rodzina Treflików</nazwa>
+<cena>10.21</cena>
+<VAT>23</VAT>
+<stan>duża ilość</stan>
+<EAN>5900511165623</EAN>
 <grupa>TREFL</grupa>
 <opis/>
 </b2b>
@@ -281099,6 +281122,16 @@ Kraj pochodzenia: Polska</opis>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5900511165647</EAN>
+<grupa>TREFL</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914247</kod>
+<nazwa>TREFL 16565 Puzzle 100 Magia głębin / Rodzina Treflików</nazwa>
+<cena>10.21</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5900511165654</EAN>
 <grupa>TREFL</grupa>
 <opis/>
 </b2b>
@@ -281287,6 +281320,16 @@ Wymiary opakowania: 212x141x38 mm
 Wymiary ułożonych puzzli: 330x220 mm
 Przeznaczone dla dzieci powyżej 4 roku życia</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905546-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914248</kod>
+<nazwa>TREFL 17383 Puzzle 60 Zima u Treflików / Rodzina Treflików</nazwa>
+<cena>8.79</cena>
+<VAT>23</VAT>
+<stan>średnia ilość</stan>
+<EAN>5900511173833</EAN>
+<grupa>TREFL</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5906775</kod>
@@ -281690,6 +281733,19 @@ Puzzle zostały wykonane z wysokiej jakości naturalnych materiałów, z zastoso
 Układanie puzzli jest również doskonałą formą rozrywki i relaksu, która może dostarczyć wiele godzin zabawy. Produkt jest starannie wykonany z wysokiej jakości materiałów, dbając zarówno o trwałość, jak i bezpieczeństwo dziecka. Puzzle są łatwe do układania i idealnie dostosowane do małych rąk. Puzzle "Psi Patrol Bohaterowie Miasta The Mighty Movie 2023" od Trefl to wspaniała rozrywka dla młodych fanów Psi Patrolu i osób, które uwielbiają układać puzzle.
 UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905724-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5906776</kod>
+<nazwa>TREFL 18300 Puzzle 30 Zimowe zabawy Treflików / Rodzina Treflików</nazwa>
+<cena>8.50</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5900511183009</EAN>
+<grupa>TREFL</grupa>
+<opis>Puzzle Zimowe zabawy Treflików składają się z 30 elementów i zostały zaprojektowane z myślą o wszystkich fanach i fankach serialu animowanego Rodzina Treflików. Po ułożeniu układanki powstanie obrazek o wymiarach 270x200mm.
+
+Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru odbijającego światło, co ułatwia układanie. Produkt został wyprodukowany w Polsce, a do produkcji zostały użyte materiały ekologiczne.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5906776-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5904579</kod>
@@ -282220,7 +282276,7 @@ Produkt został wykonany z wysokiej jakości naturalnych materiałów, z zastoso
 <nazwa>TREFL 34395 Puzzle 4w1 Wakacyjny Psi Patrol</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5900511343953</EAN>
 <grupa>TREFL</grupa>
 <opis>Wakacyjny Psi Patrol to puzzle dla dzieci składające się z 4 niezależnych układanek, zaprojektowane z myślą o wszystkich fanach i fankach serialu animowanego Psi Patrol. Po ułożeniu puzzli powstaną cztery obrazki o wymiarach 285 x 205 mm każdy. Zróżnicowana liczba elementów (12, 15, 20, 24) pozwala na zabawę zarówno młodszym, jak i nieco starszym fanom puzzli.
@@ -282477,7 +282533,7 @@ Kraj pochodzenia: Polska</opis>
 <nazwa>TREFL 34609 Puzzle 4w1 Wyjątkowe dinozaury</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511346091</EAN>
 <grupa>TREFL</grupa>
 <opis>Wyjątkowe dinozaury to puzzle dla dzieci składające się z 4 niezależnych układanek, zaprojektowane z myślą o wszystkich miłośnikach dinozaurów.
@@ -282679,7 +282735,7 @@ Puzzle zostały wyprodukowane w Polsce, z wykorzystaniem ekologicznych materiał
 <b2b>
 <kod>5911021</kod>
 <nazwa>TREFL 34657 Puzzle 4w1 U Treflików pada śnieg</nazwa>
-<cena>16.05</cena>
+<cena>17.01</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5900511346572</EAN>
@@ -282746,7 +282802,7 @@ Puzzle zostały wyprodukowane w Polsce, z wykorzystaniem ekologicznych materiał
 <nazwa>TREFL 34837 Puzzle 3w1 Niezwykły świat dinozaurów</nazwa>
 <cena>14.17</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5900511348378</EAN>
 <grupa>TREFL</grupa>
 <opis>Potrójna radość układania! Puzzle 3w1 to trzy układanki różnej wielkości. Zestaw doskonale spełnia oczekiwania rodzeństwa - każdy ułoży swój ulubiony obrazek nawet w tym samym czasie. Zróżnicowana liczba elementów pozwala na zabawę zarówno młodszym, jak i nieco starszym dzieciom. Dodatkowym urozmaiceniem zabawy może być układanie na czas, porównywanie obrazków, szukanie różnic i podobieństw.</opis>
@@ -282989,7 +283045,7 @@ Produkt został wykonany w Polsce z dbałością o środowisko i przy użyciu wy
 <nazwa>TREFL 34882 Puzzle 3x80 Kolorowe dni Gabby</nazwa>
 <cena>11.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511348828</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle 3x80 to aż trzy układanki 80 elementów w jednym opakowaniu! Układanie staje się jeszcze ciekawsze i może w nim uczestniczyć więcej maluchów.
@@ -283542,7 +283598,7 @@ Każdy obrazek to wierna kopia kultowych grafik Disneya, które kiedyś zdobiły
 <nazwa>TREFL 41003 Puzzle 24 SUPER MAXI Bing z przyjaciółmi</nazwa>
 <cena>18.70</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511410037</EAN>
 <grupa>TREFL</grupa>
 <opis>To aż trzy zabawy w jednym produkcie! Duża dwustronna układanka z bohaterami bajki dla małych dzieci (od 3. roku życia) – idealna dla maluchów, które mają za sobą układanie mniejszej liczby elementów. Puzzle podzielone są na 24 duże elementy. Na odwrocie każdej układanki znajdują się aż dwie zabawy – kolorowanka oraz gra z elementami kolorowania – wyzwanie dla prawdziwych bystrzaków! Puzzle Super Maxi 24 to połączenie świetnej zabawy z radością z samodzielnego tworzenia. Dostępne są wzory z ulubionymi bohaterami animowanych filmów i seriali dla dzieci.</opis>
@@ -283973,7 +284029,7 @@ Układanie puzzli wspomaga rozwój koncentracji i koordynacji oko-ręka.</opis>
 <nazwa>TREFL 50022 Puzzle 160 XL Odkryj świat Frozen</nazwa>
 <cena>18.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511500226</EAN>
 <grupa>TREFL</grupa>
 <opis>Seria puzzli SUPER SHAPE to duże układanki z szalonymi kształtami! W opakowaniu, poza klasycznymi puzzlami, znajdują się elementy kształtowe, które dają dziecku jeszcze więcej radości z układania.
@@ -284250,7 +284306,7 @@ Uwaga! Produkt nieodpowiedni dla dzieci poniżej 3 roku życia.</opis>
 <nazwa>TREFL 61339 Dino Florentino</nazwa>
 <cena>33.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511613391</EAN>
 <grupa>TREFL</grupa>
 <opis>Dino Florentino z pluszowym pomponem wykonany został z naturalnego drewna. Jest doskonałą zabawką, która towarzyszy najmłodszym przy stawianiu pierwszych kroków. Zabawka jest idealnym rozwiązaniem dla dzieci od 12 miesiąca życia. Dinozaur wyposażony jest w sznureczek i małe drewniane kółeczka, dzięki którym zawsze podąża za swoim opiekunem. Wszystkie materiały wykorzystane do stworzenia zabawki posiadają atesty, a także zostały pomalowane nietoksycznymi farbami.
@@ -285951,23 +286007,13 @@ Wymiary opakowania: 35x65x220</opis>
 <nazwa>TREFL LALABOOM 61713 Zestaw kulko-klocków - zwierzątka farma - 18 elementów</nazwa>
 <cena>36.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511617139</EAN>
 <grupa>TREFL</grupa>
 <opis>Zestaw kulko-klocków - zwierzątka farma - 18 elementów to edukacyjna zabawka preznaczona dla dzieci od 10. miesiąca życia. Zestaw Lalaboom to nie tylko dobra zabawa, ale również wartościowy rozwój od najmłodszych lat. W opakowaniu znajdziesz 6 elementów, które można łączyć, rozdzielać, skręcać i mieszać. 
 Elementy o różnych fakturach, kolorach i kształtach dostarczają zróżnicowanych wrażeń wzrokowych i dotykowych. Zabawka ćwiczy ruchy obrotowe nadgarstka, rozwija chwyt pęsetkowy oraz wspiera ćwiczenie koordynacji wzrokowo-ruchowej dziecka.
 Wymiary opakowania: 90,5x104x229,5.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5903872-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5914158</kod>
-<nazwa>TREFL Puzzle 100 Kosmiczne fantazje / Rodzina Treflików</nazwa>
-<cena>10.21</cena>
-<VAT>23</VAT>
-<stan>duża ilość</stan>
-<EAN>5900511165623</EAN>
-<grupa>TREFL</grupa>
-<opis/>
 </b2b>
 <b2b>
 <kod>5911533</kod>
@@ -288108,7 +288154,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 50709 Gryzakowe Trio</nazwa>
 <cena>11.96</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904316150709</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis>Towarzysze ząbkowania w oceanicznej odsłonie! Trzy gryzaczki spięte są wspólnym kółeczkiem, które stanowi zarazem praktyczny uchwyt. Każdy z nich odznacza się innym kształtem oraz kolorem. Gryzaczki posiadają wypustki, które podczas gryzienia delikatnie masują obolałe dziąsła ząbkującego maluszka.
@@ -291423,7 +291469,7 @@ Ostrzeżenie! Przed pierwszym podaniem dziecku zabawkę należy umyć pod bież�
 <nazwa>TULLO 700 Ścieżka sensoryczna - sensoryczne płytki z cieczą fakturowe 6 szt.</nazwa>
 <cena>350.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094777003</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Ścieżka sensoryczna – fakturowe płytki sensoryczne z cieczą 6 szt.
@@ -292883,7 +292929,7 @@ dł: 210mm x wys: 165mm x szer: 130mm</opis>
 <nazwa>Viga 44043 PolarB Piesek do ciągnięcia</nazwa>
 <cena>34.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608440434</EAN>
 <grupa>VIGA</grupa>
 <opis>Polarny Piesek na sznurku od firmy Viga sprawdzi się jako dodatkowa zachęta do chodzenia dla dzieci, które uczą się stawiać pierwsze kroki. Modna i stonowana kolorystyka idealnie wzbogaci posiadaną kolekcję zabawek.
@@ -294000,7 +294046,7 @@ Waga brutto 0,3 kg
 <nazwa>Viga 44207 PolarB Przebijanka Pingwin</nazwa>
 <cena>27.15</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>6971608442070</EAN>
 <grupa>VIGA</grupa>
 <opis>Kolorowy przebijak od firmy Viga to produkt, który pokocha każde dziecko. Delikatne pastelowe kolory oraz wygodny w uchwyceniu młotek zachęcą każdego malucha do zabawy. Przy okazji przebijanka poprawi koordynację wzrokowo-ruchową jak i pomoże ćwiczyć sprawność rączek oraz rozwija wyobraźnię i uczy kreatywnego myślenia. Zadaniem dziecka jest wbić wszystkie kołki w otwory, aby przeszły na drugą stronę ramy. Czynność można powtarzać poprzez obracanie zabawki.
@@ -294440,7 +294486,7 @@ Waga: 0,67 kg
 <nazwa>Viga 44217 PolarB Zielony mikser</nazwa>
 <cena>40.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6971608442179</EAN>
 <grupa>VIGA</grupa>
 <opis>Seria zabawek PolarB powiększa się o nowości, które nie tylko zachwycają kolorami. Zabawki doskonale wzbogacą posiadane już zabawki do gotowania oraz zabawy w dom.
@@ -295160,7 +295206,7 @@ Rozwój kreatywności i wyobraźni</opis>
 <nazwa>VIGA 44249 Skrzynka 2w1- stolik małego majsterkowicza</nazwa>
 <cena>54.21</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6971608442490</EAN>
 <grupa>VIGA</grupa>
 <opis>Mini Warsztat Drewniany Skrzynka z Narzędziami marki Viga z kolekcji PolarB zapewni wspaniałą zabawę każdemu małemu majsterkowiczowi. Zestaw zawiera młotek, klucz, śrubokręt, 4 pary śrub i nakrętek, 2 kołki, 3 koła zębate i 5 deseczek z otworami. Dzieci mogą poznawać różne narzędzia i rozwijać umiejętności obracania, uderzania i dopasowywania. Stolik warsztatowy można odwrócić, aby stał się skrzynką do przechowywania i przenoszenia narzędzi. Zabawa w majsterkowanie wspomoże rozwój zdolności manualnych, zaciekawi i pobudzi wyobraźnię dziecka.
@@ -295478,7 +295524,7 @@ Waga:	0.2 kg</opis>
 <nazwa>VIGA 44270 Drewniana Wybijanka + Cymbałki 2w1</nazwa>
 <cena>58.53</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608442704</EAN>
 <grupa>VIGA</grupa>
 <opis>VIGA Drewniana Wybijanka + Cymbałki 2w1 Pozwól swojemu dziecku odkrywać świat dźwięków i zabawy dzięki drewnianym cymbałkom i przebijance w jednym! To wyjątkowa zabawka edukacyjna, która nie tylko zapewni godziny radości, ale również wspomoże rozwój manualny, wyobraźnię i wrażliwość na dźwięki.Dziecko może bawić się na dwa sposoby: uderzając pałeczką w cymbałki, tworząc piękne melodie, lub korzystając z przebijanki – kulki spadają na cymbałki, wydając delikatne, przyjemne dla ucha dźwięki. Idealna zabawka rozwijająca zdolności manualne, koordynację ruchową oraz zmysł słuchu. Doskonała dla małych artystów, którzy uwielbiają łączyć zabawę z nauką!
@@ -295879,7 +295925,7 @@ Waga:	5.5 kg</opis>
 <nazwa>VIGA 44293 Drewniana Lodziarnia Sklepik zestaw z lodami</nazwa>
 <cena>43.46</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608442933</EAN>
 <grupa>VIGA</grupa>
 <opis>Ten uroczy zestaw zawiera 6 kolorowych lodów od marki VIGA– 3 rożki i 3 lody na patyku – ozdobione kultowymi wzorami, które zachwycą każde dziecko. Dwuwarstwowy, drewniany stojak pozwala eksponować lody i utrzymać porządek podczas zabawy. Wyjmowane elementy stymulują małą motorykę i rozwijają zabawę dotykową. Idealny do kreatywnego odgrywania ról – np. własnego straganu z lodami!
@@ -296714,7 +296760,7 @@ Waga:	0.9 kg</opis>
 <nazwa>VIGA 44719 Drewniany wózek dla lalek z gondolą</nazwa>
 <cena>127.47</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6971608447198</EAN>
 <grupa>VIGA</grupa>
 <opis>Uroczy drewniany wózek dla lalek z renomowanej marki Viga to połączenie dobrej jakości drewna z nowoczesnym designem. Opony EVA zapewniają mocną i antypoślizgową konstrukcję - zabawka jest bezpieczna dla dzieci. Wózek wykonany jest w nowoczesnej, jasnej kolorystyce, a materiałowy kapturek idealnie dopełnia spójny wygląd zabawki.
@@ -297587,7 +297633,7 @@ dł: 270mm x wys: 50mm x szer: 210mm</opis>
 <nazwa>VIGA 50668 Balansujacy labirynt</nazwa>
 <cena>55.33</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6934510506681</EAN>
 <grupa>VIGA</grupa>
 <opis>Zabawa polega na prowadzeniu poprzez labirynt jednej z 4 kolorowych kulek, stojąc w wyznaczonym miejscu na dysku i balansują ciałem. W zależności od stopnia wyćwiczenia można dodawać kolejne kulki do prowadzenia, natomiast większym gronie można urządzać wyścigi na czas.
@@ -297695,7 +297741,7 @@ Zestaw figurek zawiera – remizę strażacką, gaśnicę, helikopter, wóz stra
 <nazwa>Viga 50817 Znaki drogowe</nazwa>
 <cena>13.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6934510508173</EAN>
 <grupa>VIGA</grupa>
 <opis>Fantastyczne akcesoria do zestawów z pociągami, a także do zestawów drogowych. Tutaj znajdziesz akcesoria dzięki, którym wzbogacisz swój obecny zestaw domowych pojazdów.
@@ -299389,7 +299435,7 @@ zabawa pojazdem wszechstronnie stymuluje dziecko: pobudza wyobraźnię, rozwija 
 <nazwa>WADER 35020 Traktor Farmer z przyczepą w kartonie</nazwa>
 <cena>24.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694350205</EAN>
 <grupa>WADER</grupa>
 <opis>Wymiary pojazdu ok. 38,5 x 15,0 x 13,0 cm 
@@ -304783,7 +304829,7 @@ Waga:	0.2 kg</opis>
 <nazwa>WOOPIE 45500 Tablica do rysowania projektor Dinozaur</nazwa>
 <cena>23.46</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904326945500</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Tablica do Rysowania od marki WOOPIE jest rewelacyjnym pomysłem dla dziecka lubiącego rysować i malować. Dziecko może usiąść przy stoliku i rozwijać swój talent do rysowania. Zabawka posiada rzutnik i 3 dyski tematyczne- to aż łącznie 24 wzory do odrysowania! W zestawie znajduje się 5 mazaków, gąbka do ścierania tablicy suchościeralnej oraz gry planszowe (chińczyk oraz węże i drabiny) z pionkami i kostką. Zestaw do rysowania pozwoli dziecku rozwijać wyobraźnię, zdolności manualne i artystyczne od najmłodszych lat.
@@ -305105,7 +305151,7 @@ Waga:	0.89 kg</opis>
 <nazwa>WOOPIE 46484 Stolik Wodny 2w1 Piaskownica 9 akc.</nazwa>
 <cena>74.32</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904326946484</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Stół Do Piasku od marki WOOPIE jest idealną zabawka do zabawy z wodą i piaskiem. Zestaw zawiera 9 akcesoriów: wiaderka, konewki, łopatkę i wiele innych. Stolik jest podzielony na dwie części, do jednej można wlać wodę, a do drugiej nasypać piasku. Zestaw jest przeznaczony do zabawy w domu, jak i na zewnątrz. Idealne do zabawy w domu i na plaży lub w piaskownicy.
@@ -305412,25 +305458,6 @@ Charakterystyka:
 Wymiary opakowania	7,5 x 7,5 x 18 (cm)
 Waga:	0.3 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907224-1.jpg https://marini.pl/b2b/pictures/5907224-2.jpg https://marini.pl/b2b/pictures/5907224-3.jpg https://marini.pl/b2b/pictures/5907224-4.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5907063</kod>
-<nazwa>WOOPIE 47108 Zestaw figurek 18 szt Dinozaury</nazwa>
-<cena>12.65</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904326947108</EAN>
-<grupa>WOOPIE</grupa>
-<opis>Zestaw Figurek od marki WOOPIE to idealny zestaw dla każdego fana zwierząt. W zestawie znajduje się 12 dinozaurów oraz 6 szt. Realistycznie wyglądające figurki powiększą zbiory małego kolekcjonera, spełnią funkcję edukacyjną oraz zapewnią dobrą zabawę dzięki której maluch poszerzy zakres swojej wyobraźni i kreatywności.
-
-Charakterystyka:
-
-- zabawka od 3 roku życia
-- w zestawie 18 el.
-- figurki dinozaurów- solidne wykonanie
-- dokładne odwzorowanie
-Wymiary opakowania	7,5 x 7,5 x 18 (cm)</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907063-1.jpg https://marini.pl/b2b/pictures/5907063-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5907227</kod>
@@ -306255,7 +306282,7 @@ Gra rozwija:
 <nazwa>WOOPIE 48990 Kasa sklepowa z akcesoriami</nazwa>
 <cena>40.26</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904326948990</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Kasa sklepowa z akcesoriami od marki WOOPIE to idealna propozycja zabaw. Dzieci mogą wybrać produkty, które chcą kupić, spakować je w koszyk, a następnie nabić je na kasę. Przy pomocy czytnika zeskanują popkorn i inne produkty. Następnie kupujący może zapłacić pieniążkami lub kartą płatniczą.
@@ -306452,7 +306479,7 @@ Zestaw zawiera:
 <nazwa>WOOPIE 49096 Kasa sklepowa Dino z półką</nazwa>
 <cena>39.74</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904326949096</EAN>
 <grupa>WOOPIE</grupa>
 <opis/>
@@ -307219,7 +307246,7 @@ Wymiary opakowania	12,3 x 11,3 x 14,8 (cm)</opis>
 <nazwa>WOOPIE 50001 ROYAL Lalka Bobas z Wózkiem Opiekunka</nazwa>
 <cena>24.13</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280650001</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Lalka Bobas z Wózkiem i Zestawem do Karmienia od marki WOOPIE to idealny prezent dla małych dzieci chcących naśladować zachowania dorosłych w opiece nad dziećmi. Lalka wydaje dźwięki tj. mama, tata, płacz czy śmiech co nadaje zabawie jeszcze większego realizmu. Dziecko może ją karmić czy wyprowadzać na spacerki dzięki spacerówce która jest dołączona w zestawie.
@@ -310154,7 +310181,7 @@ Waga:	0.5 kg</opis>
 <nazwa>WOOPIE 54559 Gra Rzut do celu obręczami</nazwa>
 <cena>6.83</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280654559</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Wprowadź do swojego domu mnóstwo śmiechu i radosnej rywalizacji z kolorową grą zręcznościową Rzucanie Pierścieniami od marki Woopie! Ta klasyczna zabawka, uwielbiana przez dzieci i dorosłych, to doskonały sposób na aktywne spędzanie czasu i rozwijanie precyzji. Zestaw składa się z dwóch jaskrawych, wielokolorowych słupków oraz licznych obręczy w różnych rozmiarach, co gwarantuje godziny wciągającej zabawy, zarówno w pomieszczeniach, jak i na zewnątrz. Przygotuj się na niezapomniane chwile pełne emocji i zręcznościowych wyzwań!
@@ -310525,7 +310552,7 @@ Wymiary opakowania	8 x 9 x 5,5 (cm)</opis>
 <nazwa>WOOPIE 55082 Perkusja 3 Bębny</nazwa>
 <cena>22.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280655082</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Pozwól swojemu dziecku odkryć radość tworzenia muzyki! Ten zestaw perkusyjny marki Woopie został zaprojektowany z myślą o najmłodszych muzykach – bezpieczny i wytrzymały, od najmłodszych lat pobudza kreatywność i wspomagają rozwój. To nie tylko zabawka – to interaktywne narzędzie do rozwijania talentu muzycznego, koordynacji i wyobraźni. Ten zestaw perkusyjny dla dzieci jest wykonany z lekkiego plastiku, więc nie spowoduje żadnych obrażeń, jeśli się przewróci, a także można go łatwo utrzymać w czystości, przecierając go w razie potrzeby wilgotną szmatką. Grafika płomeni i bezpieczne materiały sprawiają, że dzieci pokochają granie od pierwszego uderzenia w bębenek. To idealna zabawka na start muzycznej przygody twojego dziecka!
@@ -310996,7 +311023,7 @@ Waga:	0.35 kg</opis>
 <nazwa>WOOPIE 55327 Figurki DIY Zestaw Dinozaury</nazwa>
 <cena>8.27</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280655327</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Przenieś się do prehistorycznego świata dinozaurów! Zestaw Dinosaur Mould &amp; Paint od marki WOOPIE to kreatywna zabawa dla dzieci od 6. roku życia. Pozwala na samodzielne odlewanie figurek z gipsu i ich kolorowe dekorowanie. Stegozaur, Triceratops, Tyranozaur i inne gatunki ożyją w Twoich własnych kolorach
@@ -312084,9 +312111,45 @@ Waga:	0.6 kg</opis>
 <cena>95.90</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5906280656423</EAN>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Zapraszamy w fascynującą podróż przez zoo pełne uroczych mieszkańców! Ten drewniany zestaw kolejowy marki Woopie Green to znacznie więcej niż zwykła zabawka – to przepustka do świata wyobraźni, gdzie każda przejażdżka pociągiem staje się niepowtarzalną przygodą. Solidnie wykonane tory łączą się w różnorodne konfiguracje, a czerwona brama do zoo oraz most wznoszą zabawę na wyższy poziom. Pociąg z wagonami połączonymi magnesami przemierza drewniany tor, odwiedzając żyrafę, słonia, lwa, zebry i inne zwierzęta. Dziecko samodzielnie buduje tor, aranżuje scenerie i tworzy własne historie – to czysta radość z twórczej zabawy, która angażuje na długie godziny.
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia
+- Wykonane z wysokiej jakości materiałów
+- Kompletny zestaw drewnianych torów z możliwością tworzenia różnych układów
+- Pociąg z wagonami połączonymi za pomocą magnesów
+- Most podniesiony na filarach
+- Kolorowe figurki zwierząt
+- Kompatybilne z większością popularnych systemów drewnianych torów kolejowych
+Zestaw zawiera:
+
+- Drewniana lokomotywa
+- 2 Wagony
+- 8 Figurek zwierząt
+- 2 Figurki odwiedzających Zoo
+- 2 Figurki drzew
+- Most
+- 4 Podpory mostu
+- 27 Drewnianych torów
+- Znak informacyjny
+- Brama wejściowa
+- 3 podpory do bramy wejściowej
+- 3 podstawki do figurek zwierząt
+Zabawka rozwija:
+
+- Kreatywność i wyobraźnię – tworzenie własnych tras kolejowych i wymyślanie historii z udziałem zwierząt?
+- Motorykę małą – łączenie torów i manipulowanie figurkami ćwiczy precyzję ruchów
+- Koordynację wzrokowo-ruchową – prowadzenie pociągu po torze wymaga synchronizacji wzroku z ruchami dłoni
+- Myślenie logiczne – planowanie układu torów uczy analizy przestrzennej i rozwiązywania problemów
+- Umiejętności konstrukcyjne – budowanie funkcjonalnych tras rozwija zdolności manualne
+- Wiedzę o zwierzętach – rozpoznawanie i nazywanie mieszkańców zoo
+?- Koncentrację – składanie zestawu wymaga skupienia i cierpliwości
+Wymiary produktu	63 x 53 x 14.5 (cm)
+Waga:	1.7 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914198-1.jpg https://marini.pl/b2b/pictures/5914198-2.jpg https://marini.pl/b2b/pictures/5914198-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913564</kod>
@@ -312457,7 +312520,7 @@ Wymiary produktu: 50 x 20 x 35 (cm)</opis>
 <nazwa>WOOPIE 56782 Zestaw Narzędzi Małego Majsterkowicza Klucz Nastawny</nazwa>
 <cena>6.81</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280656782</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Rozbudź pasję do majsterkowania w swoim dziecku z fantastycznym Zestawem Narzędzi Małego Majsterkowicza od marki Woopie! Ten kolorowy i bezpieczny komplet to idealne narzędzie do zabawy w budowanie, naprawianie i tworzenie. W zestawie znajduje się uniwersalny klucz nastawny, który przyda się do wielu zadań – od domowych napraw po warsztatowe wyzwania czy nawet proste prace hydrauliczne. Dzięki niemu Twój maluch poczuje się jak prawdziwy inżynier! Dodatkowo w komplecie znajdziesz plastikowe elementy imitujące drewniane deseczki oraz śruby z nakrętkami, które pozwolą na ich łączenie i tworzenie własnych konstrukcji. Solidne wykonanie i realistyczny wygląd narzędzi zachęcają do kreatywnej i aktywnej zabawy, rozwijając przy tym cenne umiejętności, takie jak koordynacja wzrokowo-ruchowa, zdolności manualne i logiczne myślenie. Przygotuj się na niezliczone godziny budowania wyobraźni i satysfakcji z samodzielnie "stworzonych" dzieł!
@@ -312799,7 +312862,7 @@ Waga:	0.4 kg</opis>
 <nazwa>WOOPIE 57147 Rakieta Statek kosmiczny Prom z Figurkami</nazwa>
 <cena>71.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280657147</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Przenieś swoje dziecko w fascynujący świat kosmosu z Interaktywną rakietą kosmiczną od Woopie! Ten niezwykle kreatywny zestaw zabawkowy to idealne połączenie nauki i zabawy dla małych odkrywców. To nie jest zwykła zabawka – to zestaw do eksploracji galaktyki, który zapewni godziny twórczej i edukacyjnej zabawy. Dzięki licznym funkcjom i realistycznym szczegółom dziecko może wcielić się w rolę astronauty, dowódcy misji czy operatora łazika. Rakieta została stworzona tak, by stymulować wyobraźnię i rozwijać umiejętności poprzez zabawę. Produkt składa się z kilku interaktywnych elementów, z których każdy ma inne funkcje. Figurkę astronauty można umieścić w obrotowym fotelu w górnej kapsule, a następnie opuścić do dolnej części rakiety, gdzie czeka gotowy do jazdy łazik kosmiczny. Całość uzupełnia efekt dźwięku odliczania do startu oraz świecąca podstawka, co czyni zabawę jeszcze bardziej realistyczną i ekscytującą. Idealna do zabawy w domu, w przedszkolu, a także w ogrodzie czy na plaży. Dzięki poręcznemu uchwytowi dzieci mogą z łatwością przenosić rakietę i kontynuować kosmiczne misje wszędzie tam, gdzie tylko poniesie ich wyobraźnia. To również świetna opcja na rodzinne pikniki – dziecko może zabrać swoją rakietę w plener, dzielić się zabawą z rodzeństwem czy rówieśnikami i przeżywać przygody w każdym miejscu! Każdy element zestawu został zaprojektowany z myślą o bezpieczeństwie, jakości i rozwoju dziecka. Zabawka nie tylko zapewnia mnóstwo rozrywki, ale także wspiera rozwój logicznego myślenia, motoryki i kreatywności. Idealny prezent dla każdego fana kosmosu!
@@ -312951,7 +313014,7 @@ Waga:	1 kg</opis>
 <nazwa>WOOPIE 57260 Samochód terenowy różowy z przyczepą</nazwa>
 <cena>51.92</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280657260</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Wzbogać zabawę swojego dziecka o realistyczny zestaw różowego SUVa z białą przyczepa i figurką konia od WOOPIE! - zachwycają detalami i kolorystyką. Samochód wyposażony jest w efekty świetlne i dźwiękowe oraz otwierane drzwi, które zwiększają interaktywność zabawy. Odpinana przyczepa pozwala na zabawę samochodem, przyczepą i koniem osobno, co daje wiele możliwości twórczej zabawy. Idealny prezent dla małych miłośników zwierząt, pojazdów terenowych i kreatywnych zabaw w gospodarstwo. To zestaw, który rozwija wyobraźnię, kreatywność i umiejętności manualne dziecka.
@@ -313030,7 +313093,31 @@ Waga:	0.35 kg</opis>
 <stan>brak</stan>
 <EAN>5906280657345</EAN>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Pozwól swojej rodzinie wyruszyć w fascynującą podróż z elektryczną kolejką XL od marki WOOPIE! Zestaw zawiera aż 66 elementów — to prawdziwa gratka dla małych i dużych entuzjastów kolei. Lokomotywa zasilana na baterię porusza składem oraz posiada światełko, co nadaje zabawie realizmu. Tory zostały zaprojektowane ze zwrotnicami, co umożliwia zmianę kierunku jazdy i tworzenie ciekawych układów tras. Kolorowe fragmenty torowiska i skład zachęcają do kreatywnego układania i eksperymentowania, rozwijając wyobraźnię dziecka. Dzięki temu zestawowi zabawa łączy w sobie naukę i rozrywkę — maluch rozwija zmysł przestrzenny i myślenie techniczne, jednocześnie ciesząc się długimi godzinami zabawy.
+
+Charakterystyka:
+
+- Zabawka dla dzieci powyżej 3 roku życia
+- Zestaw składa się z aż 66 elementów, co daje dużą elastyczność w układaniu toru.
+- Lokomotywa zasilana jest na baterie, co zapewnia mobilność i bezpieczną zabawę bez kabli.
+- Lokomotywa porusza do do przodu i do tyłu
+- Przednia część składu ma światełko.
+- Tory wyposażone są w zwrotnice, co pozwala na łatwą zmianę kierunku jazdy pociągu.
+- Wymaga baterii: 1 × AA (brak w zestawie)
+Zestaw zawiera:
+
+- Lokomotywa elektryczna zasilana baterią
+- Tory w wielu częściach, w tym ze zwrotnicami
+- Elementy torowiska do budowy pętli i zakrętów
+- Dodatki dekoracyjne, takie jak znaki drogowe czy drzewka
+Zabawka rozwija:
+
+- Orientacja przestrzenna
+- Zmysł techniczny
+- Wyobraźnia
+- Koordynacja ręka-oko
+- Koncentracja</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914202-1.jpg https://marini.pl/b2b/pictures/5914202-2.jpg https://marini.pl/b2b/pictures/5914202-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914199</kod>
@@ -313040,7 +313127,47 @@ Waga:	0.35 kg</opis>
 <stan>brak</stan>
 <EAN>5906280657383</EAN>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Malownicza podróż przez farmę na pokładzie elektrycznego pociągu marki WOOPIE to przygoda, która porwie każde dziecko! Ten rozbudowany zestaw 70 elementów to prawdziwe eldorado dla małych miłośników kolejek – z torami tworzącymi emocjonującą trasę pełną tuneli, mostów i niespodzianek. Magnetyczne wagony łączą się ze sobą z satysfakcjonującym kliknięciem, a elektryczna lokomotywa sprawia, że zabawa staje się jeszcze bardziej realistyczna i ekscytująca. Gdy pociąg przejeżdża pod czerwonym tunelem czy przez most, mijając pasące się zwierzątka, dziecko odkrywa świat pełen możliwości kreowania własnych historii.
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia
+- Wykonana z wysokiej jakości materiałów
+- Lokomotywa z elektrycznym napędem dodaje realizmu podczas zabawy
+- Bogaty zestaw akcesoriów do tworzenia pięknych scenerii
+- Figurki zwierząt dodają wiejskiego klimatu
+- Zasilanie: Baterie 1x1.5V AAA
+Zestaw zawiera:
+
+- Elektryczna lokomotywa
+- 2 Wagony towarowe z magnetycznymi sprzęgami?
+- 20 Elementów torów do budowy trasy
+- 13 Łączników torów
+- 2 Podpory mostu
+- 3 Elementy mostu
+- 5 Elementów tunelu
+- 5 Znaków drogowych
+- Lampa drogowa
+- 6 Podstaw do ozdób drogowych
+- 2 Drzewa
+- Figurka konia
+- Figurka psa
+- Figurka barana
+- Figurka krowy
+- 5 Płotów do budowy zagrody
+- Zestaw naklejek
+- Instrukcja z przykładowymi torami do budowy
+Zabawka rozwija:
+
+- Logikę
+- Wyobraźnię
+- Motorykę
+- Samodzielność
+- Myślenie przestrzenne
+Wymiary produktu	Lokomotywa 11 x 5 x 3.5 (cm) Wagon 9 x 2.8 x 3.5 (cm)
+Wymiary opakowania	44 x 30.5 x 9 (cm)
+Waga:	1.1 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914199-1.jpg https://marini.pl/b2b/pictures/5914199-2.jpg https://marini.pl/b2b/pictures/5914199-3.jpg https://marini.pl/b2b/pictures/5914199-4.jpg https://marini.pl/b2b/pictures/5914199-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913893</kod>
@@ -313125,7 +313252,7 @@ Waga:	0.95 kg</opis>
 <nazwa>WOOPIE 57413 Auto Transporter Dinozaur</nazwa>
 <cena>37.98</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5906280657413</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Zanurz się w fascynującym świecie prehistorycznych przygód i motoryzacyjnej zabawy! Ten niesamowity Dinozaur Pożeracz z autkami od marki Woopie to prawdziwa gratka dla każdego małego miłośnika pojazdów i prehistorycznych stworzeń. Dinozaur-ciężarówka nie tylko mieści cały zestaw samochodzików w środku, ale pełni także funkcję interaktywnej zjeżdżalni i służy jako wygodna walizka z uchwytem . Po rozłożeniu zabawka zmienia się w tory wyścigowe, po których mogą pędzić dołączone samochodziki. Zestaw zawiera aż 12  małych pojazdów, dzięki czemu zabawa może trwać godzinami – solo lub z przyjaciółmi! Ruchome elementy, takie jak otwierana paszcza, łapy dinozaura czy opuszczana rampa, wprowadzają dodatkowy wymiar interaktywności, rozwijając przy tym zdolności manualne i wyobraźnię dziecka. Całość wykonana została z solidnego, bezpiecznego tworzywa, odpornego na intensywną zabawę. Dzięki możliwości składania i wygodnej rączce, zestaw świetnie sprawdzi się zarówno w domu, jak i w podróży. To idealna zabawka dla dzieci kochających pojazdy, dinozaury, a także kreatywne konstrukcje i dynamiczną rozgrywkę. Ten zestaw z pewnością stanie się ulubionym elementem dziecięcej kolekcji!
@@ -313198,9 +313325,46 @@ Zabawka rozwija:
 <cena>140.96</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5906280657451</EAN>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Przenieś swoje dziecko w świat ekscytujących przygód z rozbudowanym zestawem kolejki elektrycznej od Woopie. Ten kolorowy i bogaty w szczegóły komplet to doskonała propozycja dla małych fanów transportu, maszyn i budowania. W zestawie znajduje się klasyczna lokomotywa z realistycznymi efektami dźwiękowymi i świetlnymi, wagony towarowe, miniaturowe samochodziki, figurki postaci oraz wiele elementów scenerii – od tunelu i mostu po stację kolejową i znaki drogowe. Dzięki temu dziecko może tworzyć własne, niepowtarzalne trasy oraz historie z życia małego miasteczka kolejowego. Magnetyczne złącza pozwalają łatwo i stabilnie łączyć wagony, a ruch lokomotywy po torach wygląda jak prawdziwy przejazd kolejowy! To nie tylko zwykła kolejka – to cała mała sceneria miasteczka, w której dziecko może rozwijać swoją kreatywność, budując różne konfiguracje torów i odgrywając scenki z codziennego życia. Elektryczna lokomotywa jadąc po torach przejeżdża przez most i tunel, zatrzymuje się na stacji, a wszystko to z dźwiękiem i ruchem, który fascynuje najmłodszych. Dziecko uczy się planowania, logicznego myślenia i rozwija zdolności manualne, tworząc przy tym fascynujące scenariusze podróży i przewozu towarów. Zestaw składa się ze 108elementów, wykonanych z trwałych i bezpiecznych materiałów, odpornych na intensywną zabawę.
+
+Charakterystyka:
+
+- Zabawka dla dzieci od 3 roku życia
+- Elektryczna kolejka z efektami dźwiękowymi i świetlnymi – lokomotywa ożywa dzięki realistycznym dźwiękom i migającym światłom
+- Magnetyczne złącza wagonów – wygodne i stabilne łączenie elementów zapobiega rozłączaniu się w trakcie jazdy
+- Łatwy montaż torów – dziecko bez trudu łączy elementy, ucząc się logicznego myślenia i cierpliwości.
+- 108 elementów w zestawie – w tym tory, most, tunel, stacja, pojazdy i figurki
+- Ruchomy pociąg – lokomotywa samodzielnie porusza się po torach po uruchomieniu
+- Kolorowa sceneria – domki, drzewa, samochodziki i znaki drogowe tworzą realistyczne otoczenie
+- Zasilanie na baterie – nie wymaga podłączenia do prądu (baterie nie są dołączone)
+- Bezpieczne i trwałe materiały – wysokiej jakości plastik bez ostrych krawędzi
+- Idealny pomysł na prezent – atrakcyjne, duże pudełko świetnie sprawdzi się jako upominek na każdą okazję
+Zestaw zawiera:
+
+- Lokomotywę elektryczną z dźwiękiem i światłem
+- Wagony towarowe
+- Tory kolejowe i zwrotnice do samodzielnego montażu
+- Most kolejowy
+- Tunel
+- Stację kolejową z kopułą
+- 4 Samochodziki i 4 figurki postaci
+- Drzewka i znaki drogowe
+- Budynki i elementy scenerii
+- Sygnalizatory, szlabany, elementy dworca
+- Kartonowe elementy dekoracyjne
+- Instrukcję montażu
+Zabawka rozwija:
+
+- wyobraźnię przestrzenną oraz zdolność tworzenia własnych scenariuszy zabawy
+- zdolności manualne i precyzję ruchów
+- logiczne myślenie i planowanie
+- cierpliwość, koncentrację i dokładność
+- koordynację wzrokowo-ruchową i kreatywność
+- wiedzę o zasadach transportu i ruchu kolejowego
+Wymiary opakowania: 52 x 11 x 35 (cm)</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914203-1.jpg https://marini.pl/b2b/pictures/5914203-2.jpg https://marini.pl/b2b/pictures/5914203-3.jpg https://marini.pl/b2b/pictures/5914203-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914200</kod>
@@ -313210,7 +313374,38 @@ Zabawka rozwija:
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Przenieś dziecko w magiczny świat kolei z wyjątkową Elektryczną Kolejką Retro! To nie tylko zabawka, ale prawdziwa przygoda z ruchem, światłem i wyobraźnią. Zestaw składa się z aż 76 elementów, dzięki którym można zbudować efektowną trasę z tunelem, stacją, znakami i figurkami.
+
+Kolejka porusza się po torach automatycznie – wystarczy włączyć silnik, by pociąg ruszył w podróż po całej trasie!
+
+Charakterystyka:
+
+- Liczba elementów: 76 sztuk
+- Wymiary po złożeniu: ok. 95 × 78 × 16 cm
+- Zasilanie lokomotywy: baterie (brak w zestawie)
+- Styl: retro / klasyczny
+- Łatwy montaż torów i elementów
+- Wysoka jakość wykonania i detale nadające realistyczny wygląd
+- Idealny prezent dla małych miłośników pociągów i modelarstwa
+Zawartość zestawu:
+
+- Lokomotywa elektryczna + 2 wagony
+- Tory o łącznej długości umożliwiającej stworzenie dużego układu (95 × 78 cm)
+- Tunel górski z wieżyczką
+- Znaki kolejowe i drogowe
+- Drzewka i elementy dekoracyjne
+- Figurki i akcesoria do budowy scenerii
+- Instrukcja montażu
+Zabawka rozwija:
+
+- Wyobraźnię i kreatywność 
+- Koordynację wzrokowo- ruchową
+- Logiczne myślenie
+- Zdolności społeczne
+Wymiary produktu	95 x 78 (cm)
+Wymiary opakowania	52 x 36 x 10,5 (cm)
+Waga:	1.9 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914200-1.jpg https://marini.pl/b2b/pictures/5914200-2.jpg https://marini.pl/b2b/pictures/5914200-3.jpg https://marini.pl/b2b/pictures/5914200-4.jpg https://marini.pl/b2b/pictures/5914200-5.jpg https://marini.pl/b2b/pictures/5914200-6.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914216</kod>
@@ -313279,7 +313474,31 @@ Waga:	0.2 kg</opis>
 <stan>brak</stan>
 <EAN>5906280657642</EAN>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Wyrusz na wiejskie przygody z zestawem Kiki Lalka z Koniem, Samochodem i Przyczepą od marki Woopie! Ten obszerny zestaw do odgrywania ról z motywem ranczo/farmy zawiera mini lalkę, która potrafi usiąść za kierownicą fioletowego pojazdu terenowego. Doczep do niego turkusową przyczepę, aby przewieźć swojego konia! Lalka ma długie, blond włosy, które można czesać, a koń posiada siodło i uzdę. To idealna zabawka, która rozwija wyobraźnię i kreatywność oraz pozwala na tworzenie nieskończonej ilości scenariuszy związanych z życiem na farmie. Zestaw przeznaczony jest dla dzieci od 3 roku życia.
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia
+- Lalka typu mini doll
+- Ruchome ręce i nogi
+- Pojazd terenowy w kolorze fioletowym
+- Doczepiana przyczepa w kolorze turkusowym
+- Koń z siodłem i uzdą (akcesoria można ściągnąć z konia)
+- Lalka ubrana w letni strój
+- Motyw zabawy: farma/wieś
+Zestaw zawiera:
+
+- lalka Niki
+- koń z siodłem i uzdą
+- samochód terenowy
+- przyczepa do przewozu konia
+- mała marchewka (akcesorium)
+Zabawka rozwija:
+
+- wyobraźnię i kreatywność
+- umiejętności narracyjne i odgrywanie ról
+- koordynację wzrokowo-ruchową podczas łączenia pojazdów</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914201-1.jpg https://marini.pl/b2b/pictures/5914201-2.jpg https://marini.pl/b2b/pictures/5914201-3.jpg https://marini.pl/b2b/pictures/5914201-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914013</kod>
@@ -313750,9 +313969,31 @@ Wymiary opakowania	42 x 29 x 6 (cm)</opis>
 <cena>256.81</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5906280658205</EAN>
 <grupa>WOOPIE</grupa>
-<opis/>
+<opis>Ten wielofunkcyjny drewniany bujak marki Woopie Green to jeden z najpopularniejszych sprzętów edukacyjnych inspirowanych metodą Montessori! Dzięki prostej, łukowatej konstrukcji i kolorowym tęczowym płytkom staje się magicznym narzędziem do rozwijania sprawności fizycznej i wyobraźni dziecka. Może służyć jako bujak, mostek do równoważenia i tunel do przechodzenia, a nawet siedzisko czy stoliczek do zabawy. Naturalne drewno w połączeniu z żywymi barwami tworzy bezpieczną przestrzeń, gdzie małe dzieci mogą eksperymentować z ruchem, poznawać granice swojego ciała i budować pewność siebie.
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia
+- Wielofunkcyjna konstrukcja: bujak, mostek równoważny, tunel, platforma wspinaczkowa, siedzisko
+- Łukowaty kształt z gładko wygiętymi bokami zapewniający stabilność
+- Kolorowe płytki
+- Zaokrąglone gładkie krawędzie 
+- Maksymalne obciążenie do 50 kg
+- Łatwy montaż
+Zabawka rozwija:
+
+-Motorykę dużą – podczas wspinania się, przechodzenia przez łuk i bujania dziecko angażuje wszystkie główne grupy mięśni (nogi, brzuch, plecy), wzmacniając je naturalnie podczas aktywnej zabawy
+- Równowagę i koordynację – bujanie wymaga stałego dostosowywania pozycji ciała, co trenuje układ przedsionkowy odpowiedzialny za poczucie równowagi i świadomość przestrzenną, a różne sposoby używania bujaka uczą kontroli nad ruchem
+- Odwagę i pewność siebie – samodzielne podejmowanie wyzwań ruchowych, takich jak wejście na łuk czy przechodzenie przez tunel, pozwala dziecku poznać granice własnego ciała i buduje wiarę w swoje możliwości fizyczne
+- Wyobraźnię i kreatywność – uniwersalna forma zachęca do wymyślania własnych scenariuszy (bujak może stać się statkiem, mostem, jaskinią czy fortecą), co rozwija myślenie twórcze i umiejętność rozwiązywania problemów
+- Koordynację ręka-oko – podczas przełażenia, chwytania się elementów konstrukcji czy manipulowania pozycją bujaka dziecko synchronizuje ruchy rąk z percepcją wzrokową
+Wymiary produktu	80 x 48.5 x 41.5 (cm)
+Wymiary opakowania	87 x 53.5 x 6 (cm)
+Dopuszczalne obciążenie	do 50 kg
+Waga:	7.1 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914197-1.jpg https://marini.pl/b2b/pictures/5914197-2.jpg https://marini.pl/b2b/pictures/5914197-3.jpg https://marini.pl/b2b/pictures/5914197-4.jpg https://marini.pl/b2b/pictures/5914197-5.jpg https://marini.pl/b2b/pictures/5914197-6.jpg https://marini.pl/b2b/pictures/5914197-7.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914204</kod>
