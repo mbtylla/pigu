@@ -46,7 +46,7 @@
     <price_lt>81.89</price_lt>
     <price_after_discount_lt>81.89</price_after_discount_lt>
     <stock>5</stock>
-    <collection_hours_lt>168</collection_hours_lt>
+    <collection_hours_lt>216</collection_hours_lt>
   </product>
     <product>
     <sku>CTR00050TR</sku>
@@ -54,7 +54,7 @@
     <price_lt>77.45</price_lt>
     <price_after_discount_lt>77.45</price_after_discount_lt>
     <stock>5</stock>
-    <collection_hours_lt>24</collection_hours_lt>
+    <collection_hours_lt>216</collection_hours_lt>
   </product>
     <product>
     <sku>CTP00202ME</sku>
@@ -62,7 +62,7 @@
     <price_lt>233.19</price_lt>
     <price_after_discount_lt>233.19</price_after_discount_lt>
     <stock>5</stock>
-    <collection_hours_lt>168</collection_hours_lt>
+    <collection_hours_lt>216</collection_hours_lt>
   </product>
     <product>
     <sku>CTRBG002BP</sku>
