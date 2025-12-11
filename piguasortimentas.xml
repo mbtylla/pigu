@@ -22,7 +22,7 @@
     <price_lt>126.99</price_lt>
     <price_after_discount_lt>126.99</price_after_discount_lt>
     <stock>10</stock>
-    <collection_hours_lt>168</collection_hours_lt>
+    <collection_hours_lt>24</collection_hours_lt>
   </product>
     <product>
     <sku>CTR00092BR</sku>
