@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2025-12-19T17:55:00.103">
+<MARINI timestamp="2025-12-20T17:55:00.103">
 <b2b>
 <kod>764966</kod>
 <nazwa> B.O.1460 Miękka łyżeczka silikonowa Baby's Smile zielona</nazwa>
@@ -1473,7 +1473,7 @@ CHARAKTERYSTYKA PRODUKTU:
 <nazwa>4 BABY Fotelik ROTO-FIX 40-150cm Grey I-Size</nazwa>
 <cena>435.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959125</EAN>
 <grupa>4BABY/FOTELIKI/ROTO FIX</grupa>
 <opis>Fotelik Roto-fix i-Size to obrotowy fotelik wykonany zgodnie z najbardziej restrykcyjną homologacją R129. Gwarantuje to najwyższą ochronę dziecku o wzroście od 40 do 150 cm.
@@ -19972,7 +19972,7 @@ WIEK: 3+</opis>
 <nazwa>ARTYK 018404 Kuchnia z akcesoriami 43 el.</nazwa>
 <cena>83.75</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8693461018404</EAN>
 <grupa>ARTYK</grupa>
 <opis>W ZESTAWIE:
@@ -21225,6 +21225,17 @@ WYS. ZABAWKI 8 CM.
 WYM OPAKOWANIA: 30 X 28 X 8 CM.
 WIEK: 18 M+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790694-1.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5906885</kod>
+<nazwa>ARTYK 162282 Warsztat z narzędziami</nazwa>
+<cena>102.30</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901811162282</EAN>
+<grupa>ARTYK</grupa>
+<opis>W zestawie: warsztat o wym. 48 x 67 x 34 cm., wkrętarka funkcyjna, młotek, piła, śrubokręt, klucz francuski, klucz,kombinerki, koła zębate, 2 pojemniczki, 48 śrubek, 6 gwoździ, 30 podkładek do śrubek, 16 łączników, 48 podkładek do wkręcania śrubek w różnych kształtach, naklejki, instrukcja, funkcje: dźwięk wkrętarki, możliwość wkręcania śrubek automatyczną wkrętarką, wym. opk: 50 x 34,5 x 15,5 cm., baterie: 2 x AA 1,5V, brak w zestawie, Wiek 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5906885-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913949</kod>
@@ -56309,7 +56320,7 @@ Pajacyk z prążka to praktyczny element niemowlęcej garderoby – wygodny, bez
 <nazwa>BABY 002487 Leginsy niemowlęce Stokrotka 68/74 prążek</nazwa>
 <cena>41.34</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905274856078</EAN>
 <grupa>BABY IN WORLD</grupa>
 <opis/>
@@ -60391,7 +60402,7 @@ Istnieje możliwość zamówienia innych wymiarów i kolorów.</opis>
 <nazwa>BABY 01909 Body niemowlęce długi rękaw Łąka 68/74</nazwa>
 <cena>42.44</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905274855279</EAN>
 <grupa>BABY IN WORLD</grupa>
 <opis/>
@@ -92904,16 +92915,6 @@ Ten przytulny kompan to idealny prezent dla rodziców niemowląt i małych dziec
 <zdjecia>https://marini.pl/b2b/pictures/5911316-1.jpg https://marini.pl/b2b/pictures/5911316-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5914237</kod>
-<nazwa>CLOUD B CL-7472-BUG Pluszowy projekt/przyjaciel do snu Benny</nazwa>
-<cena>0.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>0872354012899</EAN>
-<grupa>CLOUD B</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5913877</kod>
 <nazwa>CLOUD B CLTT-1200 Lampka nocna CUBE B- LAS</nazwa>
 <cena>44.32</cena>
@@ -93464,178 +93465,6 @@ do snu...</opis>
 <zdjecia>https://marini.pl/b2b/pictures/791495-1.jpg https://marini.pl/b2b/pictures/791495-2.jpg https://marini.pl/b2b/pictures/791495-3.jpg https://marini.pl/b2b/pictures/791495-4.jpg https://marini.pl/b2b/pictures/791495-5.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>20831</kod>
-<nazwa>Cloud B CLTT-7323-BL Lampka nocna żółw magiczne 8 konstelacji NIEBIESKI</nazwa>
-<cena>87.89</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>872354007215</EAN>
-<grupa>CLOUD B</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/20831-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>786288</kod>
-<nazwa>Cloud B CLTT-7323-T2 N10/202 Lampka nocna + pozytywka Żółw niebieski 2w1</nazwa>
-<cena>94.60</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>0872354012929</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Odpłyń łagodnie w krainę dobrych snów pod rozgwieżdżonym niebem.
-Twinkling Twilight Turtle to nowa wersja naszego, oryginalnego i wielokrotnie nagradzanego Twilight Turtle!
-Teraz z dwoma kojącymi melodiami i setką gwiazd, które lampka może wyświetlać w trzech, pojedynczych kolorach, a także utworzyć wielokolorowy pokaz świetlny.
-Niech strach przed ciemnością stanie się przeszłością. Twinkling Twilight Turtle zmienia straszny, ciemny pokój w rozgwieżdżone prawdziwymi konstelacjami niebo na suficie i ścianach sypialni. Rodzice mogą po zgaszeniu świateł opowiadać dziecku o gwiazdach. Ilustrowany Przewodnik po gwiazdach Twinkling Twilight Turtle pomaga zauważyć Mały wóz i Wielką Niedźwiedzicę migoczące nad Tobą. Ponadto, możliwość wyboru trzech, kojących kolorów, pozwala dziecku nie tylko nauczyć się je rozpoznawać, a także naprawdę je doświadczyć - kolor bursztynowy promieniuje ciepłem i spokojem, zieleń tworzy radosną i odprężającą atmosferę, a niebieski pomaga wyciszyć zmysły.
-Cechy:
-odtwarza dwie melodie (Dolphin Dreams i Clair De Lune)
-efekt "migoczącej" gwiazdy oraz dwa, inne, zabawne efekty
-lampka wyświetla na suficie i ścianach pokoju dziecka rozgwieżdżone niebo - 8 konstelacji
-wyświetlane kolory: błękit oceanu, szmaragdowa zieleń i bursztyn
-regulowany poziom głośności
-regulator czasowy, który wyłącza lampkę po 45 minutach
-ilustrowany przewodnik po gwiazdach pomaga zidentyfikować konstelacje, podczas wyświetlania pojedynczych kolorów
-Wystarczy nacisnąć przycisk na skorupie żółwia, aby uruchomić konstelacje i cieszyć się ich efektem przez pełne 45 minut - tyle wystarczy, aby większość dzieci mogła spokojnie zasnąć. Po tym czasie lampka automatycznie się wyłącza, tym samym przedłużając żywotność baterii i pozwalając dziecku zapaść w najgłębszy sen.
-Świetny pomysł na prezent dla maluchów, które boją się ciemności. Być może najlepszą rzeczą w tej niezwykłej lampce jest to, że staje się pluszowym przyjacielem, towarzyszącym dziecku na dobranoc przez wiele lat!
-Wymaga 3 baterii AA (brak w zestawie).</opis>
-<zdjecia>https://marini.pl/b2b/pictures/786288-1.jpg https://marini.pl/b2b/pictures/786288-2.jpg https://marini.pl/b2b/pictures/786288-3.jpg https://marini.pl/b2b/pictures/786288-4.jpg https://marini.pl/b2b/pictures/786288-5.jpg https://marini.pl/b2b/pictures/786288-6.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>786289</kod>
-<nazwa>Cloud B CLTT-7323-T2P N10/20 Lampka nocna + pozytywka Żółw różowy 2w1</nazwa>
-<cena>94.60</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>0872354012974</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Odpłyń łagodnie w krainę dobrych snów pod rozgwieżdżonym niebem.
-Twinkling Twilight Turtle to nowa wersja naszego, oryginalnego i wielokrotnie nagradzanego Twilight Turtle!
-Teraz z dwoma kojącymi melodiami i setką gwiazd, które lampka może wyświetlać w trzech, pojedynczych kolorach, a także utworzyć wielokolorowy pokaz świetlny.
-Niech strach przed ciemnością stanie się przeszłością. Twinkling Twilight Turtle zmienia straszny, ciemny pokój w rozgwieżdżone prawdziwymi konstelacjami niebo na suficie i ścianach sypialni. Rodzice mogą po zgaszeniu świateł opowiadać dziecku o gwiazdach. Ilustrowany Przewodnik po gwiazdach Twinkling Twilight Turtle pomaga zauważyć Mały wóz i Wielką Niedźwiedzicę migoczące nad Tobą. Ponadto, możliwość wyboru trzech, kojących kolorów, pozwala dziecku nie tylko nauczyć się je rozpoznawać, a także naprawdę je doświadczyć - kolor bursztynowy promieniuje ciepłem i spokojem, zieleń tworzy radosną i odprężającą atmosferę, a niebieski pomaga wyciszyć zmysły.
-Cechy:
-odtwarza dwie melodie (Dolphin Dreams i Clair De Lune)
-efekt "migoczącej" gwiazdy oraz dwa, inne, zabawne efekty
-lampka wyświetla na suficie i ścianach pokoju dziecka rozgwieżdżone niebo - 8 konstelacji
-wyświetlane kolory: błękit oceanu, szmaragdowa zieleń i bursztyn
-regulowany poziom głośności
-regulator czasowy, który wyłącza lampkę po 45 minutach
-ilustrowany przewodnik po gwiazdach pomaga zidentyfikować konstelacje, podczas wyświetlania pojedynczych kolorów
-Wystarczy nacisnąć przycisk na skorupie żółwia, aby uruchomić konstelacje i cieszyć się ich efektem przez pełne 45 minut - tyle wystarczy, aby większość dzieci mogła spokojnie zasnąć. Po tym czasie lampka automatycznie się wyłącza, tym samym przedłużając żywotność baterii i pozwalając dziecku zapaść w najgłębszy sen.
-Świetny pomysł na prezent dla maluchów, które boją się ciemności. Być może najlepszą rzeczą w tej niezwykłej lampce jest to, że staje się pluszowym przyjacielem, towarzyszącym dziecku na dobranoc przez wiele lat!
-Wymaga 3 baterii AA (brak w zestawie).</opis>
-<zdjecia>https://marini.pl/b2b/pictures/786289-1.jpg https://marini.pl/b2b/pictures/786289-2.jpg https://marini.pl/b2b/pictures/786289-3.jpg https://marini.pl/b2b/pictures/786289-4.jpg https://marini.pl/b2b/pictures/786289-5.jpg https://marini.pl/b2b/pictures/786289-6.jpg https://marini.pl/b2b/pictures/786289-7.jpg https://marini.pl/b2b/pictures/786289-8.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>25311</kod>
-<nazwa>Cloud B CLTT-7323-ZZ Lampka nocna żółw magiczne 8 konstelacji Brązowy</nazwa>
-<cena>87.89</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>872354007208</EAN>
-<grupa>CLOUD B</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/25311-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>21343</kod>
-<nazwa>Cloud B CLTT-7423-AQ Lampka nocna Żółw podwodny niebieski</nazwa>
-<cena>122.44</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>872354008236</EAN>
-<grupa>CLOUD B</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/21343-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>784064</kod>
-<nazwa>Cloud B CLTT-7423PK N10/2020 Lampka nocna Żółw podwodny różowy</nazwa>
-<cena>122.44</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>872354008519</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Niech fale oceanu przeniosą dziecko do krainy snów...
-Nasz pierwszy produkt, który łączy cechy wizualne i dźwiękowe. Tranquil Turtle zmieni pokój Twojego dziecka w oazę spokoju. Projektor świetlny tworzy spokojny, podwodny efekt, wraz z falującym morzem, podczas gdy efekty dźwiękowe oferują dwie, uspokajające opcje: delikatną melodię lub szumiące fale.
-Tranquil Turtle, zdobywca nagrody Infant Toy of the Year oraz Seal of Approval of National Parenting Center, to świetne rozwiązanie dla dzieci, które boją się ciemności.
-Cechy:
-Magiczne, uspokajające światło i kojące dźwięki pomogą w zapadnięciu w błogi sen
-działa kojąco na zmysł wzroku i słuchu
-lampka wyświetla magiczny podwodny efekt świetlny z delikatnym ruchem fal
-odtwarza kojące dźwięki (jedna melodia i szum morza), z 6 regulowanymi poziomami głośności
-skorupa świeci na relaksujący zmysły kolor - aquamarine
-możliwość regulacji jasności
-automatyczne wyłączanie po 23 minutach
-3 x baterie AA w zestawie
-lampka może towarzyszyć maleństwu już od jego pierwszych dni
-Pomimo swojego sennego wyglądu żółw w rzeczywistości pracuje podwójnie, aby pomóc dziecku zasnąć. Odtwarza jeden z dwóch uspokajających dźwięków (sprawdzony sposób na pobudzenie snu). I jak wielu, z Was rodziców pewnie wie, wyobraźnia może szaleć w nocy i czasami przerażać maluchów. Tranquil Turtle tworzy podwodny świat, oświetlając drogę do bardziej komfortowego i spokojnego snu.
-Łatwy w obsłudze
-Miękki, pluszowy, z wytrzymałą plastikową skorupą. Żółwia najlepiej umieścić na podłodze, pośrodku pokoju i zgasić światło, aby uzyskać pełny, uspokojający efekt oceanu na suficie i ścianach. Wystarczy nacisnąć przycisk na skorupie żółwia, aby uruchomić projektor świetlny i cieczyć się jego blaskiem przez pełne 23 minuty - tyle wystarczy, aby większość dzieci mogła spokojnie zasnąć i przenieść się w krainę snów. Po tym czasie, lampka automatycznie się wyłącza, tym samym przedłużając żywotność baterii i pozwalając dziecku zapaść w najgłębszy sen, zgodnie z zaleceniami pediatrów. W razie potrzeby ponowne naciśnięcie przycisku aktywuje projekcję.
-Świetny pomysł na prezent dla maluchów, które boją się ciemności, a także dla dorosłych, którzy mają problemy z zasypianiem. Być może najlepszą rzeczą w tej niezwykłej lampce jest to, że staje się pluszowym przyjacielem, towarzyszącym dziecku na dobranoc przez wiele lat!
-
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/784064-1.jpg https://marini.pl/b2b/pictures/784064-2.jpg https://marini.pl/b2b/pictures/784064-3.jpg https://marini.pl/b2b/pictures/784064-4.jpg https://marini.pl/b2b/pictures/784064-5.jpg https://marini.pl/b2b/pictures/784064-6.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>786287</kod>
-<nazwa>Cloud B CLTT-7473 Lampka nocna Jednorożec 3 konstelacje</nazwa>
-<cena>68.53</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>0772354010567</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Urocza lampka, z motywem jednorożca, pomaga dzieciom w pokonaniu strachu przed ciemnością w najsłodszy z możliwych sposobów!
-Twilight Buddies™ to niezwykle przytulni przyjaciele, którzy zmienią straszny, ciemny pokój w rozgwieżdżone prawdziwymi konstelacjami niebo na suficie i ścianach sypialni. W kojącej, gwiezdnej projekcji ukryty jest księżyc i 3 konstelacje!
-Zabawny, pluszowy kumpel w dzień i kojące światło w nocy. Twilight Buddies będzie jednym z najlepszych przyjaciół Twojego dziecka podczas zabawy, przed snem, zawsze i wszędzie!
-Cechy:
-łagodzi strach przed ciemnością
-wyświetla rzeczywiste konstelacje gwiazd
-automatyczny wyłącznik po 45 minutach, podczas głębokiego snu dziecka, zgodnie z zaleceniami pediatrów
-wyświetlane kolory: błękit oceanu, szmaragdowa zieleń i bursztyn
-opcja automatycznego przejścia przez wszystkie trzy kolory
-długotrwałe światła LED zapewniają również chłodzenie powłoki
-3 x baterie AA w zestawie
-Urocze, edukacyjne i kojące
-Rozświetl drogę do snu, dzięki Twilight Buddies, które mają taki sam efekt uspokajający jak nasze wielokrotnie nagradzane Twilight Turtle
-Wybierz ulubioną postać dla Twojego dziecka, a zanim się zorientujesz, będzie z niecierpliwością czekać na porę snu! Wystarczy umieścić tę małą, pluszową zabawkę na podłodze, pośrodku pokoju i zgasić światło, aby uzyskać pełny, niebiański efekt spania pod gwiazdami. Ponadto, możliwość wyboru trzech, kojących kolorów, tworzy niepowtarzalną atmosferę, wprowadzającą w przyjemny i pozytywny nastrój, a do tego pozwala dziecku nie tylko nauczyć się rozpoznawać kolory, a także naprawdę je doświadczyć. Kolor bursztynowy promieniuje ciepłem i spokojem, zieleń tworzy radosną i odprężającą atmosferę, a niebieski pomaga wyciszyć zmysły.
-Powłoka Twilight Buddies rzuca również ciepły blask, który sprawia, że ciemność jest mniej zniechęcająca.
-Łatwy w użyciu
-Miękki, pluszowy, z wytrzymałą plastikową skorupą. Wystarczy nacisnąć przycisk na skorupie jednorożca, aby uruchomić konstelacje i cieszyć się ich efektem przez pełne 45 minut - tyle wystarczy, aby większość dzieci mogła spokojnie zasnąć i przenieść się w krainę snów. Po tym czasie lampka automatycznie się wyłącza, tym samym przedłużając żywotność baterii i pozwalając dziecku zapaść w najgłębszy sen, zgodnie z zaleceniami pediatrów.
-Świetny pomysł na prezent dla maluchów, które boją się ciemności, a także dla dorosłych, którzy mają problemy z zasypianiem. Być może najlepszą rzeczą w tej niezwykłej lampce jest to, że staje się pluszowym przyjacielem, towarzyszącym dziecku na dobranoc przez wiele lat!</opis>
-<zdjecia>https://marini.pl/b2b/pictures/786287-1.jpg https://marini.pl/b2b/pictures/786287-2.jpg https://marini.pl/b2b/pictures/786287-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>784063</kod>
-<nazwa>Cloud B CLTT-7663 Przytulanka pozytywka Panda</nazwa>
-<cena>85.69</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>872354012202</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Gigantyczne uściski i spokojne dźwięki ukoją Twojego malucha do spokojnego snu.
-Ulubione uspokajające dźwięki powracają w zupełnie nowej postaci! Ten sympatyczny, milutki przyjaciel jest idealnym towarzyszem na noc, dzięki ukrytemu panelowi dżwiękowemu, który odtwarza osiem kojących dźwięków i melodii, aby wprowadzić malucha w spokojny, relaksujący sen. Niezwykle milutka i miękka pozytywka Panda będzie ulubionym pluszowym towarzyszem zabaw Twojego dziecka w ciągu dnia i Twoim ulubionym rozwiązaniem na sen dziecka w nocy.
-Funkcje:
-8 kojących dźwięków i melodii: Mother's Heartbeat, Spring Showers, Ocean Surf, Whale Songs, Twinkle Twinkle, Rockabye Baby, Classical Lullaby, Soothing Melody
-Regulowana głośność
-Udowodniono naukowo, że promuje lepszy sen
-Dwie opcje autumatycznego wyłączenia: 23 i 45 minut
-Łatwe zapięcie na rzep do mocowania na łóżeczku, w wózku lub w foteliku samochodowym
-Panel grającym można wyciągnąć
-Można prać w pralce i suszyć po wyjęciu panelu grającego
-Najwyższej jakości konstrukcja wykracza poza standardy bezpieczeństwa: bez ftalanów, bez lateksu, bez ołowiu, bez BPA
-Idealny dla noworodków i starszych dzieci
-Co jest w opakowaniu:
-Super pluszowa przytulanka z ukrytym panelem dźwiękowym
-2 baterie AA (Tak! Baterie są w zestawie!)
-Działa jak sen
-Urocza Panda posiada 4 białe szumy, które koją i pomagają uspokoić maluchy, gdy nadchodzi pora snu, w tym bicia serca, które naśladuje uspokajające dźwięki znane maluszkowi z łona matki. Pozytywka dla dziecka Panda gra również cztery kołysanki, które spodobają się zarówno rodzicom, jak i dziecku, takie jak popularna Rockabye Baby. Ponieważ słuch maluszków jest bardziej wrażliwy niż dorosłego człowieka, wszystkie produkty Cloud b są utrzymywane na zalecanym poziomie dźwięku właśnie dla małych dzieci.
-Łatwa obsługa
-Dzięki 8 kojącym dźwiękom i melodiom do wyboru, Twoje dziecko zostanie przeniesione do krainy snów za naciśnięciem jednego przycisku! Panda posiada również zapięcie na rzep, dzięki któremu z łatwością przymocujesz najnowszego towarzysza Twojego maluszka do każdego łóżeczka. A kiedy Panda potrzebuje kąpieli, wyjmij głośnik i wrzuć maskotkę do prania.
-Jest wspaniałym prezentem
-Rodzice, którzy otrzymają ten prezent, będą Ci niezwykle wdzięczni! Kojące dźwięki w super uroczym pluszaku o postaci pandy to najlepszy sposób na ułatwienie zasypiania maluszkowi. Panda stanie się również ulubionym towarzyszem dziecka.
-wymiary (cm): szer. 26.5 x wys. 19 x dł/gł. 10</opis>
-<zdjecia>https://marini.pl/b2b/pictures/784063-1.jpg https://marini.pl/b2b/pictures/784063-2.jpg https://marini.pl/b2b/pictures/784063-3.jpg https://marini.pl/b2b/pictures/784063-4.jpg https://marini.pl/b2b/pictures/784063-5.jpg https://marini.pl/b2b/pictures/784063-6.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>791497</kod>
 <nazwa>CLOUD B CLTT-7700 Szumiąca Sarenka z czujnikiem ruchu i pozytywką</nazwa>
 <cena>80.77</cena>
@@ -93811,60 +93640,6 @@ waga produktu po rozpakowaniu: 0.57kg
 waga z opakowaniem: 0.6kg
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/791494-1.jpg https://marini.pl/b2b/pictures/791494-2.jpg https://marini.pl/b2b/pictures/791494-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5903311</kod>
-<nazwa>CLOUD B CLTT-7900 Lampka nocna Wieloryb biały</nazwa>
-<cena>137.97</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>3700552320089</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Wieloryb Tranquil Whale to muzyczna pluszowa zabawka z wizualnymi i dźwiękowymi efektami, które zmienią pokój Twojego dziecka w przytulną oazę spokoju.
-Lampka wyświetla magiczny podwodny efekt świetlny z delikatnym ruchem fal. Posiada wiele efektownych fal, które wyświetlając się na suficie i na ścianach tworzą niezwykły podwodny świat, a dodatkowe efekty dźwiękowe zapewniają relaksującą atmosferę.
-Umieszczona w zestawie grzechotka wieloryba wspomaga rozwój motoryczny i poznawczy dziecka. W połączeniu z lampką nocną tworzy doskonały zestaw ułatwiający zasypianie.
-Cechy lampki:
-działa kojąco na zmysł wzroku i słuchu
-lampka wyświetla podwodny efekt świetlny z delikatnym ruchem fal
-odtwarza kojące dźwięki - podwodną melodię i uspakajające fale
-skorupa wieloryba świeci w relaksującym zmysłowym kolorze - aquamarine
-opcja automatycznego wyłączania po 23 minutach
-zasilana 3 bateriami AA (brak w zestawie)
-Przytulny i uroczy wieloryb wyciszy niemowlęta przed snem, a także pomorze uspokoić dzieci, które boją się ciemności. Pozwoli maluchowi na spokojne przygotowanie się do snu. Światło pojawiające się na ścianach i suficie oraz uspokajające dźwięki stworzą relaksującą atmosferę, która pomoże dziecku szybko zasnąć.
-Łatwy w obsłudze
-Miękkiego, pluszowego wieloryba najlepiej umieścić na podłodze, pośrodku pokoju i zgasić światło, aby uzyskać wspaniały efekt morskiej głębi.
-Wystarczy nacisnąć przycisk na skorupie, aby uruchomić projektor i cieszyć się jego blaskiem przez pełne 23 minuty - tyle wystarczy, aby większość dzieci mogła spokojnie zasnąć i przenieść się do krainy snów.
-Jest wspaniałym prezentem
-Lampka nocna z grzechotką w postaci wieloryba sprawdzi się jako idealny pomysł na prezent. Przedstawiony zestaw można podarować zarówno noworodkowi, niemowlęciu, jak i nieco starszemu dziecku. Warto zdecydować się na taki upominek, ponieważ będzie cieszył przez długi czas.
-Urocza lampka nocna i grzechotka Tranquil Whale to wspaniali pomocnicy i przyjaciele podczas zasypiania Twojego dziecka.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5903311-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5903312</kod>
-<nazwa>CLOUD B CLTT-7901 Lampka nocna Wieloryb niebieski</nazwa>
-<cena>137.97</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>3700552320096</EAN>
-<grupa>CLOUD B</grupa>
-<opis>Wieloryb Tranquil Whale to muzyczna pluszowa zabawka z wizualnymi i dźwiękowymi efektami, które zmienią pokój Twojego dziecka w przytulną oazę spokoju.
-Lampka wyświetla magiczny podwodny efekt świetlny z delikatnym ruchem fal. Posiada wiele efektownych fal, które wyświetlając się na suficie i na ścianach tworzą niezwykły podwodny świat, a dodatkowe efekty dźwiękowe zapewniają relaksującą atmosferę.
-Umieszczona w zestawie grzechotka wieloryba wspomaga rozwój motoryczny i poznawczy dziecka. W połączeniu z lampką nocną tworzy doskonały zestaw ułatwiający zasypianie.
-Cechy lampki:
-działa kojąco na zmysł wzroku i słuchu
-lampka wyświetla podwodny efekt świetlny z delikatnym ruchem fal
-odtwarza kojące dźwięki - podwodną melodię i uspakajające fale
-skorupa wieloryba świeci w relaksującym zmysłowym kolorze - aquamarine
-opcja automatycznego wyłączania po 23 minutach
-zasilana 3 bateriami AA (brak w zestawie)
-Przytulny i uroczy wieloryb wyciszy niemowlęta przed snem, a także pomorze uspokoić dzieci, które boją się ciemności. Pozwoli maluchowi na spokojne przygotowanie się do snu. Światło pojawiające się na ścianach i suficie oraz uspokajające dźwięki stworzą relaksującą atmosferę, która pomoże dziecku szybko zasnąć.
-Łatwy w obsłudze
-Miękkiego, pluszowego wieloryba najlepiej umieścić na podłodze, pośrodku pokoju i zgasić światło, aby uzyskać wspaniały efekt morskiej głębi.
-Wystarczy nacisnąć przycisk na skorupie, aby uruchomić projektor i cieszyć się jego blaskiem przez pełne 23 minuty - tyle wystarczy, aby większość dzieci mogła spokojnie zasnąć i przenieść się do krainy snów.
-Jest wspaniałym prezentem
-Lampka nocna z grzechotką w postaci wieloryba sprawdzi się jako idealny pomysł na prezent. Przedstawiony zestaw można podarować zarówno noworodkowi, niemowlęciu, jak i nieco starszemu dziecku. Warto zdecydować się na taki upominek, ponieważ będzie cieszył przez długi czas.
-Urocza lampka nocna i grzechotka Tranquil Whale to wspaniali pomocnicy i przyjaciele podczas zasypiania Twojego dziecka.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5903312-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913443</kod>
@@ -98417,7 +98192,7 @@ szczotka do czyszczenia butelek i smoczków.</opis>
 <nazwa>Dr.Browns HG093 Szczoteczka do czyszczenia zębów Wydra</nazwa>
 <cena>18.05</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>072239326145</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis>Szczoteczka Dr Brown’s do czyszczenia zębów wydra jest idealna dla pierwszych mlecznych ząbków, przeznaczona do delikatnego szczotkowania. Wykonana z miękkiego włosia, które zapewnia bezpieczną higienę jamy ustnej. Posiada przyssawkę, która pozwala na przechowywanie w pozycji pionowej. Jest idealnie dopasowana do małych ust dziecka, pomaga w rozwoju umiejętności potrzebnych do samodzielnego mycia zębów. Kształt szczoteczki pozwala na łatwe trzymanie przez małe rączki. Dodatkowo kolorowy wzór wydry zapewnia świetną zabawę podczas mycia. Przeznaczona dla dzieci od 1-4 lat. Dentyści zalecają wymianę szczoteczki co trzy miesiące ze względów higienicznych i bezpieczeństwa.</opis>
@@ -106637,7 +106412,7 @@ Waga : 1,50 kg</opis>
 <nazwa>EASY GO Gondola miękka do wózka ECHO EBONY BLACK</nazwa>
 <cena>139.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5908214739899</EAN>
 <grupa>EURO CART/EASY GO/AKCESORIA</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) do wózka dla dwójki dzieci ECHO marki EASYGO
@@ -109171,7 +108946,7 @@ Szerokość: 58,5 cm
 <nazwa>ESPIRO Wózek uniwersalny MILOO 204 luxury green</nazwa>
 <cena>2586.30</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905683801065</EAN>
 <grupa>ESPIRO/WÓZKI/MILOO</grupa>
 <opis>Rodzicielstwo to najważniejsza ze sztuk pięknych, a doświadczanie życia jako sztuki to luksus. Jak sprawić, aby chwile spędzone razem z dzieckiem były jeszcze bardziej niepowtarzalne, zachwycające i wyjątkowe?
@@ -109368,9 +109143,9 @@ Oznaczenie na kartonie</opis>
 <b2b>
 <kod>5914304</kod>
 <nazwa>ESPIRO Wózek uniwersalny MILOO 209 charming touch</nazwa>
-<cena>0.00</cena>
+<cena>2586.30</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905683801089</EAN>
 <grupa>ESPIRO/WÓZKI</grupa>
 <opis/>
@@ -109788,9 +109563,9 @@ Waga: 1,70 kg</opis>
 <b2b>
 <kod>5909796</kod>
 <nazwa>EURO-CART Torba do wózka CROX CORSO CAMEL</nazwa>
-<cena>115.00</cena>
+<cena>128.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART</grupa>
 <opis>Torba do wózka dziecięcego Euro-Cart Crox / Corso Camel
@@ -109807,9 +109582,9 @@ Wykonana została z wysokiej jakości materiałów, które zapewniają trwałoś
 <b2b>
 <kod>5909567</kod>
 <nazwa>EURO-CART Torba do wózka CROX CORSO IRON</nazwa>
-<cena>115.00</cena>
+<cena>128.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>Torba do wózka dziecięcego Euro-Cart Crox / Corso Iron
@@ -109866,9 +109641,9 @@ Wykonana została z wysokiej jakości materiałów, które zapewniają trwałoś
 <b2b>
 <kod>5911235</kod>
 <nazwa>EURO-CART Torba do wózka CROX CORSO TAUPE</nazwa>
-<cena>115.00</cena>
+<cena>128.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>Torba do wózka dziecięcego Euro-Cart Crox / Corso Taupe
@@ -110964,7 +110739,7 @@ Szerokość opakowania 75 cm</opis>
 <b2b>
 <kod>5908131</kod>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO TAUPE</nazwa>
-<cena>890.00</cena>
+<cena>999.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -133287,7 +133062,7 @@ Waga:	4.9 kg</opis>
 <nazwa>INJUSA 19507 Foot To Floor Moto Tundera Honda Africa Twin</nazwa>
 <cena>153.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8410964195070</EAN>
 <grupa>INJUSA</grupa>
 <opis>Bezpieczny i solidny jeździk motor renomowanej hiszpańskiej firmy INJUSA. Doskonałe odwzorowanie prawdziwego ścigacza przyciąga uwagę swoimi najmniejszymi detalami. Precyzyjne wykończenie każdego elementu, wtopione naklejki, szerokie koła - to wszystko, by zapewnić maksymalny komfort i bezpieczeństwo! Doskonały prezent na każdą okazję dla każdego maluszka od 18 miesiąca życia. Sportowy motor z pewnością ucieszy każdego młodego fana motoryzacji.
@@ -181330,86 +181105,6 @@ Wymiary: 23 x 35 x 32.</opis>
 <stan>mała ilość</stan>
 <EAN>5901885738963</EAN>
 <grupa>MARKO</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5906683</kod>
-<nazwa>MARKO SRP-021-6 Dekoracja ścienna KOTEK</nazwa>
-<cena>3.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885738994</EAN>
-<grupa>MARKO</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5906685</kod>
-<nazwa>MARKO SRP-022-6 Dekoracja ścienna KONIK</nazwa>
-<cena>3.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885739021</EAN>
-<grupa>MARKO</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5903369</kod>
-<nazwa>MARKO SRP-023 Dekoracja ścienna Miś</nazwa>
-<cena>3.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885739052</EAN>
-<grupa>MARKO</grupa>
-<opis>Subtelne i piękne, kolorowe dekoracje, dzięki którym pokój dziecka stanie się przytulny i wyjątkowy, a dziecko chętnie będzie spędzało w nim czas.
-Dekoracje doskonale nadają się do dekoracji pokoju, kącika zabaw i innych miejsc, w których przebywają nasze pociechy.
-dekoracje wykonane są z miękkiej, bezpiecznej i nietoksycznej, podwójnej pianki EVA
-proste do zawieszenia oraz do usunięcia
-montowane na taśmie dwustronnej
-wiek: 3lat+
-materiał: pianka EVA
-wymiary (cm): szer. 16.5 x wys. 23 x dł/gł. 0.5
-waga z opakowaniem: 0.03kg
-EAN: 5901885739052</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5903369-1.jpg https://marini.pl/b2b/pictures/5903369-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908661</kod>
-<nazwa>MARKO SRP-029 Dekoracja ścienna Króliczek</nazwa>
-<cena>3.59</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885740409</EAN>
-<grupa>DEKORACJE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5908662</kod>
-<nazwa>MARKO SRP-030 Dekoracja ścienna Owieczka</nazwa>
-<cena>3.59</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885740430</EAN>
-<grupa>DEKORACJE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5908663</kod>
-<nazwa>MARKO SRP-031 Dekoracja ścienna Piesek</nazwa>
-<cena>3.59</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885740461</EAN>
-<grupa>DEKORACJE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5908664</kod>
-<nazwa>MARKO SRP-032 Dekoracja ścienna Tygrysek</nazwa>
-<cena>3.59</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901885740492</EAN>
-<grupa>DEKORACJE</grupa>
 <opis/>
 </b2b>
 <b2b>
@@ -259137,7 +258832,7 @@ Wysokość (65 cm).
 <nazwa>SMILY PLAY 0740 Smartfon</nazwa>
 <cena>34.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4895038507401</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>To kolorowa zabawka wyglądająca zupełnie jak prawdziwy smartfon !Bardzo realistyczny wygląd i sposób zabawy sprawiają, że jest idealna dla nowoczesnego maluszka. Świetna zabawa dla każdego smyka.
@@ -259153,29 +258848,6 @@ Wiek: od 6 miesięcy.
 
 Zasilanie: 2 bateria AAA, dołączona do zestawu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/766615-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>791433</kod>
-<nazwa>SMILY PLAY 0760 Konik jeździk*</nazwa>
-<cena>188.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>4895038507609</EAN>
-<grupa>SMILY PLAY/CHODZIKI I POJAZDY</grupa>
-<opis>Kolorowy konik dla dzieci ,który powozi i pobuja każdego maluszka.
-Konik ma kółka, a przy głowie wygodne uchwyty do trzymania dla małych rączek.
-Można jeździć w domu ale i na podwórku po równej płaszczyźnie.
-Konik gra wesołe melodyjki oraz rozwesela kolorowymi światełkami.
-Zabawka w przyjemnej i zachęcającej do zabawy kolorystyce, wykonana z materiałów dobrej jakości.Posiada wymagane certyfikaty.
-Konik zostanie wspaniałym towarzyszem zabaw i przyjacielem na dłużej.
-
-SPECYFIKACJA:
-• 000760 AN01
-• EAN 4895038507609
-• wym. 57 x 21 x 33 cm
-• baterie 2 x AAA (w zestawie)
-• wiek 12m+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/791433-1.jpg https://marini.pl/b2b/pictures/791433-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>784131</kod>
@@ -259645,29 +259317,6 @@ Wiek: 12 miesięcy+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/789179-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909802</kod>
-<nazwa>SMILY PLAY 48062 Ubranko dla lalki - kombinezon 48 cm</nazwa>
-<cena>18.71</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375823344</EAN>
-<grupa>SMILY PLAY/LALKI</grupa>
-<opis>MIX WZORÓW
-48062 KOMBINEZON DLA LALKI +3
-Ubranko dla lalki idealnie sprawdzi się w garderobie dla małej opiekunki. Poddaje się podczas zakładania go na lalkę. Dziewczynki lubią bawić się pięknymi lalkami, jednak aby zabawa była w pełni udana potrzeba kolorowych ciuchów aby móc jeszcze bardziej upiększać swoje lale.
-Zabawka pomaga rozwijać małą motorykę i stymuluje zmysły. Żywe kolory przykuwają uwagę dziecka i zachęca je do zabawy.
-Zabawa rozwija wyobraźnię i kreatywność.
-
-SPECYFIKACJA
-Kod producenta: 48062
-EAN: 5905375823344
-Wiek: 3+
-Rozmiar: 48 cm
-Bezpieczeństwo: CE, EN71-1, EN71-2, EN71-3
-Importer: Anek dla dzieci</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909802-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>784137</kod>
 <nazwa>SMILY PLAY 710000 Mata edukacyjna z piłeczką</nazwa>
 <cena>159.90</cena>
@@ -259754,42 +259403,6 @@ Specyfikacja:
 Wodniaki nabierają wodę i po ściśnięciu zabawnie tryskają. Są idealnie dopasowane do małej rączki. Zabawki sprawdzą się także jako gryzaki przy wyrastających pierwszych ząbkach.
 Wiek: +6mc.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5904748-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5903253</kod>
-<nazwa>SMILY PLAY 8218 Laptop dla malucha</nazwa>
-<cena>82.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375807689</EAN>
-<grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
-<opis>Laptop Mądra Główka to zabawka edukacyjna dla dzieci powyżej 3 roku życia. Wyglądem jest zbliżony do prawdziwego komputera przenośnego.
-Ten prosty laptop może dużo nauczyć nasze pociechy. Pomoże im rozwijać pamięć i koncentrację, a także naukę języka i podstaw matematyki.
-Jest bardzo prosty w obsłudze.
-Zabawka posiada różne programy i funkcje z zakresu:
-- nauki liter i pisania - nauki cyfr i liczenia (dodawanie, odejmowanie, mnożenie, dzielenie)
-- nauki kształtów
-- ćwiczeń pamięciowych Wbudowane gry
-- głodny wąż
-- głodna mysz
-- łapacz pszczół
-Funkcje zabawki:
-• 40 gier i zabaw,
-• 3 poziomy trudności,
-• quizy i zagadki,
-• podpowiedzi,
-• polskie litery,
-• nauka przez zabawę,
-• instrukcja wewnątrz pudełka,
-• wyświetlacz LCD z animacjami,
-• funkcyjna myszka.
-SPECYFIKACJA:
-• 008218
-• EAN 5905375807689
-• wym. 33 x 24,5 x 6,8 cm
-• wiek 3 +
-• baterie 2 x AA (w zestawie)</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5903253-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>788339</kod>
@@ -259892,20 +259505,6 @@ Książeczka uczy i bawi. Ma 6 różnych zabaw (3 w trybie nauki i 3 w trybie qu
 
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/766664-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909803</kod>
-<nazwa>SMILY PLAY 997 Gąsienica z muzyką i światłem</nazwa>
-<cena>29.80</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>6944167199778</EAN>
-<grupa>SMILY PLAY/ZABAWKI MUZYCZNE</grupa>
-<opis>Gąsienica plastikowa do zabawy z muzyką i światłem to interaktywna zabawka, która dostarcza dzieciom zarówno rozrywki, jak i stymulacji sensorycznej. Poniżej znajdują się kluczowe cechy tej zabawki:
-Wykonana z wysokiej jakości plastiku, który jest bezpieczny i trwały.
-Zabawka pomaga rozwijać koordynację ruchową, percepcję wzrokową i słuchową oraz zdolności motoryczne dziecka. Muzyka i światło stymulują zmysły, a ruchy gąsienicy zachęcają do aktywnej zabawy.
-Plastikowa gąsienica do zabawy z muzyką i światłem to świetny sposób na zapewnienie dziecku interaktywnej rozrywki, która jednocześnie wspiera jego rozwój. Dzięki kombinacji dźwięków, świateł i ruchu, zabawka ta zapewnia godziny angażującej i edukacyjnej zabawy.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909803-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>777201</kod>
@@ -261133,38 +260732,6 @@ Specyfikacja:
 <zdjecia>https://marini.pl/b2b/pictures/780828-1.jpg https://marini.pl/b2b/pictures/780828-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>785160</kod>
-<nazwa>SMILY PLAY SP83640 Mozaika prasowanka</nazwa>
-<cena>24.06</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375836405</EAN>
-<grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
-<opis>MOZAIKA PRASOWANKA
-W zestawie znajduje się:
-• 3000 koralików w 16 kolorach
-• 4 małe podstawki i 1 duża
-• Pęseta
-• Papier do prasowania
-
-Zacznij kreatywną zabawę! Wyjmij wszytskie elementy zestawu z kartonu. Wybierz podstawkę i zacznij zabawę umieszczając koraliki w odpowiednie miejsca.
-Nie wymaga baterii.
-Zabawka pomaga rozwijać małą motorykę i stymuluje zmysły. Żywe kolory przykuwają uwagę dziecka i zachęca je do zabawy.
-Wykonana z wytrzymałych i nietoksycznych materiałów.
-Zabawa rozwija wyobraźnię i kreatywność.
-Pomaga rozwijać zmysły dziecka, zdolności planistyczne, artystyczne i ciekawość.
-
-Ostrzeżenie! Ze względu na ryzyko oparzenia, czynność prasowania powinna wykonywać osoba dorosła.
-
-Specyfikacja:
-• SP83640
-• Wiek: 6l+
-• EAN: 5905375836405
-• Wymiary: szer. 40cm., wys. 27cm., gł.4 cm.
-• Bezpieczeństwo: EN71-1, EN71-2, ENT1-3</opis>
-<zdjecia>https://marini.pl/b2b/pictures/785160-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>789186</kod>
 <nazwa>SMILY PLAY SP83658 Grzechotka miękka piłka</nazwa>
 <cena>13.82</cena>
@@ -261606,32 +261173,6 @@ SPECYFIKACJA
 <zdjecia>https://marini.pl/b2b/pictures/788342-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>788343</kod>
-<nazwa>SMILY PLAY SP83780 Bańki pistolet</nazwa>
-<cena>19.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375837808</EAN>
-<grupa>SMILY PLAY</grupa>
-<opis>PISTOLET DO BANIEK MYDLANYCH NA BATERIE 3+
-Kod produktu: SP83780
-
-Pistolet do puszczania baniek.
-Prosta konstrukcja zabawki zapewnia zabawę na długi czas.
-Aby rozpocząć zabawę, wkręć dołączony do zestawu płyn do baniek, a następnie naciśnij spust. Gotowe!
-Funkcja puszczania baniek i żywa kolorystyka z pewnością zachęcą dziecko do zabawy na świeżym powietrzu.
-
-Zestaw zawiera:
-• Zabawka – pistolet do puszczania baniek
-• Płyn do baniek (147 ml)
-SPECYFIKACJA
-• Kod produktu: SP83780
-• Wymiary pudełka: 18,4 x 25 x 7 cm
-• Zasilanie: 3 x 1.5V AA (brak w zestawie)
-• Zabawka przeznaczona dla dzieci od 3 lat</opis>
-<zdjecia>https://marini.pl/b2b/pictures/788343-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911925</kod>
 <nazwa>SMILY PLAY SP83791 Zestaw koralików drewnianych</nazwa>
 <cena>11.65</cena>
@@ -261641,25 +261182,6 @@ SPECYFIKACJA
 <grupa>SMILY PLAY/ZABAWKI DREWNIANE</grupa>
 <opis>KORALIKI DREWNIANE 48/96 SP83791 Kreatywny zestaw do tworzenia korali,naszyjników i bransoletek. Zestaw zawiera koraliki oraz elementy ozdobne. Z zestawu można stworzyć ciekawą biżuterię – wystarczy nawlec koraliki i zawiązać końce. Zestaw daje nieograniczone możliwości projektowania własnych wzorów. Samodzielne wykonywanie biżuterii to świetny pomysł na twórcze spędzenie wolnego czasu, na rozwijanie zdolności manualnych, ćwiczenie zręczności dłoni. To też doskonałe zajęcie rozwijające wyobraźnię i kreatywność. Dla dzieci od 6 roku życia. Wymiary opakowania: 33cm x 22cm x 3,5cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911925-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5907102</kod>
-<nazwa>SMILY PLAY SP83794 Zestaw kosmetyków</nazwa>
-<cena>9.12</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375837945</EAN>
-<grupa>SMILY PLAY</grupa>
-<opis>Każda mała dziewczynka uwielbia naśladować swoją mamę lub starszą siostrę.
-Pierwsze kroki w makijażu z kosmetykami dla małej księzniczki w formie rozkładanego jednorożca.
-Całości dopełnia czerwona pomadka do ust.
-Po złożeniu zmieszczą się do torebki małej damy.
-
-SPECYFIKACJA:
-kod:SP83794
-od 3 lat
-wymiar opakowania: 31cm x 19cm x 3cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907102-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913541</kod>
@@ -261772,44 +261294,6 @@ SPECYFIKACJA
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>LALKA JULKA UCZY,ŚPIEWA,OPOWIADA SMILY PLAY SP83871 Julka śpiewa 3 piosenki opowiada 2 bajki;“Czerwony Kapturek” i “Złotowłosa i 3 misie” mówi po polsku i angielsku • ponad 60 polskich słów • ponad 60 angielskich słów Lalka wygląda jak słodki, niebieskooki dzidziuś-dziewczynka. Ma gumową główkę, rączki i stopki, brzuszek zaś jest z materiału .(zgaduję) :) Ubrana w szarą, pluszową sukienkę z wyszytą mordką kotka, różowe spodenki-śpioszki i bluzeczkę w biało-różowe paski. Na głowie różowa czapka z uroczym kwiatem, dopełnia całości. Sympatyczny bobasek, który sprawi wiele radości małej opiekunce, stanie się ulubionym towarzyszem wspólnych zabaw. Nową przyjaciółkę może wozić w wózku oraz usypiać w łóżeczku lub kołysce(nie dołączono) Lalka wykonana z dobrej jakości materiałów,starannie i precyzyjnie. Zabawka rozwija • zmysł opiekuńczy • Umiejętność kreatywnej zabawy • małą motorykę • wspiera naukę angielskiego • wspiera naukę poprawnej wymowy SPECYFIKACJA • Kod produktu: SP83871 • Wymiary lalki: wys: 32,5 × 17 × 9,5 cm • Baterie : 3x AG13 1,5V (dołączono) • Zabawka przeznaczona dla dzieci od 2 lat • Marka:Smily Play</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913722-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790292</kod>
-<nazwa>SMILY PLAY SP83877 Auto Straż</nazwa>
-<cena>35.78</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375838775</EAN>
-<grupa>SMILY PLAY</grupa>
-<opis>Takie auto to prawdziwe cacko dla małego fana motoryzacji.Auto straż posiada otwierane drzwi i sygnały świetlne i dźwiękowe.
-Włącz syrenę i ruszaj do akcji! Zostań strażakiem, bierz udział w akcjach ratunkowych!
-Samochód wykonany z plastiku dobrej jakości, z dbałością o szczegóły. Posiada wymagane atesty.
-SPECYFIKACJA:
-• SP83877 AN01
-• EAN 5905375838775
-• wym. 30 x 17 x 11,3 cm
-• baterie 2 x AA (w zestawie)
-• wiek 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790292-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790293</kod>
-<nazwa>SMILY PLAY SP83878 Auto Policja</nazwa>
-<cena>39.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375838782</EAN>
-<grupa>SMILY PLAY</grupa>
-<opis>Takie auto to prawdziwe cacko dla małego fana motoryzacji.Auto policja posiada otwierane drzwi i sygnały świetlne i dźwiękowe.
-Włącz syrenę i ruszaj do akcji! Zostań policjantem, ścigaj złodziei,bierz udział w akcjach ratunkowych!
-Samochód wykonany z plastiku dobrej jakości, z dbałością o szczegóły. Posiada wymagane atesty.
-SPECYFIKACJA:
-• SP83878 AN01
-• EAN 5905375838782
-• wym. 30 x 17 x 11,3 cm
-• baterie 2 x AA (w zestawie)
-• wiek 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790293-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5903258</kod>
@@ -262168,70 +261652,6 @@ SPECYFIKACJA:
 <zdjecia>https://marini.pl/b2b/pictures/790901-1.jpg https://marini.pl/b2b/pictures/790901-2.jpg https://marini.pl/b2b/pictures/790901-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>790785</kod>
-<nazwa>SMILY PLAY SP83946 Ubranko dla lalki 32 cm</nazwa>
-<cena>11.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375839468</EAN>
-<grupa>SMILY PLAY/LALKI</grupa>
-<opis>Każda mała dziewczynka lubi przebierać swoje lale.
-Z naszymi ubrankami wyposaży szafę bobaska w różnorodne stroje na każdą okazję. Ubranka wykonane z materiałów dobrej jakości, posiadają wymagane certyfikaty.
-SPECYFIKACJA:
-• SP83946 AN01
-• EAN 5905375839468
-• wym. 35 x 22 x 1 cm
-• wiek 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790785-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790786</kod>
-<nazwa>SMILY PLAY SP83948 Ubranko dla lalki 32 cm</nazwa>
-<cena>11.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375839482</EAN>
-<grupa>SMILY PLAY/LALKI</grupa>
-<opis>Każda mała dziewczynka lubi przebierać swoje lale.
-Z naszymi ubrankami wyposaży szafę bobaska w różnorodne stroje na każdą okazję. Ubranka wykonane z materiałów dobrej jakości, posiadają wymagane certyfikaty.
-SPECYFIKACJA:
-• SP83948 AN01
-• EAN 5905375839482
-• wym. 35 x 22 x 1 cm
-• wiek 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790786-1.jpg https://marini.pl/b2b/pictures/790786-2.jpg https://marini.pl/b2b/pictures/790786-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790787</kod>
-<nazwa>SMILY PLAY SP83951 Ubranko dla lalki 32 cm</nazwa>
-<cena>13.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375839512</EAN>
-<grupa>SMILY PLAY/LALKI</grupa>
-<opis>Każda mała dziewczynka lubi przebierać swoje lale.
-Z naszymi ubrankami wyposaży szafę bobaska w różnorodne stroje na każdą okazję. Ubranka wykonane z materiałów dobrej jakości, posiadają wymagane certyfikaty.
-SPECYFIKACJA:
-• SP83951 AN01
-• EAN 5905375839512
-• wym. 35 x 22 x 1 cm
-• wiek 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790787-1.jpg https://marini.pl/b2b/pictures/790787-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909817</kod>
-<nazwa>SMILY PLAY SP83952 Ubranko dla lalki 32 cm</nazwa>
-<cena>11.65</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375839529</EAN>
-<grupa>SMILY PLAY/LALKI</grupa>
-<opis>Ubranko dla lalki 32 cm.
-
-Każda mała dziewczynka lubi przebierać swoje lale. Z naszymi ubrankami wyposaży szafę bobaska w różnorodne stroje na każdą okazję. Ubranka wykonane z materiałów dobrej jakości, posiadają wymagane certyfikaty.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909817-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>790296</kod>
 <nazwa>SMILY PLAY SP83959 Lalka chodząca Julka</nazwa>
 <cena>69.90</cena>
@@ -262298,35 +261718,6 @@ SPECYFIKACJA:
 • wym. 20 x 36 x 12 cm
 • wiek 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/791025-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5903265</kod>
-<nazwa>SMILY PLAY SP83961 Ciasto masa fryzjer</nazwa>
-<cena>19.40</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905375839611</EAN>
-<grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
-<opis>Ciasto-masa plastyczna Fryzjer Stylista będzie idealnym prezentem dla każdego dziecka!
-Zostań fryzjerem, strzyż, czesz, układaj! Modeluj plastelinowe włosy, wymyślaj stylizacje, baw się kolorami.
-Zabawa ciasto-masą pobudza wyobraźnię, rozwija sprawność manualną oraz pomaga w nauce rozróżniania kolorów.
-W skład zestawu wchodzą:
-3 x pojemnik z ciasto-masą
-1 x fotel z podstawką
-1 x grzebień
-1 x nożyczki
-2 x foremki do wyciskania włosów
-2 x głowa
-1 x maszynka do strzyżenia
-1 x brzytwa do golenia
-Kolory ciasto-masy można ze sobą mieszać!
-
-SPECYFIKACJA:
-• SP83961 AN01
-• EAN 5905375839611
-• wym. 27 x 21,5 x 6 cm
-• wiek 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5903265-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5903627</kod>
@@ -278225,27 +277616,6 @@ Waga opakowania zbiorczego (kg): 0.410000</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912278-1.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5912239</kod>
-<nazwa>TREFL 02811 Gra Abecadło / Mały Odkrywca</nazwa>
-<cena>16.35</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900511028119</EAN>
-<grupa>TREFL</grupa>
-<opis>Abecadło to edukacyjna układanka dla przedszkolaków, która w przyjazny sposób wprowadza dzieci w świat liter. Poprzez zabawę maluchy uczą się rozpoznawać litery polskiego alfabetu oraz łączenia ich z obrazkami. To doskonały sposób na połączenie nauki z radością odkrywania alfabetu! Świetny pierwszy krok do nauki czytania i pisania.
-
-Informacje
-
-OSTRZEŻENIE! Nieodpowiednie dla dzieci w wieku poniżej 3 lat. Istnieje ryzyko zadławienia się małymi elementami.
-Szczegółowe dane
-EAN: 5900511028119
-Kod produktu: 02811
-Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
-Kraj pochodzenia: Polska
-Waga opakowania zbiorczego (kg): 0.410000</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912239-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5912014</kod>
 <nazwa>TREFL 02814 Rodzina Treflików Straż Pożarna</nazwa>
 <cena>32.71</cena>
@@ -282078,7 +281448,7 @@ Duże i grube elementy Bezpieczne, łatwe do chwytania przez małe rączki – b
 <nazwa>TREFL 40046 Puzzle 160 40-lecie Trefl Jeżyk</nazwa>
 <cena>9.85</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900511400465</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle z efektem 3D 160 el. 40-lecie Trefl - Jeżyk wchodzą w skład jubileuszowej serii układanek, która zachwyci maluchy imitacją efektu 3D.
@@ -297176,21 +296546,6 @@ Użyj przycisków ze zwierzętami, aby usłyszeć ich odgłosy i posłuchać św
 <EAN>5900511619560</EAN>
 <grupa>V-TECH</grupa>
 <opis/>
-</b2b>
-<b2b>
-<kod>5910178</kod>
-<nazwa>VTECH 61957 Kostka Małego Rajdowca</nazwa>
-<cena>163.53</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5900511619577</EAN>
-<grupa>V-TECH</grupa>
-<opis>Ruszaj w drogę z razem z bohaterami bajki Bobaski i Miś!
-
-Kostka Małego Rajdowca to wesoła zabawa na każdej 6 kolorowych ścianek. Użyj jednego z dwóch trybów zabawy: Odkrywanie lub muzyka. Naciskaj, obracaj, przesuwaj i kręć ruchomymi elementami, aby nauczyć się cyfr, nazw kolorów i świateł drogowych. Sorter kształtów, zegar, klawisze pianina, wyjmowany telefon komórkowy i koła zębate pobudzą zdolności motoryczne i pozwolą ćwiczyć koordynację wzrokowo-ruchową.
-
-Zdejmowany panel przemienia kostkę w samochód z wyposażeniem takim jak: przednia szyba, kierownica, dźwignia zmiany biegów, lusterka boczne.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910178-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>25530</kod>
