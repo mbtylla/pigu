@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-02-05T17:55:05.340">
+<MARINI timestamp="2026-02-06T17:55:05.517">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -461,7 +461,7 @@ Waga: 1.35 kg</opis>
 <nazwa>4 BABY Fotelik BOOST 125-150cm MOKKA I-SIZE</nazwa>
 <cena>67.43</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691959798</EAN>
 <grupa>4BABY/FOTELIKI/BOOST</grupa>
 <opis>Fotelik Boost i-Size stworzony jest z myślą o starszych dzieciach o wzroście 125-150 cm . Został wykonany i przetestowany zgodnie z najbardziej restrykcyjną homologacją R129  . Podwyższone podłokietniki zapewniają optymalne prowadzenie pasa, a skorupa z tworzywa sztucznego jest sprawdzona pod kątem największych obciążeń. Boost montowany jest  za pomocą 3-punktowych pasów samochodowych, dzięki czemu pasuje do samochodów bez systemu isofix.
@@ -1510,7 +1510,7 @@ Waga: 14.7 kg</opis>
 <nazwa>4 BABY Huśtawka ROCK'N RELAX XXIV BLACK</nazwa>
 <cena>218.54</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691959460</EAN>
 <grupa>4BABY</grupa>
 <opis>Rock’n relax to wygodna i przestronna huśtawka elektryczny dla dzieci do 9 kg, która stymuluje rozwój dziecka i pozwala rodzicom na chwilę odpoczynku. Dzięki przypinanemu daszkowi idealnie sprawdzi się nie tylko w pomieszczeniu, ale także w ogrodzie czy na tarasie. Wahadłowy ruch bujania odpowiada naturalnym ruchom dziecka w brzuchu mamy, co pomaga wyciszyć i uspokoić maleństwo, a także pozytywnie wpływa na pozyskiwanie nowych umiejętności.
@@ -2566,7 +2566,7 @@ Uchwyt na kubek
 <nazwa>4 BABY Wózek spacerowy RAPID XXIV GRAPHITE</nazwa>
 <cena>350.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959156</EAN>
 <grupa>4BABY/WÓZKI/RAPID</grupa>
 <opis>RAPID XXIV Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowani dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia.
@@ -4221,7 +4221,7 @@ WAŻNE: Aby bidon NIE ZAMYKAŁ się podczas picia, należy go otworzyć maksymal
 <nazwa>AKUKU A0034 Bidon ze słomką z odważnikiem SZARY</nazwa>
 <cena>19.91</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644000340</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon ze słomką z odważnikiem.
@@ -8239,6 +8239,26 @@ Opakowanie zawiera 2 szt. osłonek w etui.
 <zdjecia>https://marini.pl/b2b/pictures/5913073-1.jpg https://marini.pl/b2b/pictures/5913073-2.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914557</kod>
+<nazwa>AKUKU A0700 Łańcuszek / zawieszka do smoczka szary</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907644007004</EAN>
+<grupa>AKUKU/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914558</kod>
+<nazwa>AKUKU A0701 Łańcuszek / zawieszka do smoczka róż</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907644007011</EAN>
+<grupa>AKUKU/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5913610</kod>
 <nazwa>AKUKU A0702 Zawieszka do łóżeczka Panda</nazwa>
 <cena>25.68</cena>
@@ -10489,7 +10509,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 432 LENIWCE</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904165685384</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Mata miękka do przewijania (MM70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczona jest do nałożenia na komodę lub półkoprzewijak. Nie posiada dodatkowego usztywnienia.
@@ -10746,7 +10766,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 446 Koala w podróży</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907001940050</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania miękka MM70 
@@ -10770,7 +10790,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 447 Śpiące owieczki</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907001940067</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania miękka MM70 
@@ -12269,7 +12289,7 @@ Tkanina: welur bawełniany - 100% bawełna,  wypełnienie - 100% poliester</opis
 <nazwa>ALBERO MIO Ochraniacz do łóżeczka mięta</nazwa>
 <cena>47.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001940029</EAN>
 <grupa>ALBERO MIO/AKCESORIA/OCHRANIACZE</grupa>
 <opis>Ochraniacz do łóżeczek dziecięcych o wymiarze 120x60 cm
@@ -15576,7 +15596,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak twardy krótki CP2 Gąska Gaja</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165685926</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy PT70
@@ -17932,7 +17952,7 @@ Wymiar: 62x34 cm</opis>
 <nazwa>ALBERO MIO Śpiworek do spania S 1,5 tog CP2 Gąska Gaja</nazwa>
 <cena>71.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165686008</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ŚPIWORKI</grupa>
 <opis>Śpiworek do spania dla dzieci 1,5 tog jest wykonany z satyny bawełnianej we wzór. To idealne rozwiązanie dla maluchów. Stworzony został, aby zapewnić wygodę, bezpieczeństwo i komfort podczas snu dziecka. 
@@ -25722,7 +25742,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <cena>24.95</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
-<EAN>872068904324</EAN>
+<EAN>8720689041324</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultrasoft – wyjątkowo delikatny dla skóry wrażliwej
 Najwyższej klasy pielęgnacja skóry wrażliwej dzięki elastycznej tarczce. 9 na 10 rodziców zgadza się: dziecko nie odczuwa podrażnień skóry po rozpoczęciu używania ultramiękkiego smoczka.** Ukojenie jest zawsze w zasięgu ręki, niezależnie od tego, kto opiekuje się dzieckiem. Teraz w 80% pochodzenia roślinnego.*
@@ -27524,7 +27544,7 @@ Woreczek został wykonany z materiału niezawierającego bisfenolu A</opis>
 <nazwa>AVENT SCF619/05 Pojemniki Via 180 ml + pokrywki</nazwa>
 <cena>28.98</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103671688</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/POJEMNIKI VIA</grupa>
 <opis>Philips Avent Pojemniki na pokarm 5 x 180 ml + pokrywki SCF619/05. 
@@ -28147,7 +28167,7 @@ Butelka dla niemowląt 330 ml: 1 pcs</opis>
 <nazwa>AVENT SCY930/01 Butelka Responsywna Natural szklana 120 ml</nazwa>
 <cena>36.06</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103990758</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>Wsparcie naturalnego rytmu ssania niemowlęcia
@@ -28351,7 +28371,7 @@ Smoczek z regulacją przepływu (4 prędkości):
 <nazwa>AVENT SCY965/02 Smoczek Responsywny Natural 6m+ Extra fast (5)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8710103985150</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Wsparcie naturalnego rytmu ssania niemowlęcia
@@ -28493,19 +28513,6 @@ spełnia najbardziej rygorystyczne normy bezpieczeństwa</opis>
 <zdjecia>https://marini.pl/b2b/pictures/778879-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>773758</kod>
-<nazwa>AXIOM 9146 Miś Olaf szary 34cm</nazwa>
-<cena>43.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>AXIOM- TULILO</grupa>
-<opis>Miś Olaf to pierwszy bohater Twojego dziecka.
-
-Podczas zabawy z przytulnym Misiem Olafem Twoje dziecko będzie najlepszym przyjacielem albo troskliwym opiekunem. Wysokojakościowy Miś z pewnością przetrwa dzieciństwo Twojej pociechy i powróci po latach, kiedy pokocha go kolejne pokolenie. Miś Olaf to doskonały prezent nie tylko dla dziecka, ale również dla każdego.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/773758-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>767774</kod>
 <nazwa>AXIOM 9181 Lalka Marcysia</nazwa>
 <cena>34.91</cena>
@@ -28540,16 +28547,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/791492-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905471</kod>
-<nazwa>AXIOM 9269 Pies Rafik czarny 23 cm</nazwa>
-<cena>27.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209892693</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
 </b2b>
 <b2b>
 <kod>5905654</kod>
@@ -28780,17 +28777,6 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909406-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909407</kod>
-<nazwa>AXIOM 9388 Miluś Piesek beżowy 25x25 cm</nazwa>
-<cena>21.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209893881</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5909407-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911249</kod>
 <nazwa>AXIOM 9407 Zabawka z dźwiękiem Jeżyk 17 cm</nazwa>
 <cena>12.43</cena>
@@ -28866,28 +28852,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5911270-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911257</kod>
-<nazwa>AXIOM 9421 Miluś Króliczek beżowy z serduszkowym noskiem</nazwa>
-<cena>21.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209894215</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911257-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911258</kod>
-<nazwa>AXIOM 9423 Pozytywka Króliczek beżowy z serduszkowym noskiem 18 cm</nazwa>
-<cena>32.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209894239</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911258-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911261</kod>
@@ -29486,7 +29450,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>B.BOX 200232 Bidon ze słomką 240 ml glow</nazwa>
 <cena>47.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965005230</EAN>
 <grupa>B.BOX</grupa>
 <opis>Ten fantastyczny bidon jest bardzo praktyczny. Może towarzyszyć dziecku na każdym kroku. W domu, na spacerze, w podróży i na plaży. Jego wyprofilowane uchwyty umożliwiają wygodny i pewny chwyt. Szczególnie mocno docenią to szkraby dopiero co uczące się samodzielnego picia. Kubek można szybko i bez problemu umyć nawet w zmywarce. By zapewnić czystość słomce można ją zdemontować i dokładnie wyczyścić. W tym celu warto dokupić zestaw wymiennych słomek ze szczoteczką do ich mycia.
@@ -39255,7 +39219,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB201008 Kubek treningowy 240 ml błękitny</nazwa>
 <cena>31.24</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007746</EAN>
 <grupa>B.BOX</grupa>
 <opis>Ten kubek treningowy, to nowy członek rodziny innowacyjnych akcesoriów b.box. Zaprojektowany po to by ułatwić twojemu dziecku przejście od niekapka do zwykłego kubka. Umożliwi zdobycie nowej umiejętności bez wywoływania potopu przy każdej próbie. Pokrywka pozwala pić jak ze szklanki jednocześnie zapobiegając nadmiernemu rozlewaniu płynu przy przechyleniu kubeczka. Dzięki temu, że jest przezroczysta dziecko widzi napój i może oceniać jak bardzo nachylić kubeczek.
@@ -44766,37 +44730,6 @@ pojemność 230 ml</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912453-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>786722</kod>
-<nazwa>B.O.1078 Miseczka z przykrywką na przekąski*</nazwa>
-<cena>26.14</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435412947</EAN>
-<grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
-<opis>Miseczka z przykrywką na przekąski
-Miseczka jest idealna podczas rozszerzania diety dziecka. Sprawdzi się także podczas nauki samodzielnego jedzenia. Przyssawka zabezpiecza przed przesuwaniem się naczynia po stole i chroni przed rozlaniem zawartości. Dołączona pokrywka niewysypka na przekąski rozwija ciekawość i pobudza zmysł dotyku.
-PRZYSSAWKA ZABEZPIECZAJĄCA
-Silikonowa przyssawka zabezpiecza miseczkę przed przesuwaniem się po stole. Zapobiega przed rozlaniem i pomaga utrzymać porządek.
-POKRYWKA DO PRZEKĄSEK
-Wykonana z delikatnego materiału zachęca dziecko do poszukiwań ulubionej przekąski wspierając rozwój zmysłu dotyku. Jednocześnie chroni przed rozsypaniem.
-ŁATWOŚĆ UŻYTKOWANIA
-Po bokach miseczki znajdują się dwa wygodne uszka ułatwiające przenoszenie naczynia.
-POKRYWKA DO PRZECHOWYWANIA
-Druga pokrywka pozwala odłożyć posiłek na później zachowując świeżość i chroni przed przechodzeniem zapachów w lodówce.
-Właściwości techniczne
-Zestaw składa się z miseczki, pokrywki do przechowywania oraz pokrywki do przekąsek
-Materiał:
-plastik
-nie zawiera Bisfenolu A
-Przeznaczone dla dzieci w wieku od 6. miesięcy (6m+)
-Wymiary
-13 x 17 x 5,5cm
-pojemność 300 ml
-Sztućce nadają się do mycia w zmywarce.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/786722-1.jpg https://marini.pl/b2b/pictures/786722-2.jpg https://marini.pl/b2b/pictures/786722-3.jpg https://marini.pl/b2b/pictures/786722-4.jpg https://marini.pl/b2b/pictures/786722-5.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5906850</kod>
 <nazwa>B.O.1079 Waga elektroniczna dla niemowląt</nazwa>
 <cena>68.00</cena>
@@ -46723,17 +46656,6 @@ Wymiary opakowania: 20 x 32 x 20 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790470-1.jpg https://marini.pl/b2b/pictures/790470-2.jpg https://marini.pl/b2b/pictures/790470-3.jpg https://marini.pl/b2b/pictures/790470-4.jpg https://marini.pl/b2b/pictures/790470-5.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5905184</kod>
-<nazwa>B.O.1498 Piszczek BUNNY SUNDAY*</nazwa>
-<cena>14.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435414552</EAN>
-<grupa>BABYONO/ZABAWKI/PISZCZKI</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5905184-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5906851</kod>
 <nazwa>B.O.1511 Książeczka sensoryczna SEASONS</nazwa>
 <cena>19.80</cena>
@@ -46909,7 +46831,7 @@ Dane techniczne:
 <nazwa>B.O.1516 Torba dla mamy/do wózka COCO</nazwa>
 <cena>108.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435412763</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Stylowa mama, kochająca modę postawi zawsze na wygodną elegancję. A cóż nie wpisuje się bardziej w definicję szyku niż mała czarna… torebka. Małą i równocześnie pojemną torbę dla mamy COCO z możliwością doczepienia jej do wózka cechują doskonałe rozwiązania techniczne i świetny wygląd. Wybierz dla siebie idealną torbę w prawdziwie miejskim stylu.
@@ -47511,43 +47433,6 @@ Wymiar: 25 x 25 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907897-1.jpg https://marini.pl/b2b/pictures/5907897-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5907898</kod>
-<nazwa>B.O.1538 Przytulanka kocyk BLINKY CLOUD*</nazwa>
-<cena>14.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435415597</EAN>
-<grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
-<opis>Blinky Cloud to produkt dwa w jednym: kocyk i przytulanka w kształcie chmurki. Jest wykonany z muślinu – jednego z najdelikatniejszych materiałów. Dzięki temu nadaje się dla noworodków od pierwszych dni życia. Ma walory edukacyjne i sensoryczne. Supełki na rogach i metki pomagają ćwiczyć zręczność. Detale przyciągają wzrok malucha. Tkanina muślinowa zapewnia optymalny przepływ powietrza.
-
-CECHY:
-MIĘKKI MATERIAŁ
-
-Wykonany z bawełnianego materiału. Muślin słynie z delikatności, dlatego nadaje się dla dzieci od pierwszych dni życia.
-
-KOCYK I PRZYTULANKA W JEDYM
-
-Blinky Cloud to kocyk i przytulanka w jednym. Przyjazna, uśmiechnięta chmurka zapewni dziecku poczucie bezpieczeństwa. Zawsze w zasięgu małych dłoni, chętna do przytulenia – także przez sen.
-
-WSPARCIE ROZWOJU SENSORYCZNEGO
-
-Supełki na rogach pomagają dziecku ćwiczyć zręczność. Przyczepione kolorowe metki zapewniają dodatkowe bodźce sensoryczne, które rozwijają zdolności poznawcze malucha.
-
-INTERAKTYWNA ZABAWKA
-
-Pluszowa chmurka oczarowuje ciepłym spojrzeniem i uśmiechem. Zachęca do przytulania! Wspiera rozwój zmysłów w angażujący i przyjemny sposób.
-
-ODPOWIEDNI ROZMIAR
-
-Kocyk ma idealnie dopasowany rozmiar do małych rączek dziecka. Dzięki temu jest doskonałym towarzyszem malucha.
-
-Dane techniczne
-Materiał: bawełna
-Wiek dziecka: 0 m+
-Wymiar: 25 x 25,5 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907898-1.jpg https://marini.pl/b2b/pictures/5907898-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908259</kod>
 <nazwa>B.O.1539 Przytulanka kocyk BABY BUNNY</nazwa>
 <cena>21.00</cena>
@@ -47788,35 +47673,6 @@ Wymiar opakowania: 10 x 16 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909372-1.jpg https://marini.pl/b2b/pictures/5909372-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909373</kod>
-<nazwa>B.O.1547 Grzechotka SNAIL*</nazwa>
-<cena>7.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435415894</EAN>
-<grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
-<opis>Nasza grzechotka to idealna zabawka stymulująca rozwój zmysłów malucha. Wykonana z bezpiecznych materiałów, posiada ergonomiczny kształt, który doskonale pasuje do małych rączek. Dźwięki wydawane przez grzechotkę pobudzają słuch dziecka, a różnorodne tekstury pomagają rozwijać zmysł dotyku.
-
-CECHY:
-PRAKTYCZNA I BEZPIECZNA
-
-Umożliwia wygodne trzymanie w małych rączkach dziecka. Wykonana jest z bezpiecznych i trwałych materiałów, bez ostrych krawędzi.
-
-STYMULUJĄCE DŹWIĘKI
-
-Potrząsając grzechotką wytwarza ona delikatne dźwięki, które rozwijają słuch dziecka, a kolorowe kulki przyciągają jego uwagę.
-
-ROZWÓJ MOTORYCZNY
-
-Poruszanie grzechotką wspiera rozwój zdolności motorycznych u niemowląt, pomagając w rozwijaniu umiejętności chwytania i manipulacji przedmiotami.
-
-Dane techniczne
-Wiek dziecka: 3 m+
-Wymiar produktu: 11 x 9 cm
-Wymiar opakowania: 10 x 15 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909373-1.jpg https://marini.pl/b2b/pictures/5909373-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5909375</kod>
 <nazwa>B.O.1549 Grzechotka STAR</nazwa>
 <cena>7.90</cena>
@@ -47873,46 +47729,6 @@ Wiek dziecka: 3 m+
 Wymiar produktu: 9,5 x 10 cm
 Wymiar opakowania: 10 x 16 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909376-1.jpg https://marini.pl/b2b/pictures/5909376-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908857</kod>
-<nazwa>B.O.1551 Gryzak do podawania pokarmów DINO*</nazwa>
-<cena>11.70</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435415955</EAN>
-<grupa>BABYONO/AKCESORIA</grupa>
-<opis>Gryzak do podawania pokarmów to niezastąpiony pomocnik podczas nauki jedzenia dla maluchów. Jest idealny w procesie rozszerzania diety dziecka i zachęca do próbowania nowych przysmaków. Dzięki gryzakowi możesz bezpiecznie podać swojemu dziecku świeże warzywa, owoce oraz inne pokarmy. Wytrzymały silikon jest łatwy do czyszczenia oraz zapewnia bezpieczeństwo podczas gryzienia pokarmów, eliminując ryzyko zakrztuszenia. Co więcej, gryzak delikatnie ukoi dziąsła dziecka podczas ząbkowania i przyniesie ulgę dla obolałych dziąseł. Dzięki kompaktowemu rozmiarowi możesz zabrać gryzak gdziekolwiek się udasz, a poręczny uchwyt zachęci Twoje dziecko do samodzielnego jedzenia.
-
-CECHY:
-RÓŻNORODNOŚĆ W DIECIE DZIECKA
-
-Wprowadzanie warzyw i owoców uczy malucha poznawania różnorodnych smaków i konsystencji, pomaga rozwijać zdrowe nawyki żywieniowe. Dzięki zastosowaniu silikonowego podajnika, dziecko nie zadławi się podczas próbowania nowych pokarmów stałych.
-
-WYKRĘCANY MECHANIZM
-
-Zastosowany mechanizm ułatwia wyciskanie i wypychanie pokarmów bliżej ust malucha. Możesz bezpiecznie kontrolować ilość i dostępność pokarmu, który próbuje Twoje dziecko.
-
-ULGA PODCZAS ZĄBKOWANIA
-
-W momencie, gdy dziecko przechodzi przez okres ząbkowania, jego dziąsła mogą być bardzo wrażliwe. Miękki silikonowy gryzak pomoże Twojemu dziecku złagodzić ból spowodowany ząbkowaniem.
-
-PRZEMYŚLANA KONSTRUKCJA
-
-Poręczny uchwyt jest idealny dla małych rączek dziecka i zachęca go do samodzielnego jedzenia. Jest to wygodne rozwiązanie, które umożliwia karmienie dziecka w dowolnym miejscu i czasie.
-
-BEZPIECZNY I PROSTY W CZYSZCZENIU
-
-Gryzak jest pozbawiony szkodliwego BPA. Przemyślana konstrukcja ułatwia utrzymanie go w czystości. Możesz bezpiecznie sparzyć gryzak wrzącą wodą lub przemyć go w bieżącej wodzie.
-
-DWA ROZMIARY KOŃCÓWEK
-
-W zestawie znajdziesz dwa rozmiary końcówek ( 6 oraz 12 miesięcy ) pozwalające na dostosowanie produktu do wieku i umiejętności dziecka.
-
-OSŁONKA Z MIARKĄ
-
-Osłonka z miarką to praktyczne rozwiązanie, które umożliwi Tobie kontrolowanie ilości podawanego płynu w szybki i wygodny sposób oraz utrzymuje silikonową końcówkę w czystości.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908857-1.jpg https://marini.pl/b2b/pictures/5908857-2.jpg https://marini.pl/b2b/pictures/5908857-3.jpg https://marini.pl/b2b/pictures/5908857-4.jpg https://marini.pl/b2b/pictures/5908857-5.jpg https://marini.pl/b2b/pictures/5908857-6.jpg https://marini.pl/b2b/pictures/5908857-7.jpg https://marini.pl/b2b/pictures/5908857-8.jpg https://marini.pl/b2b/pictures/5908857-9.jpg https://marini.pl/b2b/pictures/5908857-10.jpg https://marini.pl/b2b/pictures/5908857-11.jpg https://marini.pl/b2b/pictures/5908857-12.jpg https://marini.pl/b2b/pictures/5908857-13.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913239</kod>
@@ -48412,63 +48228,6 @@ Wymiar: 25 x 25 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5910065-1.jpg https://marini.pl/b2b/pictures/5910065-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5910066</kod>
-<nazwa>B.O.1560 Piszczek z gryzakiem KOALA CHARLIE*</nazwa>
-<cena>16.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435416129</EAN>
-<grupa>BABYONO</grupa>
-<opis>Poznaj miękki i miły piszczek Koala Charlie. Idealny do przytulania i pocieszania.
-
-Wystarczy delikatnie nacisnąć zabawkę, by usłyszeć radosne piszczenie.
-
-Duże uszy pomagają ćwiczyć zręczność. Kontrastowe elementy przyciągają wzrok dziecka.
-
-Koala ma też gryzak, który pomoże maluchowi podczas ząbkowania.
-
-CECHY:
-INTERAKTYWNY
-
-Piszczek to zabawka dźwiękowa, prowokująca reakcję dziecka. Kiedy maluch ją ściśnie, usłyszy dźwięk. To świetny trening i zachęta do zabawy!
-
-ROZWÓJ ZMYSŁÓW
-
-Kontrastowe elementy i wzory pobudzają zmysł wzorku. Duże uszy pozwalają na ćwiczenie chwytu dziecka. A uśmiechnięta buzia wzbudza ciekawość.
-
-GRYZAK
-
-Elastyczny gryzak koi podrażnione dziąsła podczas wyrastania pierwszych ząbków.
-
-Dane techniczne
-Materiał: 100% poliester
-Wiek dziecka: 3 m+
-Wymiar: 12 x 25 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910066-1.jpg https://marini.pl/b2b/pictures/5910066-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5910067</kod>
-<nazwa>B.O.1561 Przytulanka kocyk LLAMA LUNA*</nazwa>
-<cena>20.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435416136</EAN>
-<grupa>BABYONO/ZABAWKI</grupa>
-<opis>Llama Luna łączy w sobie kocyk i przytulankę. Rozwija zmysły dziecka od pierwszych dni życia.
-Kolorowe supełki pomagają ćwiczyć zręczność. W przytulance znajduje się mały szeleścik oraz delikatna grzechotka. Elastyczny gryzak koi podrażnione dziąsła. Pluszowy materiał kocyka jest bardzo delikatny w dotyku.
-MIĘKKI MATERIAŁ
-Nadaje się dla niemowląt od pierwszych dni życia.
-KOCYK I PRZYTULANKA W JEDNYM
-Llama Luna to kocyk i przytulanka w jednym. Zawsze w zasięgu małych rączek, gotowy do przytulenia w trakcie snu i zabawy.
-POBUDZENIE ROZWOJU ZMYSŁÓW
-Kolorowe supełki pomagają dziecku ćwiczyć zręczność i pobudzają zmysł wzroku. Przytulanka zawiera mały szeleścik. Elastyczny gryzak koi podrażnione dziąsła.
-GRZECHOTKA
-Wewnątrz przytulanki znajduje się grzechotka. Zapewnia miły, cichy dźwięk. Przyciąga uwagę malucha. Jest delikatna – nie obudzi pociechy w trakcie snu.
-ODPOWIEDNI ROZMIAR
-Kocyk jest idealnie dopasowany do małych rączek dziecka.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910067-1.jpg https://marini.pl/b2b/pictures/5910067-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5910068</kod>
 <nazwa>B.O.1562 Piszczek z gyzakiem LLAMA LUNA*</nazwa>
 <cena>16.00</cena>
@@ -48647,28 +48406,6 @@ Wyposażenie się w pojemnik na smoczek jest gwarancją, że w każdej chwili b�
 Proponowane przez nas pojemniczki będzie w stanie uchronić smoczek przed upadkiem i zabrudzeniem, przez co doskonale sprawdzą się w trakcie spacerów oraz podróży. Możesz mieć również pewność, że ulubiony smoczek Twojego malucha będzie przechowywany w higienicznym oraz bezpiecznym miejscu. Wszystkie produkty dostępne w naszym asortymencie wykonano z trwałych materiałów, niezawierających toksycznych substancji, takich jak Bisfenol A.
 Poza pojemnikiem na smoczek innym przydatnym akcesorium jest zawieszka do smoczka. Podobnie jak pudełeczko zostało ono stworzone, aby zapobiegać upadkom smoczka na ziemię i jego gubieniu się w nieoczekiwanych miejscach. Zawieszka pozwala przyczepić smoczek do ubranka malucha za pomocą tasiemki zakończonej klamerką. To rozwiązanie świetnie dopełnia funkcjonalność pudełeczka na smoczek i minimalizuje ryzyko wystąpienia sytuacji, w której mógłby się on zabrudzić. Zapoznaj się z ofertą przeznaczoną dla młodych rodziców. Akcesoria na smoczki to tylko jedne z wielu przydatnych produktów, które mogą ułatwić życie w połogu i sprawić, że czas ten nie tylko nie będzie trudny i męczący, ale stanie się źródłem pięknych wspomnień dla całej rodziny.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913758-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913760</kod>
-<nazwa>B.O.1569/03 Pojemnik na smoczek beżowy*</nazwa>
-<cena>9.70</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435417638</EAN>
-<grupa>BABYONO/AKCESORIA</grupa>
-<opis>Dla niemowlęcia ssanie piersi jest źródłem poczucia bezpieczeństwa wynikającego zarówno z tego, że ten sposób pozyskuje ono pokarm zaraz po urodzeniu. Także bliskość opiekuna koi je i sprawia, że nie czuje się zagrożone. Dopóki u matki trwa okres laktacji, dziecko realizuje przeważnie swój odruch ssania w kontakcie z nią, potem jednak najlepiej po prostu kupić mu smoczek. Smoczek sprawdzi się także w pierwszych miesiącach życia, w sytuacjach, kiedy matka odpoczywa lub jest akurat w innym miejscu. Nie ma się jednak co martwić. U czteromiesięcznego bobasa potrzeba ssania samoczynnie zanika, a dorośli mogą przestać sobie zaprzątać głowę tym, w jaki sposób pomóc mu ją zaspokoić.
-
-
-
-Dlaczego warto się wyposażyć w pojemnik na smoczek?
-
-
-Ponieważ w pierwszych miesiącach życia układ odpornościowy dziecka dopiero się rozwija, trzeba koniecznie zadbać, aby wszystko, co wkłada ono do buzi, było sterylnie czyste. Mowa o wszelkiego rodzaju butelkach i laktatorach, ale także smoczkach. Jeśli rodzic zapomni o wyparzaniu tych przedmiotów, może się to skończyć przykrymi dolegliwościami ze strony układu pokarmowego u dziecka. Są wśród nich biegunki i zatrucia pokarmowe, ale mogą się pojawić również pleśniawki. To nic przyjemnego — bobas cierpi, a na dodatek pojawia się konieczność dodatkowego sprzątania po nim, którego można uniknąć przy zachowaniu odpowiedniej higieny, zanim rozwinie się infekcja. Trzeba pamiętać o tym, że w pierwszych miesiącach życia matka jest przeważnie zmęczona ciążą, a jej organizm się regeneruje. To oznacza, że sama potrzebuje w tym czasie odpoczynku, więc nie należy narażać jej na dodatkowy stres.
-Jednym z akcesoriów przydatnych w tej sytuacji może być kompaktowy pojemnik na smoczek. To maleńkie pudełeczko jest idealnie dopasowane do kształtu smoczka. Można je bez obaw schować w kieszeni, torebce lub wózku wraz z innymi przedmiotami codziennego użytku, które wcale nie muszą być sterylnie czyste, a w zasadzie przeważnie po prostu takie nie są. Pojemnik na smoczki powinien być oczywiście wykonany z trwałych, bezpiecznych materiałów, które nie uczulają, ani nie podrażniają młodej, delikatnej skóry. W jego składzie nie może być żadnych substancji, które w jakikolwiek sposób zagrażałyby zdrowiu malucha, jak np. Bisfenol A. Na szczęście dostępne na rynku produkty spełniają wszystkie standardy jakości i nie stanowią żadnego zagrożenia dla rozwoju dzieci. Pojemniki na smoczki świetnie się sprawdzają w podróży, niezależnie czy chodzi o wyjście do parku, czy też wyprawę z prawdziwego zdarzenia, na przykład wakacje. Jeśli nie masz w danym momencie dostępu do bieżącej wody, na pewno docenisz możliwość schowania smoczka w bezpiecznym miejscu tak, aby się nie pobrudził. Pojemnik wyposażony jest w elastyczny uchwyt, który świetnie się nadaje do tego, aby przymocować je na rączce wózka, fotelika lub torby spacerowej. Umożliwi to natychmiastowe podanie go dziecku, kiedy tylko się ono czymś zestresuje i zacznie grymasić.
-Wyposażenie się w pojemnik na smoczek jest gwarancją, że w każdej chwili będziesz w stanie uspokoić swojego malucha, niezależnie od tego, co wydarzy się w najbliższym otoczeniu. Wyjęcie smoczka z pudełeczka i podanie go dziecku jest na tyle proste, że uda się nawet przy użyciu jednej ręki, podczas na przykład rozmowy przez telefon, czy wykonywania innej czynności. To duże wsparcie dla rodzica w codziennym rozgardiaszu — często musi on robić kilka rzeczy naraz, aby zdążyć z wszystkimi zadaniami. Niewątpliwą zaletą pojemniczków na smoczki jest ich przyjazny dla dzieci design. Są one tak zaprojektowane, aby nie tylko spełniać swoją funkcję, ale także cieszyć oko. Jeden z modeli ma kształt słonia, co sprawia, że w zupełnie awaryjnej sytuacji można dać go dziecku do zabawy. Pudełeczko jest jednak tak skonstruowane, że trąba plastikowego zwierzęcia może posłużyć do przytwierdzania smoczka do fotelika lub torby spacerowej.
-Proponowane przez nas pojemniczki będzie w stanie uchronić smoczek przed upadkiem i zabrudzeniem, przez co doskonale sprawdzą się w trakcie spacerów oraz podróży. Możesz mieć również pewność, że ulubiony smoczek Twojego malucha będzie przechowywany w higienicznym oraz bezpiecznym miejscu. Wszystkie produkty dostępne w naszym asortymencie wykonano z trwałych materiałów, niezawierających toksycznych substancji, takich jak Bisfenol A.
-Poza pojemnikiem na smoczek innym przydatnym akcesorium jest zawieszka do smoczka. Podobnie jak pudełeczko zostało ono stworzone, aby zapobiegać upadkom smoczka na ziemię i jego gubieniu się w nieoczekiwanych miejscach. Zawieszka pozwala przyczepić smoczek do ubranka malucha za pomocą tasiemki zakończonej klamerką. To rozwiązanie świetnie dopełnia funkcjonalność pudełeczka na smoczek i minimalizuje ryzyko wystąpienia sytuacji, w której mógłby się on zabrudzić. Zapoznaj się z ofertą przeznaczoną dla młodych rodziców. Akcesoria na smoczki to tylko jedne z wielu przydatnych produktów, które mogą ułatwić życie w połogu i sprawić, że czas ten nie tylko nie będzie trudny i męczący, ale stanie się źródłem pięknych wspomnień dla całej rodziny.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913760-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913762</kod>
@@ -50199,55 +49936,6 @@ Fartuszek jest dostępny w dwóch rozmiarach: dla dzieci od 6 miesięcy do 2 lat
 <zdjecia>https://marini.pl/b2b/pictures/5911165-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5911166</kod>
-<nazwa>B.O.1641/03 Fartuszek BUNNY*</nazwa>
-<cena>10.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435416969</EAN>
-<grupa>BABYONO/ŚLINIAKI</grupa>
-<opis>Fartuszek dla dzieci to praktyczne i wielofunkcyjne rozwiązanie, które chroni ubrania malucha podczas posiłków, zabaw plastycznych i innych kreatywnych aktywności.
-
-Fartuszek jest wodoodporny i łatwy w utrzymaniu czystości, a więc przyda się podczas nauki samodzielnego jedzenia.
-
-Możesz regulować zapięcie śliniaka i bez problemu dopasować je do obwodu szyi malucha.
-
-Jest idealnym wyborem zarówno w domu, jak i w przedszkolu.
-
-CECHY:
-CHRONI PRZED ZABRUDZENIEM
-
-Fartuszek zabezpieczy ubranie malucha przed plamami. Sprawdzi się podczas codziennych posiłków, nauki jedzenia, a także zabawy i zajęć plastycznych.
-
-ZAPIĘCIE NA RZEP
-
-Masz pewność, że maluch będzie czuć się w fartuszku komfortowo. Dzięki zapięciu na rzep, które możesz regulować, nic nie będzie uwierało szyi dziecka.
-
-KIESZONKA NA OKRUSZKI
-
-Praktyczne rozwiązania sprawdzają się najlepiej – kieszonka na okruszki skutecznie zapobiega bałaganowi i chroni ubranko przed zabrudzeniami.
-
-JEST WODOODPORNY
-
-Fartuszek zabezpieczy ubranie malucha przed plamami. Sprawdzi się podczas codziennych posiłków, nauki jedzenia, a także zabawy i zajęć plastycznych.
-
-INFORMACJE DOTYCZĄCE BEZPIECZEŃSTWA
-Usuń wszystkie zabezpieczenia, które mogą być niebezpieczne dla dziecka.
-Wyrób należy sprawdzić przed każdym użyciem. W przypadku pierwszych oznak zniszczenia lub zużycia – wyrzucić.
-Zawsze używać pod nadzorem osoby dorosłej.
-Produkt nie jest zabawką.
-Zalecamy zachować opakowanie w celach informacyjnych. Opakowanie należy przechowywać w miejscu niedostępnym dla dzieci.
-
-
-Dane techniczne
-Materiał: 100% poliester, pokryty powłoką PU
-Wymiar produktu: 34 x 33 cm
-Wymiar opakowania: 35 x 34 cm
-Wiek dziecka: 6m-2y
-Fartuszek jest dostępny w dwóch rozmiarach: dla dzieci od 6 miesięcy do 2 lat oraz od 2 lat do 4 lat –chodzących do żłobka i przedszkola.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911166-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911167</kod>
 <nazwa>B.O.1642/01 Fartuszek RACCOON</nazwa>
 <cena>11.10</cena>
@@ -50524,7 +50212,7 @@ Akumulator o pojemności 9000 mAh
 <nazwa>B.O.1647/01 Kocyk dzianinowy bawełniany różowy</nazwa>
 <cena>55.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417225</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Dzianinowy kocyk bawełniany stworzyliśmy z myślą o delikatnej skórze maluszków i troskliwych rodzicach. Powstał w 100% z certyfikowanej bawełny organicznej – bez chemikaliów, pestycydów i szkodliwych barwników. Hipoalergiczny i antybakteryjny przyjemnie otuli nawet bardzo wrażliwą i alergiczną skórę Twojego dziecka.
@@ -56030,47 +55718,6 @@ Właściwości:
 <zdjecia>https://marini.pl/b2b/pictures/773656-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>775437</kod>
-<nazwa>B.O.636 Karuzelka do łóżeczka z pozytywką DREAM TEAM*</nazwa>
-<cena>85.10</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435409183</EAN>
-<grupa>BABYONO/ZABAWKI/KARUZELKI</grupa>
-<opis>DREAM TEAM - najlepiej dobrani koledzy z ekipy C MORE uwielbiają razem grać w piłkę. Skład drużyny:
-CONNOR - pingwin przywódca, wyróżnia go wielka osobowość mimo małych rozmiarów, zwykle pilnuje porządku charakterystycznie brzęcząc;
-
-ANDY - słoń - powiernik wszystkich sekretów, zawsze znajduje czas na rozmowę, można na niego liczyć;
-
-ALBERT - hipopotam pozytywnie nastawiony do życia, wiecznie uśmiechnięty, towarzysz na każdy czas;
-
-ADELLE - żyrafa - miłośniczka zabawy i tańca, stale towarzyszy jej muzyka, wieczna optymistka.
-
-Karuzelka uniwersalna to idealny produkt dla małego dziecka, ułatwiający zasypianie. Kolorowe ptaszki i przyjazne chmurki zainteresują jego uwagę, a dźwięk pozytywki pozwoli na wyciszenie. Dzięki specjalnie zaprojektowanemu uchwytowi karuzelka może być zamontowana zarówno w łóżeczku turystycznym, jak i drewnianym.
-
-Karuzelka Dream Team jest częścią kolekcji C: MORE, liczącej 14 zabawek, która powstała w dbałości o rozwój psychomotoryczny stymulując zmysł wzroku, dotyku, słuchu. Dzięki zabawkom z najnowszej kolekcji pozwalamy dzieciom zobaczyć więcej C: MORE.
-
-Świat według dziecka:
-
-NOWORODEK - widzi to, co przed nim wyłącznie w czerni i bieli w bliskiej odległości
-3 MIESIĄCE - zaczyna widzieć, rozpoznawać rodziców, kolory
-8 MIESIĘCY - obraz staje się bardziej klarowny, koordynacja ruchu oko-ręka
-12 MIESIĘCY - widzi wyraźnie w kolorach, jednak w pełni rozwinięty wzrok osiąga w wieku 2 lat
-
-Właściwości:
-
-• umożliwia obserwację jednostajnego ruchu przedmiotów, rozwijając zmysł wzroku
-• stymuluje słuch i wyobraźnię dziecka
-• kojący dźwięk pozytywki umila zasypianie
-• jest nieskomplikowana i prosta w montażu:
-
-A)łóżeczka turystyczne - pasuje do wszystkich łóżeczek Babyono i większości łóżek turystycznych dostępnych na rynku
-B)łóżeczka drewniane - grubość poręczy łóżeczka drewnianego nie może być mniejsza niż 2 cm i większa niż 2,7 cm
-
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/775437-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>775439</kod>
 <nazwa>B.O.638 Miękka piłeczka dla niemowląt CONTRAST</nazwa>
 <cena>10.40</cena>
@@ -56649,30 +56296,6 @@ Dane techniczne:
 <zdjecia>https://marini.pl/b2b/pictures/779739-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>779740</kod>
-<nazwa>B.O.739 Przytulanka z zawieszką do smoczka OTTER MAGGIE*</nazwa>
-<cena>14.19</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435411391</EAN>
-<grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
-<opis>Wydra MAGGIE najbardziej lubi się tulić. Jej milutkie futerko jest wprost do tego stworzone! Z Maggie wszystko staje się bardziej przyjazne, oswojone i niegroźne. To najbardziej troskliwa towarzyszka przygód dla każdego Maleństwa.
-Miękka maskotka wykonana z różnych materiałów o interesujących strukturach i zaopatrzona w wewnętrzną grzechotkę rozwija umiejętności poznawcze małego Dziecka, a dodatkowo zapewnia poczucie bezpieczeństwa. Tasiemki doszyte do kocyka pomogą w ćwiczeniu zręczności, natomiast uchwyt na smoczek z dwustronnym rzepem doszyty do zabawki sprawi, że ukojenie będzie zawsze blisko.
-
-Właściwości:
-• rozwój - subtelne dźwięki grzechotania pobudzają ciekawość, zachęcają do zabawy i kształtują wyobraźnię dziecka, tasiemki doszyte do kocyka to doskonały sposób na ćwiczenie zręczności
-• przyjazna forma - miękkie materiały są idealne dla delikatnych i małych rączek dziecka
-• wygoda – teraz bardzo łatwo będzie można odnaleźć smoczek, dzięki dwustronnej tasiemce zapinanej na rzep dołączonej do produktu
-• wielofunkcyjność - funkcja przytulanki, grzechotki, zawieszki do smoczka (dla smoczków z uchwytem) i kocyka
-• do użytku w wielu miejscach - idealny do zabawy w domu, podczas spacerów, a także w podroży
-
-Dane techniczne:
-• Materiał: 100% poliester
-• Wymiary: szer. 20 cm x wys. 24 cm x gł. 7 cm
-• Waga: 0,04 kg</opis>
-<zdjecia>https://marini.pl/b2b/pictures/779740-1.jpg https://marini.pl/b2b/pictures/779740-2.jpg https://marini.pl/b2b/pictures/779740-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>779741</kod>
 <nazwa>B.O.745 Przytulanka dla niemowląt RACOON ROCKY</nazwa>
 <cena>20.19</cena>
@@ -56900,48 +56523,6 @@ Dane techniczne:
 • Wymiary: szer. 18 cm x wys. 15 cm x gł. 2 cm
 • Waga: 0,09 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/781248-1.jpg https://marini.pl/b2b/pictures/781248-2.jpg https://marini.pl/b2b/pictures/781248-3.jpg https://marini.pl/b2b/pictures/781248-4.jpg https://marini.pl/b2b/pictures/781248-5.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>781250</kod>
-<nazwa>B.O.781 Karty edukacyjne DREAM TEAM C-MORE COLLECTION*</nazwa>
-<cena>24.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435412138</EAN>
-<grupa>BABYONO/ZABAWKI</grupa>
-<opis>Karty edukacyjne DREAM TEAM przedstawiają wszystkich bohaterów z ekipy C MORE:
-• CONNORA – pingwina przywódcę, którego wyróżnia wielka osobowość mimo małych rozmiarów;
-• BRUNO – kota brytyjskiego zachwycającego swą wielkością i lubiącego wylegiwać się całymi dniami;
-• FELIXA – szopa – zwykle zaskoczonego rozwojem sytuacji, ale bardzo dobrze dostosowującego się do otoczenia;
-• ADELLE – żyrafę – miłośniczkę zabawy i tańca, której stale towarzyszy muzyka, wieczną optymistkę;
-• ANDYEGO – słonia – powiernika wszystkich sekretów, zawsze znajdującego czas na rozmowę;
-• ALBERTA – hipopotama – który jest pozytywnie nastawionym do życia i wiecznie uśmiechniętym najlepszym towarzyszem na każdy czas;
-• ARCHIEGO – pandę – miłośnika spotkań, który przywiązuje się do ludzi;
-• LUCY – fokę – z wielkimi, ufnymi oczyma, wywołującą uśmiech szeleszczącym ogonem;
-• RICHARDA – tygrysa – prawdziwego obrońcę, który rzadko ustępuje miejsca zajmując najlepszą pozycję do tulenia;
-• ZACKA – zebrę – którego wszędzie pełno i bardzo łatwo nawiązuje kontakt.
-Karty umożliwiają nabywanie nowych umiejętności, od ćwiczenia uchwytu, poprzez stymulację pracy dziąseł za pomocą gryzaków z wypustkami umieszczonych na rogach, aż do poznawania różnych faktur materiałowych. Można bawić się nimi zarówno jak książeczką, jak i oddzielonymi od siebie dwustronnymi kartami.
-Utrzymane są w wyraźnych, kontrastujących barwach, które rozwijają zmysł wzroku, wyobraźnię i umiejętność koncentracji.
-Karty edukacyjne DREAM TEAM są częścią kolekcji C: MORE, która powstała z myślą o prawidłowym rozwoju psychomotorycznym dziecka. Stymuluje zmysły wzroku, dotyku i słuchu. Dzięki zabawkom z najnowszej kolekcji pozwalamy dzieciom zobaczyć więcej: C: MORE.
-
-Świat według dziecka:
-• NOWORODEK – widzi to, co znajduje się przed nim w bliskiej odległości, wyłącznie w czerni i bieli
-• 3 MIESIĄCE – zaczyna widzieć wyraźniej i rozpoznawać rodziców oraz kolory
-• 8 MIESIĘCY – obraz przed oczami dziecka staje się klarowniejszy, maluch zaczyna ćwiczyć koordynację ruchu oko-ręka
-• 12 MIESIĘCY – dziecko widzi wyraźnie w kolorach, jednak jego wzrok w pełni rozwija się w wieku 2 lat
-
-Właściwości:
-• pomagają w nauce koordynacji wzrokowo-słuchowo-ruchowej
-• mają kontrastowe kolory wspierające rozwój wzroku dziecka
-• pomagają ćwiczyć motorykę i umiejętności manualne (chwytanie, przekładanie, zapinanie)
-• rozwijają umiejętności poznawcze poprzez stymulujące kształty i dźwięki
-• rozwijają wyobraźnię dziecka
-
-Dane techniczne:
-• Materiał: poliester
-• Wymiary: szer. 13 cm x wys. 13 cm x gł. 4 cm
-• Waga: 0,07 kg</opis>
-<zdjecia>https://marini.pl/b2b/pictures/781250-1.jpg https://marini.pl/b2b/pictures/781250-2.jpg https://marini.pl/b2b/pictures/781250-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5909052</kod>
@@ -62737,7 +62318,7 @@ Istnieje możliwość zamówienia innych wymiarów i kolorów.</opis>
 <nazwa>BABY 01848 Warkocz do łóżeczka welur brudny róż 230 cm</nazwa>
 <cena>137.07</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>BABY IN WORLD</grupa>
 <opis/>
@@ -77565,7 +77146,7 @@ Opakowanie w 85% pochodzi z recyklingu i nadaje się do ponownego recyklingu.</o
 <nazwa>CANPOL 1/652 Wkładki laktacyjne z paskiem samoprzylepnym 60szt</nazwa>
 <cena>14.60</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901691807426</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Nowe ulepszone jednorazowe wkładki laktacyjne standard w odróżnieniu od dotychczas dostępnych w ofercie standardowych wkładek posiadają wkład żelujący zapewniający wyjątkowe poczucie suchości przez długi czas. 
@@ -78679,7 +78260,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/442 Łańcuszek do smoczka uspokajającego NEWBORN BABY</nazwa>
 <cena>7.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407172613</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Łańcuszek do smoczka Canpol babies z kolekcji Gold skutecznie zabezpieczy ulubiony smoczek do uspokajania Twojego Maluszka przed upadkiem, zabrudzeniem lub zgubieniem. Solidny klips umożliwia przypięcie łańcuszka do ubrania dziecka, a dzięki prostej konstrukcji można go łatwo zamocować jedną ręką. Produkt jest bezpieczny i trwały, a zaokrąglone krawędzie eliminują ryzyko zadrapania czy skaleczenia. Dodatkowo, łańcuszek do smoczka Canpol jest delikatny dla ubrań – dobrze się trzyma, nie zostawia śladów i nie powoduje uszkodzenia materiału.</opis>
@@ -82042,7 +81623,7 @@ Butelka EasyStart Bonjour Paris wykonana została z bezpiecznego, wolnego od BPA
 <nazwa>CANPOL 35/235 Zestaw butelek do przechowywania pokarmu 3x120ml</nazwa>
 <cena>16.49</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691880641</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Mleko matki to wartościowy i najlepszy pokarm dla dziecka od pierwszych dni życia. Wiemy też z jakimi wyzwaniami i trudnościami przychodzi mamie zmierzyć się podczas okresu karmienia piersią, dlatego zestaw butelek na pokarm Canpol babies został stworzony z myślą o wykorzystywaniu mleka matki w duchu „zero waste” – do ostatniej kropli.Butelki na pokarm Canpol babies mogą być używane bezpośrednio z laktatorami, co umożliwia odciąganie, przechowywanie, podgrzewanie i karmienie dziecka mlekiem matki przy użyciu tej samej butelki. Dzięki czemu nie zmarnuje się ani kropla cennego pokarmu. W efekcie brak konieczności przelewania odciągniętego pokarmu do specjalnych woreczków sprawia, że będzie oszczędniej i mniej zmywania. Butelki można myć w zmywarce i dezynfekować w sterylizatorze oraz podgrzewać w kuchence mikrofalowej czy podgrzewaczu do butelek. Butelki są wykonane z tworzywa umożliwiającego zachowanie korzystnych właściwości mleka matki oraz jego bezpieczne przechowywanie w lodówce czy zamrażarce nawet do 6 miesięcy. Czytelna i precyzyjna skala ułatwia kontrolowanie ilości odciągniętego mleka. W zestawie znajdują się również kapsle i nakrętki zapewniające szczelne zamknięcie. Butelki można używać ze wszystkimi smoczkami do karmienia Canpol babies.Zestaw butelek na pokarm Canpol babies to doskonała pomoc przy karmieniu piersią. Został stworzony z myślą o bezpiecznym i długim przechowywaniu odciągniętego pokarmu, tak aby zapewnić mamom komfort w sytuacjach kiedy muszą wyjść z domu i zostawić dziecko pod opieką innej osoby lub chwilowym niedoborem pokarmu.
@@ -84071,7 +83652,7 @@ W opakowaniu 3 szt.</opis>
 <nazwa>CANPOL 56/136_pin Gryzak wodny z grzechotką - łapka</nazwa>
 <cena>6.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691854956</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis/>
@@ -84781,7 +84362,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/612 Kubek z silikonowym ustnikiem FirstCup 150ml BONJOUR pink</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691869967</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka. Kubek jest lekki o ergonomicznej, profilowanej budowie. Wygodne uchwyty ułatwiają dziecku trzymanie go w malutkich rączkach. Niewielka ilość elementów sprawia, że jest łatwy do składania i mycia – kubek nie ma zbędnych zakamarków, dzięki czemu można szybko umyć wszystkie części, a ustnik wyparzyć. Canpol kubek niekapek 150ml z silikonowym ustnikiem jest transparentny, co pozwala kontrolować ilości przyjmowanych płynów przez dziecko. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS posiada szczelną osłonkę, która chroni ustnik przed zabrudzeniem. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS z silikonowym ustnikiem jest idealny dla najmłodszych dzieci już od 6 miesiąca życia. W ofercie jest dostępny wymienny silikonowy ustnik. 
@@ -85750,7 +85331,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo leniwiec</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407167473</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Urocza sensoryczna zabawka z piszczkiem Canpol babies z kolekcji BabiesBoo będzie doskonałym pierwszym towarzyszem spacerów i zabaw Maluszka. Zabawka jest lekka i poręczna, idealna do treningu chwytania. Potrząsana wydaje delikatne i przyjemne dla ucha dźwięki, a po naciśnięciu wydaje ciekawy dźwięk. Miły w dotyku materiał oraz przyjazna buzia leniwca w kontrastowych kolorach przyciąga uwagę dziecka, pobudzając zmysły i wspomagając ich rozwój – wzrok, słuch i dotyk. Doszyte kolorowe metki i różnorodne materiały dodatkowo stymulują sensorycznie dziecko. Zabawka sensoryczna z piszczkiem Canpol rozwija małą motorykę poprzez chwytanie i potrząsanie oraz aktywizuje zmysł słuchu, wzroku i dotyku – to doskonały wybór dla najmłodszych dzieci.</opis>
@@ -85761,7 +85342,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo panda</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407167503</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Urocza sensoryczna zabawka z piszczkiem Canpol babies z kolekcji BabiesBoo będzie doskonałym pierwszym towarzyszem spacerów i zabaw Maluszka. Zabawka jest lekka i poręczna, idealna do treningu chwytania. Potrząsana wydaje delikatne i przyjemne dla ucha dźwięki, a po naciśnięciu wydaje ciekawy dźwięk. Miły w dotyku materiał oraz przyjazna buzia pandy w kontrastowych kolorach przyciąga uwagę dziecka, pobudzając zmysły i wspomagając ich rozwój – wzrok, słuch i dotyk. Doszyte kolorowe metki i różnorodne materiały dodatkowo stymulują sensorycznie dziecko. Zabawka sensoryczna z piszczkiem Canpol rozwija małą motorykę poprzez chwytanie i potrząsanie oraz aktywizuje zmysł słuchu, wzroku i dotyku – to doskonały wybór dla najmłodszych dzieci.</opis>
@@ -86205,7 +85786,7 @@ Kompaktowa - pomieści 8 butelek z akcesoriami.
 <nazwa>CANPOL 74/027 Śliniak silikonowy z kieszonką Bonjour Paris granatowy</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691852327</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis/>
@@ -86395,7 +85976,7 @@ W opakowaniu znajduje się 10 sztuk.</opis>
 <nazwa>CANPOL 78/008 Dyskretne podpaski poporodowe ze skrzydełkami Night</nazwa>
 <cena>8.99</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691879065</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Superchłonne podpaski poporodowe Canpol babies są idealnym rozwiązaniem dla kobiet w czasie połogu do użytkowania w domu po wyjściu ze szpitala. Podpaski poporodowe są cieńsze i dyskretniejsze niż podkłady poporodowe, ale również bardzo chłonne i oddychające. Zwykłe podpaski nie sprawdzają się w tej sytuacji. Wydłużony rozmiar podpaski o długości 42 cm został dostosowany, tak aby dobrze zabezpieczała przed przeciekaniem, także w pozycji leżącej. Podpaski poporodowe Canpol babies mają tylko 2,2 mm grubości, ale zapewniają do 100% ochrony przed przeciekaniem i dyskrecję noszenia. Ultrachłonny wkład szybko wchłania płyny i zatrzymuje wilgoć wewnątrz, zapewniając długotrwałe uczucie suchości i komfortu. Dodatkowo wyprofilowany kształt, 4 skrzydełka i szeroki pasek samoprzylepny dobrze utrzymują podpaskę na miejscu podczas codziennych aktywności oraz w nocy, gdy ruszasz się przez sen. Miękka wierzchnia warstwa jest delikatna dla skóry i całkowicie oddychająca, ściśle przylega do wypełnienia podpaski, nie rozwarstwia się zapobiegając przywieraniu do skóry i powstawaniu podrażnień. W podpaskach Canpol babies zastosowano również technologię neutralizującą nieprzyjemne zapachy, aby zachować uczucie świeżości.
@@ -86423,7 +86004,7 @@ Canpol podkłady higieniczne są przydatne również dla osób z problemem nietr
 <nazwa>CANPOL 78/011 Oddychające majtki poporodowe 2w1 z podkładem S/M</nazwa>
 <cena>11.90</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407172293</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Majtki jednorazowe 2w1 Canpol babies to rewolucyjne połączenie ultrachłonnego podkładu poporodowego i oddychających majtek, które zapewniają najwyższą ochronę i komfort w pierwszych dniach po porodzie kiedy krwawienie jest najintensywniejsze. ?
@@ -86440,7 +86021,7 @@ Majtki 2w1 stanowią niezastąpione wsparcie dla każdej kobiety po porodzie, of
 <nazwa>CANPOL 78/012 Oddychające majtki poporodowe 2w1z podkładem L/XL</nazwa>
 <cena>11.90</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5903407174952</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Majtki jednorazowe 2w1 Canpol babies to rewolucyjne połączenie ultrachłonnego podkładu poporodowego i oddychających majtek, które zapewniają najwyższą ochronę i komfort w pierwszych dniach po porodzie kiedy krwawienie jest najintensywniejsze. ?
@@ -88018,7 +87599,7 @@ Waga:
 <nazwa>CEBA 143-000-725 Przewijak miękki mały 50x70 Basic Spots</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672342498</EAN>
 <grupa>CEBA/PRZEWIJAKI</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -88051,7 +87632,7 @@ Waga:
 <nazwa>CEBA 143-000-734 Przewijak miękki mały 50x70 Basic Balloons</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672342566</EAN>
 <grupa>CEBA/PRZEWIJAKI</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -88581,7 +88162,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-731 Przewijak twardy krótki 50x70 Basic Goose</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672341811</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -88603,7 +88184,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-781 Przewijak twardy krótki 50x70 Basic Elephant Family</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672345130</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -89653,7 +89234,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 709-000-827 Cebuszka Huggy Basic jersey Abstraction (150x60x37)</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672347547</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis/>
@@ -89663,7 +89244,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 709-000-828 Cebuszka Huggy Basic jersey Flower Field (150x60x37</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672347554</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis/>
@@ -89673,7 +89254,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 709-000-829 Cebuszka Huggy Basic muślin Small Twings (150x60x37)</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672347561</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis/>
@@ -89694,7 +89275,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-742 Cebuszka PHYSIO Multi Wildflowers</nazwa>
 <cena>97.93</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342108</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Wielofunkcyjna poduszka physio - Cebuszka® Multi to poduszka relaksacyjna marki Ceba Baby. Multifunkcyjna poduszka do spania i karmienia przydatna jest zarówno dla mamy, taty, jak i maluszka. Poduszkę wypełniają drobne kuleczki - mikroperła styropianowa, która używana jest w poduszkach rehabilitacyjnych. Mikroperła, dzięki swoim właściwościom, pozwala przyjąć wygodną pozycję ciała i odciążyć kręgosłup. Cebuszka® Multi sprawdza się idealnie pod koniec ciąży, podczas karmienia maluszka, jak i późniejszej nauki siadania tworząc stabilne podparcie. Wymiary: 190 x 35 cm. Produkt posiada certyfikat Oeko – Tex Standard 100. Wielofunkcyjna poduszka Cebuszka physio jest wyrobem medycznym.</opis>
@@ -89716,7 +89297,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-745 Cebuszka PHYSIO Multi Forget-me-not</nazwa>
 <cena>97.93</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342139</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Wielofunkcyjna poduszka physio - Cebuszka® Multi to poduszka relaksacyjna marki Ceba Baby. Multifunkcyjna poduszka do spania i karmienia przydatna jest zarówno dla mamy, taty, jak i maluszka. Poduszkę wypełniają drobne kuleczki - mikroperła styropianowa, która używana jest w poduszkach rehabilitacyjnych. Mikroperła, dzięki swoim właściwościom, pozwala przyjąć wygodną pozycję ciała i odciążyć kręgosłup. Cebuszka® Multi sprawdza się idealnie pod koniec ciąży, podczas karmienia maluszka, jak i późniejszej nauki siadania tworząc stabilne podparcie. Wymiary: 190 x 35 cm. Produkt posiada certyfikat Oeko – Tex Standard 100. Wielofunkcyjna poduszka Cebuszka physio jest wyrobem medycznym.</opis>
@@ -90738,6 +90319,16 @@ Bezpieczny materiał – BPA free Kubki Chicco zostały zaprojektowane we wspó�
 <grupa>CHICCO/AKCESORIA/KUBKI, SZTUĆCE I TALERZYKI, ŚLINIAKI</grupa>
 <opis>Praktyczny kubeczek na wycieczkach i w podróży!
 Kubek termiczny towarzyszy dziecku poza domem, dłużej utrzymując temperaturę napoju i pomagając mu w nauce picia przez słomkę tak, aby mogło w każdej chwili zaspokoić pragnienie.</opis>
+</b2b>
+<b2b>
+<kod>5914552</kod>
+<nazwa>CHICCO 00006991250000 Kubek niekapek termiczny ze słomką 266ml</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>8058664180738</EAN>
+<grupa>CHICCO/AKCESORIA/KUBKI, SZTUĆCE I TALERZYKI, ŚLINIAKI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>788848</kod>
@@ -93102,6 +92693,16 @@ Kształt, wielkość i materiały, z których wykonano pierwszą łyżeczkę dla
 Pierwsza łyżeczka dla dzieci Chicco jest odpowiednio miękka, dlatego nie uszkodzi ani pierwszych ząbków, ani nie zrani dziąseł. Kształt i wielkość łyżeczki zostały tak zaprojektowane, by mieściła się ona w małej rączce. Okrągły, szeroki i specjalnie zakrzywiony uchwyt sprawia, że dziecko bez trudu trafia łyżeczką do buzi!
 Pierwsza łyżeczka dla niemowlaka dostępna jest także w zestawie naczyń dla dzieci Chicco.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/788854-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914553</kod>
+<nazwa>CHICCO 00016100250000 Pierwsza łyżeczka niebieska 8m+</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>8058664179398</EAN>
+<grupa>CHICCO/AKCESORIA/KUBKI, SZTUĆCE I TALERZYKI, ŚLINIAKI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5912466</kod>
@@ -97278,7 +96879,7 @@ WAGA:
 
 - fotelik: 4,3 kg
 - baza ISOFIX: 5,4 kg</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911043-1. https://marini.pl/b2b/pictures/5911043-2.jpg https://marini.pl/b2b/pictures/5911043-3.jpg https://marini.pl/b2b/pictures/5911043-4.jpg https://marini.pl/b2b/pictures/5911043-5.jpg https://marini.pl/b2b/pictures/5911043-6.jpg</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5911043-1.jpg https://marini.pl/b2b/pictures/5911043-2.jpg https://marini.pl/b2b/pictures/5911043-3.jpg https://marini.pl/b2b/pictures/5911043-4.jpg https://marini.pl/b2b/pictures/5911043-5.jpg https://marini.pl/b2b/pictures/5911043-6.</zdjecia>
 </b2b>
 <b2b>
 <kod>5910774</kod>
@@ -103747,7 +103348,7 @@ Przybliżone wymiary: 18 cm x 16 cm x 30 cm
 <nazwa>DREWEX Komoda IVE biały</nazwa>
 <cena>500.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902622007519</EAN>
 <grupa>DREWEX/KOMODY</grupa>
 <opis>Opis produktu:
@@ -103881,7 +103482,7 @@ Materiał: drewno sosnowe 100%</opis>
 <nazwa>DREWEX Łóżeczko ALEX biały + opuszczany bok</nazwa>
 <cena>420.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902622007250</EAN>
 <grupa>DREWEX/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -104092,7 +103693,7 @@ Wymiary:
 <nazwa>DREWEX Łóżeczko LULAYA biały opuszczany bok</nazwa>
 <cena>335.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902622007106</EAN>
 <grupa>DREWEX/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -104343,7 +103944,7 @@ Wszystko to zapakowane w oryginalny bezpieczny karton chroniący przed uszkodzen
 <nazwa>DREWEX Łóżeczko tapczanik IVE biały + szuflada</nazwa>
 <cena>640.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902622007526</EAN>
 <grupa>DREWEX/ŁÓŻECZKA</grupa>
 <opis>ŁÓŻECZKO Dziecięce Drewniane 120x60 z Szufladą IVE 
@@ -104946,31 +104547,9 @@ Bawełna 100%
 <zdjecia>https://marini.pl/b2b/pictures/775628-1.jpg https://marini.pl/b2b/pictures/775628-2.jpg https://marini.pl/b2b/pictures/775628-3.jpg https://marini.pl/b2b/pictures/775628-4.jpg https://marini.pl/b2b/pictures/775628-5.jpg https://marini.pl/b2b/pictures/775628-6.jpg https://marini.pl/b2b/pictures/775628-7.jpg https://marini.pl/b2b/pictures/775628-8.jpg https://marini.pl/b2b/pictures/775628-9.jpg https://marini.pl/b2b/pictures/775628-10.jpg https://marini.pl/b2b/pictures/775628-11.jpg https://marini.pl/b2b/pictures/775628-12.jpg https://marini.pl/b2b/pictures/775628-13.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>8280</kod>
-<nazwa>DUET BABY 607 Szlafrok welur 92-104</nazwa>
-<cena>37.59</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268746072</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/8280-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>6289</kod>
-<nazwa>DUET BABY 608 Szlafrok welur 104-116</nazwa>
-<cena>36.52</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268746089</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/6289-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>11577</kod>
 <nazwa>DUET BABY 609 Szlafrok welur 116-122</nazwa>
-<cena>41.16</cena>
+<cena>38.79</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5908268746096</EAN>
@@ -105002,22 +104581,9 @@ skład	poliester 100%</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909267-1.jpg https://marini.pl/b2b/pictures/5909267-2.jpg https://marini.pl/b2b/pictures/5909267-3.jpg https://marini.pl/b2b/pictures/5909267-4.jpg https://marini.pl/b2b/pictures/5909267-5.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5905895</kod>
-<nazwa>DUET BABY 617 Szlafrok SOFT MIŚ 92-104</nazwa>
-<cena>41.49</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis>kod	616 / 617 / 618 / 619
-rozmiar	80-92cm / 92-104cm / 104-116cm / 116-122 cm
-skład	poliester 100%</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905895-1.jpg https://marini.pl/b2b/pictures/5905895-2.jpg https://marini.pl/b2b/pictures/5905895-3.jpg https://marini.pl/b2b/pictures/5905895-4.jpg https://marini.pl/b2b/pictures/5905895-5.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5905815</kod>
 <nazwa>DUET BABY 618 Szlafrok SOFT MIŚ 104-116</nazwa>
-<cena>40.61</cena>
+<cena>38.28</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -105027,7 +104593,7 @@ skład	poliester 100%</opis>
 <b2b>
 <kod>5905896</kod>
 <nazwa>DUET BABY 619 Szlafrok SOFT MIŚ 116-122</nazwa>
-<cena>42.48</cena>
+<cena>40.03</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -105347,39 +104913,9 @@ skład	wiskoza bambusowa 70% / bawełna 30%</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913136-1.jpg https://marini.pl/b2b/pictures/5913136-2.jpg https://marini.pl/b2b/pictures/5913136-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>771624</kod>
-<nazwa>DUET BABY 806 Szlafrok CORAL DRUK 3D 80-92</nazwa>
-<cena>33.70</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5907180608062</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis>rozmiar:	80-92 cm
-92-104 cm
-104-116 cm
-116-122 cm
-materiał:	coral fleece – poliester 100%</opis>
-<zdjecia>https://marini.pl/b2b/pictures/771624-1.jpg https://marini.pl/b2b/pictures/771624-2.jpg https://marini.pl/b2b/pictures/771624-3.jpg https://marini.pl/b2b/pictures/771624-4.jpg https://marini.pl/b2b/pictures/771624-5.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>771625</kod>
-<nazwa>DUET BABY 807 Szlafrok CORAL DRUK 3D 92-104</nazwa>
-<cena>34.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5907180608079</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis>rozmiar:	80-92 cm
-92-104 cm
-104-116 cm
-116-122 cm
-materiał:	coral fleece – poliester 100%</opis>
-<zdjecia>https://marini.pl/b2b/pictures/771625-1.jpg https://marini.pl/b2b/pictures/771625-2.jpg https://marini.pl/b2b/pictures/771625-3.jpg https://marini.pl/b2b/pictures/771625-4.jpg https://marini.pl/b2b/pictures/771625-5.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>771626</kod>
 <nazwa>DUET BABY 808 Szlafrok CORAL DRUK 3D 104-116</nazwa>
-<cena>34.24</cena>
+<cena>32.28</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5907180608086</EAN>
@@ -105394,7 +104930,7 @@ materiał:	coral fleece – poliester 100%</opis>
 <b2b>
 <kod>771627</kod>
 <nazwa>DUET BABY 809 Szlafrok CORAL DRUK 3D 116-122</nazwa>
-<cena>38.30</cena>
+<cena>36.10</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5907180608093</EAN>
@@ -110454,7 +109990,7 @@ Waga : 1,50 kg</opis>
 <nazwa>EASY GO Gondola miękka do wózka ECHO SAVANA BEIGE</nazwa>
 <cena>129.65</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART/EASY GO</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) do wózka dla dwójki dzieci ECHO marki EASYGO
@@ -110706,7 +110242,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO SAVANA BEIGE</nazwa>
 <cena>960.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739424</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -113140,6 +112676,63 @@ Oznaczenie na kartonie</opis>
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5902863</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
+<cena>1548.32</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724206559</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -113190,63 +112783,6 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902863</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
-<cena>1548.32</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5906724206559</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -129950,7 +129486,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 40416 Gryzak uspokajający kwiatek pomarańczowy</nazwa>
 <cena>14.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904316150075</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Silikonowy gryzak w kształcie trójwymiarowego kwiatka rozweseli maluszka i przyniesie ulgę w ząbkowaniu. Praktyczne pętelki, z których został wykonany, ułatwią małym rączkom chwytanie gryzaka, a zdobiące go wypustki, delikatnie rozmasują obolałe dziąsła malucha.
@@ -142446,7 +141982,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA FUNNY FARM Nakładka sedesowa z funkcją antypoślizgową nordic green</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396083255</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>informacje o produkcie
@@ -142513,7 +142049,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER EWA PANDA Nakładka sedesowa z funkcją antypoślizgową biała</nazwa>
 <cena>7.94</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396072815</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -177635,7 +177171,7 @@ Produktu nie należy umieszczać w nagrzanym piekarniku ani ogrzewać na kuchenc
 <nazwa>LOVI 35/584 Pierwsza łyżeczka do karmienia 2 szt beżowe</nazwa>
 <cena>10.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407168333</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis>Wygodna, długa rączka
@@ -177875,7 +177411,7 @@ Można zwinąć
 <nazwa>LOVI 51/032 Silikonowe etui na smoczek brązowe</nazwa>
 <cena>17.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691886315</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -183286,63 +182822,6 @@ Pozwala dziecku czuć dotyk i zapach skóry mamy.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5904637-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>763494</kod>
-<nazwa>MARINI 565 Szlafrok CORAL 74-80</nazwa>
-<cena>30.73</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268745655</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/763494-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>579</kod>
-<nazwa>MARINI 567 Szlafrok CORAL 92-104</nazwa>
-<cena>29.63</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268745679</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/579-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5115</kod>
-<nazwa>MARINI 568 Szlafrok CORAL 104-116</nazwa>
-<cena>30.73</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268745686</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5115-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>625</kod>
-<nazwa>MARINI 569 Szlafrok CORAL 116-122</nazwa>
-<cena>32.38</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268745693</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/625-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>11707</kod>
-<nazwa>MARINI 606 Szlafrok welur 80-92</nazwa>
-<cena>36.33</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268746065</EAN>
-<grupa> DUET BABY- MARINI/KĄPIEL</grupa>
-<opis>kod	606 / 607 / 608 / 609
-rozmiar	80-92cm / 92-104cm / 104-116cm / 116-122 cm
-skład	poliester 100%</opis>
-<zdjecia>https://marini.pl/b2b/pictures/11707-1.jpg https://marini.pl/b2b/pictures/11707-2.jpg https://marini.pl/b2b/pictures/11707-3.jpg https://marini.pl/b2b/pictures/11707-4.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5906369</kod>
 <nazwa>MARINI 830 Becik-rożek VELVET wiązany</nazwa>
 <cena>46.65</cena>
@@ -183352,18 +182831,6 @@ skład	poliester 100%</opis>
 <grupa> DUET BABY- MARINI/ROŻKI</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5906369-1.jpg https://marini.pl/b2b/pictures/5906369-2.jpg https://marini.pl/b2b/pictures/5906369-3.jpg https://marini.pl/b2b/pictures/5906369-4.jpg https://marini.pl/b2b/pictures/5906369-5.jpg https://marini.pl/b2b/pictures/5906369-6.jpg https://marini.pl/b2b/pictures/5906369-7.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>771622</kod>
-<nazwa>MARINI 890 Kocyk CORAL DRUK 3D 80x90*</nazwa>
-<cena>21.95</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5908268748908</EAN>
-<grupa> DUET BABY- MARINI/DO WÓZKA</grupa>
-<opis>rozmiar:	80 x 90 cm
-materiał:	coral fleece - poliester 100%</opis>
-<zdjecia>https://marini.pl/b2b/pictures/771622-1.jpg https://marini.pl/b2b/pictures/771622-2.jpg https://marini.pl/b2b/pictures/771622-3.jpg https://marini.pl/b2b/pictures/771622-4.jpg https://marini.pl/b2b/pictures/771622-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5335</kod>
@@ -190975,7 +190442,7 @@ Wypełnienie: antyalergiczny mikrogranulat perełkowy</opis>
 <nazwa>MATEX Poduszka pozycjonująca MOON MUSLIN 260 cm [TB0076_34] morski</nazwa>
 <cena>115.27</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902675061872</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka MOON MUSLIN dla mamy i dziecka z poszewką z MUSLINY i wypełnieniem z włókniny silikonowej, dł. 260 cm</opis>
@@ -215901,7 +215368,7 @@ www.pminvestment.pl/manual/lily_manual.pdf
 <nazwa>MILLY MALLY 6141 Mata niemowlęca 5w1 Minky</nazwa>
 <cena>124.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761127393</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata niemowlęca 5w1 MINKY jest wszechstronnym miejscem do zabawy i rozwoju dla niemowląt. Dzięki miękkim pałąkom z wiszącymi, sensorycznymi zabawkami (lusterkiem z tasiemkami, książeczką, gryzakiem, listkiem, jeżykiem i żołędziem) mata zapewnia dzieciom zajęcie na wiele sposobów. Można ją wykorzystać jako klasyczną matę do zabawy, kojec z podniesionymi bokami, a także jako „basenik” z piłeczkami. Dziecko może bawić się wiszącymi zabawkami, które można zdejmować i bawić się nimi osobno lub chwytać piłeczki, co rozwija jego zdolności motoryczne i koordynację ręka-oko. Może także leżeć na brzuszku i naciskać piszczek ukryty w spodzie maty  lub dotykać sensorycznych tasiemek wszytych przy jednym z boków. Dodatkowo jeden z boków do którego można przyczepić sensoryczną książeczkę posiada z tyły podpórki umożliwiające postawienie tylko jednego z boków maty.
@@ -235287,7 +234754,7 @@ Waga brutto: 3,2 kg</opis>
 <nazwa>MILLY MALLY Pojazd Monster White</nazwa>
 <cena>74.33</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761129632</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Quad Monster od Milly Mally, to idealny jeździk dla wszystkich chłopców i dziewczynek, którzy uwielbiają zabawę na świeżym powietrzu… 
@@ -248042,7 +247509,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB117-G-01 Skarpety niemowlęce żakardowe białe 6-12m</nazwa>
 <cena>2.96</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204390689</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -248134,17 +247601,6 @@ mix- opakowanie zbiorcze 6 par</opis>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5913448-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913447</kod>
-<nazwa>NOVITI SF025-B-01 Skarpety chłopięce z puszystym ściągaczem miś mix 6-12m</nazwa>
-<cena>3.96</cena>
-<VAT>23</VAT>
-<stan>średnia ilość</stan>
-<EAN>5907220812862</EAN>
-<grupa>NOVITI/SKARPETKI</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5913447-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913053</kod>
@@ -249303,7 +248759,7 @@ Niania elektroniczna NUK Eco Control Audio Display 530D posiada też inne przyda
 <nazwa>NUK 256444 Mirofalowy sterylizator MICRO EXPRESS PLUS</nazwa>
 <cena>86.33</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>NUK/ELEKTRONIKA/PODGRZEWACZE</grupa>
 <opis>Sterylizator mikrofalowy NUK Micro Express Plus
@@ -249662,7 +249118,7 @@ Smoczek lateksowy NUK Star:
 <nazwa>NUK 730763 Smoczek uspokajający silikonowy 0-6 m FOR NATURE 2 szt</nazwa>
 <cena>29.80</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4008600420576</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Naturalne uspokaja najlepiej. Dlatego wykorzystujemy ponad 98% naturalnych surowców przy produkcji naszego smoczka NUK for Nature. Do produkcji części twardych użyto odnawialnego plastiku. Naturalne pochodzenie zostało potwierdzone niezależnym certyfikatem. Miękki smoczek wykonano z czystego, naturalnego kauczuku odnawialnego materiału pochodzenia roślinnego, który jest bardzo miękki, ciepły i niezwykle elastyczny. W przypadku NUK for Nature, nie tylko smoczek jest ekologiczny. Smoczki pakowane są w 100% w certyfikowany papier FSC, który z łatwością można poddać recyklingowi. Aby zmniejszyć ślad węglowy, wszystko, począwszy od surowców do produkcji wykorzystującej odnawialną energię, zostało zoptymalizowane tak, aby było przyjazne dla środowiska. Oryginalny kształt smoczka NUK został także zainspirowany przez naturę, okrągły na górze i płaski od spodu. Smoczek dopasowuje się do podniebienia zostawiając wystarczająco dużo miejsca dla naturalnych ruchów ssących, nie powoduje zniekształcenia zębów ani wad zgryzu. Dlatego, oraz z wielu innych powodów, smoczek NUK for Nature jest polecany przez ekspertów medycznych i jest ulubionym smoczkiem ekologicznie świadomych rodziców. Opakowanie jednostkowe zawiera 2 szt. silikonowych smoczków od 0-6 m. Smoczki występują w mixie kolorów. Produkt sprzedawany w mixie. Wymiary/waga: wymiary opakowania (wys. x szer. x gł.)[cm]: 14x6x5, waga produktu w opakowaniu [kg]: 0,03 kg. Zestaw pakowany w ekologiczny kartonik. Wyprodukowano w Niemczech.</opis>
@@ -249823,7 +249279,7 @@ Smoczek lateksowy NUK Star:
 <nazwa>NUK 736726 Smoczek uspokajający STAR 6-18m 2 szt</nazwa>
 <cena>18.78</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4008600399018</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Niestety, niemowlęta nie mogą wyjaśnić, dlaczego kochają swój NUK Star tak bardzo. Ale podejrzewamy, że przyczyną jest miłe uczucie w buzi - górna część smoczka dopasowuje się delikatnie do podniebienia. Znajduje się tam miękka strefa, materiał smoczka jest bardzo cienki i wyjątkowo gładki. Jednocześnie dolna część smoczka pozostawia wystarczająco dużo miejsca dla naturalnych ruchów ssących. Ponieważ gumka smoczka jest wąska i spłaszczona, prawie nie ma nacisku na zęby oraz szczękę. W zestawie znajduje się wytrzymałe pudełko wielokrotnego użytku do bezpiecznego i czystego przechowywania. Występują w 2 wzorach i kolorach. Opakowanie jednostkowe zawiera 2 sz. silikonowych smoczków od 6-18m wraz z pudełkiem. Produkt sprzedawany w mixie wzorów. Wymiary/waga: wymiary opakowania (dł. x wys. x gł.)[cm]: 6x14x5, waga produktu w opakowaniu [kg]: 0,04 kg. Produkt przeznaczony dla dzieci w wieku: 6-18m. Pakowany w pudełeczko z zawieszką. W kartonie zbiorczym po 6 szt. Wyprodukowano w Niemczech.</opis>
@@ -250518,7 +249974,7 @@ Prosimy o ponowne sprawdzenie temperatury bezpośrednio przed podaniem dziecku b
 <nazwa>NUK 745122 Butelka szklana 240ml NC + smoczek lateks 0-6m różowa</nazwa>
 <cena>42.91</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4008600443728</EAN>
 <grupa>NUK/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis/>
@@ -251577,9 +251033,9 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <b2b>
 <kod>5914544</kod>
 <nazwa>PETITE&amp;MARS 415362 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Rose Rainbows</nazwa>
-<cena>0.00</cena>
+<cena>20.16</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8596202005889</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis/>
@@ -251589,7 +251045,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415364 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Pink Meadow</nazwa>
 <cena>20.13</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8596202016953</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -251623,7 +251079,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415365 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Llama Vibes</nazwa>
 <cena>20.15</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>8596202016960</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -251657,7 +251113,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415366 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Forest Fox</nazwa>
 <cena>20.15</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8596202016977</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -251691,7 +251147,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415367 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Celestial Planets</nazwa>
 <cena>20.15</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8596202016984</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -251725,7 +251181,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415368 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Whale Song</nazwa>
 <cena>20.15</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8596202016991</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -255311,7 +254767,7 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <cena>84.27</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
-<EAN/>
+<EAN>5903753007232</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
@@ -255551,7 +255007,7 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <cena>62.67</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
-<EAN/>
+<EAN>5903753005665</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
@@ -256301,6 +255757,26 @@ Artykuły można prać w temperaturze 95°C przez co doskonale będą się nadaw
 <VAT>23</VAT>
 <stan>brak</stan>
 <EAN>5903753005757</EAN>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914556</kod>
+<nazwa>POLDAUN Wkład standard 50x50</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5903753005795</EAN>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914555</kod>
+<nazwa>POLDAUN Wkład standard 65x65</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5903753005856</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
@@ -261629,7 +261105,7 @@ Opakowanie zbiorcze</opis>
 <nazwa>SCORPIO SKA-110 SKC/3-PAK/MIX Skarpety Trójpak bawełna girl mix 3-6 m</nazwa>
 <cena>7.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907617953581</EAN>
 <grupa>YO CLUB- SCORPIO- OP. HURTOWE/SKARPETKI</grupa>
 <opis>Skarpety sprzedawane w opakowaniu zbiorczym</opis>
@@ -268303,7 +267779,7 @@ Opis produktu:
 <nazwa>TEGA DK-001-129 Nocnik antypoślizgowy KACZKA j.niebieski</nazwa>
 <cena>12.99</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963015327</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -274130,7 +273606,7 @@ Kojarzenie - Wraz z wiekiem dzieci kształtują myślenie przyczynowo-skutkowe o
 <nazwa>TINY LOVE TL11189000 Moja pierwsza książeczka edukacyjna DECOR czarno/biała</nazwa>
 <cena>40.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108863253</EAN>
 <grupa>TINY LOVE/KSIĄŻECZKI</grupa>
 <opis>Książeczka interaktywna z kolekcji Decor czarno - biała
@@ -274468,7 +273944,7 @@ wymiary (cm): szer. 150 x wys. 1 x dł/gł. 100</opis>
 <nazwa>TINY LOVE TL12068068 Gimnastyka dla Bobasa ze stojakiem BOHO CHIC</nazwa>
 <cena>343.64</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108862614</EAN>
 <grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
 <opis>Modny design i wyjątkowa paleta kolorów kolekcji Boho Chic uzupełnią wnętrze Twojego domu i stworzą przyjemną przestrzeń, wspomagając przy tym wrodzoną zdolność do odkrywania i rozwój Twojego malucha.
@@ -278206,7 +277682,7 @@ Kolor obudowy wkładu może się różnić.</opis>
 <nazwa>TOMMEE TIPPEE TTP85100602 Wkład do pojemników 1pak</nazwa>
 <cena>32.04</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5010415510068</EAN>
 <grupa>TOMMEE TIPPEE/SANGENIC</grupa>
 <opis>Tommee Tippee Twist &amp; Click Advanced, Wkłady wymienne do kosza na pieluchy, z antybakteryjnej folii Greenfilm™ pozyskanej ze zrównoważonego źródła; 1 szt.
@@ -294614,7 +294090,7 @@ dł: 210mm x wys: 105mm x szer: 175mm
 <nazwa>Viga 44026 PolarB Cymbałki z Misiem</nazwa>
 <cena>26.76</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608440267</EAN>
 <grupa>VIGA</grupa>
 <opis>Seria zabawek PolarB powiększa się o nowości które nie tylko zachwycają kolorami. Zabawki doskonale wspomogą rozwój zdolności manualnych, muzycznych oraz koordynacji ręka-oko.
@@ -295482,7 +294958,7 @@ Waga: 1.9 kg</opis>
 <nazwa>Viga 44085 PolarB Baby Gym</nazwa>
 <cena>92.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>6971608440854</EAN>
 <grupa>VIGA</grupa>
 <opis>Stojak - Viga PolarB Baby Play Gym zalecany dla dzieci od pierwszego miesiąca życia. Jest idealny do pierwszych zabaw maluszka. Dzięki dołączonym interaktywnym zawieszkom stojak fenomenalnie zachęca do zabawy, przez co stymuluje zmysły oraz mięśnie już od pierwszych dni życia.
@@ -301270,7 +300746,7 @@ Opis techniczny
 <nazwa>WADER 35220 Traktor Ładowarka farmer z przyczepą</nazwa>
 <cena>22.34</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694352209</EAN>
 <grupa>WADER</grupa>
 <opis>Wymiary pojazdu ok. 41 x 15,0 x 13,0 cm 
@@ -305446,7 +304922,7 @@ Waga:	0.4 kg</opis>
 <nazwa>WOOPIE 30623 Skrzynka z narzędziami</nazwa>
 <cena>39.37</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904326941595</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Skrzynka z narzędziami wraz z wkrętarko - wiertarką została stworzona przez uwielbianą przez dzieci  firmę WOOPIE. W skład zestawu wchodzi ciemno-zielona, pojemna skrzynka na narzędzia z wygodną, żółtą rączką oraz 15 elementów. Wśród narzędzi dzieci odnajdą bezprzewodową wkrętarko-wiertarkę na baterie z 3 wymiennymi końcówkami. Wkrętarko-wiertarka naśladuje prawdziwe urządzenie, dzięki dźwiękom oraz obrotowemu wkrętowi. Ponadto w zestawie znajduje się piła z wygodnym uchwytem, młotek, klucz francuski, dwie plastikowe deseczki z otworami do wkręcania śrub (4 w zestawie) lub wbijania gwoździ (2 w zestawie). Ten zestaw zapewni wspaniałą zabawę każdemu małemu majsterkowiczowi, wspomagając przy tym rozwój zdolności manualnych. 
@@ -305820,7 +305296,7 @@ Waga
 <nazwa>WOOPIE 40062 Zestaw Małego Weterynarza</nazwa>
 <cena>28.74</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904326940062</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Przenośny Zestaw Małego Weterynarza od marki WOOPIE to idealna propozycja dla wszystkich lubiących zwierzęta i zabawy w odgrywanie ról. Zestaw zawiera 6 elementów, w tym: pluszaka/pieska, transporter, szczotkę, golarkę, szampon oraz dozownik do szamponu. Zestaw pozwoli wyleczyć ulubionego zwierzaka, a przy tym dziecko będzie uczyło się empatii i nabywało umiejętności społecznych. Opieka nad zwierzętami to także nauka odpowiedzialności. Dziecko będzie mogło zabrać i bawić się swoim pupilem wszędzie, dzięki przenośnemu transporterowi z wygodną rączką. Zabawka w weterynarza - odgrywanie ról - pozytywnie wpływa na rozwój dziecka, pobudza wyobraźnię oraz kreatywność.
