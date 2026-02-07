@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-02-06T17:55:05.517">
+<MARINI timestamp="2026-02-07T17:55:05.660">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -8397,7 +8397,7 @@ Instrukcja czyszczenia: Utrzymuj zabawkę w czystości. Prać ręcznie, suszyć 
 <nazwa>AKUKU A0705 Piszczek Kotek</nazwa>
 <cena>10.13</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644007059</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Piszczek KOTEK
@@ -8445,7 +8445,7 @@ zabawa i edukacja &gt; zabawki pluszowe
 <nazwa>AKUKU A0706 Piszczek Panda</nazwa>
 <cena>10.39</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5907644007066</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Piszczek Panda
@@ -9197,7 +9197,7 @@ Szerokość 16 cm, długość od szyi 12 cm. Opakowanie zbiorcze 10szt., cena za
 <nazwa>AKUKU A1640 Śliniak wiązany mały</nazwa>
 <cena>5.22</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644016402</EAN>
 <grupa>AKUKU/ŚLINIAKI</grupa>
 <opis>Śliniak mały wiązany A1640
@@ -23019,22 +23019,22 @@ Materiał : 100 % BAWEŁNA</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>5906587</kod>
-<nazwa>ATK Koc Velvet 75/100</nazwa>
-<cena>32.93</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN/>
-<grupa>ATK- OP. HURTOWE</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5906120</kod>
 <nazwa>ATK Koc VELVET 75/100</nazwa>
 <cena>31.71</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904276097953</EAN>
+<grupa>ATK- OP. HURTOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5906587</kod>
+<nazwa>ATK Koc Velvet 75/100</nazwa>
+<cena>32.93</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN/>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
 </b2b>
@@ -25265,7 +25265,7 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.<
 <nazwa>AVENT SCF091/15 Smoczek Ultra Soft 6-18m gałązka/ptaszek</nazwa>
 <cena>25.62</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689016889</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Nasz najbardziej miękki smoczek dla wrażliwej skóry dziecka
@@ -26738,7 +26738,7 @@ Użyj świecącego w ciemności przycisku smoczka Ultra Air, aby szybko znaleź�
 <nazwa>AVENT SCF376/24 Smoczek Ultra Air Night 0-6m leniwiec / tygrys</nazwa>
 <cena>23.57</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689042505</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultra air na noc – pozwala skórze dziecka oddychać
@@ -28770,7 +28770,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9387 Pozytywka Piesek beżowy 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209893874</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -29198,7 +29198,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9510 Pozytywka Sarenka 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904209895106</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -38827,7 +38827,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB200511 Kubek z miękkim ustnikiem różowy</nazwa>
 <cena>40.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965004141</EAN>
 <grupa>B.BOX</grupa>
 <opis>Szukasz idealnego kubka dla swojego dziecka?
@@ -39158,7 +39158,7 @@ Uwaga: Smycz nie nadaje się do termobutelek oraz bidonów powyżej 400g. Zawsze
 <nazwa>B.BOX BB200911 Smycz do bidonu Blush</nazwa>
 <cena>29.16</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965004776</EAN>
 <grupa>B.BOX</grupa>
 <opis>Nie masz dość wiecznie spadających butelek? Regulowana smycz b.box w modnym kolorze różowyrozwiąże ten problem! Bezpiecznie przymocujesz ulubiony bidon, butelkę czy małą zabawkę dziecka do wózka, fotelika samochodowego lub krzesełka do karmienia.
@@ -46914,7 +46914,7 @@ Wymiary: 13x29 cm.</opis>
 <nazwa>B.O.1523 Przytulanka z zawieszką do smoczka DOG WILLY</nazwa>
 <cena>14.19</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5901435414590</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Przytulanka dla niemowlaka piesek to zabawka, która utuli Twojego malucha do snu i ukoi wszystkie jego troski. Jest miękka i przyjemna w dotyku.
@@ -49553,7 +49553,7 @@ Wymiar: 17 x 17 cm</opis>
 <nazwa>B.O.1633 Piszczek z gryzakiem KOALA COCO</nazwa>
 <cena>16.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416884</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Poznaj miękki i miły piszczek Koala Coco. Idealny do przytulania i pocieszania.
@@ -56348,7 +56348,7 @@ Dane techniczne:
 <nazwa>B.O.747 Przytulanka z zawieszką do smoczka RACOON ROCKY</nazwa>
 <cena>15.19</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901435411421</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Szop ROCKY to niezły gagatek! Psoci i figluje, wszędzie go pełno. Nie usiedzi w jednym miejscu, a jego nieopanowana ciekawość świata sprawia, że zdarza mu się coś poprzestawiać czy poprzewracać. Jednakże swoim czarodziejskim uśmiechem potrafi zjednać każdego i nie sposób nie lubić tego urwisa.
@@ -66739,7 +66739,7 @@ Zabawka pakowana na blistrze.</opis>
 <nazwa>BAM BAM 430931 Gryzak Arbuz</nazwa>
 <cena>4.78</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903246436877</EAN>
 <grupa>BAM BAM</grupa>
 <opis>GRYZAK ARBUZ z kategorii wodno-żelowych jest szczególnie przydatny przy etapie ząbkowania, gdy  dziąsła  są  nabrzmiałe i rozpulchnione.  Wykonany z miękkiego tworzywa, które szybko poddaje się schłodzeniu w lodówce, przynosi ulgę i ukojenie bez podrażniania dziąseł malucha. Kształt gryzaczka został zaprojektowany tak, by chwytanie go, jaki trzymanie w małych rączkach było łatwe.  Bogata gama wzorów pozwala na skompletowanie pełnego zestawu gryzaczków w kształcie owoców.  Zabawka przeznaczona od wieku 3 m+.Wymiary opakowania (wys. x szer. gł.) [cm] 17x14x1. Waga opakowania [kg]: 0,03 kg. Pakowana na blistrze.</opis>
@@ -77938,7 +77938,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/187 Grzechotka Sowa niebieska</nazwa>
 <cena>4.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691812024</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Grzechotka przeznaczona dla najmłodszych dzieci. Lekka, łatwa do utrzymania w małych rączkach, idealna jako pierwsza grzechotka. Różnorodne kształty i kolory zachęcają maluszka do ćwiczeń i zabawy, stymulując jego rozwój. Wprowadzają dziecko w świat dźwięku, ruchów i pięknych barw. Grzechotka jest wykonana z trwałych i bezpiecznych materiałów. Nie posiada ostrych krawędzi.</opis>
@@ -78037,7 +78037,7 @@ Pamiętaj, aby butelki i smoczki myć bezpośrednio po karmieniu dziecka. Szczot
 <nazwa>CANPOL 2/417 Szczotka+grzebień do włosów miękka niebieska</nazwa>
 <cena>5.46</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691863941</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Szczotka do włosów z grzebykiem do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które nie podrażniają skóry. Szczotka z miękkim, sztucznym włosiem delikatnie masuje główkę malucha, nie elektryzując włosów.
@@ -78051,7 +78051,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/417 Szczotka+grzebień do włosów miękka różowa</nazwa>
 <cena>5.46</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691863965</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Szczotka do włosów z grzebykiem do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które nie podrażniają skóry. Szczotka z miękkim, sztucznym włosiem delikatnie masuje główkę malucha, nie elektryzując włosów.
@@ -86505,7 +86505,7 @@ Wymiary maty (wymiary poszczególnych mat nieznacznie się od siebie różnią) 
 <nazwa>CANPOL 80/200 Miękka przytulanka Króliczek różowy</nazwa>
 <cena>39.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407993096</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękka przytulanka KRÓLICZEK idealnie sprawdzi się w roli pierwszej przytulanki Twojego maluszka. Jest mięciutka i delikatna. Wykonana została z ultramiękkiej, przyjemnej w dotyku bawełny, a jej gustowne ubranko z naturalnego lnu. Przytulanka dostępna jest w dwóch wzorach, których pastelowa, subtelna kolorystyka z pewnością spodoba się zarówno chłopcom, jak i dziewczynkom. Króliczek jest doskonały do przytulania, zabaw, będzie też piękną dekoracją dziecięcego pokoju.</opis>
@@ -88361,7 +88361,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-270 Składana mata do przewijania 60x40 Basic Grey*</nazwa>
 <cena>10.75</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342740</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89658,7 +89658,7 @@ Głębokość w opakowaniu mm
 <nazwa>CHICCO 00000205310000 Etui do smoczka neutralne</nazwa>
 <cena>13.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8058664169634</EAN>
 <grupa>CHICCO/AKCESORIA/AKCESORIA DO SMOCZKÓW</grupa>
 <opis>Etui na smoczek marki CHICCO posiada zapięcie na zatrzask i praktyczny elastyczny haczyk do zamocowania w dowolnym miejscu. Może być sterylizowane.</opis>
@@ -104348,7 +104348,7 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 115 Prześcieradło jersey nieprzemak.120x60</nazwa>
 <cena>28.54</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907180601155</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
 <opis/>
@@ -104461,7 +104461,7 @@ materiał:	bawełna 100%
 <nazwa>DUET BABY 326 Ręcznik z kapturkiem ANIMAL 120x100 cm</nazwa>
 <cena>55.32</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908268743262</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
 <opis>OKRYCIE KĄPIELOWE
@@ -115248,7 +115248,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 727374 MELLOW Body dł. białe 86</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356727374</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -115369,7 +115369,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728128 MELLOW Body dł. róż 80</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356728128</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -115380,7 +115380,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728135 MELLOW Body dł. róż 86</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356728135</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -115600,7 +115600,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728937 MELLOW Body dł. rozpinane róż 68</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356728937</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -142004,7 +142004,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER EWA LION KING Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>11.22</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396117417</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Produkt wyposażony jest w wygodne uchwyty, które zapewniają dziecku dodatkowe wsparcie i stabilność.</opis>
@@ -160187,7 +160187,7 @@ Waga: 6,5 kg</opis>
 <nazwa>KINDERKRAFT Wózek spacerowy TIK STONE beige</nazwa>
 <cena>200.45</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533926817</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>Szukasz lekkiego wózka, który złożysz w kilka sekund i weźmiesz ze sobą na wakacje? Oto kompaktowy wózek spacerowy typu parasolka - TIK! Waży zaledwie 6,5 kg, dzięki czemu doskonale sprawdzi się w podróży. Wystarczy chwila, by złożyć TIK jak parasolkę i włożyć do bagażnika samochodu. Wózek bez problemu wniesiesz także do pociągu czy komunikacji miejskiej. 
@@ -173994,7 +173994,7 @@ kapsuła do higienicznego przechowywania smoczków</opis>
 <nazwa>LOVI 22/864 Smoczek silikonowy dynamiczny 3-6m 2szt Buddy Bear</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407228648</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Dynamiczne smoczki uspokajające LOVI zostały opracowane w wyniku badań z udziałem lekarzy i neurologopedów. Mają symetryczny kształt inspirowany kształtem brodawki sutkowej. Szczególne rozwiązanie polegające na zastosowaniu niejednorodnej warstwy silikonu umożliwia ssanie w indywidualnym rytmie. 
@@ -174345,7 +174345,7 @@ MINIsmoczek dynamiczny LOVI został zaprojektowany z myślą o noworodkach. Ma m
 <nazwa>LOVI 22/881 Smoczek silikonowy dynamiczny 0-2m 2 szt Wild Soul Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691835092</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>jest superlekki
@@ -251001,7 +251001,7 @@ Cechy:
 <nazwa>PETITE&amp;MARS 415360 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Ochre Leaves</nazwa>
 <cena>21.45</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8596202005872</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -264579,7 +264579,7 @@ SPECYFIKACJA
 <nazwa>SMILY PLAY SP83669 Pilot TV z muzyką i światłem</nazwa>
 <cena>24.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375836696</EAN>
 <grupa>SMILY PLAY/ZABAWKI MUZYCZNE</grupa>
 <opis>MÓWIĄCY PILOT TV Z MUZYKĄ I ŚWIATŁEM SMILY PLAY 16/32+
@@ -267477,7 +267477,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SPW84941 Klocki drewniane 52szt.*</nazwa>
 <cena>27.55</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375849412</EAN>
 <grupa>SMILY PLAY/KLOCKI</grupa>
 <opis>KLOCKI DREWNIANE 52 SZT. Kolorowe drewniane klocki to edukacyjna i kreatywna zabawka, która pozwala dzieciom na naukę liczenia i podstaw matematyki poprzez zabawę. W zestawie znajduje się 52 różnorodnych klocków z cyferkami i równaniami matematycznymi, które pomagają rozwijać umiejętności logicznego myślenia i rozwiązywania problemów. Cechy zestawu: Różne kształty i kolory: Klocki mają różne kształty, takie jak kwadraty, prostokąty, trójkąty, koła i inne. Są one pomalowane na żywe kolory, które przyciągają uwagę dzieci i ułatwiają rozpoznawanie kształtów. Cyferki i symbole matematyczne: Na klockach znajdują się cyfry oraz podstawowe symbole matematyczne. Bezpieczne materiały: Klocki wykonane są z wysokiej jakości drewna, które jest trwałe i bezpieczne dla dzieci. Farby użyte do malowania klocków są nietoksyczne i spełniają wszelkie normy bezpieczeństwa. Rozwój umiejętności: Zabawa klockami pomaga rozwijać zdolności manualne, koordynację ręka-oko, a także logiczne myślenie i umiejętności rozwiązywania problemów. Łatwe przechowywanie: Zestaw zazwyczaj zawiera wygodne pudełko lub woreczek do przechowywania klocków, co ułatwia utrzymanie porządku po zakończonej zabawie. Zastosowanie: Nauka liczenia i matematyki: Dzieci mogą układać klocki w różne wzory, tworzyć równania matematyczne i uczyć się podstawowych operacji matematycznych poprzez zabawę. Rozwój kreatywności: Klocki mogą być używane do budowania różnych konstrukcji, co rozwija wyobraźnię i kreatywność dziecka. Zabawa w grupie: Klocki są idealne do zabawy w grupie, co rozwija umiejętności społeczne, uczy współpracy i dzielenia się z innymi. Edukacyjna zabawa: Zabawa klockami może być zarówno edukacyjna, jak i rozrywkowa, dzięki czemu dzieci uczą się w przyjemny sposób. Dlaczego warto? Edukacyjna wartość: Klocki pomagają dzieciom w nauce liczenia, podstaw matematyki i rozpoznawania kształtów i kolorów. Rozwój umiejętności: Zabawa klockami rozwija zdolności manualne, koordynację ruchową oraz umiejętności logicznego myślenia. Bezpieczeństwo: Wykonane z wysokiej jakości drewna i nietoksycznych farb, klocki są bezpieczne dla dzieci i trwałe.</opis>
@@ -278103,7 +278103,7 @@ Zdjęcie poglądowe, wzory wysyłane losowo.</opis>
 <nazwa>TOPGAL 030259 Szelki 2s</nazwa>
 <cena>8.05</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5905127030259</EAN>
 <grupa>TOPGAL BAMBINO</grupa>
 <opis>Opakowanie 10 szt.
@@ -278788,7 +278788,7 @@ ZAWARTOŚĆ PUDEŁKA:
 <nazwa>TREFL 00988 Gra Grzybobranie w Zielonym Gaju 3+</nazwa>
 <cena>39.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511009880</EAN>
 <grupa>TREFL</grupa>
 <opis>TREFL GRA GRZYBOBRANIE W ZIELONYM GAJU
@@ -289630,7 +289630,7 @@ Rozmiar: 20 cm</opis>
 <nazwa>TULLO 116 Zabawka gryzak zając z grzechotką</nazwa>
 <cena>13.94</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094771162</EAN>
 <grupa>TULLO/GRYZAKI</grupa>
 <opis/>
@@ -289755,7 +289755,7 @@ Rozmiar: 12cm</opis>
 <nazwa>TULLO 175 Zawieszka do wózka 2x gwiazdka 1 kwiatek</nazwa>
 <cena>21.19</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905094771759</EAN>
 <grupa>TULLO/GRZECHOTKI</grupa>
 <opis>Wesołe dźwięki grzechotki towarzyszą dziecku podczas codziennych spacerów.
@@ -292318,7 +292318,7 @@ biuro@tullo.pl
 <nazwa>TULLO 613 Klocki sensoryczne,piramida, piłeczki sensoryczne, zwierzątka - zestaw edukacyjny Montessori 18 szt.</nazwa>
 <cena>64.52</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094776136</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Klocki sensoryczne, piramida sensoryczna, piłeczki sensoryczne, zwierzątka – zestaw edukacyjny Montessori (18 szt.)
@@ -299059,7 +299059,7 @@ Waga:	0.28 kg</opis>
 <nazwa>Viga 50812 Figurki - farma</nazwa>
 <cena>18.19</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6934510508128</EAN>
 <grupa>VIGA</grupa>
 <opis>Szeroka gama figurek od firmy VIGA które wzbogacą posiadaną kolejkę, lub urozmaicą zabawę na dywanie gdzie nasz smyk zbuduje z nami miasto z klocków… Zestawy stawiają możliwość wzbogacenia tradycyjnych klocków o nowe „przygody”.
@@ -302800,7 +302800,7 @@ Układ kolorów zabawek może różnić się od przedstawionych na zdjęciach.
 <nazwa>WADER 70340 Happy Summer - Multi Truck Wywrotka z kpl. do piasku na wiaderku</nazwa>
 <cena>42.45</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900694703407</EAN>
 <grupa>WADER</grupa>
 <opis/>
