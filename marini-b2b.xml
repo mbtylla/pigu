@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-02-15T17:55:05.763">
+<MARINI timestamp="2026-02-16T17:55:05.570">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -1455,7 +1455,7 @@ CHARAKTERYSTYKA PRODUKTU:
 <nazwa>4 BABY Fotelik ROTO-FIX 40-150cm MOKKA I-Size</nazwa>
 <cena>435.00</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691959651</EAN>
 <grupa>4BABY/FOTELIKI/ROTO FIX</grupa>
 <opis>Fotelik Roto-fix i-Size to obrotowy fotelik wykonany zgodnie z najbardziej restrykcyjną homologacją R129. Gwarantuje to najwyższą ochronę dziecku o wzroście od 40 do 150 cm.
@@ -10491,7 +10491,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 432 LENIWCE</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685384</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Mata miękka do przewijania (MM70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczona jest do nałożenia na komodę lub półkoprzewijak. Nie posiada dodatkowego usztywnienia.
@@ -10629,7 +10629,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 441 Baby</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165687715</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata miękka do przewijania (MM70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczona jest do nałożenia na komodę lub półkoprzewijak. Nie posiada dodatkowego usztywnienia.
@@ -11301,7 +11301,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 440 Baletnica</nazwa>
 <cena>36.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165687753</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania (MP) o długości 70 cm i szerokości 50 cm (+/- 1 cm) przeznaczona jest do nałożenia na komodę lub meble do przewijania.   
@@ -12438,22 +12438,6 @@ Waga: 0,35 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/791481-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>791483</kod>
-<nazwa>ALBERO MIO Okrycie kąpielowe 420 Króliczek WYPRZEDAŻ</nazwa>
-<cena>35.20</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904165684097</EAN>
-<grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
-<opis>Okrycie kąpielowe (bath towel) z kolekcji BASIC wykonane z puszystej, miękkiej i przyjemnej termofrotty, która chroni dziecko przed chłodem, dając miłe uczucie ciepła po kąpieli
-Wymiar / size: 100 x 100 cm
-Tkanina / fabric: 
-· 82% bawełna (cotton)        
-· 18% poliester (polyester)
-Waga: 0,35 kg</opis>
-<zdjecia>https://marini.pl/b2b/pictures/791483-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911805</kod>
 <nazwa>ALBERO MIO Okrycie kąpielowe 440 Baletnica</nazwa>
 <cena>39.00</cena>
@@ -12527,6 +12511,26 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 Rozmiar: 100 x 100 cm (+/-2 cm)
 Tkanina: termofrotte - 82% bawełna, 18% poliester</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911808-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914637</kod>
+<nazwa>ALBERO MIO Okrycie kąpielowe 80x80 Vintage Teddy CM1</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001941972</EAN>
+<grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914644</kod>
+<nazwa>ALBERO MIO Okrycie kąpielowe 80x80 Wild Flowers CM2</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001941989</EAN>
+<grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>788374</kod>
@@ -13466,6 +13470,46 @@ ENG Size: duvet case 135x100, pillow case 60x40 cm. Fabric: cotton satin - 100% 
 <zdjecia>https://marini.pl/b2b/pictures/5903472-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914655</kod>
+<nazwa>ALBERO MIO Pościel C-2 135x100,60x40 Gąska Gaja CP2</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942245</EAN>
+<grupa>ALBERO MIO/POŚCIELE/DO ŁÓŻECZEK</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914651</kod>
+<nazwa>ALBERO MIO Pościel C-2 135x100,60x40 Gwiezdny Pył CP8</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942269</EAN>
+<grupa>ALBERO MIO/POŚCIELE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914647</kod>
+<nazwa>ALBERO MIO Pościel C-2 135x100,60x40 Pudrowe Kokardki CP9</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942276</EAN>
+<grupa>ALBERO MIO/POŚCIELE/DO ŁÓŻECZEK</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914656</kod>
+<nazwa>ALBERO MIO Pościel C-2 135x100,60x40 Zabawa w tropikach CP4</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942252</EAN>
+<grupa>ALBERO MIO/POŚCIELE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>783371</kod>
 <nazwa>ALBERO MIO Pościel C-2 C001 Forest World</nazwa>
 <cena>42.00</cena>
@@ -13650,6 +13694,26 @@ Rozmiar: poszwa 135x100, poszewka 60x40 cm. Tkanina: 100% bawełna
 <zdjecia>https://marini.pl/b2b/pictures/5913141-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914638</kod>
+<nazwa>ALBERO MIO Pościel C-2 muślinowa 135x100,60x40 Vintage Teddy CM1</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942016</EAN>
+<grupa>ALBERO MIO/POŚCIELE/DO ŁÓŻECZEK</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914642</kod>
+<nazwa>ALBERO MIO Pościel C-2 muślinowa 135x100,60x40 Wild Flowers CM2</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942023</EAN>
+<grupa>ALBERO MIO/POŚCIELE/DO ŁÓŻECZEK</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>783374</kod>
 <nazwa>ALBERO MIO Pościel C-3 C002 Wild World</nazwa>
 <cena>57.23</cena>
@@ -13734,6 +13798,46 @@ Idealne rozwiązanie do łóżeczka dostawnego, kołyski czy wózka
 
 - Tkanina: bawełna 100%, wypełnienie: poliester 100%</opis>
 <zdjecia>https://marini.pl/b2b/pictures/774902-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914652</kod>
+<nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak 80x35 Gwiezdny Pył CP8</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942092</EAN>
+<grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914648</kod>
+<nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak 80x35 Pudrowe Kokardki CP9</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942108</EAN>
+<grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914640</kod>
+<nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak 80x35 Vintage Teddy CM1</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942030</EAN>
+<grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914643</kod>
+<nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak 80x35 Wild Flowers CM2</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942047</EAN>
+<grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5906906</kod>
@@ -13836,7 +13940,7 @@ Tkanina 1: satyna bawełniana - 100% bawełna, tkanina 2: double gauze - 100% ba
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak CP6 Lot balonem</nazwa>
 <cena>41.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165687302</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło do gondoli 2-pak to zestaw dwóch prześcieradeł, co oznacza podwójną wygodę i praktyczność. Jedno z prześcieradeł wykonane jest z jednokolorowej tkaniny double gauze czyli podwójnego muślinu - 100% bawełna. To naturalna tkanina, bezpieczna dla wrażliwej skóry dziecka. Posiada dwie, cienkie warstwy materiału, jest lekko elastyczna, ale jednocześnie bardzo dobrze utrzymuje swoją charakterystyczną, marszczoną strukturę. Drugie prześcieradło wykonane jest z bawełny satynowej z nadrukiem wzoru. Nadruk na tkaninach jest nadrukiem ekologicznym, bezpiecznym dla najmłodszych. Tkanina, które została użyte do produkcji, to tkanina z certyfikatem OEKO-TEX klasy I.
@@ -14334,6 +14438,26 @@ Produkt został wyprodukowany w Polsce z wysokiej jakości materiałów posiadaj
 
 Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie różnić się od rzeczywistego produktu. Stosowany nadruk jest ekologiczny i bezpieczny dla dziecka, może jednak delikatnie blaknąć podczas częstego użytkowania.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911989-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914653</kod>
+<nazwa>ALBERO MIO Przewijak podróżny 77x44 Gwiezdny Pył CP8</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001941859</EAN>
+<grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914654</kod>
+<nazwa>ALBERO MIO Przewijak podróżny 77x44 Pudrowe Kokardki CP9</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001941866</EAN>
+<grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5911830</kod>
@@ -15023,7 +15147,7 @@ ENG Size: 70x47 (+/-0,5) cm, to be put on a baby cot (120x60cm). Composition: ph
 <nazwa>ALBERO MIO Przewijak twardy krótki 422 LEO</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165684349</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -15045,7 +15169,7 @@ ENG Size: 70x47 (+/-0,5) cm, to be put on a baby cot (120x60cm). Composition: ph
 <nazwa>ALBERO MIO Przewijak twardy krótki 423 MARZYCIEL</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165684356</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -15210,7 +15334,7 @@ Rozmiar: 70x47 (+/-0,5). Skład: folia PVC bez zawartości ftalanów (100% polie
 <nazwa>ALBERO MIO Przewijak twardy krótki 431 WESOŁE GWIAZDKI</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685292</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak twardy (PT70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczony jest do montowania na większości rodzajów łóżeczek o wymiarach 120×60 cm, posiada stópki zabezpieczające przed zsunięciem się z ramy łóżka.
@@ -15371,7 +15495,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak twardy krótki 439 Owieczki</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165687647</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak twardy (PT70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczony jest do montowania na większości rodzai łóżeczek o wymiarach 120×60 cm.  
@@ -15739,7 +15863,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak twardy krótki CP7 Krabik i przyjaciele</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165687487</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>- Przewijak twardy (PT70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczony jest do montowania na większości rodzai łóżeczek o wymiarach 120×60 cm. 
@@ -16034,6 +16158,26 @@ Tkanina:  frotta bambusowa - 90% bambus, 10% poliester, kapturek - 100% bawełna
 <opis/>
 </b2b>
 <b2b>
+<kod>5914649</kod>
+<nazwa>ALBERO MIO Ręcznik kąpielowy 50x120 Gwiezdny Pył CP8</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942115</EAN>
+<grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914645</kod>
+<nazwa>ALBERO MIO Ręcznik kąpielowy 50x120 Pudrowe Kokardki CP9</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942122</EAN>
+<grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5905637</kod>
 <nazwa>ALBERO MIO Ręcznik przedszkolaka SZOP</nazwa>
 <cena>12.00</cena>
@@ -16060,6 +16204,26 @@ Wymiar / size: 30x50 cm (+/-3)
 
 The preschooler's towel is made of a soft and absorbent termofrotte fabric (82% cotton, 18% polyester). Perfect as a towel for wiping hands and mouth.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/789905-1.jpg https://marini.pl/b2b/pictures/789905-2.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914639</kod>
+<nazwa>ALBERO MIO Rożek muślinowy 75x75 Vintage Teddy CM1</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942054</EAN>
+<grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914641</kod>
+<nazwa>ALBERO MIO Rożek muślinowy 75x75 Wild Flowers CM2</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942061</EAN>
+<grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5911819</kod>
@@ -16125,6 +16289,26 @@ Tkanina double gauze - 100% bawełna
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5912813-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914650</kod>
+<nazwa>ALBERO MIO Rożek niemowlęcy 75x75 Gwiezdny Pył CP8</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942139</EAN>
+<grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914646</kod>
+<nazwa>ALBERO MIO Rożek niemowlęcy 75x75 Pudrowe Kokardki CP9</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907001942146</EAN>
+<grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5903476</kod>
@@ -25196,7 +25380,7 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.<
 <nazwa>AVENT SCF091/05 Smoczek Ultra Soft 0-6m beż/zieleń</nazwa>
 <cena>24.95</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689016575</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Nasz najbardziej miękki smoczek dla wrażliwej skóry dziecka
@@ -44842,7 +45026,7 @@ w zestawie: miseczka i łyżeczka</opis>
 <nazwa>B.O.1065/01 Sztućce dla dzieci ze stali szlachetnej*</nazwa>
 <cena>9.84</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435413371</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/SZTUĆCE</grupa>
 <opis>Zestaw sztućców wykonany ze stali nierdzewnej bardzo przydaje się podczas nauki samodzielnego jedzenia. Ich wielkość została dopasowana do małych rąk dziecka.
@@ -48458,7 +48642,7 @@ Wymiar: 16 x 23 cm</opis>
 <nazwa>B.O.1557/02 Przytulanka - szeleścik LLAMA LULU-niebieski</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416518</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Poznaj szeleścik Llama Lulu, która ma miękkie futerko, idealne do przytulania.
@@ -50543,7 +50727,7 @@ Akumulator o pojemności 9000 mAh
 <nazwa>B.O.1647/01 Kocyk dzianinowy bawełniany różowy</nazwa>
 <cena>55.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417225</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Dzianinowy kocyk bawełniany stworzyliśmy z myślą o delikatnej skórze maluszków i troskliwych rodzicach. Powstał w 100% z certyfikowanej bawełny organicznej – bez chemikaliów, pestycydów i szkodliwych barwników. Hipoalergiczny i antybakteryjny przyjemnie otuli nawet bardzo wrażliwą i alergiczną skórę Twojego dziecka.
@@ -57481,7 +57665,7 @@ Wysoka chłonność</opis>
 <nazwa>B.O.828/04 Pieluszki muślinowe marszczone zielone</nazwa>
 <cena>23.90</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417881</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Pieluszki z marszczonego muślinu to obowiązkowy element w wyprawce mamy i dziecka. Wykonaliśmy je w 100% z naturalnej bawełny – przewiewnej i delikatnej dla skóry Twojego maleństwa.
@@ -77857,7 +78041,7 @@ Nie zawiera BPA
 <nazwa>CANPOL 13/100 Zabezpieczenie gniazd</nazwa>
 <cena>5.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407131009</EAN>
 <grupa>CANPOL/BEZPIECZEŃSTWO</grupa>
 <opis>Skutecznie chroni dziecko przed ryzykiem porażenia prądem elektrycznym. Świetnie dopasowuje się do gniazdek elektrycznych, całkowicie blokując do nich dostęp ciekawskiemu maluszkowi. Zabezpieczenie można usunąć wyłącznie przy pomocy załączonych kluczyków. Pasuje do gniazd zwykłych lub z bolcem uziemiającym.
@@ -79010,7 +79194,7 @@ W opakowaniu: 1 sztuka</opis>
 <nazwa>CANPOL 21/723 Smoczek do butelek szerokootworowych EasyStart silikon kaszka 1szt</nazwa>
 <cena>4.46</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407217239</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Do butelek z szeroką szyjką został specjalnie zaprojektowany antykolkowy smoczek. Wykonany jest z wysokiej jakości miękkiego silikonu. Zbliżony do kształtu piersi umożliwia łączenie naturalnego karmienia z karmieniem butelką. Występuje w 6 wielkościach przepływu: mini, wolny, średni, szybki, kaszka, trójprzepływowy. Odpowietrzacz umieszczony w podstawie, sprawia, że w trakcie karmienia dziecko nie łyka powietrza i jest mniej narażone na kolkę.
@@ -79436,7 +79620,7 @@ Zachowaj instrukcję, ponieważ zawiera ważne informacje. Numer serii podany na
 <nazwa>CANPOL 22/649 Smoczek uspokajający silikonowy symetryczny 18+ Bonjour Paris niebieski</nazwa>
 <cena>15.50</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407993478</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Rekomendowany przez specjalistów jako pierwszy smoczek Twojego Maluszka.* Smoczki Light touch stworzono by zapewnić maksymalny komfort najmłodszym dzieciom. Ich wyjątkowo miękka silikonowa gumka wymaga mniej wysiłku podczas ssania, a lekka, profilowana tarczka nie obciąża zgryzu i gwarantuje swobodne oddychanie, co według specjalistów ma istotny wpływ na prawidłowy rozwój jamy ustnej dziecka.** Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Smoczki Light touch z łatwością utrzymasz w czystości, dzięki nowoczesnemu etui, które może służyć do przechowywania, ale też do szybkiej i wygodnej dezynfekcji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty by zapewnić smoczkom higieniczną czystość. Smoczki Light touch dostępne są w kilku wyjątkowych, inspirowanych najnowszymi trendami kolekcjach i różnych rozmiarach – rosną razem z Twoim Maluszkiem.</opis>
@@ -79724,7 +79908,7 @@ Nie zawiera BPA</opis>
 <nazwa>CANPOL 22/660 Smoczek silikonowy 18+ symetryczny Sleepy Koala niebieski 2 szt.</nazwa>
 <cena>16.50</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691856080</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Rekomendowany przez specjalistów jako pierwszy smoczek Twojego Maluszka.* Smoczki Light touch stworzono by zapewnić maksymalny komfort najmłodszym dzieciom. Ich wyjątkowo miękka silikonowa gumka wymaga mniej wysiłku podczas ssania, a lekka, profilowana tarczka nie obciąża zgryzu i gwarantuje swobodne oddychanie, co według specjalistów ma istotny wpływ na prawidłowy rozwój jamy ustnej dziecka.** Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecące w ciemności elementy - tarczka lub uchwyt, ułatwiają odnalezienie smoczka nocą. Smoczki Light touch z łatwością utrzymasz w czystości, dzięki nowoczesnemu etui, które może służyć do przechowywania, ale też do szybkiej i wygodnej dezynfekcji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty by zapewnić smoczkom higieniczną czystość. Smoczki Light touch dostępne są w kilku wyjątkowych, inspirowanych najnowszymi trendami kolekcjach i różnych rozmiarach – rosną razem z Twoim Maluszkiem.</opis>
@@ -82792,7 +82976,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 4/416 Miska antypoślizgowa 270 ml Krówka</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407044163</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Miseczka KRÓWKA z kolorowymi nadrukami uatrakcyjni dziecku każdy posiłek. Została wykonana z wysokiej jakości plastiku bez BPA. Posiada antypoślizgowe dno zapobiegające niekontrolowanemu przesuwaniu się miseczki. Jest przystosowana do mycia w zmywarce. Pojemność 270ml. Przeznaczona dla dzieci w wieku 4m+.</opis>
@@ -82907,7 +83091,7 @@ Można używać w zmywarce</opis>
 <nazwa>CANPOL 4/530 Łyżeczki z melaminy 2szt Exotic Animals żółte</nazwa>
 <cena>5.40</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691861633</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Zestaw łyżeczek do karmienia z kolekcji EXOTIC ANIMALS z wesołymi, kolorowymi nadrukami uatrakcyjni dziecku każdy posiłek. Łyżeczki wykonane został z melaminy, tworzywa odpornego na zarysowania. Posiadają zaokrąglony kształt, dzięki czemu nie podrażniają delikatnych dziąseł dziecka. Zestaw składa się z dwóch łyżeczek: małej i dużej. Przeznaczony jest dla dzieci powyżej 9. miesiąca życia.
@@ -83914,7 +84098,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 56/131 Wymienne siateczki do 56/105 3szt</nazwa>
 <cena>7.96</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407561318</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Siateczki mogą być używane jedynie z  siateczką do podawania pokarmów oraz silikonowym masażerem dziąseł. Plastikowy uchwyt pozwala na bezpieczne zamocowanie wymiennej siateczki oraz zapobiega wyjęciu zawartości przez dziecko.
@@ -84739,7 +84923,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/617 Kubek niekapek z rurką i odważnikiem BabiesBoo gepard pomarańczowy</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691893245</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek niekapek z rurką i odważnikiem Canpol babies świetnie sprawdzi się w domu, w podróży i na spacerze. Specjalna membrana umieszczona w rurce sprawia, że płyn trafia do rurki wyłącznie podczas picia, zapobiegając rozlewaniu. To idealne rozwiązanie dla dzieci, które dopiero rozpoczynają przygodę z nauką samodzielnego picia. Kubek niekapek z rurką i odważnikiem wspiera prawidłowy rozwój jamy ustnej, mowy i zgryzu u 99% dzieci.* Odważnik na końcu rurki podąża za płynem, dzięki czemu dziecko wypije swój ulubiony napój do ostatniej kropli, niezależnie od tego, pod jakim kątem przechyli kubeczek. Pokrywka ułatwia szybko i wygodnie schować rurkę, zapobiegając niekontrolowanemu wylewaniu się napoju i gwarantując 100% szczelności, bez przeciekania. Miękka silikonowa rurka jest delikatna dla wrażliwych dziąseł dziecka. Aby utrzymać rurkę w czystości można ją zdemontować i dokładnie umyć. Warto dokupić specjalną szczoteczkę do mycia rurek oraz wymienne rurki. Kubek niekapek Canpol został wykonany z nietłukącego się i bezpiecznego plastiku (PP), nie zawiera BPA ani innych szkodliwych substancji. Jest wytrzymały, lekki i odporny na uszkodzenia. Wygodne uchwyty ułatwiają trzymanie go w dziecięcych dłoniach, a duży otwór ułatwia napełnianie i mycie. Można myć go w zmywarce i podgrzewać w mikrofalówce. Przeznaczony do napojów zimnych lub w temperaturze pokojowej. Praktyczny kubek niekapek Canpol z rurką i odważnikiem 270 ml BabiesBoo będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Kubek niekapek Canpol z rurką i odważnikiem 270 ml BabiesBoo jest rekomendowany dla dzieci od 6 miesiąca życia. ?
@@ -85344,7 +85528,7 @@ Lusterko  zachęci do przebywania na brzuszku i podnoszenia główki. Można je 
 <nazwa>CANPOL 68/080 Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS</nazwa>
 <cena>16.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407680804</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Kontrastowa zabawka z piszczkiem z kolekcji SENSORY TOYS posiada elementy interaktywne, które zajmą dziecko na długi czas. Wspiera rozwój maluszka już od pierwszych dni. Stymuluje wzrok, dzięki czerwieni i czerni - kolorom które niemowlę widzi jako pierwsze. 
@@ -85357,7 +85541,7 @@ Zabawka jest idealna do nauki chwytania i odkrywania ciekawych, nowych dźwięk�
 <nazwa>CANPOL 68/081 Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS</nazwa>
 <cena>32.78</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407680811</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Kontrastowa książeczka edukacyjna z kolekcji SENSORY TOYS kryje wiele niespodzianek, które zajmą dziecko na długi czas. Wspiera rozwój maluszka już od pierwszych dni. Stymuluje wzrok dzięki czerwieni i czerni, kolorom które niemowlę widzi jako pierwsze. 
@@ -85978,7 +86162,7 @@ W opakowaniu 2 sztuki.</opis>
 <nazwa>CANPOL 74/016 Gryzak wodny Sowa</nazwa>
 <cena>4.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407740164</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny SOWA idealnie sprawdzi się w okresie ząbkowania, gdy dziąsła są rozpulchnione, bardzo swędzą i dziecko ma silną potrzebę gryzienia. Wykonany z miękkiego tworzywa, które dopasowuje się do dziąseł malucha. Różnorodne kształty i kolory stymulują rozwój koordynacji wzrokowo ruchowej dziecka. Gryzak jest lekki i poręczny, dzięki czemu maluchowi jest łatwiej go złapać i utrzymać w małych rączkach. Przeznaczony dla dzieci w wieku 0m+. Przed podaniem dziecku gryzak należy schłodzić w lodówce.</opis>
@@ -86811,7 +86995,7 @@ Wymiary maty (wymiary poszczególnych mat nieznacznie się od siebie różnią) 
 <nazwa>CANPOL 80/200 Miękka przytulanka Króliczek różowy</nazwa>
 <cena>39.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407993096</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękka przytulanka KRÓLICZEK idealnie sprawdzi się w roli pierwszej przytulanki Twojego maluszka. Jest mięciutka i delikatna. Wykonana została z ultramiękkiej, przyjemnej w dotyku bawełny, a jej gustowne ubranko z naturalnego lnu. Przytulanka dostępna jest w dwóch wzorach, których pastelowa, subtelna kolorystyka z pewnością spodoba się zarówno chłopcom, jak i dziewczynkom. Króliczek jest doskonały do przytulania, zabaw, będzie też piękną dekoracją dziecięcego pokoju.</opis>
@@ -87740,7 +87924,7 @@ Waga:
 <nazwa>CEBA 102-000-734 Przewijak miękki profilowany krótki 50x70 Basic Balloons</nazwa>
 <cena>40.59</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342344</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -88600,7 +88784,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-817 Przewijak twardy krótki 50x70 Basic Rainbow Walk</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672346403</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -89083,7 +89267,7 @@ Aby wyczyścić mate wystarczy użyć tylko wody, bez dodatku detergentów. Mata
 <nazwa>CEBA 309-000-727 Foto mata 92x72 Basic Mouse</nazwa>
 <cena>55.38</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342832</EAN>
 <grupa>CEBA/FOTO MATA</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Milestone mat od Ceba Baby w wymiarze 92x72 cm to idealny produkt, który pomaga uchwycić cenne chwile, gdy Twój maluch rośnie. Zaznaczaj mijające dni, tygodnie i miesiące i ciesz się wyjątkową pamiątką. Dodatkowo mata wykonana z grubej i miękkiej gąbki to idealne miejsce do zabawy, ćwiczeń brzuszka i różnych aktywności Twojego dziecka. Mata wykonana jest z atestowanych materiałów, wodoodporna i łatwa w utrzymaniu czystości.</opis>
@@ -89171,7 +89355,7 @@ Aby wyczyścić mate wystarczy użyć tylko wody, bez dodatku detergentów. Mata
 <nazwa>CEBA 705-000-739 Cebuszka PHYSIO DUO Grey Stars</nazwa>
 <cena>118.55</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342160</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Wielofunkcyjna poduszka physio - Cebuszka® Duo to poduszka relaksacyjna idealna dla każdej mamy w ostatnich miesiącach ciąży, okresie połogu i karmienia Maleństwa. Cebuszka® duo to największa z naszych poduszek zaprojektowana specjalnie, aby spełnić oczekiwania najbardziej wymagających kobiet. Poduszka marki Ceba Baby zapewnia stabilne podparcie całego ciała podczas snu i odpoczynku, dzięki czemu kręgosłup zostaje odciążony, a ciało zrelaksowane. Cebuszka® duo posiada dwie komory o różnorodnym wypełnieniu. Pierwsza komora, przeznaczona pod głowę, wypełniona jest miękkimi silikonowymi kuleczkami. Część drugą, dłuższą, wypełnia mikroperła styropianowa stosowana w poduszkach rehabilitacyjnych. Mikroperła doskonale dopasowuje się do ciała i nie sprężynuje, co pozwala na znalezienie idealnej pozycji dla ciała. Wymiary: 300 x 30 cm. Produkt posiada certyfikat Oeko – Tex Standard 100. Wielofunkcyjna poduszka Cebuszka physio jest wyrobem medycznym.</opis>
@@ -89204,7 +89388,7 @@ Aby wyczyścić mate wystarczy użyć tylko wody, bez dodatku detergentów. Mata
 <nazwa>CEBA 705-000-743 Cebuszka PHYSIO DUO Hoya</nazwa>
 <cena>118.55</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342207</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Wielofunkcyjna poduszka physio - Cebuszka® Duo to poduszka relaksacyjna idealna dla każdej mamy w ostatnich miesiącach ciąży, okresie połogu i karmienia Maleństwa. Cebuszka® duo to największa z naszych poduszek zaprojektowana specjalnie, aby spełnić oczekiwania najbardziej wymagających kobiet. Poduszka marki Ceba Baby zapewnia stabilne podparcie całego ciała podczas snu i odpoczynku, dzięki czemu kręgosłup zostaje odciążony, a ciało zrelaksowane. Cebuszka® duo posiada dwie komory o różnorodnym wypełnieniu. Pierwsza komora, przeznaczona pod głowę, wypełniona jest miękkimi silikonowymi kuleczkami. Część drugą, dłuższą, wypełnia mikroperła styropianowa stosowana w poduszkach rehabilitacyjnych. Mikroperła doskonale dopasowuje się do ciała i nie sprężynuje, co pozwala na znalezienie idealnej pozycji dla ciała. Wymiary: 300 x 30 cm. Produkt posiada certyfikat Oeko – Tex Standard 100. Wielofunkcyjna poduszka Cebuszka physio jest wyrobem medycznym.</opis>
@@ -89592,7 +89776,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-742 Cebuszka PHYSIO Multi Wildflowers</nazwa>
 <cena>97.93</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342108</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Wielofunkcyjna poduszka physio - Cebuszka® Multi to poduszka relaksacyjna marki Ceba Baby. Multifunkcyjna poduszka do spania i karmienia przydatna jest zarówno dla mamy, taty, jak i maluszka. Poduszkę wypełniają drobne kuleczki - mikroperła styropianowa, która używana jest w poduszkach rehabilitacyjnych. Mikroperła, dzięki swoim właściwościom, pozwala przyjąć wygodną pozycję ciała i odciążyć kręgosłup. Cebuszka® Multi sprawdza się idealnie pod koniec ciąży, podczas karmienia maluszka, jak i późniejszej nauki siadania tworząc stabilne podparcie. Wymiary: 190 x 35 cm. Produkt posiada certyfikat Oeko – Tex Standard 100. Wielofunkcyjna poduszka Cebuszka physio jest wyrobem medycznym.</opis>
@@ -89636,7 +89820,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-826 Wielofunkcyjna poduszka PHYSIO Multi Jersey Green Meadow 190 cm</nazwa>
 <cena>97.93</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672347455</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Cebuszka Multi to wielofunkcyjna poduszka zaprojektowana z myślą o kobietach w ciąży, młodych rodzicach i ich dzieciach. Jej ergonomiczny kształt oraz innowacyjne wypełnienie z mikroperłami zapewniają wyjątkowy komfort w każdej sytuacji – zarówno podczas odpoczynku, snu, jak i w trakcie karmienia. Poduszka delikatnie dopasowuje się do ciała, zmniejsza nacisk na kręgosłup i ułatwia przyjęcie wygodnej pozycji. Po narodzinach dziecka staje się niezastąpionym wsparciem przy karmieniu piersią lub butelką, a także pomaga maluszkowi w nauce siadania, oferując stabilne podparcie. Trwała, zdejmowana poszewka umożliwia łatwe utrzymanie produktu w czystości, a certyfikat Öko-Tex Standard 100 gwarantuje bezpieczeństwo materiałów.
@@ -89740,7 +89924,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-828 Wielofunkcyjna poduszka PHYSIO Multi Jersey Flower Field 190 cm</nazwa>
 <cena>97.94</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672347479</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Cebuszka Multi to wielofunkcyjna poduszka zaprojektowana z myślą o kobietach w ciąży, młodych rodzicach i ich dzieciach. Jej ergonomiczny kształt oraz innowacyjne wypełnienie z mikroperłami zapewniają wyjątkowy komfort w każdej sytuacji – zarówno podczas odpoczynku, snu, jak i w trakcie karmienia. Poduszka delikatnie dopasowuje się do ciała, zmniejsza nacisk na kręgosłup i ułatwia przyjęcie wygodnej pozycji. Po narodzinach dziecka staje się niezastąpionym wsparciem przy karmieniu piersią lub butelką, a także pomaga maluszkowi w nauce siadania, oferując stabilne podparcie. Trwała, zdejmowana poszewka umożliwia łatwe utrzymanie produktu w czystości, a certyfikat Öko-Tex Standard 100 gwarantuje bezpieczeństwo materiałów.
@@ -89792,7 +89976,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-829 Wielofunkcyjna poduszka PHYSIO Multi muślin Small Twigs 190 cm</nazwa>
 <cena>97.94</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672347486</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Cebuszka Multi to wielofunkcyjna poduszka zaprojektowana z myślą o kobietach w ciąży, młodych rodzicach i ich dzieciach. Jej ergonomiczny kształt oraz innowacyjne wypełnienie z mikroperłami zapewniają wyjątkowy komfort w każdej sytuacji – zarówno podczas odpoczynku, snu, jak i w trakcie karmienia. Poduszka delikatnie dopasowuje się do ciała, zmniejsza nacisk na kręgosłup i ułatwia przyjęcie wygodnej pozycji. Po narodzinach dziecka staje się niezastąpionym wsparciem przy karmieniu piersią lub butelką, a także pomaga maluszkowi w nauce siadania, oferując stabilne podparcie. Trwała, zdejmowana poszewka umożliwia łatwe utrzymanie produktu w czystości, a certyfikat Öko-Tex Standard 100 gwarantuje bezpieczeństwo materiałów.
@@ -92624,7 +92808,7 @@ RÓŻNE DZIAŁANIA: Dzięki tej zabawce dzieci mogą przesuwać teksturowane pie
 <nazwa>CHICCO 00011590000000 Grzechotka Sowa</nazwa>
 <cena>21.23</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8058664165872</EAN>
 <grupa>CHICCO/ZABAWKI</grupa>
 <opis>GRZECHOTKA DZIECIĘCA: Kolorowa grzechotka sowa ma miękki plastikowy brzuszek i kulkę w środku, która po potrząśnięciu tworzy zabawny ruch.
@@ -94440,7 +94624,7 @@ Smoczek Physio Micro jest dostępny w jednym rozmiarze 0-2m, w późniejszym okr
 <nazwa>CHICCO 00075126210000 Smoczek MICRO niebieski sil 0-2m 2 szt</nazwa>
 <cena>19.09</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8058664156269</EAN>
 <grupa>CHICCO/AKCESORIA/SMOCZKI USPOKAJAJĄCE PHYSIOFORMA</grupa>
 <opis>Chicco Smoczek do uspokajania Physio Micro silikonowy
@@ -107615,7 +107799,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 45690 Bączek akwarium</nazwa>
 <cena>39.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>672552456903</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis/>
@@ -110466,7 +110650,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO EBONY BLACK</nazwa>
 <cena>960.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739400</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -110874,7 +111058,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy FARO SAVANNA BEIGE</nazwa>
 <cena>322.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908214730766</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy z automatycznym systemem składania FARO marki EASYGO – super jakość w niskiej cenie
@@ -112992,63 +113176,6 @@ Oznaczenie na kartonie</opis>
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902863</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
-<cena>1548.32</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5906724206559</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -113099,6 +113226,63 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5902863</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
+<cena>1548.32</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724206559</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -115528,7 +115712,7 @@ WAGA [kg]: 7,60</opis>
 <b2b>
 <kod>785445</kod>
 <nazwa>EWA 727220 Śpiwór BALLOONS druk</nazwa>
-<cena>205.66</cena>
+<cena>200.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -116973,7 +117157,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <b2b>
 <kod>785446</kod>
 <nazwa>EWA 732804 Śpiwór ROSES druk</nazwa>
-<cena>205.66</cena>
+<cena>200.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904356732804</EAN>
@@ -120184,7 +120368,7 @@ PRODUKT 100% POLSKI
 <b2b>
 <kod>784722</kod>
 <nazwa>EWA 927965 Śpiwór EEVI 3w1 do wózka jasny szary</nazwa>
-<cena>201.26</cena>
+<cena>200.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904356927965</EAN>
@@ -120477,7 +120661,7 @@ Certyfikaty: „Bezpieczny dla dziecka”, „Bezpieczny dla niemowląt”</opis
 <nazwa>EWA 932543 Czapka Run&amp;Fun prążek beż S</nazwa>
 <cena>17.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905359932543</EAN>
 <grupa> UBRANKA/EWA KLUCZE/CZAPKI</grupa>
 <opis>Kremowa czapka dziecięca ze ściągacza. Czapka dziecięca wykonana z rozciągliwej dwu warstwowej bawełny. Z przodu czapki znajduje się naszywka wykonana tak, aby nie podrażniać delikatnej skóry dziecka.
@@ -121814,7 +121998,7 @@ Pochodzenie: Produkt 100% Polski</opis>
 <nazwa>EWA 951544 Czapka Run&amp;Fun prążek j.niebieska S</nazwa>
 <cena>17.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905359951544</EAN>
 <grupa> UBRANKA/EWA KLUCZE/CZAPKI</grupa>
 <opis/>
@@ -128656,7 +128840,7 @@ Zestaw maskotek GAGAGU jest doskonałym prezentem na narodziny, roczek lub inną
 <nazwa>GAGAGU GGG0832 Zawieszka Panda Małpka piłka</nazwa>
 <cena>20.29</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904754608329</EAN>
 <grupa>GAGAGU</grupa>
 <opis>Zestaw maskotek GAGAGU to uroczy i kreatywny komplet zabawek stworzony z myślą o najmłodszych dzieciach. W skład zestawu wchodzą dwie sympatyczne maskotki: panda oraz małpka, które wykonane są z wysokiej jakości, bezpiecznych dla dzieci materiałów, co sprawia, że są odpowiednie już dla maluszków od 0+.
@@ -131637,69 +131821,6 @@ Leniwiec Aria może siedzieć, stać i trzymać akcesoria w dłoniach.
 ZRÓWNOWAŻONE MATERIAŁY
 Dom i postacie są wykonane z trwałych materiałów, w tym zielonego plastiku PE i drewna z certyfikatem FSC.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907372-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913751</kod>
-<nazwa>HAXE HX-411 Nawilżacz powietrza</nazwa>
-<cena>121.28</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5902696004117</EAN>
-<grupa>HAXE</grupa>
-<opis>Kaszel, suchość nosa i trudności z oddychaniem?
-Zbyt suche powietrze w sezonie grzewczym to częsta przyczyna problemów ze zdrowiem i gorszego samopoczucia. Nawilżacz natychmiastowo poprawia jakość powietrza, przynosząc ulgę drogom oddechowym i poprawiając samopoczucie Twoje i Twoich bliskich.
-
-Nawilżacz powietrza ultradźwiękowy
-Oddychaj łatwiej i zdrowiej
-W sezonie grzewczym wilgotność powietrza spada aż do 15-30%, czyli znacznie poniżej zalecanego poziomu 40-60%. Dzięki funkcji stałego nawilżania powietrze w Twoim domu będzie zawsze odpowiednio nawilżone, a Ty poczujesz różnicę każdego poranka, budząc się bez kaszlu i suchego nosa.
-
-Wilgotne powietrze rozpylane przez nawilżacz
-Stałe nawilżenie 24/7 
-Nawilżacz automatycznie monitoruje poziom wilgotności i utrzymuje go na stałym poziomie. Duży zbiornik zapewnia aż 15 godzin pracy na jednym napełnieniu, pozwalając cieszyć się świeżym i pachnącym powietrzem przez cały dzień i noc.
-
-Funkcja stałego nawilżenia
-Czyste i pachnące powietrze
-Oddychaj świeżym, nawilżonym powietrzem dzięki nowoczesnej technologii ultradźwiękowej. Ciesz się przyjemnymi aromatami olejków eterycznych i spraw, by Twój dom zawsze kojarzył się z czystością i pięknym zapachem.
-
-Nawilżacz z aromaterapią
-Śpij spokojnie, dzięki cichej pracy
-Nawilżacz działa tak cicho, że nawet w nocy nie zakłóci Twojego snu. Tryb uśpienia dodatkowo eliminuje niemal wszystkie sygnały świetlne, tworząc idealne warunki do spokojnego snu.
-
-Cichy nawilżacz powietrza
-2x lepsza jakość powietrza w mgnieniu oka
-Wysoka wydajność pozwala szybko podnieść wilgotność w pomieszczeniach do 30 m2. Już po godzinie poczujesz różnicę i zauważysz, jak poprawia się jakość powietrza w Twoim otoczeniu.
-
-Wydajny nawilżacz powietrza
-Brak mokrych plam i białego osadu
-Ultralekka mgiełka równomiernie nawilża powietrze, nie pozostawiając po sobie śladów ani na meblach ani na podłodze.
-
-Nawilżacz nie zostawiający mokry plam i białego osadu
-ZAWARTOŚĆ OPAKOWANIA:
-Nawilżacz powietrza
-Pilot sterujący
-Instrukcja obsługi
-Karta gwarancyjna
-Opakowanie nawilżacza powietrza
-Informacje dotyczące bezpieczeństwa
-
-Dane techniczne
-Funkcje	3 poziomy nawilżania, Higrostat, Higrometr, Termometr, Regulacja poziomu wilgotności, Wyświetlacz, Sterowanie pilotem, Timer, Funkcja Uśpienia, Aromaterapia, Automatyczne wyłączanie
-Rodzaj nawilżania	Ultradźwiękowe
-Max powierzchnia pomieszczenia [m2]	30
-Kod kreskowy	5902696004117
-Nazwa produktu	Nawilżacz powietrza Haxe Zen-Air HX411
-Nazwa producenta	Grzegorz Nowak Haxe Polska
-Adres elektroniczny	info@haxe.com
-Adres pocztowy	ul. Hebanowa 11, 63-400 Ostrów Wielkopolski, Polska
-Przenaczenie produktu	Nawilżanie powietrza w pomieszczeniach do 30m2
-Pojemność zbiornika na wodę	4,5 L
-Symbol	HX411
-Napięcie znamionowe	110-220V
-Częstotliwość znamionowa	50 Hz
-Moc znamionowa	28W
-Maksymalna objętość atomizacji	300 ml/h
-Poziom hałasu	35dB (A)</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913751-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914396</kod>
@@ -135952,21 +136073,6 @@ Ustawioną na 450W mikrofalą rozgrzewaj pestki przez 2 minuty. Ekologiczny wkł
 <grupa>MOM'S CARE</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/762462-1.jpg https://marini.pl/b2b/pictures/762462-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>765050</kod>
-<nazwa>HENCZ 956 Tymek piszczek z gryzakiem</nazwa>
-<cena>23.85</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5907784469564</EAN>
-<grupa>MOM'S CARE</grupa>
-<opis>Tymek to gryzak idealny. Kupujesz jedną zabawkę, a dziecko zyskuje cały komplet doznań. Silikon najwyżej jakości bezpiecznie rozwija umiejętności gryzienia. Donośny dźwięk gwizdka skupia uwagę dziecka i zachęca do ćwiczenia dłoni. Białoczarne wzory stymulują rozwój wzroku. Całość dopełnia moc kolorowych metek, które dzieci po prostu uwielbiają.
-Wysokość: 42 cm
-Grupa wiekowa 0+
-Wykonane z: tkanina frotte, metki
-Wyprodukowane w Polsce</opis>
-<zdjecia>https://marini.pl/b2b/pictures/765050-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>765051</kod>
@@ -141942,7 +142048,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER 18650 EWA STARS Nakładka sedesowa antypoślizgowa kosmiczny biały</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396044898</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -142300,7 +142406,7 @@ wymiary: 125x64x34,5cm</opis>
 <nazwa>KEEEPER EWA BAMBI Nakładka sedesowa z funkcją antypoślizgową nordic white</nazwa>
 <cena>19.46</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396092974</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis/>
@@ -142353,7 +142459,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA FUNNY FARM Nakładka sedesowa z funkcją antypoślizgową nordic green</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396083255</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>informacje o produkcie
@@ -142428,18 +142534,6 @@ Wymiary: 30 x 40 x 15cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/781565-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>21843</kod>
-<nazwa>KEEEPER EWA PAW PATROL Nakładka sedesowa antypoślizgowa biała</nazwa>
-<cena>11.22</cena>
-<VAT>23</VAT>
-<stan>duża ilość</stan>
-<EAN>4052396092899</EAN>
-<grupa>KEEEPER/NAKŁADKI NA WC</grupa>
-<opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
-Wymiary: 30 x 40 x 15cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/21843-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>772804</kod>
 <nazwa>KEEEPER EWA PEPPA PIG Nakładka sedesowa antypoślizgowa nordic white</nazwa>
 <cena>11.22</cena>
@@ -142481,7 +142575,7 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER EWA STITCH Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>11.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396112641</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis/>
@@ -142492,7 +142586,7 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER IGOR BAMBI Podest dziecięcy dwustopniowy z funkcją antypoślizgową nordic white</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396092998</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podnóżek dla dziecka zapewni maluchowi wygodę i ułatwi mu korzystanie z umywalki lub toalety. Doskonale sprawdzi się również w codziennym użytkowaniu, gdzie dziecko potrzebuje bezpiecznego podwyższenia.
@@ -142569,7 +142663,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR LION KING Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>28.94</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396117431</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podest dziecięcy dwustopniowy, pomaga dzieciom sięgać wyżej.</opis>
@@ -142602,7 +142696,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER IGOR PANDA Podest dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396072839</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -150364,7 +150458,7 @@ Dla dzieci: od narodzin do 9 kg (lub momentu, w którym dziecko zacznie siadać)
 <nazwa>KINDERKRAFT Bujaczek SWINGEE beige</nazwa>
 <cena>200.45</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533928835</EAN>
 <grupa>KINDERKRAFT/BUJACZKI</grupa>
 <opis>Kinderkraft SWINGEE – elektryczny bujaczek-leżaczek | 5-stopniowa regulacja bujania, kompaktowy i lekki
@@ -150495,7 +150589,7 @@ Waga: 6 kg</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 i-Size 76-150cm BLACK</nazwa>
 <cena>219.95</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533923120</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>Fotelik samochodowy COMFORT UP i-Size 76-150 cm Kinderkraft
@@ -151018,7 +151112,30 @@ KNIT FABRIC (Dzianina) – przyjemna w dotyku dzianina</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929795</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
-<opis/>
+<opis>Kinderkraft I-360 2 PLUS – fotelik 4w1 i-Size 40–150 cm
+I-360 2 PLUS to fotelik samochodowy w zakresie 40–150 cm, który rośnie z dzieckiem od urodzenia do ok. 12 lat. Zapewnia wygodny obrót 360°, zaawansowaną ochronę boczną i komfort w podróży dzięki systemowi wentylacji AIR FLOW.
+
+Opis produktu
+Kinderkraft I-360 2 PLUS to fotelik samochodowy 4w1, zaprojektowany zgodnie z wymogami i-Size dla dzieci o wzroście 40–150 cm. Co ważne, jeden produkt obejmuje cały okres fotelikowania – od pierwszej podróży ze szpitala aż do codziennych dojazdów do szkoły. Dzięki szerokiemu zakresowi regulacji fotelik dopasowuje się do wzrostu i potrzeb dziecka na kolejnych etapach rozwoju.
+
+Model I-360 2 PLUS umożliwia przewożenie dziecka tyłem do kierunku jazdy aż do około 4. roku życia. Po tym czasie fotelik można wygodnie ustawić przodem, aż do osiągnięcia 150 cm wzrostu. Zastosowany mechanizm EASY SPIN PRO pozwala obrócić siedzisko o 360° jednym ruchem w stronę drzwi, co znacząco ułatwia sadzanie dziecka i zapinanie pasów, szczególnie przy częstych, krótkich przejazdach.
+
+Za bezpieczeństwo odpowiada zagłówek H-GUARD+ o wielowarstwowej konstrukcji oraz system bocznej ochrony SPS+, który tworzy dodatkową strefę bezpieczeństwa na wysokości głowy, barków i tułowia dziecka. Fotelik oferuje pięć poziomów pochylenia siedziska, dostępnych zarówno przy montażu tyłem, jak i przodem, co ułatwia ustawienie komfortowej pozycji do snu i odpoczynku podczas krótszych i dłuższych tras.
+
+Komfort termiczny zapewnia perforowana skorupa AIR SHELL oraz system cyrkulacji powietrza AIR FLOW w tapicerce, które pomagają ograniczyć przegrzewanie i pocenie się dziecka, zwłaszcza w cieplejsze dni. Montaż fotelika jest niezwykle intuicyjny dzięki złączom ISOFIX i nodze stabilizującej, a wskaźniki prawidłowego montażu pomagają opiekunom w upewnieniu się, że fotelik został właściwie zamocowany. Bezpieczeństwo pociechy to zawsze kwestia priorytetowa! I-360 2 PLUS to kompletne rozwiązanie dla sklepów i partnerów B2B, którzy szukają uniwersalnego fotelika na wiele lat użytkowania.
+
+Najważniejsze funkcje i zalety
+Fotelik 4w1 i-Size dla dzieci o wzroście 40–150 cm (ok. 0–12 lat).
+Możliwość przewożenia dziecka tyłem do kierunku jazdy do ok. 4. roku życia, następnie przodem do 150 cm.
+Obrót 360° EASY SPIN PRO – łatwe sadzanie dziecka i zapinanie pasów od strony drzwi.
+Zaawansowana ochrona boczna: zagłówek H-GUARD+ i system SPS+ zwiększające bezpieczeństwo głowy i tułowia.
+System wentylacji AIR SHELL i AIR FLOW poprawiający cyrkulację powietrza i komfort podróży.
+Uniwersalne rozwiązanie na wiele lat – jeden fotelik na wszystkie etapy dzieciństwa.
+Specyfikacja techniczna
+Kierunek montażu: tyłem do kierunku jazdy (RWF) dla młodszych dzieci, przodem (FWF) dla starszych dzieci.
+System montażu w samochodzie: ISOFIX + noga stabilizująca.
+Regulacja pochylenia: 5 pozycji (tyłem i przodem do kierunku jazdy).</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914510-1.jpg https://marini.pl/b2b/pictures/5914510-2.jpg https://marini.pl/b2b/pictures/5914510-3.jpg https://marini.pl/b2b/pictures/5914510-4.jpg https://marini.pl/b2b/pictures/5914510-5.jpg https://marini.pl/b2b/pictures/5914510-6.jpg https://marini.pl/b2b/pictures/5914510-7.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914512</kod>
@@ -151028,7 +151145,30 @@ KNIT FABRIC (Dzianina) – przyjemna w dotyku dzianina</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929818</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
-<opis/>
+<opis>Kinderkraft I-360 2 PLUS – fotelik 4w1 i-Size 40–150 cm
+I-360 2 PLUS to fotelik samochodowy w zakresie 40–150 cm, który rośnie z dzieckiem od urodzenia do ok. 12 lat. Zapewnia wygodny obrót 360°, zaawansowaną ochronę boczną i komfort w podróży dzięki systemowi wentylacji AIR FLOW.
+
+Opis produktu
+Kinderkraft I-360 2 PLUS to fotelik samochodowy 4w1, zaprojektowany zgodnie z wymogami i-Size dla dzieci o wzroście 40–150 cm. Co ważne, jeden produkt obejmuje cały okres fotelikowania – od pierwszej podróży ze szpitala aż do codziennych dojazdów do szkoły. Dzięki szerokiemu zakresowi regulacji fotelik dopasowuje się do wzrostu i potrzeb dziecka na kolejnych etapach rozwoju.
+
+Model I-360 2 PLUS umożliwia przewożenie dziecka tyłem do kierunku jazdy aż do około 4. roku życia. Po tym czasie fotelik można wygodnie ustawić przodem, aż do osiągnięcia 150 cm wzrostu. Zastosowany mechanizm EASY SPIN PRO pozwala obrócić siedzisko o 360° jednym ruchem w stronę drzwi, co znacząco ułatwia sadzanie dziecka i zapinanie pasów, szczególnie przy częstych, krótkich przejazdach.
+
+Za bezpieczeństwo odpowiada zagłówek H-GUARD+ o wielowarstwowej konstrukcji oraz system bocznej ochrony SPS+, który tworzy dodatkową strefę bezpieczeństwa na wysokości głowy, barków i tułowia dziecka. Fotelik oferuje pięć poziomów pochylenia siedziska, dostępnych zarówno przy montażu tyłem, jak i przodem, co ułatwia ustawienie komfortowej pozycji do snu i odpoczynku podczas krótszych i dłuższych tras.
+
+Komfort termiczny zapewnia perforowana skorupa AIR SHELL oraz system cyrkulacji powietrza AIR FLOW w tapicerce, które pomagają ograniczyć przegrzewanie i pocenie się dziecka, zwłaszcza w cieplejsze dni. Montaż fotelika jest niezwykle intuicyjny dzięki złączom ISOFIX i nodze stabilizującej, a wskaźniki prawidłowego montażu pomagają opiekunom w upewnieniu się, że fotelik został właściwie zamocowany. Bezpieczeństwo pociechy to zawsze kwestia priorytetowa! I-360 2 PLUS to kompletne rozwiązanie dla sklepów i partnerów B2B, którzy szukają uniwersalnego fotelika na wiele lat użytkowania.
+
+Najważniejsze funkcje i zalety
+Fotelik 4w1 i-Size dla dzieci o wzroście 40–150 cm (ok. 0–12 lat).
+Możliwość przewożenia dziecka tyłem do kierunku jazdy do ok. 4. roku życia, następnie przodem do 150 cm.
+Obrót 360° EASY SPIN PRO – łatwe sadzanie dziecka i zapinanie pasów od strony drzwi.
+Zaawansowana ochrona boczna: zagłówek H-GUARD+ i system SPS+ zwiększające bezpieczeństwo głowy i tułowia.
+System wentylacji AIR SHELL i AIR FLOW poprawiający cyrkulację powietrza i komfort podróży.
+Uniwersalne rozwiązanie na wiele lat – jeden fotelik na wszystkie etapy dzieciństwa.
+Specyfikacja techniczna
+Kierunek montażu: tyłem do kierunku jazdy (RWF) dla młodszych dzieci, przodem (FWF) dla starszych dzieci.
+System montażu w samochodzie: ISOFIX + noga stabilizująca.
+Regulacja pochylenia: 5 pozycji (tyłem i przodem do kierunku jazdy).</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914512-1.jpg https://marini.pl/b2b/pictures/5914512-2.jpg https://marini.pl/b2b/pictures/5914512-3.jpg https://marini.pl/b2b/pictures/5914512-4.jpg https://marini.pl/b2b/pictures/5914512-5.jpg https://marini.pl/b2b/pictures/5914512-6.jpg https://marini.pl/b2b/pictures/5914512-7.jpg https://marini.pl/b2b/pictures/5914512-8.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914511</kod>
@@ -151038,7 +151178,30 @@ KNIT FABRIC (Dzianina) – przyjemna w dotyku dzianina</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929801</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
-<opis/>
+<opis>Kinderkraft I-360 2 PLUS – fotelik 4w1 i-Size 40–150 cm
+I-360 2 PLUS to fotelik samochodowy w zakresie 40–150 cm, który rośnie z dzieckiem od urodzenia do ok. 12 lat. Zapewnia wygodny obrót 360°, zaawansowaną ochronę boczną i komfort w podróży dzięki systemowi wentylacji AIR FLOW.
+
+Opis produktu
+Kinderkraft I-360 2 PLUS to fotelik samochodowy 4w1, zaprojektowany zgodnie z wymogami i-Size dla dzieci o wzroście 40–150 cm. Co ważne, jeden produkt obejmuje cały okres fotelikowania – od pierwszej podróży ze szpitala aż do codziennych dojazdów do szkoły. Dzięki szerokiemu zakresowi regulacji fotelik dopasowuje się do wzrostu i potrzeb dziecka na kolejnych etapach rozwoju.
+
+Model I-360 2 PLUS umożliwia przewożenie dziecka tyłem do kierunku jazdy aż do około 4. roku życia. Po tym czasie fotelik można wygodnie ustawić przodem, aż do osiągnięcia 150 cm wzrostu. Zastosowany mechanizm EASY SPIN PRO pozwala obrócić siedzisko o 360° jednym ruchem w stronę drzwi, co znacząco ułatwia sadzanie dziecka i zapinanie pasów, szczególnie przy częstych, krótkich przejazdach.
+
+Za bezpieczeństwo odpowiada zagłówek H-GUARD+ o wielowarstwowej konstrukcji oraz system bocznej ochrony SPS+, który tworzy dodatkową strefę bezpieczeństwa na wysokości głowy, barków i tułowia dziecka. Fotelik oferuje pięć poziomów pochylenia siedziska, dostępnych zarówno przy montażu tyłem, jak i przodem, co ułatwia ustawienie komfortowej pozycji do snu i odpoczynku podczas krótszych i dłuższych tras.
+
+Komfort termiczny zapewnia perforowana skorupa AIR SHELL oraz system cyrkulacji powietrza AIR FLOW w tapicerce, które pomagają ograniczyć przegrzewanie i pocenie się dziecka, zwłaszcza w cieplejsze dni. Montaż fotelika jest niezwykle intuicyjny dzięki złączom ISOFIX i nodze stabilizującej, a wskaźniki prawidłowego montażu pomagają opiekunom w upewnieniu się, że fotelik został właściwie zamocowany. Bezpieczeństwo pociechy to zawsze kwestia priorytetowa! I-360 2 PLUS to kompletne rozwiązanie dla sklepów i partnerów B2B, którzy szukają uniwersalnego fotelika na wiele lat użytkowania.
+
+Najważniejsze funkcje i zalety
+Fotelik 4w1 i-Size dla dzieci o wzroście 40–150 cm (ok. 0–12 lat).
+Możliwość przewożenia dziecka tyłem do kierunku jazdy do ok. 4. roku życia, następnie przodem do 150 cm.
+Obrót 360° EASY SPIN PRO – łatwe sadzanie dziecka i zapinanie pasów od strony drzwi.
+Zaawansowana ochrona boczna: zagłówek H-GUARD+ i system SPS+ zwiększające bezpieczeństwo głowy i tułowia.
+System wentylacji AIR SHELL i AIR FLOW poprawiający cyrkulację powietrza i komfort podróży.
+Uniwersalne rozwiązanie na wiele lat – jeden fotelik na wszystkie etapy dzieciństwa.
+Specyfikacja techniczna
+Kierunek montażu: tyłem do kierunku jazdy (RWF) dla młodszych dzieci, przodem (FWF) dla starszych dzieci.
+System montażu w samochodzie: ISOFIX + noga stabilizująca.
+Regulacja pochylenia: 5 pozycji (tyłem i przodem do kierunku jazdy).</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914511-1.jpg https://marini.pl/b2b/pictures/5914511-2.jpg https://marini.pl/b2b/pictures/5914511-3.jpg https://marini.pl/b2b/pictures/5914511-4.jpg https://marini.pl/b2b/pictures/5914511-5.jpg https://marini.pl/b2b/pictures/5914511-6.jpg https://marini.pl/b2b/pictures/5914511-7.jpg https://marini.pl/b2b/pictures/5914511-8.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910708</kod>
@@ -156096,16 +156259,6 @@ Dla wieku: od urodzenia do momentu kiedy dziecko zaczyna samo siadać</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908283-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5914509</kod>
-<nazwa>KINDERKRAFT Łóżeczko dostawne Neste Up 2 full light grey</nazwa>
-<cena>257.88</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5902533929559</EAN>
-<grupa>KINDERKRAFT/ŁÓŻECZKA I KOJCE</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5908282</kod>
 <nazwa>KINDERKRAFT Łóżeczko dostawne Neste UP 2 light grey</nazwa>
 <cena>257.88</cena>
@@ -156160,6 +156313,58 @@ poszycie: łatwy do czyszczenia poliester
 stelaż: wytrzymała stal
 Dla wieku: od urodzenia do momentu kiedy dziecko zaczyna samo siadać</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908282-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914509</kod>
+<nazwa>KINDERKRAFT Łóżeczko dostawne Nestee Up 2 full light grey</nazwa>
+<cena>257.88</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5902533929559</EAN>
+<grupa>KINDERKRAFT/ŁÓŻECZKA I KOJCE</grupa>
+<opis>Łóżeczko dostawne 2 w 1 NESTE UP 2 Kinderkraft
+
+
+Oto wybawienie dla każdego rodzica noworodka - NESTE UP 2 to coś więcej, niż łóżeczko dostawne. To również samodzielne łóżeczko niemowlęce, które w razie potrzeby zastąpi Ci łóżeczko turystyczne. NESTE UP 2 zaprojektowano z myślą o rodzicach, którzy chcą mieć swojego maluszka blisko siebie, a jednocześnie chcą zadbać o komfort i jakość swojego snu. Łatwo przekształcisz NESTE UP 2 z dostawki w samodzielne łóżeczko i odwrotnie.
+
+
+To wielofunkcyjne łóżeczko dostawne ma aż 5 poziomów wysokości, dzięki czemu łatwo dopasujesz je do wysokości swojego łóżka. Umożliwia także ustawienie kąta nachylenia materaca na jednym z dwóch poziomów - to zbawienna opcja dla dzieci, którym często się ulewa lub chorują i mają katar. Siateczka wokół całego łóżeczka umożliwi Wam dyskretne podglądanie, co robi dziecko w danej chwili, a dzięki 4 kółkom łatwo przesuniesz NESTE UP 2 z miejsca na miejsce. Oprócz tego do łóżeczka dołączono materac, który ma odpowiednią grubość i gęstość, rekomendowaną dla niemowląt - zapewnia właściwe ułożenie ciała dziecka podczas snu i pozytywnie wpływa na ich rozwój, a także jest odporny na pleśń i roztocza.
+
+
+Łóżeczko 2 w 1: łóżeczko niemowlęce i dostawne
+
+NESTE UP 2 to wielofunkcyjne łóżeczko, które służy zarówno jako niezależne łóżeczko niemowlęce, jak i dostawka do łóżka rodziców. Dzięki czterem kółkom z hamulcem, łóżeczko można łatwo przemieszczać po domu, umożliwiając rodzicom ciągły nadzór i bliskość z dzieckiem. To rozwiązanie zapewnia wygodę, bezpieczeństwo i elastyczność, która umożliwia łatwą adaptację do różnych sytuacji, od snu nocnego przy boku rodziców do drzemki w ciągu dnia w dowolnym miejscu domu.
+
+
+Idealne dopasowanie
+
+Płynna i łatwa regulacja wysokości łóżeczka umożliwia bezproblemowe dopasowanie dostawki do wysokości łóżka rodzica. Ustaw je na jednym z 5 poziomów, wyreguluj nóżki na odległość tak, by dostawka ściśle przylegała do łóżka, i przypnij specjalnymi pasami, by stworzyć dziecku bezpieczną przestrzeń do spania. Zachowasz miejsce dla siebie i zadbasz o higienę snu, ale jednocześnie będziesz mieć dziecko na wyciągnięcie ręki.
+
+
+Wygodny materac w zestawie
+
+Do zestawu dołączony jest półtwardy materac, rekomendowany przez fizjoterapeutów, ponieważ dzięki niemu dziecku lepiej się śpi, pozytywnie wpływa też na rozwój podczas snu, zapewniając mu odpowiednie podparcie kręgosłupa i głowy. Dzięki specjalnemu wypełnieniu w postaci sprasowanych włókien, materac jest odporny na wilgoć, pleśń i roztocza. Do materaca dołączone jest prześcieradło, które możesz wyprać w pralce.
+
+
+2-stopniowa regulacja kąta nachylenia
+
+Kąt nachylenia materaca można regulować na dwóch różnych poziomach. Jeśli Twój maluch jest przeziębiony lub ma problem z ulewaniem, a Ty chcesz ułatwić mu oddychanie w nocy, wystarczy, że ustawisz górną część materaca odrobinę wyżej.
+
+
+Dziecko zawsze na oku
+
+Siateczka okalająca łóżeczko z każdej strony nie tylko zapewnia lepszy przepływ powietrza Twojemu maluchowi, ale również pozwala Ci na dyskretne kontrolowanie sytuacji podczas wykonywania codziennych czynności.
+
+Uniwersalne i stylowe
+
+Łóżeczko dziecięce NESTE UP 2 wyróżnia miły w dotyku materiał, który łatwo wypierzesz. Zaprojektowano je z myślą o idealnym dopasowaniu do każdego wnętrza - doskonale wkomponuje się w każde pomieszczenie. Modne kolory będą pasować do większości wnętrz, utrzymanych w różnej stylistyce.
+
+Wykonanie:
+Materiały:
+poszycie: łatwy do czyszczenia poliester
+stelaż: wytrzymała stal
+Dla wieku: od urodzenia do momentu kiedy dziecko zaczyna samo siadać</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914509-1.jpg https://marini.pl/b2b/pictures/5914509-2.jpg https://marini.pl/b2b/pictures/5914509-3.jpg https://marini.pl/b2b/pictures/5914509-4.jpg https://marini.pl/b2b/pictures/5914509-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914343</kod>
@@ -156464,7 +156669,7 @@ JOY 2 z akcesoriami dostępny jest w pięknych, nowych i uniwersalnych kolorach.
 <nazwa>KINDERKRAFT Łóżeczko turystyczne JOY 2 z akcesoriami DARK GREY</nazwa>
 <cena>271.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533925155</EAN>
 <grupa>KINDERKRAFT/ŁÓŻECZKA I KOJCE</grupa>
 <opis>Składane łóżeczko JOY 2 z akcesoriami to doskonałe i praktyczne rozwiązanie dla wszystkich rodziców, którzy szukają jednego produktu, spełniającego wszystkie ich potrzeby. To łóżeczko dziecięce 3 w 1: pełni funkcję łóżeczka niemowlęcego i dla starszaka oraz łóżeczka turystycznego. JOY 2 szybko stanie się ulubionym meblem w Waszym domu, a dzięki pięknym kolorom i smukłej konstrukcji wpasuje się w każdy styl.
@@ -156770,7 +156975,7 @@ Produkt testowany i zatwierdzony zgodnie z europejskimi standardami bezpieczeńs
 <nazwa>KINDERKRAFT Łóżeczko/kołyska LOVI grey</nazwa>
 <cena>193.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533913503</EAN>
 <grupa>KINDERKRAFT/ŁÓŻECZKA I KOJCE</grupa>
 <opis>LOVI – Łóżeczko 3w1
@@ -157615,7 +157820,7 @@ Odległość od ziemi do siodełka: 27-30 cm
 <nazwa>KINDERKRAFT Rowerek biegowy CUTIE LIGHT BEIGE</nazwa>
 <cena>86.68</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533925384</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
 <opis>CUTIE to minirowerek trójkołowy, który łączy w sobie oryginalny, nowoczesny design, bezpieczną konstrukcję oraz zalety rowerka biegowego i trójkołowego. Został stworzony specjalnie dla małych odkrywców. Nadaje się dla dzieci już od 1. roku życia! Antypoślizgowe rączki z gumy TPR zapewniają dziecku solidny chwyt, a lekka waga (zaledwie 1,8 kg) pozwala rodzicom na swobodne przenoszenie minirowerka. Lekkie koła z nieprzebijalnej pianki EVA oraz regulacja wysokości siodełka (26-28 cm) sprawią, że każdy spacer będzie niezapomniany!
@@ -158998,7 +159203,44 @@ Wiek: od 9 miesięcy do 5 lat</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929498</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
-<opis/>
+<opis>Kinderkraft AVEO 2 PLUS - rowerek trójkołowy | 6 funkcji, siedzisko 360°, pozycja leżąca
+Opis produktu
+Kinderkraft AVEO 2 PLUS to wielofunkcyjny rowerek trójkołowy, który stanie się niezastąpionym towarzyszem wspólnych spacerów od 9. miesiąca aż do 5. roku życia dziecka. Zaprojektowany z myślą o wygodzie malucha i komforcie rodzica, łączy w sobie funkcjonalność wózka spacerowego oraz rowerka trójkołowego. Pozwala na komfortowy sen, gdy obserwowanie świata zmęczy malutkie oczka, dzięki możliwości opuszczenia oparcia do pozycji leżącej.
+
+Ergonomiczne siedzisko z możliwością obrotu o 360° pozwala maluchowi podróżować zarówno przodem do rodzica, jak i przodem do świata, w zależności od nastroju i chęci poznawania tego, co dzieje się dookoła. AVEO 2 PLUS sprawia, że każda wspólna wyprawa staje się przyjemnością. Funkcja wolnego koła to niezła gratka dla malucha – pierwsze próby jazdy na rowerze przy jednoczesnym zachowaniu kontroli nad drogą po stronie rodzica.
+
+Daszek z filtrem UPF50+ i wodoodporna tkanina chronią przed różnymi warunkami atmosferycznymi, a Air Flow System zadba o odpowiednią wentylację w ciepłe dni. Trójkołowiec wyposażono także w praktyczne dodatki - torbę, dzwonek, uchwyt na kubek oraz dwa koszyki, które pomieszczą zarówno ukochane zabawki, jak i niezbędne drobiazgi na spacerze.
+
+Dzięki funkcji szybkiego i intuicyjnego składania AVEO 2 PLUS łatwo schowasz w szafie czy bagażniku, a gdy przyjdzie ochota na kolejne przygody, bez problemu przygotujesz go na kolejny spacer!
+
+Najważniejsze funkcje i zalety
+Od 9 miesięcy do 5 lat - rowerek rośnie razem z dzieckiem.
+6 konfiguracji użytkowania - łatwe dopasowanie do wieku i umiejętności malucha.
+CLICK&amp;TWIST - obracane siedzisko 360° - jazda przodem do rodzica lub świata.
+Pozycja leżąca w obu kierunkach - wygodna drzemka w czasie spaceru.
+Daszek z filtrem UPF50+ - skuteczna ochrona przed słońcem i wiatrem.
+Wodoodporna tapicerka z panelem Air Flow System - komfort w ciepłe dni.
+Regulowana rączka dla rodzica - 3 poziomy wysokości dla wygody prowadzenia.
+5-punktowe pasy bezpieczeństwa - dodatkowa ochrona, możliwość osobnego odpinania.
+Praktyczne dodatki - torba, dzwonek i dwa koszyki na akcesoria i zakupy.
+Łatwe składanie ramy - proste przechowywanie i transport.
+Specyfikacja techniczna
+Materiały:
+
+Rama: PP + stal
+Koła: PU
+
+Wymiary po złożeniu: 66 x 77 x 51,5 cm?
+
+Waga: 10 kg / 11,6 kg?
+
+
+Wysokość kierownicy - 59 cm
+
+Długość oparcia - 44 cm
+
+Rączka rodzica - 92-96-100 cm</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914508-1.jpg https://marini.pl/b2b/pictures/5914508-2.jpg https://marini.pl/b2b/pictures/5914508-3.jpg https://marini.pl/b2b/pictures/5914508-4.jpg https://marini.pl/b2b/pictures/5914508-5.jpg https://marini.pl/b2b/pictures/5914508-6.jpg https://marini.pl/b2b/pictures/5914508-7.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914507</kod>
@@ -159008,7 +159250,44 @@ Wiek: od 9 miesięcy do 5 lat</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929481</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
-<opis/>
+<opis>Kinderkraft AVEO 2 PLUS - rowerek trójkołowy | 6 funkcji, siedzisko 360°, pozycja leżąca
+Opis produktu
+Kinderkraft AVEO 2 PLUS to wielofunkcyjny rowerek trójkołowy, który stanie się niezastąpionym towarzyszem wspólnych spacerów od 9. miesiąca aż do 5. roku życia dziecka. Zaprojektowany z myślą o wygodzie malucha i komforcie rodzica, łączy w sobie funkcjonalność wózka spacerowego oraz rowerka trójkołowego. Pozwala na komfortowy sen, gdy obserwowanie świata zmęczy malutkie oczka, dzięki możliwości opuszczenia oparcia do pozycji leżącej.
+
+Ergonomiczne siedzisko z możliwością obrotu o 360° pozwala maluchowi podróżować zarówno przodem do rodzica, jak i przodem do świata, w zależności od nastroju i chęci poznawania tego, co dzieje się dookoła. AVEO 2 PLUS sprawia, że każda wspólna wyprawa staje się przyjemnością. Funkcja wolnego koła to niezła gratka dla malucha – pierwsze próby jazdy na rowerze przy jednoczesnym zachowaniu kontroli nad drogą po stronie rodzica.
+
+Daszek z filtrem UPF50+ i wodoodporna tkanina chronią przed różnymi warunkami atmosferycznymi, a Air Flow System zadba o odpowiednią wentylację w ciepłe dni. Trójkołowiec wyposażono także w praktyczne dodatki - torbę, dzwonek, uchwyt na kubek oraz dwa koszyki, które pomieszczą zarówno ukochane zabawki, jak i niezbędne drobiazgi na spacerze.
+
+Dzięki funkcji szybkiego i intuicyjnego składania AVEO 2 PLUS łatwo schowasz w szafie czy bagażniku, a gdy przyjdzie ochota na kolejne przygody, bez problemu przygotujesz go na kolejny spacer!
+
+Najważniejsze funkcje i zalety
+Od 9 miesięcy do 5 lat - rowerek rośnie razem z dzieckiem.
+6 konfiguracji użytkowania - łatwe dopasowanie do wieku i umiejętności malucha.
+CLICK&amp;TWIST - obracane siedzisko 360° - jazda przodem do rodzica lub świata.
+Pozycja leżąca w obu kierunkach - wygodna drzemka w czasie spaceru.
+Daszek z filtrem UPF50+ - skuteczna ochrona przed słońcem i wiatrem.
+Wodoodporna tapicerka z panelem Air Flow System - komfort w ciepłe dni.
+Regulowana rączka dla rodzica - 3 poziomy wysokości dla wygody prowadzenia.
+5-punktowe pasy bezpieczeństwa - dodatkowa ochrona, możliwość osobnego odpinania.
+Praktyczne dodatki - torba, dzwonek i dwa koszyki na akcesoria i zakupy.
+Łatwe składanie ramy - proste przechowywanie i transport.
+Specyfikacja techniczna
+Materiały:
+
+Rama: PP + stal
+Koła: PU
+
+Wymiary po złożeniu: 66 x 77 x 51,5 cm?
+
+Waga: 10 kg / 11,6 kg?
+
+
+Wysokość kierownicy - 59 cm
+
+Długość oparcia - 44 cm
+
+Rączka rodzica - 92-96-100 cm</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914507-1.jpg https://marini.pl/b2b/pictures/5914507-2.jpg https://marini.pl/b2b/pictures/5914507-3.jpg https://marini.pl/b2b/pictures/5914507-4.jpg https://marini.pl/b2b/pictures/5914507-5.jpg https://marini.pl/b2b/pictures/5914507-6.jpg https://marini.pl/b2b/pictures/5914507-7.jpg https://marini.pl/b2b/pictures/5914507-8.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914506</kod>
@@ -159018,7 +159297,44 @@ Wiek: od 9 miesięcy do 5 lat</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929474</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
-<opis/>
+<opis>Kinderkraft AVEO 2 PLUS - rowerek trójkołowy | 6 funkcji, siedzisko 360°, pozycja leżąca
+Opis produktu
+Kinderkraft AVEO 2 PLUS to wielofunkcyjny rowerek trójkołowy, który stanie się niezastąpionym towarzyszem wspólnych spacerów od 9. miesiąca aż do 5. roku życia dziecka. Zaprojektowany z myślą o wygodzie malucha i komforcie rodzica, łączy w sobie funkcjonalność wózka spacerowego oraz rowerka trójkołowego. Pozwala na komfortowy sen, gdy obserwowanie świata zmęczy malutkie oczka, dzięki możliwości opuszczenia oparcia do pozycji leżącej.
+
+Ergonomiczne siedzisko z możliwością obrotu o 360° pozwala maluchowi podróżować zarówno przodem do rodzica, jak i przodem do świata, w zależności od nastroju i chęci poznawania tego, co dzieje się dookoła. AVEO 2 PLUS sprawia, że każda wspólna wyprawa staje się przyjemnością. Funkcja wolnego koła to niezła gratka dla malucha – pierwsze próby jazdy na rowerze przy jednoczesnym zachowaniu kontroli nad drogą po stronie rodzica.
+
+Daszek z filtrem UPF50+ i wodoodporna tkanina chronią przed różnymi warunkami atmosferycznymi, a Air Flow System zadba o odpowiednią wentylację w ciepłe dni. Trójkołowiec wyposażono także w praktyczne dodatki - torbę, dzwonek, uchwyt na kubek oraz dwa koszyki, które pomieszczą zarówno ukochane zabawki, jak i niezbędne drobiazgi na spacerze.
+
+Dzięki funkcji szybkiego i intuicyjnego składania AVEO 2 PLUS łatwo schowasz w szafie czy bagażniku, a gdy przyjdzie ochota na kolejne przygody, bez problemu przygotujesz go na kolejny spacer!
+
+Najważniejsze funkcje i zalety
+Od 9 miesięcy do 5 lat - rowerek rośnie razem z dzieckiem.
+6 konfiguracji użytkowania - łatwe dopasowanie do wieku i umiejętności malucha.
+CLICK&amp;TWIST - obracane siedzisko 360° - jazda przodem do rodzica lub świata.
+Pozycja leżąca w obu kierunkach - wygodna drzemka w czasie spaceru.
+Daszek z filtrem UPF50+ - skuteczna ochrona przed słońcem i wiatrem.
+Wodoodporna tapicerka z panelem Air Flow System - komfort w ciepłe dni.
+Regulowana rączka dla rodzica - 3 poziomy wysokości dla wygody prowadzenia.
+5-punktowe pasy bezpieczeństwa - dodatkowa ochrona, możliwość osobnego odpinania.
+Praktyczne dodatki - torba, dzwonek i dwa koszyki na akcesoria i zakupy.
+Łatwe składanie ramy - proste przechowywanie i transport.
+Specyfikacja techniczna
+Materiały:
+
+Rama: PP + stal
+Koła: PU
+
+Wymiary po złożeniu: 66 x 77 x 51,5 cm?
+
+Waga: 10 kg / 11,6 kg?
+
+
+Wysokość kierownicy - 59 cm
+
+Długość oparcia - 44 cm
+
+Rączka rodzica - 92-96-100 cm</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914506-1.jpg https://marini.pl/b2b/pictures/5914506-2.jpg https://marini.pl/b2b/pictures/5914506-3.jpg https://marini.pl/b2b/pictures/5914506-4.jpg https://marini.pl/b2b/pictures/5914506-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914505</kod>
@@ -159028,7 +159344,44 @@ Wiek: od 9 miesięcy do 5 lat</opis>
 <stan>mała ilość</stan>
 <EAN>5902533929467</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
-<opis/>
+<opis>Kinderkraft AVEO 2 PLUS - rowerek trójkołowy | 6 funkcji, siedzisko 360°, pozycja leżąca
+Opis produktu
+Kinderkraft AVEO 2 PLUS to wielofunkcyjny rowerek trójkołowy, który stanie się niezastąpionym towarzyszem wspólnych spacerów od 9. miesiąca aż do 5. roku życia dziecka. Zaprojektowany z myślą o wygodzie malucha i komforcie rodzica, łączy w sobie funkcjonalność wózka spacerowego oraz rowerka trójkołowego. Pozwala na komfortowy sen, gdy obserwowanie świata zmęczy malutkie oczka, dzięki możliwości opuszczenia oparcia do pozycji leżącej.
+
+Ergonomiczne siedzisko z możliwością obrotu o 360° pozwala maluchowi podróżować zarówno przodem do rodzica, jak i przodem do świata, w zależności od nastroju i chęci poznawania tego, co dzieje się dookoła. AVEO 2 PLUS sprawia, że każda wspólna wyprawa staje się przyjemnością. Funkcja wolnego koła to niezła gratka dla malucha – pierwsze próby jazdy na rowerze przy jednoczesnym zachowaniu kontroli nad drogą po stronie rodzica.
+
+Daszek z filtrem UPF50+ i wodoodporna tkanina chronią przed różnymi warunkami atmosferycznymi, a Air Flow System zadba o odpowiednią wentylację w ciepłe dni. Trójkołowiec wyposażono także w praktyczne dodatki - torbę, dzwonek, uchwyt na kubek oraz dwa koszyki, które pomieszczą zarówno ukochane zabawki, jak i niezbędne drobiazgi na spacerze.
+
+Dzięki funkcji szybkiego i intuicyjnego składania AVEO 2 PLUS łatwo schowasz w szafie czy bagażniku, a gdy przyjdzie ochota na kolejne przygody, bez problemu przygotujesz go na kolejny spacer!
+
+Najważniejsze funkcje i zalety
+Od 9 miesięcy do 5 lat - rowerek rośnie razem z dzieckiem.
+6 konfiguracji użytkowania - łatwe dopasowanie do wieku i umiejętności malucha.
+CLICK&amp;TWIST - obracane siedzisko 360° - jazda przodem do rodzica lub świata.
+Pozycja leżąca w obu kierunkach - wygodna drzemka w czasie spaceru.
+Daszek z filtrem UPF50+ - skuteczna ochrona przed słońcem i wiatrem.
+Wodoodporna tapicerka z panelem Air Flow System - komfort w ciepłe dni.
+Regulowana rączka dla rodzica - 3 poziomy wysokości dla wygody prowadzenia.
+5-punktowe pasy bezpieczeństwa - dodatkowa ochrona, możliwość osobnego odpinania.
+Praktyczne dodatki - torba, dzwonek i dwa koszyki na akcesoria i zakupy.
+Łatwe składanie ramy - proste przechowywanie i transport.
+Specyfikacja techniczna
+Materiały:
+
+Rama: PP + stal
+Koła: PU
+
+Wymiary po złożeniu: 66 x 77 x 51,5 cm?
+
+Waga: 10 kg / 11,6 kg?
+
+
+Wysokość kierownicy - 59 cm
+
+Długość oparcia - 44 cm
+
+Rączka rodzica - 92-96-100 cm</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914505-1.jpg https://marini.pl/b2b/pictures/5914505-2.jpg https://marini.pl/b2b/pictures/5914505-3.jpg https://marini.pl/b2b/pictures/5914505-4.jpg https://marini.pl/b2b/pictures/5914505-5.jpg https://marini.pl/b2b/pictures/5914505-6.jpg https://marini.pl/b2b/pictures/5914505-7.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5904355</kod>
@@ -159903,7 +160256,7 @@ Rozłożony: 93 x 47 x 99 cm</opis>
 <nazwa>Kinderkraft Wózek spacerowy Grande Plus Pink</nazwa>
 <cena>373.81</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533919307</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>Wózek spacerowy GRANDE PLUS to rozwiązanie dla każdego rodzica, który żyje w miejskim pędzie. Ta spacerówka od urodzenia do 22 kg posłuży dziecku przez kilka lat, a dzięki przemyślanym rozwiązaniom ułatwi rodzicom prowadzenie wózka w miejskich warunkach. Łatwo złożysz wózek jedną ręką dzięki systemowi CLICK &amp; FOLD. Amortyzacja wszystkich kół sprawi, że spacer nawet po bruku czy nierównych płytach chodnikowych będzie przyjemny, z kolei płynna regulacja oparcia od pozycji siedzącej do leżącej pozwala na szybkie stworzenie idealnej przestrzeni do drzemek na świeżym powietrzu. Duże, piankowe koła są nieprzebijalne i nie trzeba ich pompować.
@@ -160164,7 +160517,98 @@ Waga: 11 kg</opis>
 <stan>mała ilość</stan>
 <EAN>5902533926879</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
-<opis/>
+<opis>INDY 3 – kompaktowa spacerówka miejska
+
+Dla tych, którzy chcą wiedzieć od razu:
+
+Tylko 7,3 kg – lekka i łatwa do przenoszenia
+Szybkie składanie jedną ręką – nawet z dzieckiem na ręku
+Po złożeniu mieści się w małym bagażniku – 33 × 57,3 × 61,5 cm
+Rozkładana do pozycji leżącej – wygodna już od narodzin
+Trwałe koła z TPR i centralny hamulec – idealne do miasta
+W zestawie pasek do przenoszenia
+
+Idealna dla aktywnych rodziców, którzy cenią mobilność, wygodę i niezawodność podczas codziennych spacerów w mieście.
+
+Dlaczego warto wybrać INDY 3?
+
+INDY 3 to ultralekka spacerówka zaprojektowana z myślą o dynamicznym stylu życia. Waży tylko 7,3 kg, a po złożeniu osiąga kompaktowe wymiary 33 × 57,3 × 61,5 cm – zmieści się w bagażniku małego auta, przedziale komunikacji miejskiej czy pod stolikiem w kawiarni.
+
+Korzyści, które docenisz każdego dnia
+
+Wygodne przenoszenie
+Dzięki praktycznemu paskowi do przenoszenia założysz wózek i zarzucisz na ramię jak torbę. Bez problemu pokonasz schody, przesiądziesz się w metrze czy zrobisz szybkie zakupy.
+
+Intuicyjne składanie jedną ręką
+System CLICK &amp; FOLD pozwala na szybkie i łatwe złożenie oraz rozłożenie wózka jedną ręką. To idealne rozwiązanie, gdy druga ręka jest zajęta trzymaniem malucha.
+
+Komfort od pierwszych dni życia
+Siedzisko o długości 84 cm zapewnia wygodę dziecku od urodzenia aż do 15 kg. Regulowane oparcie i podnóżek umożliwiają utworzenie pozycji leżącej, odpowiedniej nawet dla noworodków.
+
+Bezpieczeństwo, na które możesz liczyć
+5-punktowe pasy z miękkimi osłonkami utrzymują dziecko w stabilnej i bezpiecznej pozycji, a pałąk z tworzywa stanowi dodatkową barierę ochronną oraz miejsce na przypięcie ulubionych zabawek.
+
+Funkcjonalność dopasowana do miejskiego życia
+
+Wytrzymałe koła z TPR
+Kółka wykonane z materiału TPR są bardziej odporne na ścieranie niż tradycyjne koła EVA. Doskonale sprawdzają się na chodnikach, krawężnikach i innych typowo miejskich nawierzchniach, gwarantując płynną i stabilną jazdę.
+
+Praktyczny kosz na zakupy
+Pojemny kosz z udźwigiem do 2 kg, z łatwym dostępem, pomieści wszystkie niezbędne drobiazgi, torbę z zakupami czy akcesoria dziecięce – bez konieczności noszenia dodatkowych toreb.
+
+Gotowość na każdą pogodę
+INDY 3 ma rozkładaną budkę z okienkiem do kontaktu z dzieckiem, którą możesz regulować w zależności od pogody. Osłoni dziecko przed słońcem, wiatrem czy lekkim deszczem.
+
+Styl i dopasowanie
+
+INDY 3 to połączenie nowoczesnego designu z uniwersalną kolorystyką. Wózek dostępny jest w trzech wariantach: czarnym, szarym i beżowym – tak, by pasował do każdego stylu.
+
+Specyfikacja techniczna
+
+Parametr
+
+Wartość
+
+Wiek/waga dziecka
+
+Od urodzenia do 15 kg
+
+Waga wózka
+
+7,3 kg
+
+Wymiary rozłożony
+
+72 × 57,3 × 114 cm
+
+Wymiary złożony
+
+33 × 57,3 × 61,5 cm
+
+Długość siedziska
+
+84 cm (całkowita)
+
+Rama
+
+Stalowa
+
+Koła
+
+TPR (odporne na ścieranie)
+
+Kosz
+
+Do 2 kg
+
+W zestawie
+
+Pokrowiec przeciwdeszczowy, pasek do noszenia
+
+Standardy bezpieczeństwa
+
+EN 1888-1 do 15 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914502-1.jpg https://marini.pl/b2b/pictures/5914502-2.jpg https://marini.pl/b2b/pictures/5914502-3.jpg https://marini.pl/b2b/pictures/5914502-4.jpg https://marini.pl/b2b/pictures/5914502-5.jpg https://marini.pl/b2b/pictures/5914502-6.jpg https://marini.pl/b2b/pictures/5914502-7.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914504</kod>
@@ -160174,7 +160618,98 @@ Waga: 11 kg</opis>
 <stan>mała ilość</stan>
 <EAN>5902533926831</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
-<opis/>
+<opis>INDY 3 – kompaktowa spacerówka miejska
+
+Dla tych, którzy chcą wiedzieć od razu:
+
+Tylko 7,3 kg – lekka i łatwa do przenoszenia
+Szybkie składanie jedną ręką – nawet z dzieckiem na ręku
+Po złożeniu mieści się w małym bagażniku – 33 × 57,3 × 61,5 cm
+Rozkładana do pozycji leżącej – wygodna już od narodzin
+Trwałe koła z TPR i centralny hamulec – idealne do miasta
+W zestawie pasek do przenoszenia
+
+Idealna dla aktywnych rodziców, którzy cenią mobilność, wygodę i niezawodność podczas codziennych spacerów w mieście.
+
+Dlaczego warto wybrać INDY 3?
+
+INDY 3 to ultralekka spacerówka zaprojektowana z myślą o dynamicznym stylu życia. Waży tylko 7,3 kg, a po złożeniu osiąga kompaktowe wymiary 33 × 57,3 × 61,5 cm – zmieści się w bagażniku małego auta, przedziale komunikacji miejskiej czy pod stolikiem w kawiarni.
+
+Korzyści, które docenisz każdego dnia
+
+Wygodne przenoszenie
+Dzięki praktycznemu paskowi do przenoszenia założysz wózek i zarzucisz na ramię jak torbę. Bez problemu pokonasz schody, przesiądziesz się w metrze czy zrobisz szybkie zakupy.
+
+Intuicyjne składanie jedną ręką
+System CLICK &amp; FOLD pozwala na szybkie i łatwe złożenie oraz rozłożenie wózka jedną ręką. To idealne rozwiązanie, gdy druga ręka jest zajęta trzymaniem malucha.
+
+Komfort od pierwszych dni życia
+Siedzisko o długości 84 cm zapewnia wygodę dziecku od urodzenia aż do 15 kg. Regulowane oparcie i podnóżek umożliwiają utworzenie pozycji leżącej, odpowiedniej nawet dla noworodków.
+
+Bezpieczeństwo, na które możesz liczyć
+5-punktowe pasy z miękkimi osłonkami utrzymują dziecko w stabilnej i bezpiecznej pozycji, a pałąk z tworzywa stanowi dodatkową barierę ochronną oraz miejsce na przypięcie ulubionych zabawek.
+
+Funkcjonalność dopasowana do miejskiego życia
+
+Wytrzymałe koła z TPR
+Kółka wykonane z materiału TPR są bardziej odporne na ścieranie niż tradycyjne koła EVA. Doskonale sprawdzają się na chodnikach, krawężnikach i innych typowo miejskich nawierzchniach, gwarantując płynną i stabilną jazdę.
+
+Praktyczny kosz na zakupy
+Pojemny kosz z udźwigiem do 2 kg, z łatwym dostępem, pomieści wszystkie niezbędne drobiazgi, torbę z zakupami czy akcesoria dziecięce – bez konieczności noszenia dodatkowych toreb.
+
+Gotowość na każdą pogodę
+INDY 3 ma rozkładaną budkę z okienkiem do kontaktu z dzieckiem, którą możesz regulować w zależności od pogody. Osłoni dziecko przed słońcem, wiatrem czy lekkim deszczem.
+
+Styl i dopasowanie
+
+INDY 3 to połączenie nowoczesnego designu z uniwersalną kolorystyką. Wózek dostępny jest w trzech wariantach: czarnym, szarym i beżowym – tak, by pasował do każdego stylu.
+
+Specyfikacja techniczna
+
+Parametr
+
+Wartość
+
+Wiek/waga dziecka
+
+Od urodzenia do 15 kg
+
+Waga wózka
+
+7,3 kg
+
+Wymiary rozłożony
+
+72 × 57,3 × 114 cm
+
+Wymiary złożony
+
+33 × 57,3 × 61,5 cm
+
+Długość siedziska
+
+84 cm (całkowita)
+
+Rama
+
+Stalowa
+
+Koła
+
+TPR (odporne na ścieranie)
+
+Kosz
+
+Do 2 kg
+
+W zestawie
+
+Pokrowiec przeciwdeszczowy, pasek do noszenia
+
+Standardy bezpieczeństwa
+
+EN 1888-1 do 15 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914504-1.jpg https://marini.pl/b2b/pictures/5914504-2.jpg https://marini.pl/b2b/pictures/5914504-3.jpg https://marini.pl/b2b/pictures/5914504-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914503</kod>
@@ -160184,7 +160719,98 @@ Waga: 11 kg</opis>
 <stan>średnia ilość</stan>
 <EAN>5902533926824</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
-<opis/>
+<opis>INDY 3 – kompaktowa spacerówka miejska
+
+Dla tych, którzy chcą wiedzieć od razu:
+
+Tylko 7,3 kg – lekka i łatwa do przenoszenia
+Szybkie składanie jedną ręką – nawet z dzieckiem na ręku
+Po złożeniu mieści się w małym bagażniku – 33 × 57,3 × 61,5 cm
+Rozkładana do pozycji leżącej – wygodna już od narodzin
+Trwałe koła z TPR i centralny hamulec – idealne do miasta
+W zestawie pasek do przenoszenia
+
+Idealna dla aktywnych rodziców, którzy cenią mobilność, wygodę i niezawodność podczas codziennych spacerów w mieście.
+
+Dlaczego warto wybrać INDY 3?
+
+INDY 3 to ultralekka spacerówka zaprojektowana z myślą o dynamicznym stylu życia. Waży tylko 7,3 kg, a po złożeniu osiąga kompaktowe wymiary 33 × 57,3 × 61,5 cm – zmieści się w bagażniku małego auta, przedziale komunikacji miejskiej czy pod stolikiem w kawiarni.
+
+Korzyści, które docenisz każdego dnia
+
+Wygodne przenoszenie
+Dzięki praktycznemu paskowi do przenoszenia założysz wózek i zarzucisz na ramię jak torbę. Bez problemu pokonasz schody, przesiądziesz się w metrze czy zrobisz szybkie zakupy.
+
+Intuicyjne składanie jedną ręką
+System CLICK &amp; FOLD pozwala na szybkie i łatwe złożenie oraz rozłożenie wózka jedną ręką. To idealne rozwiązanie, gdy druga ręka jest zajęta trzymaniem malucha.
+
+Komfort od pierwszych dni życia
+Siedzisko o długości 84 cm zapewnia wygodę dziecku od urodzenia aż do 15 kg. Regulowane oparcie i podnóżek umożliwiają utworzenie pozycji leżącej, odpowiedniej nawet dla noworodków.
+
+Bezpieczeństwo, na które możesz liczyć
+5-punktowe pasy z miękkimi osłonkami utrzymują dziecko w stabilnej i bezpiecznej pozycji, a pałąk z tworzywa stanowi dodatkową barierę ochronną oraz miejsce na przypięcie ulubionych zabawek.
+
+Funkcjonalność dopasowana do miejskiego życia
+
+Wytrzymałe koła z TPR
+Kółka wykonane z materiału TPR są bardziej odporne na ścieranie niż tradycyjne koła EVA. Doskonale sprawdzają się na chodnikach, krawężnikach i innych typowo miejskich nawierzchniach, gwarantując płynną i stabilną jazdę.
+
+Praktyczny kosz na zakupy
+Pojemny kosz z udźwigiem do 2 kg, z łatwym dostępem, pomieści wszystkie niezbędne drobiazgi, torbę z zakupami czy akcesoria dziecięce – bez konieczności noszenia dodatkowych toreb.
+
+Gotowość na każdą pogodę
+INDY 3 ma rozkładaną budkę z okienkiem do kontaktu z dzieckiem, którą możesz regulować w zależności od pogody. Osłoni dziecko przed słońcem, wiatrem czy lekkim deszczem.
+
+Styl i dopasowanie
+
+INDY 3 to połączenie nowoczesnego designu z uniwersalną kolorystyką. Wózek dostępny jest w trzech wariantach: czarnym, szarym i beżowym – tak, by pasował do każdego stylu.
+
+Specyfikacja techniczna
+
+Parametr
+
+Wartość
+
+Wiek/waga dziecka
+
+Od urodzenia do 15 kg
+
+Waga wózka
+
+7,3 kg
+
+Wymiary rozłożony
+
+72 × 57,3 × 114 cm
+
+Wymiary złożony
+
+33 × 57,3 × 61,5 cm
+
+Długość siedziska
+
+84 cm (całkowita)
+
+Rama
+
+Stalowa
+
+Koła
+
+TPR (odporne na ścieranie)
+
+Kosz
+
+Do 2 kg
+
+W zestawie
+
+Pokrowiec przeciwdeszczowy, pasek do noszenia
+
+Standardy bezpieczeństwa
+
+EN 1888-1 do 15 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914503-1.jpg https://marini.pl/b2b/pictures/5914503-2.jpg https://marini.pl/b2b/pictures/5914503-3.jpg https://marini.pl/b2b/pictures/5914503-4.jpg https://marini.pl/b2b/pictures/5914503-5.jpg https://marini.pl/b2b/pictures/5914503-6.jpg https://marini.pl/b2b/pictures/5914503-7.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912212</kod>
@@ -160840,7 +161466,7 @@ materiał: szybkoschnący poliester</opis>
 <nazwa>KINDERKRAFT Wózek spacerowy TRIG 3 STONE BEIGE</nazwa>
 <cena>339.14</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533924851</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>TRIG 3 to ulepszona wersja poprzednich modeli: TRIG i TRIG 2. Ma dłuższe i jeszcze wygodniejsze siedzisko z łatwiejszą regulacją oparcia oraz większą, wodoodporną budkę. Wózek spacerowy TRIG 3 został stworzony z myślą o wsparciu rodziców w wyzwaniach, stawianych na spacerach z dziećmi. Wytrzymała rama o nowym designie ma maksymalne obciążenie do 25 kg*, a kosz pod siedziskiem pomieści jeszcze więcej akcesoriów Twojego dziecka czy codzienne zakupy.
@@ -160891,7 +161517,108 @@ materiał: szybkoschnący poliester</opis>
 <stan>brak</stan>
 <EAN>5902533929344</EAN>
 <grupa>KINDERKRAFT/WÓZKI WIELOFUNKCYJNE</grupa>
-<opis/>
+<opis>Wózek wielofunkcyjny 3 w 1 ESME Kinderkraft
+
+
+Zadaj szyku podczas codziennych spacerów! ESME to dziecięcy wózek wielofunkcyjny 3 w 1, który zachwyci Cię funkcjonalnością i elegancją. Przyciągniesz wzrok dzięki przepięknemu, stylowemu designowi całego wózka - stonowana kolorystyka ze staranie wykonaną i dopasowaną ramą sprawią, że jeszcze bardziej pokochasz codzienne spacery z dzieckiem. Docenisz ten wózek także za dużą gondolę z panelem wentylacyjnym, którą możesz przekształcić w siedzisko spacerowe w zaledwie trzech ruchach. To rozwiązanie 2 w 1 sprawi, że oszczędzisz mnóstwo miejsca na przechowywanie poszczególnych elementów.
+
+
+Na uwagę zasługują także inne, praktyczne rozwiązania, takie jak składanie do kompaktowych rozmiarów razem z siedziskiem oraz praktyczny system podróżny – TRAVEL SYSTEM (fotelik samochodowy MINK PRO 2 i-Size i adaptery w zestawie). Oprócz tego wózek 3 w 1 ESME ma duże, amortyzowane koła z nieprzebijalnej gumy TPE - są lekkie i skrętne, doskonałe na każdy teren. ESME to wózek, który będzie Wam towarzyszył zarówno podczas codziennych spacerów, jak i dłuższych wyjazdów na wakacjach.
+
+
+W zestawie otrzymujesz cały komplet niezbędnych akcesoriów – bez dodatkowych kosztów! Ciesz się spacerami, dzięki: pojemnej torbie, folii przeciwdeszczowej, osłonie na nóżki dziecka oraz uchwytowi na kubek.
+
+
+Wózek wielofunkcyjny 3 w 1 aż do 25 kg*
+
+ESME to praktyczny wózek dziecięcy 3 w 1 z obciążeniem całkowitym do 25 kg*. Wyposażono go w mocną ramę i funkcjonalne siedzisko 2 w 1, które łatwo zmienisz z gondoli w spacerówkę. Do zestawu dołączony jest komplet akcesoriów oraz adaptery i fotelik niemowlęcy.
+
+
+Łatwość prowadzenia
+
+ESME prowadzi się niezwykle lekko, dzięki czemu świetnie poradzi sobie nawet w zatłoczonych miejscach. Jego konstrukcja w połączeniu ze zwrotnymi kołami ułatwia manewrowanie. Przednie koła da się zablokować do jazdy na wprost na trudniejszej powierzchni. Oprócz tego wózek bardzo łatwo się składa do kompaktowych rozmiarów – i to razem z siedziskiem! Wyjazd w góry? A może do nadmorskiej miejscowości? ESME poradzi sobie z każdym wyzwaniem!
+
+
+Komplet akcesoriów
+
+Do zestawu dołączono fotelik MINK PRO 2 i-Size (40-87 cm) razem z adapterami, które pozwolą Ci stworzyć system podróżny (TRAVEL SYSTEM). Oprócz tego z wózkiem dostajesz: uchwyt na kubek, uniwersalną osłonę na nóżki, folię przeciwdeszczową i torbę na rączkę rodzica.
+
+
+Duża gondola z panelem wentylacyjnym
+
+ESME to wózek, który powstał z myślą o komforcie każdego dziecka. Na najmłodszych czeka duża, obszerna gondola z panelem wentylacyjnym oraz dużą budką z okienkiem do kontaktu z dzieckiem. Gondola jest miękka i wygodna - idealna do drzemek na świeżym powietrzu.
+
+
+Łatwa zmiana gondoli w spacerówkę
+
+Praktyczne siedzisko 2 w 1 pozwala na łatwą, szybką zmianę gondoli w spacerówkę. Wystarczą trzy ruchy, by zamienić wózek dla niemowlaka w wózek dla starszaka. Dzięki temu rozwiązaniu nie będziesz musiał szukać osobnego miejsca do przechowywania osobnego elementu, gdy dziecko wyrośnie z gondoli i zacznie jeździć w spacerówce.
+
+
+TRAVEL SYSTEM
+
+ESME powstał po to, by ułatwić Wam wspólne spacery oraz podróże. Dlatego do wózka dołączone są adaptery oraz fotelik MINK PRO 2 i-Size - dzięki nim stworzysz TRAVEL SYSTEM, który jest nieoceniony podczas wycieczek. Maluch zasnął w samochodzie? Nie ma problemu: wypnij fotelik, wepnij go w ramę wózka - i możecie iść dalej! Fotelik MINK PRO 2 i-Size to fotelik RWF (tyłem do kierunku jazdy) dla najmłodszych dzieci. Za bezpieczeństwo pasażera dbają zaawansowane systemy, takie jak H-GUARD+ czy SPS+. Oprócz tego pozycja RWF jest aż 5-krotnie bezpieczniejsza niż pozycja przodem do kierunku jazdy.
+
+
+Szeroki zakres regulacji spacerówki
+
+ESME to komfortowy wózek także dla starszych dzieci: siedzisko spacerowe jest długie i szerokie, dzięki czemu wózek posłuży nawet przedszkolakom do około 4 roku życia. Siedzisko możesz łatwo wyregulować, dostosowując je do potrzeb dziecka. Do wyboru jest pozycja siedząca oraz półleżąca – idealna do krótkich drzemek na świeżym powietrzu. Możesz także regulować rączkę rodzica tak, by wygodniej Ci było prowadzić wózek.
+
+
+Duże koła na każdy teren
+
+ESME ma duże, nieprzebijalne koła z pełną amortyzacją - wykonano je z lekkiej, odpornej na ścieranie gumy TPE. Nie musisz ich pompować, co jest ogromną zaletą podczas dłuższych wyjazdów wakacyjnych. Nadają się na każdy teren: zarówno na chodniki, jak i utwardzane, leśne ścieżki.
+
+
+Praktyczne rozwiązania
+
+Wózek 3 w 1 ESME ma dużą budkę z okienkiem do kontaktu z dzieckiem, która osłoni malucha przed wiatrem i słońcem. Pod siedziskiem znajduje się pojemny kosz z obciążeniem do 3 kg, idealny na zakupy czy niezbędne akcesoria. Oprócz tego za bezpieczeństwo malca podczas jazdy w spacerówce odpowiadają 5-punktowe, regulowane pasy z miękkimi ochraniaczami i odchylana, wypinana z 2 stron barierka.
+
+
+Elegancka stylistyka
+
+EMSE dopasujesz do siebie i swojego stylu: wózek dostępny jest w 3 modnych kolorach, a miękki materiał i szykowne wykończenie nadają mu eleganckiego wyglądu podczas każdego spaceru.
+
+
+Wykonanie:
+
+Materiały:
+
+Rama: stal
+Koła: guma TPE
+Barierka i rączka rodzica: ekoskóra
+Poszycie: poliester
+
+Wymiary:
+
+
+Rozłożony wózek: 100 x 60 x 102,5 cm
+
+Złożony wózek: 72 x 60 x 40 cm
+
+Wymiary siedziska: 19 x 35 cm
+
+Wymiary oparcia: 41 x 35 cm
+
+Wymiary podnóżka: 19 x 35 cm
+
+Całkowita długość siedziska w pozycji leżącej: 79 cm
+
+Odległość od siedziska do ziemi: 55 cm
+
+Średnica kół przednich: 18 cm (8 cali)
+
+Średnica kół tylnych: 25 cm (11 cali)
+
+Wysokość do rączki rodzica: 102,5 cm
+
+Wymiary gondoli (zewnętrzne): 35 x 21 x 81 cm
+
+Wymiary gondoli (wewnętrzne): 34 x 20 x 79 cm
+
+Waga ramy: 8 kg
+
+Waga siedziska: 2,45 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914456-1.jpg https://marini.pl/b2b/pictures/5914456-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914454</kod>
@@ -161722,7 +162449,7 @@ trzy szuflady na prowadnicach kulkowych pełen wysuw</opis>
 <nazwa>KLUPŚ Komoda z przewijakiem PAULA II biała</nazwa>
 <cena>414.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245587</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Opis produktu:
@@ -161776,7 +162503,7 @@ Opcja dołączenia pojemnika na pościel (należy dokupić osobno)</opis>
 <nazwa>KLUPŚ Łóżeczko AMELIA dąb z barierką 120x60</nazwa>
 <cena>576.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912245174</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko AMELIA DĄB to kwintesencja minimalizmu i klasy. Dębowa kolorystyka wizualnie ociepli każdy pokoik. Trzy poziomy materaca i dodatkowa funkcja sofy to ogromny atut, dzięki któremu łóżeczko rozwija się razem z Twoim maleństwem.
@@ -161818,7 +162545,7 @@ opcja dołączenia pojemnika na pościel, 2 wyjmowane szczeble, 3 poziomy matera
 <nazwa>KLUPŚ Łóżeczko AMELIA II dąb 120x60</nazwa>
 <cena>375.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912245273</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko dziecięce Amelia II dąb 120×60 posiada 2 wyjmowane szczeble, 3 poziomy regulacji wysokości dna oraz możliwość zamontowania niskiej barierki ochronnej. Szczebelki, które znajdują się zarówno w bokach łóżeczka, jak i jego szczycie pozwalą na obserwowanie śpiącego niemowlaka z każdej strony. Kolorystyka łóżeczka Amelia II ociepli wnętrze dziecięcego pokoiku – świetnie skomponuje się z pastelowymi odcieniami różu oraz zieleni. To łóżeczko niemowlęce sprawdzi się idealnie zarówno w pokoju chłopca, jak i dziewczynki. Kiedy już Wasze Maleństwo nieco podrośnie do łóżeczka dokupić można niską barierkę ochronną, dzięki której możecie cieszyć się łóżeczkiem 120×60 do około 3 roku życia dziecka.
@@ -162207,7 +162934,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA białe 120x60</nazwa>
 <cena>287.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912240421</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -162656,7 +163383,7 @@ Kod EAN: 5901912245853</opis>
 <nazwa>KLUPŚ Nakładka na komodę dąb</nazwa>
 <cena>65.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912244696</EAN>
 <grupa>KLUPŚ/AKCESORIA</grupa>
 <opis>Rozmiar zewnętrzny (cm): 54 x9x 74</opis>
@@ -162695,7 +163422,7 @@ Kod EAN: 5901912245822</opis>
 <nazwa>KLUPŚ Nakładka na łóżeczko 120x60 biel</nazwa>
 <cena>99.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245914</EAN>
 <grupa>KLUPŚ/AKCESORIA</grupa>
 <opis>Nakładka na łóżeczko w rozmiarze 120×60 została stworzona z myślą o bezpieczeństwie maluszka, a także wygodzie rodzica. Została wykonana z wysokiej jakości materiałów, więc zdecydowanie posłuży na lata. Ciepły kolor buku idealnie wpasuje się w nowoczesne wnętrze i stanie się stylowym dodatkiem w pokoju Twojego maluszka.
@@ -173602,7 +174329,7 @@ Dynamiczny smoczek w butelce Mammafeel, nie tylko jak najbardziej odwzorowuje bl
 <nazwa>LOVI 18/734 Smoczek dynamiczny Mammafeel 9 m+ SZYBKI 1 szt</nazwa>
 <cena>22.00</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691884311</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis>Informacje o produkcie:
@@ -174859,7 +175586,7 @@ Dynamiczny smoczek uspokajający LOVI został stworzony we współpracy z neurol
 <nazwa>LOVI 22/882 Smoczek silikonowy dynamiczny 0-3m 2 szt Wild Soul Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691835108</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>nie zaburza odruchu ssania
@@ -175003,7 +175730,7 @@ nie zaburza prawidłowego rozwoju mowy i zgryzu *) pod warunkiem przestrzegania 
 <nazwa>LOVI 22/887 Smoczek silikonowy dynamiczny 6-18m 2szt Hey Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691835153</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Kolekcja Hey to dynamiczne smoczki, uspokajające został zaprojektowany tak, by przypominał brodawkę sutkową. Odruch ssania został ochroniony dzięki wynikom badań, które zostały opracowane  przy udziale lekarzy specjalistów. Higieniczna osłonka posiada ochronę, która zapobiegnie zabrudzeń.
@@ -177096,7 +177823,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/418 Smoczek silikonowy dynamiczny Prime 6-18m 2 szt Baby Blue/Blue</nazwa>
 <cena>29.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901691890497</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179066,7 +179793,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Krzesełko do kąpieli Smerfy/zabawki, różowy/biały</nazwa>
 <cena>52.09</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067006525</EAN>
 <grupa>MALTEX/KRZESEŁKA DO KAPIELI</grupa>
 <opis/>
@@ -179264,7 +179991,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Nakladka Misiu Leśna Ferajna szary</nazwa>
 <cena>7.57</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067007614</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -179437,7 +180164,7 @@ dopuszczalny wiek: 18 miesięcy + dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Nakładka na sedes Zebra biała</nazwa>
 <cena>7.57</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067009304</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis>Nakładka na sedes z najnowszej kolekcji “Zeberka” od Maltex Baby wprowadza dziecko w etap korzystania z toalety dla rodziców. Produkt ten dostosuje każdą uniwersalną toaletę do możliwości zasiadania na niej przez malucha.
@@ -179521,7 +180248,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Nocnik 2K Konik stalowy szary</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067017095</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -179543,7 +180270,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Nocnik 2K Lisek Leśna Ferajna beżowy</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067007492</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -179587,7 +180314,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Nocnik 2K Smerfy biały/ niebieski</nazwa>
 <cena>18.22</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067004439</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis>Odkryj świat przygód Smerfów z naszym nowoczesnym nocnikiem antypoślizgowym, zaprojektowanym specjalnie z myślą o najmłodszych entuzjastach smerfowej krainy! Nasz nocnik nie tylko rozbudzi wyobraźnię, ale także zapewni Twojemu dziecku komfort i bezpieczeństwo!Dzięki starannie przemyślanej konstrukcji, nocnik uwzględnia anatomię obu płci, korzystając z odpowiednio wysokiej wylewki, która skutecznie zapobiega wyciekaniu nieczystości na zewnątrz. Wyjątkowo wygodne oparcie oraz szerokie siedzisko gwarantują pełen komfort, umożliwiając maluchowi poczucie stabilności i swobody podczas korzystania z nocnika.Wysokiej jakości elastomer o doskonałych właściwościach antypoślizgowych sprawia, że nocnik jest nie tylko stylowy, ale także bezpieczny. Dziecko może śmiało eksplorować świat smerfów, wiedząc, że nocnik utrzyma się na miejscu, nawet podczas najbardziej ekscytujących chwil.Zapewnij swojemu dziecku niezapomniane doświadczenia z naszym nocnikiem antypoślizgowym z grafiką licencyjną "Smerfy" - idealnym towarzyszem w każdej podróży ku samodzielności!
@@ -179602,7 +180329,7 @@ dopuszczalny wiek: 18 miesięcy + dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Nocnik 2K Smerfy biały/różowy</nazwa>
 <cena>18.22</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067006518</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -179916,7 +180643,7 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <nazwa>MALTEX Podnóżek 2K Konik stalowy szary</nazwa>
 <cena>19.29</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067017170</EAN>
 <grupa>MALTEX/PODNÓŻKI</grupa>
 <opis/>
@@ -179938,7 +180665,7 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <nazwa>MALTEX Podnóżek 2K Lisek Leśna Ferajna beżowy</nazwa>
 <cena>19.29</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067007737</EAN>
 <grupa>MALTEX/PODNÓŻKI</grupa>
 <opis/>
@@ -180744,7 +181471,7 @@ Wymiary dł/szer/wys: 100 cm/ 51 cm/ 30 cm</opis>
 <nazwa>MALTEX Wanna 100cm z korkiem i matą Zebra biała</nazwa>
 <cena>27.14</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067009717</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 100 cm z najnowszej kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt.
@@ -189251,7 +189978,7 @@ KAPTUREK: 100% bawełna</opis>
 <nazwa>MATEX Kocyk MILLY dziecięcy z mikrofazy 75X100 [TB0294_18] serca c.brąz</nazwa>
 <cena>28.10</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902675045605</EAN>
 <grupa>BABYMATEX/KOCYKI I NARZUTY</grupa>
 <opis>Ciepły i bardzo miły w dotyku kocyk Milly zapewni dziecku zdrowy i spokojny sen w domu jak również na spacerze. Wykonany z 100% poliestru. Dostępny w kilku wzorach i kolorach.
@@ -189930,7 +190657,7 @@ Skład:
 Warstwa wierzchnia nieprzemakalna: 100% poliamid
 Warstwa wewnętrzna: 100% poliester
 Wypełnienie: włóknina silikonowa</opis>
-<zdjecia>https://marini.pl/b2b/pictures/10458-1.jpg</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/10458-1.jpg https://marini.pl/b2b/pictures/10458-2.png https://marini.pl/b2b/pictures/10458-3.png</zdjecia>
 </b2b>
 <b2b>
 <kod>761388</kod>
@@ -190565,7 +191292,7 @@ Gramatura: 250g/m2</opis>
 <nazwa>MATEX Poduszka 36x36 KLIN Original [TB0399_01]</nazwa>
 <cena>40.54</cena>
 <VAT>8</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902675067393</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka dla dziecka KlinAIR o wymiarach 36x36 jest przystosowana do niemal każdej gondoli wózka.
@@ -199968,7 +200695,7 @@ Waga – 5,1 kg</opis>
 <nazwa>MILLY MALLY 4073 Qplay Rowerek trójkołowy Nova+Rubber golden</nazwa>
 <cena>424.12</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047480427</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Składany rowerek trójkołowy NOVA+ RUBBER został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -203812,7 +204539,7 @@ Waga brutto: 5,6 kg</opis>
 <nazwa>MILLY MALLY 5363 Pojazd JAKE CLASSIC BLACK</nazwa>
 <cena>124.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761128659</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Skoro jestem za mały na rowerek biegowy,
@@ -222864,7 +223591,7 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <nazwa>MILLY MALLY 6304 Qplay Rowerek Trójkołowy Nova Max Beige</nazwa>
 <cena>436.61</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5061047482186</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>NOVA MAX to nowoczesny, wielofunkcyjny rowerek trójkołowy zaprojektowany z myślą o wygodzie dziecka i komforcie rodzica. Dzięki przemyślanym rozwiązaniom rośnie razem z maluchem i dostosowuje się do jego potrzeb na różnych etapach rozwoju – od spacerów po samodzielną jazdę.
@@ -226369,7 +227096,7 @@ www.pminvestment.pl/manual/zippy_manual.pdf</opis>
 <nazwa>MILLY MALLY 6420 Pojazd Flixy cream</nazwa>
 <cena>80.57</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700481</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Pojazd dziecięcy FLIXY to innowacyjny pojazd dla najmłodszych, który łączy nowoczesny design z funkcjonalnością, bezpieczeństwem i wygodą. Solidna, lekka konstrukcja została zaprojektowana tak, aby wspierać rozwój równowagi i koordynacji ruchowej dziecka już od pierwszych kroków. Dzięki czterem stabilnym kołom maluch czuje się pewnie i może stopniowo nabierać odwagi do samodzielnej jazdy.
@@ -226585,7 +227312,7 @@ www.pminvestment.pl/manual/flixy_manual.pdf</opis>
 <nazwa>MILLY MALLY 6422 Pojazd Flixy pink</nazwa>
 <cena>80.57</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907090700504</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Pojazd dziecięcy FLIXY to innowacyjny pojazd dla najmłodszych, który łączy nowoczesny design z funkcjonalnością, bezpieczeństwem i wygodą. Solidna, lekka konstrukcja została zaprojektowana tak, aby wspierać rozwój równowagi i koordynacji ruchowej dziecka już od pierwszych kroków. Dzięki czterem stabilnym kołom maluch czuje się pewnie i może stopniowo nabierać odwagi do samodzielnej jazdy.
@@ -226693,7 +227420,7 @@ www.pminvestment.pl/manual/flixy_manual.pdf</opis>
 <nazwa>MILLY MALLY 6423 Pojazd Flixy mint</nazwa>
 <cena>80.57</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907090700511</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Pojazd dziecięcy FLIXY to innowacyjny pojazd dla najmłodszych, który łączy nowoczesny design z funkcjonalnością, bezpieczeństwem i wygodą. Solidna, lekka konstrukcja została zaprojektowana tak, aby wspierać rozwój równowagi i koordynacji ruchowej dziecka już od pierwszych kroków. Dzięki czterem stabilnym kołom maluch czuje się pewnie i może stopniowo nabierać odwagi do samodzielnej jazdy.
@@ -229546,7 +230273,7 @@ www.pminvestment.pl/manual/elly_manual.pdf</opis>
 <nazwa>MILLY MALLY 6628 Toaletka Elly Natural</nazwa>
 <cena>186.77</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700894</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Toaletka ELLY
@@ -231986,7 +232713,7 @@ Maksymalne obciążenie: 30 kg</opis>
 <nazwa>MILLY MALLY Koń MUSTANG Black Dot</nazwa>
 <cena>155.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761122190</EAN>
 <grupa>MILLY MALLY/KONIKI NA BIEGUNACH</grupa>
 <opis>KOŃ NA BIEGUNACH MUSTANG 2015 
@@ -239296,7 +240023,7 @@ www.pminvestment.pl/manual/milly_manual.pdf</opis>
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Bear Pink</nazwa>
 <cena>61.84</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700474</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Nasz pluszak to połączenie zabawki z projektorem. Projektory przedstawiają dobrze znane postacie zwierząt: mięciutkiego misia, liska, misia koalę, pandę, słonia, przytulaną owcę, jednorożca i uroczą żyrafę. Wspaniała zabawka, która przekształci pokój Twojego dziecka w rozgwieżdżone niebo z mnóstwem gwiazd. Maluszek może przy nich zasypiać słuchając wyciszających dźwięków.                                                                                                                                                 
@@ -239407,7 +240134,7 @@ www.pminvestment.pl/manual/milly_manual.pdf</opis>
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Bear White</nazwa>
 <cena>61.84</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761128840</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Nasz pluszak to połączenie zabawki z projektorem. Projektory przedstawiają dobrze znane postacie zwierząt: mięciutkiego misia, liska, misia koalę, pandę, słonia, przytulaną owcę, jednorożca i uroczą żyrafę. Wspaniała zabawka, która przekształci pokój Twojego dziecka w rozgwieżdżone niebo z mnóstwem gwiazd. Maluszek może przy nich zasypiać słuchając wyciszających dźwięków.                                                                                                                                                 
@@ -240835,7 +241562,7 @@ Zaleca się umycie i wysuszenie produktu przed pierwszym użyciem.</opis>
 <b2b>
 <kod>5907924</kod>
 <nazwa>MINIMONKEY MKY_00000396 Szelki do krzesła dla niemowlaka Mini Chair 6m+ jasnoszare</nazwa>
-<cena>102.41</cena>
+<cena>97.47</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>8718144960396</EAN>
@@ -240865,7 +241592,7 @@ Minimonkey to holenderska marka z siedzibą w Amsterdamie. Od 2007 roku koncentr
 <b2b>
 <kod>5907925</kod>
 <nazwa>MINIMONKEY MKY_00000440 Szelki do krzesła dla niemowlaka Mini Chair 6m+ pomarańczowe</nazwa>
-<cena>102.41</cena>
+<cena>97.47</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>8718144960440</EAN>
@@ -248395,7 +249122,7 @@ Wymiary/waga: wymiary opakowania (wys. x szer. x gł.)[cm]: 14x6x5, waga produkt
 </b2b>
 <b2b>
 <kod>5914484</kod>
-<nazwa>NUK 175270 Smoczek uspokajający 2 el. 0-6m NIGHT czerwony</nazwa>
+<nazwa>NUK 175270 Smoczek uspokajający 2 el. 0-6m signature NIGHT czerwony</nazwa>
 <cena>22.56</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -248405,7 +249132,7 @@ Wymiary/waga: wymiary opakowania (wys. x szer. x gł.)[cm]: 14x6x5, waga produkt
 </b2b>
 <b2b>
 <kod>5914488</kod>
-<nazwa>NUK 175270 Smoczek uspokajający 2 el. 0-6m NIGHT niebieski</nazwa>
+<nazwa>NUK 175270 Smoczek uspokajający 2 el. 0-6m signature NIGHT niebieski</nazwa>
 <cena>22.56</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -249837,7 +250564,7 @@ Smoczek lateksowy NUK Star:
 </b2b>
 <b2b>
 <kod>5913800</kod>
-<nazwa>NUK 736727 Smoczek uspokajający 2 el. 6-18m D&amp;N zielony/biały</nazwa>
+<nazwa>NUK 736727 Smoczek uspokajający 2 el. 6-18m Star D&amp;N zielony/biały</nazwa>
 <cena>20.45</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -253925,7 +254652,7 @@ Cechy:
 - Rozmiar: 16 x 34 cm
 - Można prać ręcznie w temperaturze 30°.
 </opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913679-1.jpg https://marini.pl/b2b/pictures/5913679-2.jpg https://marini.pl/b2b/pictures/5913679-3.png https://marini.pl/b2b/pictures/5913679-4.jpg</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5913679-1.jpg https://marini.pl/b2b/pictures/5913679-2.jpg https://marini.pl/b2b/pictures/5913679-3.jpg https://marini.pl/b2b/pictures/5913679-4.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5913682</kod>
@@ -267294,7 +268021,7 @@ Bezpieczeństwo: Wykonana z bezpiecznych i trwałych materiałów, lalka jest od
 <nazwa>SMILY PLAY SP85302 Klocki magnetyczne 112 el.</nazwa>
 <cena>56.81</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375853020</EAN>
 <grupa>SMILY PLAY/KLOCKI</grupa>
 <opis/>
@@ -269242,7 +269969,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DZ-006-103-LISEK-Z Podnóżek antypoślizgowy DZIKI ZACHÓD zielony</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963001412</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis>• Wytrzymały i praktyczny dwukomponentowy podnóżek.
@@ -270389,7 +271116,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-020-103 Nakładka sedesowa miękka KRÓLICZKI biały</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008381</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>• Miękkie i wygodne siedzisko nakładki zapewnia komfort użytkowania.
@@ -270404,7 +271131,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-020-104 Nakładka sedesowa miękka KRÓLICZKI j.różowy</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008398</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>• Miękkie i wygodne siedzisko nakładki zapewnia komfort użytkowania.
@@ -270434,7 +271161,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-026-103 Leżaczek kąpielowy z wizerunkiem Króliczki biały</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963070999</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -270447,7 +271174,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-104 Leżaczek kąpielowy z wizerunkiem Króliczki j.róż</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071002</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -270460,7 +271187,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963071019</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -270999,7 +271726,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MF-002-134 Krzesełko MULTIFUN multicolor</nazwa>
 <cena>45.39</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963015945</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis/>
@@ -271032,7 +271759,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MF-006-106 Komplet MULTIFUN ECO 1+2 szary</nazwa>
 <cena>164.47</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963000606</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis/>
@@ -271042,7 +271769,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MF-006-134 Komplet MULTIFAN ECO 1+2 multikolor</nazwa>
 <cena>164.47</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963000576</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis/>
@@ -271254,7 +271981,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MN-026-127 Leżaczek kąpielowy z wizerunkiem Monsters c. różowy</nazwa>
 <cena>13.13</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963004888</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis/>
@@ -271471,7 +272198,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-017-119 Podnóżek antypoślizgowy MIŚ beżowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008992</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis>• Wytrzymały i praktyczny dwukomponentowy podnóżek.
@@ -272568,7 +273295,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-080-164 Nocnik z pozytywką ECO METEO granatowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963002921</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Ergonomiczny nocnik ECO wykonany z wysokiej jakości plastiku,całkowicie bezpiecznego dla dzieci.
@@ -272905,7 +273632,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-006-103 Podnóżek antypoślizgowy SOWA biały</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963011459</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis>• Wytrzymały i praktyczny dwukomponentowy podnóżek.
@@ -272919,7 +273646,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-006-106 Podnóżek antypoślizgowy SOWA szary</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963011466</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis>• Wytrzymały i praktyczny dwukomponentowy podnóżek.
@@ -273550,7 +274277,7 @@ Produkt przeznaczony dla dzieci powyżej 3-go roku życia.</opis>
 <nazwa>TEGGI TI-011-173 Komplet MULTIFUN 1+2 turkusowy/granatowy/szary</nazwa>
 <cena>164.47</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905489408246</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis>Zestaw dla dzieci MULTIFUN składa się ze stolika i krzesełka.
@@ -277893,7 +278620,7 @@ Gwarancja akceptacji: Akceptowany przez 97 procent niemowląt, w 100 procentach 
 <nazwa>TOMMEE TIPPEE TTP44671894 Miska z pokrywką i łyżeczką EASISCOOP</nazwa>
 <cena>23.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5010415467188</EAN>
 <grupa>TOMMEE TIPPEE/NACZYNIA I SZTUĆCE</grupa>
 <opis>Zestaw dwóch miseczek Easy Scoop od Tommee Tippee został zaprojektowany, by ułatwić karmienie i maksymalizować wygodę zarówno dla dziecka, jak i rodzica. Miseczki posiadają trójkątną podstawę, która ułatwia nabieranie jedzenia, co jest szczególnie pomocne podczas nauki samodzielnego jedzenia przez malucha. Szczelna pokrywka i higieniczna osłonka na łyżeczkę czynią ten zestaw idealnym towarzyszem podróży. Miseczki są kompatybilne z Magiczną Matą Tommee Tippee, co zapewnia dodatkową stabilność podczas posiłków.
@@ -285069,7 +285796,7 @@ Waga opakowania zbiorczego (kg): 0.42</opis>
 <nazwa>TREFL 34895 Puzzle 3w1 Poznaj Bluey</nazwa>
 <cena>14.17</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511348958</EAN>
 <grupa>TREFL</grupa>
 <opis>Poznaj Bluey to 3 niezależne układanki dla dzieci, zaprojektowane z myślą o małych fanach bajki Bluey. Po ułożeniu puzzli powstaną trzy obrazki, z czego największy o wymiarach 200x195 mm. Zróżnicowana liczba elementów pozwala na zabawę zarówno młodszym, jak i nieco starszym dzieciom.
@@ -289625,7 +290352,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30134 Galaktyka kolorowe linki</nazwa>
 <cena>23.71</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692301341</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis>Małe co niego dla miłośników przyrody! Ta stylowa zabawka w pięknych kolorach zapewni moc sensorycznej zabawy. Znajdziemy tu kilka kuleczek do wciskania i wyciskania z powrotem na górę oraz kilka  kolorowych linek do przeciągania. Każdą z nich zdobią wypustki i urocze kształty.
@@ -299236,7 +299963,7 @@ Deklaracja zgodności CE</opis>
 <nazwa>VIGA 50047 Drewniany poręczny labirynt przeplatanka</nazwa>
 <cena>9.59</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>VIGA</grupa>
 <opis>Drewniana pętla motoryczna to świetna zabawka sensoryczna, która pozwala dziecku trenować sprawność rączek. Przeplatając koraliki przez zakrzywione rurki, dziecko musi wykonywać odpowiednie ruchy, aby działania odniosły sukces. Tym sposobem dziecko uczy się jakie ruchy należy wykonywać, a zarazem ćwiczy zręczność i precyzję. Na drewnianej podstawie znajdziemy kolorowy obrazek, do której przymocowane są kolorowe rurki. Na rurki nawleczone jest 12 kolorowych koralików w dwóch kształtach, które na pewno przyciągną uwagę naszych pociech.
@@ -301273,7 +302000,7 @@ Zabawa samochodem stymuluje wszechstronnie rozwój dziecka, pobudza jego wyobra�
 <nazwa>WADER 35312 Tech Truck wywrotka</nazwa>
 <cena>18.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694353121</EAN>
 <grupa>WADER</grupa>
 <opis>Pojazd wywrotka to jeden z pięciu samochodów budowlanych wchodzących w skład serii Tech Truck. Mali pasjonaci motoryzacji oraz obserwatorzy pracy ekip budowlanych mają teraz okazję, aby przenieść swoje zainteresowania do świata zabawy. Zabawa wywrotką Tech Truck daje możliwość poznania pracy specjalistów, jak również mechanizmów działania aut budowlanych. 
@@ -303723,7 +304450,7 @@ bezpieczny dla najmłodszych, wiek 1+</opis>
 <nazwa>WADER 81152 Paw Patrol komplet do piasku 5el.</nazwa>
 <cena>8.34</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694811522</EAN>
 <grupa>WADER</grupa>
 <opis>Psi Patrol jest zawsze błyskawicznie gotowy do akcji. Dzięki małemu kompletowi do piasku dzieci również mogą działać tak szybko jak bohaterowie Psiego Patrolu i ekspresowo być gotowe na zabawę i wyjście na podwórko. Zestaw nie zajmuje dużo miejsca i można go ze sobą zabrać na każdy spacer, a ulubione pieski będą Wam towarzyszyć podczas każdej zabawy. Z taką ekipą dacie radę niejednemu plażowemu wyzwaniu więc ruszajcie do budowania zamków, fos, przekopów i wszystkiego co tylko podpowie Wam wyobraźnia. Komplet letni sprawdzi się podczas wakacji nad morzem lub jeziorem oraz w piaskownicy. Zestaw składa się z: wiaderka, łopatki, grabek, foremki i łódki. Barwna i atrakcyjna grafika z wizerunkami bohaterów Psiego Patrolu, która została zamieszczona na wiaderku wykonana jest w technologii IML co znaczy, że jest trwale wtopiona w tworzywo, zatem nie ma ryzyka, że się zniszczy lub odklei. Zestawy letnie od marki Wader są odporne na warunki atmosferyczne takie jak deszcz czy słońce zatem pozostawienie elementów zestawu w piaskownicy lub na balkonie nie grozi zniszczeniem ani odbarwieniem kolorów.
@@ -310803,7 +311530,7 @@ Wymiary opakowania	29x 15 x 12 (cm)</opis>
 <nazwa>WOOPIE 53972 Zdalnie sterowany Dinozaur Stegozaur</nazwa>
 <cena>32.17</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280653972</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Przenieś się w czasie do epoki dinozaurów z niesamowitym zdalnie sterowanym Stegozaurem od marki Woopie! Ta realistyczna zabawka to idealny prezent dla każdego małego odkrywcy i fana prehistorycznych stworzeń. Dzięki zaawansowanym funkcjom i intuicyjnemu sterowaniu, nasz Stegozaur dostarczy godzin wciągającej i ekscytującej zabawy, pozwalając dziecku kontrolować ruchy i dźwięki prawdziwego dinozaura. Przygotuj się na ryk, taniec i niezapomniane przygody!
