@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-02-21T17:55:05.833">
+<MARINI timestamp="2026-02-22T17:55:05.780">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -23017,22 +23017,22 @@ Materiał : 100 % BAWEŁNA</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>5906587</kod>
-<nazwa>ATK Koc Velvet 75/100</nazwa>
-<cena>32.93</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN/>
-<grupa>ATK- OP. HURTOWE</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5906120</kod>
 <nazwa>ATK Koc VELVET 75/100</nazwa>
 <cena>31.71</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904276097953</EAN>
+<grupa>ATK- OP. HURTOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5906587</kod>
+<nazwa>ATK Koc Velvet 75/100</nazwa>
+<cena>32.93</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN/>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
 </b2b>
