@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-02-25T17:55:05.970">
+<MARINI timestamp="2026-02-26T17:55:05.920">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -38,6 +38,36 @@ niezastąpione w domu i w podróży,
 testowane dermatologicznie,
 rozmiar podkładu: 60x60 cm.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/6743-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914717</kod>
+<nazwa>3 Sprouts Namiot dla dzieci Blueberry Mist</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>812895003185</EAN>
+<grupa>3 SPROUTS</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914718</kod>
+<nazwa>3 Sprouts Namiot dla dzieci Checkerboard Beige</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>812895003611</EAN>
+<grupa>3 SPROUTS</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914719</kod>
+<nazwa>3 Sprouts Namiot dla dzieci Green</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>812895003758</EAN>
+<grupa>3 SPROUTS</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>780709</kod>
@@ -11137,7 +11167,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 430 Podróżnik</nazwa>
 <cena>36.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685766</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania miękka MP 70x50
@@ -12739,7 +12769,7 @@ Tkanina: 82% bawełna, 18% poliester</opis>
 <nazwa>ALBERO MIO Okrycie kąpielowe Cotton color CC4 zieleń</nazwa>
 <cena>42.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165685650</EAN>
 <grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
 <opis>Okrycie kąpielowe dla niemowląt to niezastąpiony element wyprawki dla noworodka. Wykonane z wysokiej jakości termofrotty, zapewnia nie tylko miękkość i delikatność dotyku, ale także doskonałe właściwości termoregulacyjne. To sprawia, że dziecko będzie czuło się komfortowo i przytulnie zaraz po kąpieli.
@@ -14126,7 +14156,7 @@ Tkanina 1: satyna bawełniana - 100% bawełna, tkanina 2: double gauze - 100% ba
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak CP2 Gąska Gaja</nazwa>
 <cena>41.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685513</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło do gondoli 2-pak Gąska Gaja to zestaw, który składa się z dwóch prześcieradeł, gdzie jedno wykonane jest z jednobarwnego muślinu bawełnianego (double gauze), a drugie z satyny bawełnianej we wzór. Muślinowe prześcieradełko cechuje się naturalną miękkością i delikatnością. Doskonale oddycha, co przyczynia się do stworzenia przyjemnego i komfortowego środowiska snu dla maluszka.
@@ -14807,7 +14837,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak podróżny NEW 421 Myszka</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165688514</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak podróżny NEW
@@ -15105,7 +15135,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam, MDF</opis>
 <nazwa>ALBERO MIO Przewijak twardy długi 420 KRÓLICZEK</nazwa>
 <cena>58.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165682093</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -16635,7 +16665,7 @@ Rozmiar: 75x75 cm
 <nazwa>ALBERO MIO Rożek niemowlęcy 446 Koala w podróży</nazwa>
 <cena>49.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001940708</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis>Rożek niemowlęcy 
@@ -18201,7 +18231,7 @@ Produkt należy stosować pod opieką osoby dorosłej!</opis>
 <nazwa>ALBERO MIO Śpiworek do spania S (1,5 TOG) C015 Sweet Heart World</nazwa>
 <cena>52.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001941132</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ŚPIWORKI</grupa>
 <opis>Śpiworek do spania S 1,5 tog
@@ -23788,7 +23818,7 @@ Materiał : 100 % BAWEŁNA</opis>
 <nazwa>ATK (MINIANIA) Prześcieradło na przewijak jersey</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5904276097731</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
@@ -25098,7 +25128,7 @@ Zawartość zestawu - Smoczek Ultra Air 2  szt.
 <nazwa>AVENT SCF080/27 Smoczek STHR AIR COLL 6-18 kwiatek/biedronka</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689042390</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -27788,7 +27818,7 @@ Zawartość zestawu - smoczki uspokajające Ultra Air Nighttime, 2 szt.
 <nazwa>AVENT SCF376/32 Smoczek Ultra Air Night 18m+ kotek /małpka</nazwa>
 <cena>23.57</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8720689042864</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultra air na noc – pozwala skórze dziecka oddychać
@@ -29300,9 +29330,9 @@ spełnia najbardziej rygorystyczne normy bezpieczeństwa</opis>
 <b2b>
 <kod>787779</kod>
 <nazwa>AXIOM 9009 Miluś Królik różowy 25x25 cm</nazwa>
-<cena>22.20</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209890095</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -29311,9 +29341,9 @@ spełnia najbardziej rygorystyczne normy bezpieczeństwa</opis>
 <b2b>
 <kod>785886</kod>
 <nazwa>AXIOM 9010 Miluś Królik niebieski 25x25 cm</nazwa>
-<cena>22.20</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209890101</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -29358,9 +29388,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>790485</kod>
 <nazwa>AXIOM 9194 Pozytywka Króliczek różowy 18 cm</nazwa>
-<cena>32.90</cena>
+<cena>32.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209891948</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -29369,9 +29399,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>790486</kod>
 <nazwa>AXIOM 9195 Pozytywka Króliczek niebieski 18 cm</nazwa>
-<cena>32.90</cena>
+<cena>32.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209891955</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -29444,17 +29474,6 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909881-1.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5908947</kod>
-<nazwa>AXIOM 9336 Króliczka Ola 38 cm</nazwa>
-<cena>26.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209893362</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5908947-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908948</kod>
 <nazwa>AXIOM 9337 Myszka Pola 38 cm</nazwa>
 <cena>26.90</cena>
@@ -29464,17 +29483,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5908948-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909879</kod>
-<nazwa>AXIOM 9339 Jednorożec Lili</nazwa>
-<cena>35.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209893393</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5909879-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5908951</kod>
@@ -29520,16 +29528,6 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908953-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>772598</kod>
-<nazwa>AXIOM 9361 Zabawka z dźwiękiem Słonik</nazwa>
-<cena>12.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209893614</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>772600</kod>
 <nazwa>AXIOM 9362 Grzechotka Słonik różowy 18 cm</nazwa>
 <cena>13.99</cena>
@@ -29542,7 +29540,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5910855</kod>
 <nazwa>AXIOM 9364 Zabawka z dźwiękiem Osiołek 17 cm</nazwa>
-<cena>13.25</cena>
+<cena>12.43</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209893645</EAN>
@@ -29595,17 +29593,6 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909401-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909406</kod>
-<nazwa>AXIOM 9387 Pozytywka Piesek beżowy 18 cm</nazwa>
-<cena>32.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209893874</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5909406-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911249</kod>
 <nazwa>AXIOM 9407 Zabawka z dźwiękiem Jeżyk 17 cm</nazwa>
 <cena>12.43</cena>
@@ -29619,7 +29606,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911251</kod>
 <nazwa>AXIOM 9410 Pozytywka Miś z balonikiem 18 cm</nazwa>
-<cena>32.90</cena>
+<cena>28.79</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894109</EAN>
@@ -29630,9 +29617,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911252</kod>
 <nazwa>AXIOM 9411 Zabawka z dźwiękiem Miś z balonikiem 17 cm</nazwa>
-<cena>14.20</cena>
+<cena>12.43</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209894116</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -29641,7 +29628,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911253</kod>
 <nazwa>AXIOM 9412 Miluś Miś z balonikiem 25x25 cm</nazwa>
-<cena>21.00</cena>
+<cena>18.38</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894123</EAN>
@@ -29652,7 +29639,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911254</kod>
 <nazwa>AXIOM 9413 Pozytywka Małpka 18 cm</nazwa>
-<cena>32.90</cena>
+<cena>28.79</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894130</EAN>
@@ -29663,7 +29650,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911255</kod>
 <nazwa>AXIOM 9414 Zabawka z dźwiękiem Małpka 17 cm</nazwa>
-<cena>14.20</cena>
+<cena>12.43</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894147</EAN>
@@ -29674,7 +29661,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911270</kod>
 <nazwa>AXIOM 9416 Grzechotka Małpka 18 cm</nazwa>
-<cena>15.99</cena>
+<cena>13.99</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894161</EAN>
@@ -29683,9 +29670,19 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911270-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5911259</kod>
+<nazwa>AXIOM 9424 Zabawka z dźwiękiem Króliczek beżowy z serduszkowym noskiem</nazwa>
+<cena>12.43</cena>
+<VAT>23</VAT>
+<stan>średnia ilość</stan>
+<EAN>5904209894246</EAN>
+<grupa>AXIOM- TULILO</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5911261</kod>
 <nazwa>AXIOM 9426 Miluś Miś różowy z serduszkowym noskiem 25x25 cm</nazwa>
-<cena>24.90</cena>
+<cena>21.79</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894260</EAN>
@@ -29696,7 +29693,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911271</kod>
 <nazwa>AXIOM 9427 Grzechotka Miś różowy z serduszkowym noskiem 18 cm</nazwa>
-<cena>15.99</cena>
+<cena>13.99</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894277</EAN>
@@ -29716,9 +29713,20 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911265-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5911268</kod>
+<nazwa>AXIOM 9442 Pozytywka Miś 18 cm</nazwa>
+<cena>27.55</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5904209894420</EAN>
+<grupa>AXIOM- TULILO</grupa>
+<opis/>
+<zdjecia>https://marini.pl/b2b/pictures/5911268-1.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5911269</kod>
-<nazwa>AXIOM 9443 Zabawka z dźwiękiem Miś błękitny 17 cm</nazwa>
-<cena>14.20</cena>
+<nazwa>AXIOM 9443 Zabawka z dźwiękiem Miś 17 cm</nazwa>
+<cena>12.43</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894437</EAN>
@@ -29729,7 +29737,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911603</kod>
 <nazwa>AXIOM 9454 Pozytywka Lisek pomarańczowy 20 cm</nazwa>
-<cena>28.52</cena>
+<cena>26.74</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894543</EAN>
@@ -29740,7 +29748,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911604</kod>
 <nazwa>AXIOM 9455 Zabawka z dźwiękiem Lisek pomarańczowy 17 cm</nazwa>
-<cena>12.31</cena>
+<cena>11.54</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894550</EAN>
@@ -29751,7 +29759,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911605</kod>
 <nazwa>AXIOM 9456 Grzechotka Lisek pomarańczowy 12 cm</nazwa>
-<cena>13.85</cena>
+<cena>12.99</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894567</EAN>
@@ -29762,7 +29770,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911606</kod>
 <nazwa>AXIOM 9457 Miluś Lisek pomarańczowy 27 cm</nazwa>
-<cena>18.20</cena>
+<cena>17.06</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894574</EAN>
@@ -29773,7 +29781,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911607</kod>
 <nazwa>AXIOM 9458 Pozytywka Świnka różowa 20 cm</nazwa>
-<cena>30.56</cena>
+<cena>26.74</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894581</EAN>
@@ -29784,7 +29792,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911608</kod>
 <nazwa>AXIOM 9459 Zabawka z dźwiękiem Świnka różowa 17 cm</nazwa>
-<cena>13.19</cena>
+<cena>11.54</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894598</EAN>
@@ -29795,7 +29803,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911609</kod>
 <nazwa>AXIOM 9460 Grzechotka Świnka różowa 12 cm</nazwa>
-<cena>14.84</cena>
+<cena>12.99</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894604</EAN>
@@ -29806,7 +29814,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911611</kod>
 <nazwa>AXIOM 9462 Pozytywka Żyrafka niebieska 20 cm</nazwa>
-<cena>32.90</cena>
+<cena>27.55</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894628</EAN>
@@ -29817,7 +29825,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911613</kod>
 <nazwa>AXIOM 9464 Grzechotka Żyrafka niebieska 12 cm</nazwa>
-<cena>14.84</cena>
+<cena>12.99</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894642</EAN>
@@ -29828,7 +29836,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911615</kod>
 <nazwa>AXIOM 9466 Pozytywka Wiewiórka 20 cm</nazwa>
-<cena>30.56</cena>
+<cena>28.52</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894666</EAN>
@@ -29839,7 +29847,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911616</kod>
 <nazwa>AXIOM 9467 Zabawka z dźwiękiem Wiewiórka 17 cm</nazwa>
-<cena>13.19</cena>
+<cena>11.54</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894673</EAN>
@@ -29850,7 +29858,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911617</kod>
 <nazwa>AXIOM 9468 Grzechotka Wiewiórka 12 cm</nazwa>
-<cena>14.84</cena>
+<cena>12.99</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894680</EAN>
@@ -29861,7 +29869,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911618</kod>
 <nazwa>AXIOM 9469 Miluś Wiewiórka 25 cm</nazwa>
-<cena>21.00</cena>
+<cena>17.59</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209894697</EAN>
@@ -29938,7 +29946,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>783452</kod>
 <nazwa>AXIOM 9489 Pozytywka Koala  kropeczki 18 cm</nazwa>
-<cena>32.90</cena>
+<cena>26.32</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894895</EAN>
@@ -29948,7 +29956,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5913372</kod>
 <nazwa>AXIOM 9490 Zabawka z dźwiękiem Koala kropeczki 17 cm</nazwa>
-<cena>14.20</cena>
+<cena>12.43</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894901</EAN>
@@ -29959,7 +29967,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5913370</kod>
 <nazwa>AXIOM 9492 Miluś Koala kropeczki 25 cm</nazwa>
-<cena>21.00</cena>
+<cena>15.75</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894925</EAN>
@@ -29970,7 +29978,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911591</kod>
 <nazwa>AXIOM 9495 Pozytywka Krówka biało-bordowa 18 cm</nazwa>
-<cena>30.56</cena>
+<cena>26.74</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894956</EAN>
@@ -29981,7 +29989,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911592</kod>
 <nazwa>AXIOM 9496 Zabawka z dźwiękiem Krówka biało-bordowa 17 cm</nazwa>
-<cena>13.19</cena>
+<cena>11.54</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894963</EAN>
@@ -29992,7 +30000,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911593</kod>
 <nazwa>AXIOM 9497 Grzechotka Krówka biało-bordowa 18 cm</nazwa>
-<cena>14.84</cena>
+<cena>12.99</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209894970</EAN>
@@ -30003,7 +30011,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911594</kod>
 <nazwa>AXIOM 9498 Miluś Krówka biało-bordowa 25 cm</nazwa>
-<cena>19.50</cena>
+<cena>17.06</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904209894987</EAN>
@@ -30036,7 +30044,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5913636</kod>
 <nazwa>AXIOM 9511 Grzechotka Piesek beżowy 17 cm</nazwa>
-<cena>15.30</cena>
+<cena>13.39</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209895113</EAN>
@@ -30068,7 +30076,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911599</kod>
 <nazwa>AXIOM 9520 Zabawka z dźwiękiem Bóbr 17 cm</nazwa>
-<cena>13.19</cena>
+<cena>11.54</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209895205</EAN>
@@ -30079,7 +30087,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911600</kod>
 <nazwa>AXIOM 9521 Pozytywka Bóbr 18 cm</nazwa>
-<cena>30.56</cena>
+<cena>26.74</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209895212</EAN>
@@ -30090,7 +30098,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911601</kod>
 <nazwa>AXIOM 9522 Grzechotka Bóbr 18 cm</nazwa>
-<cena>14.84</cena>
+<cena>12.99</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5904209895229</EAN>
@@ -30101,7 +30109,7 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5911602</kod>
 <nazwa>AXIOM 9523 Miluś Bóbr 25 cm</nazwa>
-<cena>19.50</cena>
+<cena>17.06</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904209895236</EAN>
@@ -30277,9 +30285,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914584</kod>
 <nazwa>AXIOM 9548 Pozytywka Koala szara 18 cm</nazwa>
-<cena>0.00</cena>
+<cena>32.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895489</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30288,9 +30296,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914585</kod>
 <nazwa>AXIOM 9549 Zabawka z dźwiękiem Koala szara 17 cm</nazwa>
-<cena>0.00</cena>
+<cena>14.20</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895496</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30299,9 +30307,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914586</kod>
 <nazwa>AXIOM 9550 Miluś Koala szara 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895502</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30310,9 +30318,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914587</kod>
 <nazwa>AXIOM 9551 Pozytywka Panda niebieska 18 cm</nazwa>
-<cena>0.00</cena>
+<cena>32.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895519</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30321,9 +30329,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914588</kod>
 <nazwa>AXIOM 9552 Zabawka z dźwiękiem Panda niebieska 17 cm</nazwa>
-<cena>0.00</cena>
+<cena>14.20</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895526</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30332,9 +30340,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914589</kod>
 <nazwa>AXIOM 9553 Miluś Panda niebieska 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895533</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30343,9 +30351,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914590</kod>
 <nazwa>AXIOM 9554 Pozytywka Miś beżowy 14 cm</nazwa>
-<cena>0.00</cena>
+<cena>25.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895540</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30354,9 +30362,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914591</kod>
 <nazwa>AXIOM 9555 Grzechotka Miś beżowy 14 cm</nazwa>
-<cena>0.00</cena>
+<cena>15.98</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895557</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30365,9 +30373,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914592</kod>
 <nazwa>AXIOM 9556 Miluś Miś beżowy 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895564</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30376,9 +30384,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914593</kod>
 <nazwa>AXIOM 9557 Pozytywka Piesek niebieski 18 cm</nazwa>
-<cena>0.00</cena>
+<cena>32.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895571</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30387,9 +30395,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914594</kod>
 <nazwa>AXIOM 9558 Grzechotka Piesek niebieski 14 cm</nazwa>
-<cena>0.00</cena>
+<cena>15.98</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895588</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30398,9 +30406,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914595</kod>
 <nazwa>AXIOM 9559 Miluś Piesek niebieski 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895595</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30409,9 +30417,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914596</kod>
 <nazwa>AXIOM 9560 Miluś Lisek różowy 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895601</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30420,9 +30428,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914597</kod>
 <nazwa>AXIOM 9561 Pozytywka Lisek różowy 14 cm</nazwa>
-<cena>0.00</cena>
+<cena>25.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895618</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30431,9 +30439,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914598</kod>
 <nazwa>AXIOM 9562 Grzechotka Lisek różowy 14 cm</nazwa>
-<cena>0.00</cena>
+<cena>15.98</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895625</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30442,9 +30450,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914599</kod>
 <nazwa>AXIOM 9563 Miluś Kaczuszka beżowa 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895632</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30453,9 +30461,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914600</kod>
 <nazwa>AXIOM 9564 Muluś Miś beżowy 25 cm</nazwa>
-<cena>0.00</cena>
+<cena>21.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895649</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30464,9 +30472,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914601</kod>
 <nazwa>AXIOM 9565 Miluś Owieczka 27 cm z groszkiem</nazwa>
-<cena>0.00</cena>
+<cena>21.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895656</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30475,9 +30483,9 @@ Kategoria wiekowa: 3+</opis>
 <b2b>
 <kod>5914602</kod>
 <nazwa>AXIOM 9566 Miluś Piesek 27 cm z groszkiem</nazwa>
-<cena>0.00</cena>
+<cena>21.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904209895663</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -44567,9 +44575,9 @@ w opakowaniu 1 sztuka</opis>
 <b2b>
 <kod>776267</kod>
 <nazwa>B.O.043/02 Aspirator do nosa - gruszka - biały TAKE CARE</nazwa>
-<cena>6.00</cena>
+<cena>6.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435409718</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Aspirator to idealny produkt kiedy Twoje dziecko ma katarek. Jest niewielki, łatwy w obsłudze i niezwykle wygodny podczas czyszczenia.
@@ -45155,7 +45163,7 @@ Wiek dziecka
 <b2b>
 <kod>765948</kod>
 <nazwa>B.O.1013 Żelowy gryzaczek miś</nazwa>
-<cena>5.65</cena>
+<cena>5.82</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904341208635</EAN>
@@ -45267,7 +45275,7 @@ W zestawie:
 <b2b>
 <kod>5914058</kod>
 <nazwa>B.O.1028/01 Pojemniki do mrożenia pokarmu z ustnikiem</nazwa>
-<cena>13.00</cena>
+<cena>13.26</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5901435418222</EAN>
@@ -45605,9 +45613,9 @@ w zestawie: miseczka i łyżeczka</opis>
 <b2b>
 <kod>785310</kod>
 <nazwa>B.O.1065/01 Sztućce dla dzieci ze stali szlachetnej*</nazwa>
-<cena>9.84</cena>
+<cena>10.34</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435413371</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/SZTUĆCE</grupa>
 <opis>Zestaw sztućców wykonany ze stali nierdzewnej bardzo przydaje się podczas nauki samodzielnego jedzenia. Ich wielkość została dopasowana do małych rąk dziecka.
@@ -46564,7 +46572,7 @@ Kompatybilność kolekcji umożliwia indywidualne kompletowanie produktów, dost
 <nazwa>B.O.1454/02 Smoczek antykolkowy szybki NATURAL NURSING 1szt</nazwa>
 <cena>6.80</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901435414019</EAN>
 <grupa>BABYONO/SMOCZKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Smoczek antykolkowy do butelek NATURAL NURSING to nowoczesna odpowiedź na naturalne potrzeby niemowląt. Specjalnie zaprojektowany kształt smoczka imituje pierś mamy co ułatwia łączenie karmienia piersią i butelką. Zastosowany w smoczku system antykolkowy minimalizuje połykanie powietrza podczas karmienia i tym samym ryzyko wystąpienia kolki.
@@ -47087,7 +47095,7 @@ czas pracy na w pełni nakładowej baterii: do 90 min.</opis>
 <nazwa>B.O.1476/01 Śliniak z długim rękawem GARDEN</nazwa>
 <cena>15.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435414972</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak z długim rękawem to praktyczny fartuszek, który ochroni ubranie Twojego dziecka. W trakcie jedzenia zabezpieczy nie tylko przód ubranka, ale również rękawy, które „lubią się” brudzić. Dzięki elastycznym gumkom będzie dobrze przylegał nawet do małych dziecięcych rączek. Śliniak z rękawkami ma też praktyczną kieszonkę na okruszki, do której wpadają resztki posiłku.
@@ -47451,7 +47459,7 @@ Silikonowy materiał ułatwia utrzymanie czystości. Miseczkę można bezpieczni
 <nazwa>B.O.1482/01 Silikonowy talerzyk z przyssawką niebieski</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435415825</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu.Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -48865,7 +48873,7 @@ Wymiar: 5x16 cm
 <nazwa>B.O.1553/04 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm różowe</nazwa>
 <cena>47.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418000</EAN>
 <grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
 <opis>Okrycie kąpielowe bambusowe z kapturkiem jest niezastąpione już od pierwszych chwil życia. Wykonaliśmy je z wysokiej jakości delikatnego bambusa z domieszką puszystej bawełny. Okrycie jest hipoalergiczne i antybakteryjne. Idealne do każdego typu skóry, także bardzo wrażliwej. To naturalny, niezwykle miękki i puszysty ręcznik, który nie podrażnia delikatnej skóry dziecka. Okrycie doskonale wchłania wilgoć i skutecznie chroni Twojego maluszka przed wychłodzeniem Duży rozmiar ręcznika pozwoli otulić po kąpieli zarówno mniejsze, jak i większe dziecko.
@@ -48913,7 +48921,7 @@ wymiary opakowania
 <nazwa>B.O.1553/05 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm jasny beż</nazwa>
 <cena>47.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418017</EAN>
 <grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
 <opis>Okrycie kąpielowe bambusowe z kapturkiem jest niezastąpione już od pierwszych chwil życia. Wykonaliśmy je z wysokiej jakości delikatnego bambusa z domieszką puszystej bawełny. Okrycie jest hipoalergiczne i antybakteryjne. Idealne do każdego typu skóry, także bardzo wrażliwej. To naturalny, niezwykle miękki i puszysty ręcznik, który nie podrażnia delikatnej skóry dziecka. Okrycie doskonale wchłania wilgoć i skutecznie chroni Twojego maluszka przed wychłodzeniem Duży rozmiar ręcznika pozwoli otulić po kąpieli zarówno mniejsze, jak i większe dziecko.
@@ -48961,7 +48969,7 @@ wymiary opakowania
 <nazwa>B.O.1553/06 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm ciemny beż</nazwa>
 <cena>47.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418024</EAN>
 <grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
 <opis>Okrycie kąpielowe bambusowe z kapturkiem jest niezastąpione już od pierwszych chwil życia. Wykonaliśmy je z wysokiej jakości delikatnego bambusa z domieszką puszystej bawełny. Okrycie jest hipoalergiczne i antybakteryjne. Idealne do każdego typu skóry, także bardzo wrażliwej. To naturalny, niezwykle miękki i puszysty ręcznik, który nie podrażnia delikatnej skóry dziecka. Okrycie doskonale wchłania wilgoć i skutecznie chroni Twojego maluszka przed wychłodzeniem Duży rozmiar ręcznika pozwoli otulić po kąpieli zarówno mniejsze, jak i większe dziecko.
@@ -49197,7 +49205,7 @@ Wymiar: 16 x 23 cm</opis>
 <nazwa>B.O.1557/02 Przytulanka - szeleścik LLAMA LULU-niebieski</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416518</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Poznaj szeleścik Llama Lulu, która ma miękkie futerko, idealne do przytulania.
@@ -49633,7 +49641,7 @@ Kolor torby – beżowy. Może delikatnie różnić się od prezentowanego na zd
 <nazwa>B.O.1571/03 Torba dla mamy / do wózka CARMEN szara</nazwa>
 <cena>80.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417027</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
 <opis>Torba dla mamy/do wózka CARMEN to modna, miejska torba, idealna towarzyszka każdej mamy. Łączy w sobie kompaktowe wymiary z niezwykłą pojemnością i stylem. Jest idealna na krótkie wyjścia, kiedy chcesz mieć przy sobie tylko to, co najważniejsze.
@@ -49758,7 +49766,7 @@ Składana
 <nazwa>B.O.1578 Zabawka edukacyjna - zawieszka do wózka i fotelika NATURE</nazwa>
 <cena>25.40</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416587</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Zawieszka do wózka i fotelika NATURE to sensoryczna zabawka, która pomaga w stymulowaniu zmysłów dotyku i wzroku oraz rozwoju umiejętności motorycznych dziecka. Zamocuj ją na wózku, kołysce lub foteliku, aby dostarczyć maluszkowi rozrywki podczas spacerów i podróży. Na pokrytej przyjemnym w dotyku materiałem zawieszce umieściliśmy grzechoczącego ptaszka, bezpieczne lusterko z wystającymi sznureczkami, szeleszczącego króliczka oraz kółko i gwiazdkę. Ciekawie dobrane elementy zachęcają do ich poznawania i przyciągają uwagę dziecka. Twój maluch jednocześnie bawi się, odkrywa świat i rozwija koordynację wzrokowo-słuchową.
@@ -49889,9 +49897,9 @@ Wymiar opakowania: 15 x 13 x 15 cm</opis>
 <b2b>
 <kod>5912159</kod>
 <nazwa>B.O.1584 Zabawka sensoryczna z przyssawką TURTLE</nazwa>
-<cena>17.80</cena>
+<cena>17.81</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416563</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
 <opis>Zabawka sensoryczna z przyssawką TURTLE
@@ -50621,9 +50629,9 @@ Wymiar: 17 x 17 cm</opis>
 <b2b>
 <kod>5910987</kod>
 <nazwa>B.O.1633 Piszczek z gryzakiem KOALA COCO</nazwa>
-<cena>16.00</cena>
+<cena>16.31</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416884</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Poznaj miękki i miły piszczek Koala Coco. Idealny do przytulania i pocieszania.
@@ -50723,9 +50731,9 @@ Wymiar: 12 x 12 cm</opis>
 <b2b>
 <kod>5910992</kod>
 <nazwa>B.O.1638 Zawieszka edukacyjna do wózka KOALA COCO</nazwa>
-<cena>22.44</cena>
+<cena>22.43</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416938</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Zawieszka Koala Coco to idealny towarzysz każdej podróży!
@@ -51282,7 +51290,7 @@ Akumulator o pojemności 9000 mAh
 <nazwa>B.O.1647/01 Kocyk dzianinowy bawełniany różowy</nazwa>
 <cena>55.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417225</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Dzianinowy kocyk bawełniany stworzyliśmy z myślą o delikatnej skórze maluszków i troskliwych rodzicach. Powstał w 100% z certyfikowanej bawełny organicznej – bez chemikaliów, pestycydów i szkodliwych barwników. Hipoalergiczny i antybakteryjny przyjemnie otuli nawet bardzo wrażliwą i alergiczną skórę Twojego dziecka.
@@ -51858,7 +51866,7 @@ Wykorzystaj naszą szczoteczkę do łagodnego masażu głowy Twojego maluszka. M
 <nazwa>B.O.1656/01 Silikonowy pojemnik na smoczek niebieski</nazwa>
 <cena>8.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417560</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Maluszek płacze, chcesz go uspokoić, ale nie możesz znaleźć smoczka? Koniec z tym! Nasze silikonowe etui na smoczek ochroni go przed zabrudzeniem i zgubieniem – w domu, na spacerze i w podróży. Ulubiony smoczek Twojego dziecka będzie czysty i gotowy do użycia w każdej chwili.
@@ -51873,7 +51881,7 @@ Etui na smoczek wykonaliśmy z silikonu wolnego od BPA. Jest miękkie, trwałe i
 <nazwa>B.O.1656/02 Silikonowy pojemnik na smoczek różowy</nazwa>
 <cena>8.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417577</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Maluszek płacze, chcesz go uspokoić, ale nie możesz znaleźć smoczka? Koniec z tym! Nasze silikonowe etui na smoczek ochroni go przed zabrudzeniem i zgubieniem – w domu, na spacerze i w podróży. Ulubiony smoczek Twojego dziecka będzie czysty i gotowy do użycia w każdej chwili.
@@ -51888,7 +51896,7 @@ Etui na smoczek wykonaliśmy z silikonu wolnego od BPA. Jest miękkie, trwałe i
 <nazwa>B.O.1656/03 Silikonowy pojemnik na smoczek beżowy</nazwa>
 <cena>8.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417584</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Maluszek płacze, chcesz go uspokoić, ale nie możesz znaleźć smoczka? Koniec z tym! Nasze silikonowe etui na smoczek ochroni go przed zabrudzeniem i zgubieniem – w domu, na spacerze i w podróży. Ulubiony smoczek Twojego dziecka będzie czysty i gotowy do użycia w każdej chwili.
@@ -52993,7 +53001,7 @@ Wymiary torby: 45 x 12 x 30 cm
 <nazwa>B.O.1672/03 Torba dla mamy / do wózka CAMI czekoladowa</nazwa>
 <cena>98.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417966</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
 <opis>Torba do wózka CAMI to połączenie wygody i stylu. Stworzona dla aktywnych mam, które cenią funkcjonalność i chcą wyglądać modnie. W zestawie z apaszką ze zwierzęcym wzorem, którą zawiążesz na różne sposoby – na torbie, włosach lub szyi.
@@ -53155,7 +53163,7 @@ Wiek dziecka
 <nazwa>B.O.1673/04 Kocyk bambusowy niebieski</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418079</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -53260,7 +53268,7 @@ Wiek dziecka
 <nazwa>B.O.1674/03 Kocyk bambusowy beżowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418109</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -53845,7 +53853,7 @@ w opakowaniu 40 sztuk</opis>
 <b2b>
 <kod>769621</kod>
 <nazwa>B.O.298/01 Wkładki laktacyjne NATURAL NURSING 24 szt białe</nazwa>
-<cena>7.80</cena>
+<cena>7.81</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
 <EAN>5901435407424</EAN>
@@ -54960,7 +54968,7 @@ POPORODOWY PAS BRZUSZNY:
 <nazwa>B.O.505/XXL Poporodowy pas brzuszny XXL</nazwa>
 <cena>45.00</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5906699072913</EAN>
 <grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
 <opis>Poporodowy pas brzuszny jest przeznaczony dla kobiet po porodach fizjologicznych, jak również operacyjnych (cesarskie cięcie) w celu wzmocnienia nadmiernie rozciągniętych powłok brzusznych oraz zmniejszenia ryzyka występowania przepukliny. Pas łagodzi bóle rany pooperacyjnej, daje poczucie bezpieczeństwa i komfort oraz ułatwia wcześniejsze wykonywanie ćwiczeń gimnastycznych wzmacniających mięśnie brzucha. W celu prawidłowego dopasowania rozmiaru należy zmierzyć obwód brzucha i wybrać rozmiar z tabeli.
@@ -55038,7 +55046,7 @@ Właściwości:
 <nazwa>B.O.511/S Poporodowy pas brzuszny S- profilowany</nazwa>
 <cena>53.00</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5906699072944</EAN>
 <grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
 <opis>Poporodowy pas brzuszny profilowany przeznaczony jest dla kobiet po porodach operacyjnych (tzw: cesarskie cięcie) w celu wzmocnienia nadmiernie rozciągniętych powłok brzusznych oraz zmniejszenia ryzyka występowania przepukliny. Pas łagodzi bóle rany pooperacyjnej, daje poczucie bezpieczeństwa i komfort oraz ułatwia wcześniejsze wykonywanie ćwiczeń gimnastycznych wzmacniających mięśnie brzucha. W celu prawidłowego dopasowania rozmiaru należy zmierzyć obwód brzucha i wybrać rozmiar z tabeli.
@@ -55804,7 +55812,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/03 Biustonosz do karmienia D80-85 czarny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435415078</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -56246,7 +56254,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/17 Biustonosz do karmienia D70-75 neutralny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415214</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -56382,7 +56390,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/23 Biustonosz do karmienia F75-80 neutralny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415276</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -56416,7 +56424,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/24 Biustonosz do karmienia F75/80 czarny</nazwa>
 <cena>62.89</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415283</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -56450,7 +56458,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/26 Biustonosz do karmienia F80-85 neutralny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415306</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -56630,7 +56638,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/33 Biustonosz do karmienia C80-85 neutralny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415627</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -56689,7 +56697,7 @@ Dane techniczne:
 <b2b>
 <kod>783184</kod>
 <nazwa>B.O.599 Podkłady poporodowe NIGHT &amp; DAY</nazwa>
-<cena>7.80</cena>
+<cena>7.96</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
 <EAN>5901435412251</EAN>
@@ -58209,7 +58217,7 @@ Wysoka chłonność</opis>
 <nazwa>B.O.828/04 Pieluszki muślinowe marszczone zielone</nazwa>
 <cena>23.90</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417881</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Pieluszki z marszczonego muślinu to obowiązkowy element w wyprawce mamy i dziecka. Wykonaliśmy je w 100% z naturalnej bawełny – przewiewnej i delikatnej dla skóry Twojego maleństwa.
@@ -58699,9 +58707,9 @@ Dostępne kolory:
 <b2b>
 <kod>770822</kod>
 <nazwa>B.O.959 Zabezpieczenia narożników małe</nazwa>
-<cena>5.00</cena>
+<cena>5.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435408100</EAN>
 <grupa>BABYONO/ZABEZPIECZENIA</grupa>
 <opis>Zaokrąglone osłony narożników chronią dziecko przed negatywnymi skutkami upadków podczas intensywnego okresu nauki samodzielnego chodzenia. Przy ich pomocy można zabezpieczyć ostre narożniki wszystkich mebli o gładkiej powierzchni.
@@ -67130,7 +67138,7 @@ Zawieszka przeznaczona dla dzieci od dnia narodzin.</opis>
 <nazwa>BALIBAZOO BB 82615 Pszczółka Basia dzwoneczek</nazwa>
 <cena>28.10</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783826156</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Ta urocza pszczółka na pętelkowym kwiatku stymuluje zmysły malucha do wesołej zabawy! W jej środku kryje się dzwoneczek, który wydaje dźwięk przy każdym potrząśnięciu zabawką. Kolorowe pętelki są elastyczne, a ich kształt został dopasowany do dziecięcych rączek, ułatwiając tym samym maluchom chwytanie zabawki. Basia uszyta została z materiałów o zróżnicowanych fakturach, co pozwala najmłodszym na odkrywanie nowych faktur, zachęcając ich przy tym do poznawania świata wszystkimi zmysłami.
@@ -79782,7 +79790,7 @@ W opakowaniu: 1 sztuka</opis>
 <nazwa>CANPOL 21/722 Smoczek do butelek szerokootworowych EasyStart silikon szybki 1szt</nazwa>
 <cena>4.46</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407217222</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Do butelek z szeroką szyjką został specjalnie zaprojektowany antykolkowy smoczek. Wykonany jest z wysokiej jakości miękkiego silikonu. Zbliżony do kształtu piersi umożliwia łączenie naturalnego karmienia z karmieniem butelką. Występuje w 6 wielkościach przepływu: mini, wolny, średni, szybki, kaszka, trójprzepływowy. Odpowietrzacz umieszczony w podstawie, sprawia, że w trakcie karmienia dziecko nie łyka powietrza i jest mniej narażone na kolkę.
@@ -81487,7 +81495,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/922 Smoczek silikonowy 18+m symetryczny EXOTIC Leniwiec</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691870239</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 18m+ EXOTIC (koala) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81502,7 +81510,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/922 Smoczek silikonowy 18+m symetryczny EXOTIC Panda</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691870246</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 18m+ EXOTIC (koala) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81601,7 +81609,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 34/926 Smoczek uspokajający silikonowy 18+ symetryczny Cute Animals niebieski</nazwa>
 <cena>5.60</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691889453</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający w kolekcji Cute Animals zrelaksuje i wyciszy Maluszka. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i minimalizuje odciskanie się smoczka na delikatnej buzi dziecka. Dodatkowe otworki wentylacyjne pozwalają skórze oddychać i zapobiegają podrażnieniom. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy upadkiem na ziemię i zabrudzeniem. Smoczek symetryczny Canpol babies 18m+ Cute Animals jest trwały i odporny na odkształcenia oraz bezpieczny i łatwy do utrzymania w czystości. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek silikonowy Canpol babies symetryczny rekomendowany dla dzieci w wieku powyżej 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ Cute Animals jest dostępny w trzech uroczych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem.
@@ -82646,7 +82654,7 @@ Butelka EasyStart Bonjour Paris wykonana została z bezpiecznego, wolnego od BPA
 <nazwa>CANPOL 35/235 Zestaw butelek do przechowywania pokarmu 3x120ml</nazwa>
 <cena>16.49</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691880641</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Mleko matki to wartościowy i najlepszy pokarm dla dziecka od pierwszych dni życia. Wiemy też z jakimi wyzwaniami i trudnościami przychodzi mamie zmierzyć się podczas okresu karmienia piersią, dlatego zestaw butelek na pokarm Canpol babies został stworzony z myślą o wykorzystywaniu mleka matki w duchu „zero waste” – do ostatniej kropli.Butelki na pokarm Canpol babies mogą być używane bezpośrednio z laktatorami, co umożliwia odciąganie, przechowywanie, podgrzewanie i karmienie dziecka mlekiem matki przy użyciu tej samej butelki. Dzięki czemu nie zmarnuje się ani kropla cennego pokarmu. W efekcie brak konieczności przelewania odciągniętego pokarmu do specjalnych woreczków sprawia, że będzie oszczędniej i mniej zmywania. Butelki można myć w zmywarce i dezynfekować w sterylizatorze oraz podgrzewać w kuchence mikrofalowej czy podgrzewaczu do butelek. Butelki są wykonane z tworzywa umożliwiającego zachowanie korzystnych właściwości mleka matki oraz jego bezpieczne przechowywanie w lodówce czy zamrażarce nawet do 6 miesięcy. Czytelna i precyzyjna skala ułatwia kontrolowanie ilości odciągniętego mleka. W zestawie znajdują się również kapsle i nakrętki zapewniające szczelne zamknięcie. Butelki można używać ze wszystkimi smoczkami do karmienia Canpol babies.Zestaw butelek na pokarm Canpol babies to doskonała pomoc przy karmieniu piersią. Został stworzony z myślą o bezpiecznym i długim przechowywaniu odciągniętego pokarmu, tak aby zapewnić mamom komfort w sytuacjach kiedy muszą wyjść z domu i zostawić dziecko pod opieką innej osoby lub chwilowym niedoborem pokarmu.
@@ -85361,7 +85369,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/613 Kubek z silikonowym ustnikiem FirstCup 250ml BONJOUR blue</nazwa>
 <cena>17.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691869998</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka.
@@ -86492,7 +86500,7 @@ W opakowaniu znajdują się:
 <nazwa>CANPOL 70/002 Woreczki do sterylizacji w kuchence mikrofalowej 6 szt</nazwa>
 <cena>10.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691803930</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Woreczki do sterylizacji w kuchence mikrofalowej Canpol babies to prosty, szybki i bezpieczny sposób sterylizacji butelek, smoczków, laktatorów oraz innych produktów dla niemowląt i dzieci. Sterylizacja jest bezpieczna, bez użycia środków chemicznych i trwa jedynie 90 sekund. Para wodna, która się wytwarza w torebce podczas procesu sterylizacji, eliminuje bakterie i zarazki, zapewniając produktom higieniczną czystość. Każdą torebkę można użyć aż 20 razy, dzięki czemu jedno opakowanie wystarczy na 120 procesów sterylizacji. Jest to produkt zastępujący tradycyjny sterylizator, gdy jesteś w podróży i nie możesz zabrać ze sobą urządzenia lub nie masz wystarczająco miejsca w domu na dodatkowy sprzęt. Zostały wykonane z bezpiecznego tworzywa, nie zawierającego BPA ani innych szkodliwych substancji.
@@ -88390,7 +88398,7 @@ Waga:
 <nazwa>CEBA 102-000-734 Przewijak miękki profilowany krótki 50x70 Basic Balloons</nazwa>
 <cena>40.59</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672342344</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -89129,7 +89137,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-734 Przewijak twardy krótki 50x70 Basic Balloons</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907672341729</EAN>
 <grupa>CEBA/PRZEWIJAKI</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -89206,7 +89214,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-813 Przewijak twardy krótki 50x70 Basic Nature Harmony</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672346373</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -89427,7 +89435,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-781 Składana mata do przewijania 40x60 Basic Elephant Family</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672345482</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89449,7 +89457,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-783 Składana mata do przewijania 40x60 Basic Forest Friends</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672345505</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89581,7 +89589,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 307-000-734 Skladana mata do przewijania duża 50x80 Basic Balloons</nazwa>
 <cena>21.50</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342429</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Pielęgnuj swoje dziecko bezpiecznie i komfortowo w każdych okolicznościach. Decydując się na zakup naszej składanej maty masz pewność, że wybierasz produkt najwyższej jakości, który został przetestowany i jest wyrobem certyfikowanym. Mata do przewijania to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej i wysokiej jakości certyfikowanej folii PCV, która jest nie tylko trwała i wytrzymała, ale także w pełni bezpieczna w kontakcie z delikatną skórą dziecka. Środek maty to miękkie wypełnienie, które zapewni komfort maluszkowi podczas pielęgnacji poza domem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 50x80 cm, po złożeniu 16,5x40 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -90245,7 +90253,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 741-000-827 Wielofunkcyjna poduszka PHYSIO Multi Jersey Abstraction 190 cm</nazwa>
 <cena>97.94</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672347462</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Cebuszka Multi to wielofunkcyjna poduszka zaprojektowana z myślą o kobietach w ciąży, młodych rodzicach i ich dzieciach. Jej ergonomiczny kształt oraz innowacyjne wypełnienie z mikroperłami zapewniają wyjątkowy komfort w każdej sytuacji – zarówno podczas odpoczynku, snu, jak i w trakcie karmienia. Poduszka delikatnie dopasowuje się do ciała, zmniejsza nacisk na kręgosłup i ułatwia przyjęcie wygodnej pozycji. Po narodzinach dziecka staje się niezastąpionym wsparciem przy karmieniu piersią lub butelką, a także pomaga maluszkowi w nauce siadania, oferując stabilne podparcie. Trwała, zdejmowana poszewka umożliwia łatwe utrzymanie produktu w czystości, a certyfikat Öko-Tex Standard 100 gwarantuje bezpieczeństwo materiałów.
@@ -90412,7 +90420,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 744-000-671 Koło poporodowe Szare gwiazdki na białym</nazwa>
 <cena>33.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672335759</EAN>
 <grupa>CEBA</grupa>
 <opis>Koło poporodowe to niezbędny artykuł dla każdej mamy rodzącej siłami natury. Koło przynosi ogromną ulgę po porodzie, ukojenie i upragniony komfort. Poduszka poporodowa jest niezbędna, aby mama mogła bez bólu siedzieć, nie narażając podrażnionego krocza na dodatkowe otarcia i uciski, a także aby mogła bezboleśnie karmić w pozycji siedzącej. Koło chroni obolałe krocze. Poduszka wypełniona jest drobnymi kuleczkami - antyalergiczną mikroperłą styropianową, która idealnie dopasowuje się do ciała i stosowana jest w poduszkach medycznych. Wycięcie w samym środku koła umożliwia kobiecie siedzenie bez uciskania na szwy. Koła poporodowe Ceba Baby dodatkowo wyposażone są w materiałowy dozownik, który pozwala na regulację objętości koła. Mama ma możliwość przesypania mikroperły do dozownika zmniejszając tym samym objętość koła, dopasowując je do własnych indywidualnych potrzeb. Materiały, z których wykonane jest koło poporodowe, gwarantują wysoką jakość produktu oraz długotrwałe użytkowanie.</opis>
@@ -94849,7 +94857,7 @@ PhysioForma to wyjątkowy kształt wszystkich smoczków Chicco, który wspiera p
 <nazwa>CHICCO 00073231210000 Smoczek PHYSIO MINI SOFT 2-6  silikon 2 szt boy</nazwa>
 <cena>23.56</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8058664128457</EAN>
 <grupa>CHICCO/AKCESORIA/SMOCZKI USPOKAJAJĄCE PHYSIOFORMA</grupa>
 <opis>Smoczki uspokajające  PhysioForma Mini Soft 2-6M
@@ -95014,7 +95022,7 @@ Smoczek Physio Micro jest dostępny w jednym rozmiarze 0-2m, w późniejszym okr
 <nazwa>CHICCO 00075126410000 Smoczek MICRO GLOW sil 0-2m 2 szt</nazwa>
 <cena>20.94</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8058664156276</EAN>
 <grupa>CHICCO/AKCESORIA/SMOCZKI USPOKAJAJĄCE PHYSIOFORMA</grupa>
 <opis>Chicco Smoczek do uspokajania Physio Micro silikonowy
@@ -97793,7 +97801,7 @@ Kod EAN 5908214730001
 Wysokość opakowania 71 cm
 Długość opakowania 45 cm
 Szerokość opakowania 45 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910774-1.jpg https://marini.pl/b2b/pictures/5910774-2.jpg https://marini.pl/b2b/pictures/5910774-3.jpg https://marini.pl/b2b/pictures/5910774-4.jpg https://marini.pl/b2b/pictures/5910774-5.jpg https://marini.pl/b2b/pictures/5910774-6.jpg https://marini.pl/b2b/pictures/5910774-7.jpg https://marini.pl/b2b/pictures/5910774-8.jpg https://marini.pl/b2b/pictures/5910774-9.jpg https://marini.pl/b2b/pictures/5910774-10.</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5910774-1.jpg https://marini.pl/b2b/pictures/5910774-2.jpg https://marini.pl/b2b/pictures/5910774-3.jpg https://marini.pl/b2b/pictures/5910774-4. https://marini.pl/b2b/pictures/5910774-5.jpg https://marini.pl/b2b/pictures/5910774-6.jpg https://marini.pl/b2b/pictures/5910774-7.jpg https://marini.pl/b2b/pictures/5910774-8.jpg https://marini.pl/b2b/pictures/5910774-9.jpg https://marini.pl/b2b/pictures/5910774-10.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910797</kod>
@@ -101342,7 +101350,7 @@ stosowany w rehabilitacji leczniczej</opis>
 <nazwa>DANPOL Materac gryko-kokos 140x70x9 T18</nazwa>
 <cena>117.28</cena>
 <VAT>8</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907645897017</EAN>
 <grupa>DANPOL</grupa>
 <opis>GRYKO-KOKOS jest materacem dwustronnym. Strona gryczana jest jedynym naturalnym podkładem do spania. Zawarte w łusce taniny uniemożliwiają rozwój roztoczy i bakterii w materacu i na powierzchni skóry. Dzięki układowi łusek przepływ powietrza jest łatwiejszy, przez co wykazuje zdolności wentylacyjne i kontroluje wilgotność ciała Strona kokosowa stanowi uzupełnienie właściwości zdrowotnych materaca. Mata kokosowa dzięki swojej strukturze pozwala na swobodny przepływ powietrza. Dzięki łączeniu włókien kokosa naturalnym lateksem materac odporny jest na jakiekolwiek uszkodzenia powstałe pod wpływem nacisku. Materac dostępny z wypełnieniem piankowym (A) lub sprężynowym (B). Nie zależnie, na której ze stron śpi nasze dziecko, mamy pewność, że zawsze śpi zdrowo i</opis>
@@ -113977,7 +113985,7 @@ Wykonana została z wysokiej jakości materiałów, które zapewniają trwałoś
 <nazwa>EURO-CART Torba do wózka CROX CORSO TAUPE</nazwa>
 <cena>128.22</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>Torba do wózka dziecięcego Euro-Cart Crox / Corso Taupe
@@ -129931,7 +129939,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30052 Grzechotka Smok</nazwa>
 <cena>15.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905692300528</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Smocza zabawka dla ząbkujących poszukiwaczy wrażeń łączy w sobie walory gryzaka i grzechotki! Całą powierzchnię obręczy zdobią zróżnicowane wypustki, które podczas gryzienia będą delikatnie masować dziąsełka malucha. Dostosowany do małych rączek kształt zabawki, ułatwi maluchowi jej chwytanie. Wewnątrz smoka znajduje się kula wypełniona kolorowymi kuleczkami, które grzechoczą przy potrząsaniu.
@@ -142201,7 +142209,7 @@ Możesz nim również rozcieńczać leki stosowane do inhalacji. Sól fizjologic
 <nazwa>KATAREK Roztwór soli hipertoniczny 18x4ml NaCI 3%</nazwa>
 <cena>15.85</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905279336292</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Sól hipertoniczna 3% to sterylny hipertoniczny roztwór chlorku sodu (NaCl 3%), który jest  przeznaczony do nebulizacji oraz udrażniania dróg oddechowych. Katarek Roztwór soli hipertoniczny  wspomaga usuwanie wydzieliny z dolnych dróg oddechowych dzięki działaniu osmotycznemu, co jest szczególnie przydatne w przypadku mukowiscydozy, rozstrzeni oskrzeli czy zapalenia oskrzelików. Zapobiega również wysuszaniu błon śluzowych oskrzeli. Może być stosowany u niemowląt, dzieci i dorosłych z użyciem nebulizatorów pneumatycznych lub ultradźwiękowych – najlepiej po konsultacji z lekarzem.
@@ -143723,6 +143731,138 @@ wskazówki pielęgnacyjne
 materiał
 PP</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790020-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>791562</kod>
+<nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% beż</nazwa>
+<cena>44.51</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5907501483859</EAN>
+<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
+<opis>Dostępne są dwa kolory dzianiny BARANEK: ecru oraz beż różowy. Struktura baranka jest niezwykle przyjemna i delikatna dla skóry maluszka, izoluje temperaturę i wygląda niezwykle efektowanie.
+Łączone jedynie z tkaninami z kolekcji MimiNu Design
+Każdy produkt wykonany jest ręcznie, z należytą starannością, by sprostać najbardziej wygórowanym wymaganiom Rodziców i ich pociech.
+Surowce użyte do produkcji tych artykułów posiadają odpowiednie certyfikaty, które zapewniają bezpieczeństwo użytkowania.
+Wybór wzoru ze wzornika.</opis>
+</b2b>
+<b2b>
+<kod>5914325</kod>
+<nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% błękit</nazwa>
+<cena>44.51</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5907501494824</EAN>
+<grupa>KIECZMERSKI- MIMINU</grupa>
+<opis>Kocyk dla dziecka z kolekcji MimiNu Soft
+
+Dzianinowy kocyk MimiNu, to niezastąpiony element wyprawki dla niemowlęcia. Otula Maluszka, zapewniając mu ciepło i bezpieczeństwo.
+
+Mięciutki kocyk wykonany z naturalnej bawełny 100% doskonale sprawdzi się do spania, podczas podróży, wycieczek, na plażę.
+
+Dodatkowe zalety:
+
+Mięciutka dzianina typu interlock jest niezwykle delikatna dla skóry dziecka
+Kocyk zapewnia doskonałą wentylację podczas snu
+Jest uszyty z 2 warstw bawełny 100% ( interlock ), dzięki temu jest leciutki i przewiewny. Idealny na sezon letni
+Jednolita, pastelowa kolorystyka doskonale wpasowuje się w nowoczesne trendy
+Wiek: od 0 do 6 lat.
+
+Wymiary kocyka:
+
+Długość całkowita 100 cm +/- 2 cm
+Szerokość 75 cm +/- 2 cm
+TOG 0.5, odpowiednia temperatura w pomieszczeniu od 21 do 27 stopni C.
+
+OSTRZEŻENIE:
+
+Trzymać opakowanie z tworzywa sztucznego z daleka od dziecka, aby uniknąć uduszenia. Trzymać z daleka od ognia.
+
+Przepis prania i konserwacji: prać w temperaturze 30 stopni C, można prasować w niskiej temperaturze, wirowanie maksymalnie 800 obrotów, nie wybielać, nie namaczać, można czyścic chemicznie, nie suszyć w suszarce bębnowej, suszyć w pozycji rozłożonej.
+Polski produkt antyalergiczny</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914325-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914326</kod>
+<nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% mokka</nazwa>
+<cena>44.51</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5907378105779</EAN>
+<grupa>KIECZMERSKI- MIMINU</grupa>
+<opis>Kocyk dla dziecka z kolekcji MimiNu Soft
+
+Dzianinowy kocyk MimiNu, to niezastąpiony element wyprawki dla niemowlęcia. Otula Maluszka, zapewniając mu ciepło i bezpieczeństwo.
+
+Mięciutki kocyk wykonany z naturalnej bawełny 100% doskonale sprawdzi się do spania, podczas podróży, wycieczek, na plażę.
+
+Dodatkowe zalety:
+
+Mięciutka dzianina typu interlock jest niezwykle delikatna dla skóry dziecka
+Kocyk zapewnia doskonałą wentylację podczas snu
+Jest uszyty z 2 warstw bawełny 100% ( interlock ), dzięki temu jest leciutki i przewiewny. Idealny na sezon letni
+Jednolita, pastelowa kolorystyka doskonale wpasowuje się w nowoczesne trendy
+Wiek: od 0 do 6 lat.
+
+Wymiary kocyka:
+
+Długość całkowita 100 cm +/- 2 cm
+Szerokość 75 cm +/- 2 cm
+TOG 0.5, odpowiednia temperatura w pomieszczeniu od 21 do 27 stopni C.
+
+OSTRZEŻENIE:
+
+Trzymać opakowanie z tworzywa sztucznego z daleka od dziecka, aby uniknąć uduszenia. Trzymać z daleka od ognia.
+
+Przepis prania i konserwacji: prać w temperaturze 30 stopni C, można prasować w niskiej temperaturze, wirowanie maksymalnie 800 obrotów, nie wybielać, nie namaczać, można czyścic chemicznie, nie suszyć w suszarce bębnowej, suszyć w pozycji rozłożonej.
+Polski produkt antyalergiczny</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914326-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>791310</kod>
+<nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% pudrowy róż</nazwa>
+<cena>44.51</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5907501483866</EAN>
+<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914327</kod>
+<nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% śmietanka</nazwa>
+<cena>44.51</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5907501488786</EAN>
+<grupa>KIECZMERSKI- MIMINU</grupa>
+<opis>Kocyk dla dziecka z kolekcji MimiNu Soft
+
+Dzianinowy kocyk MimiNu, to niezastąpiony element wyprawki dla niemowlęcia. Otula Maluszka, zapewniając mu ciepło i bezpieczeństwo.
+
+Mięciutki kocyk wykonany z naturalnej bawełny 100% doskonale sprawdzi się do spania, podczas podróży, wycieczek, na plażę.
+
+Dodatkowe zalety:
+
+Mięciutka dzianina typu interlock jest niezwykle delikatna dla skóry dziecka
+Kocyk zapewnia doskonałą wentylację podczas snu
+Jest uszyty z 2 warstw bawełny 100% ( interlock ), dzięki temu jest leciutki i przewiewny. Idealny na sezon letni
+Jednolita, pastelowa kolorystyka doskonale wpasowuje się w nowoczesne trendy
+Wiek: od 0 do 6 lat.
+
+Wymiary kocyka:
+
+Długość całkowita 100 cm +/- 2 cm
+Szerokość 75 cm +/- 2 cm
+TOG 0.5, odpowiednia temperatura w pomieszczeniu od 21 do 27 stopni C.
+
+OSTRZEŻENIE:
+
+Trzymać opakowanie z tworzywa sztucznego z daleka od dziecka, aby uniknąć uduszenia. Trzymać z daleka od ognia.
+
+Przepis prania i konserwacji: prać w temperaturze 30 stopni C, można prasować w niskiej temperaturze, wirowanie maksymalnie 800 obrotów, nie wybielać, nie namaczać, można czyścic chemicznie, nie suszyć w suszarce bębnowej, suszyć w pozycji rozłożonej.
+Polski produkt antyalergiczny</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914327-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>773585</kod>
@@ -151063,7 +151203,7 @@ Waga: 6 kg</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 I-Size 76-150cm GREEN</nazwa>
 <cena>207.50</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533923151</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>Fotelik samochodowy COMFORT UP i-Size 76-150 cm Kinderkraft
@@ -163753,7 +163893,7 @@ Kod EAN: 5901912245877</opis>
 <nazwa>KLUPŚ Komoda PAULINE grafit-dąb</nazwa>
 <cena>546.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912245327</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Komoda PAULINE to przede wszystkim nowoczesność. Głębię grafitu przełamuje drewno sosnowe, które uzupełnia zestaw o ciepły akcent kolorystyczny.
@@ -165112,7 +165252,7 @@ Wysokość: 43 cm
 <nazwa>KLUPŚ Szafa 2-segmentowa KAROLINA biel-sosna</nazwa>
 <cena>580.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245662</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Szafa KAROLINA wyróżnia się detalami, które przykuwają uwagę. Delikatne, sosnowe uchwyty nadają szafie lekkości.
@@ -166743,7 +166883,7 @@ Podmiot Odpowiedzialny</opis>
 <nazwa>LANSINOH Szklana butelka do karmienia 160 ml + smoczek Natural/Wave</nazwa>
 <cena>41.61</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5060420233087</EAN>
 <grupa>LANSINOH</grupa>
 <opis>Wykonana z pełni przetwarzalnego, wysokiej jakości szkła borokrzemianowego,
@@ -179636,7 +179776,7 @@ Produktu nie należy umieszczać w nagrzanym piekarniku ani ogrzewać na kuchenc
 <nazwa>LOVI 35/368_gre Kubek treningowy Genius 150 ml pistachio</nazwa>
 <cena>24.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407173818</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
 <opis>Kubek treningowy LOVI Genius 150 ml Pistachio
@@ -180165,7 +180305,7 @@ miarka</opis>
 <nazwa>MAGIC MA-C110BA Kosz na zużyte pieluchy Magic Majestic czarny na 25 pieluch + worki</nazwa>
 <cena>102.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>0628123810001</EAN>
 <grupa>MARKO</grupa>
 <opis>Kosz na zużyte pieluchy
@@ -181012,7 +181152,7 @@ dopuszczalny wiek: 0-6 miesięcy dopuszczalny ciężar: max. 8 kg</opis>
 <nazwa>MALTEX Krzesełko do kąpieli Konik /wkładka stalowy szary</nazwa>
 <cena>45.26</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5903067015848</EAN>
 <grupa>MALTEX/KRZESEŁKA DO KAPIELI</grupa>
 <opis/>
@@ -181068,7 +181208,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Krzesełko do kąpieli Słonik /wkładka brzoskwiniowy róż</nazwa>
 <cena>45.26</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067015831</EAN>
 <grupa>MALTEX/KRZESEŁKA DO KAPIELI</grupa>
 <opis/>
@@ -181090,7 +181230,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Krzesełko do kąpieli Smerfy/zabawki, różowy/biały</nazwa>
 <cena>52.09</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067006525</EAN>
 <grupa>MALTEX/KRZESEŁKA DO KAPIELI</grupa>
 <opis/>
@@ -181134,7 +181274,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miękka nakładka Konik stalowy szary</nazwa>
 <cena>27.92</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067017477</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -181145,7 +181285,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miękka nakładka Lama szałwiowa zieleń</nazwa>
 <cena>27.92</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067017354</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -181178,7 +181318,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miękka nakładka sedesowa Zebra /szary</nazwa>
 <cena>32.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067009090</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis>Design, który cieszy oko malucha. Dzięki zastosowaniu elastomera produkt posiada gładkie krawędzie i właścowości antypoślizgowe.Anatomiczny kształt, wygodne oparcie, wysoka osłona antyrozpryskowa, miękkie i komfortowe siedzisko. Produkt łatwy do utrzymania w czystości. Prosty demontaż siedziska pozwala na utrzymanie właściwej higieny.Rozmiar i forma nakładki jest odpowiednia dla 99% desek sedesowych dostępnych na rynku.</opis>
@@ -181310,7 +181450,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Nakładka 2K Konik stalowy szary</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067017132</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -181343,7 +181483,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Nakładka 2K Misiu Leśna Ferajna szary</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067007478</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -181545,7 +181685,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Nocnik 2K Konik stalowy szary</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067017095</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -181567,7 +181707,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Nocnik 2K Lisek Leśna Ferajna beżowy</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067007492</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -181659,7 +181799,7 @@ dopuszczalny wiek: 18 miesięcy + dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Nocnik 2K z pozytywką Lama szałwiowa zieleń</nazwa>
 <cena>20.82</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067018023</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis>Nocnik z gumkami antypoślizgowymi od mBaby zaprojektowano z myślą o dziewczynkach i chłopcach, uwzględniono anatomię obu płci i zastosowano odpowiednio wysokie zabezpieczenie przed wydostaniem się nieczystości na zewnątrz. Niepowtarzalny nocnik z wysokim i wygodnym oparciem o anatomicznym kształcie zapewni każdemu dziecku pełen komfort i bezpieczeństwo. Na brzegach zastosowano gumki antypoślizgowe by zwiększyć przyczepności produktu do podłoża. Produkt z kolekcji Minimal dostępny jest w 4 kolorach z 4 wielobarwnymi autorskimi postaciami. Produkt z grafiką w nadruku technologią IML.</opis>
@@ -181681,7 +181821,7 @@ dopuszczalny wiek: 18 miesięcy + dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Nocnik 2K z pozytywką Wieloryb satynowy błękit</nazwa>
 <cena>20.82</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067018016</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -181960,9 +182100,9 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <b2b>
 <kod>5910372</kod>
 <nazwa>MALTEX Podnóżek 2K Lisek Leśna Ferajna beżowy</nazwa>
-<cena>19.29</cena>
+<cena>17.81</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067007737</EAN>
 <grupa>MALTEX/PODNÓŻKI</grupa>
 <opis/>
@@ -182667,7 +182807,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100 Konik stalowy szary</nazwa>
 <cena>24.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067015930</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis/>
@@ -182689,7 +182829,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm Lama szałwiowa zieleń</nazwa>
 <cena>24.56</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067015916</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis/>
@@ -182711,7 +182851,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm Misiu Leśna Ferajna szary</nazwa>
 <cena>24.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067007676</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis/>
@@ -182744,7 +182884,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm z korkiem i matą Zebra  niebieska</nazwa>
 <cena>27.14</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009694</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 100 cm z najnowszej kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt.
@@ -182768,7 +182908,7 @@ Wymiary dł/szer/wys: 100 cm/ 51 cm/ 30 cm</opis>
 <nazwa>MALTEX Wanna 100cm z korkiem i matą Zebra biała</nazwa>
 <cena>27.14</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009717</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 100 cm z najnowszej kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt.
@@ -182828,7 +182968,7 @@ Wymiary dł/szer/wys: 100 cm/ 51 cm/ 30 cm</opis>
 <nazwa>MALTEX Wanna 100cm Zebra szara</nazwa>
 <cena>24.55</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009670</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 100 cm z najnowszej kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt. Wanienka dodatkowo wyposażona jest w 2 miejsca na akcesoria kąpielowe.
@@ -182981,7 +183121,7 @@ dopuszczalny wiek: 0-36 miesięcy dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Wanna 84cm Zebra  niebieski</nazwa>
 <cena>21.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009755</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 84 cm z kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt. Wanienka dodatkowo wyposażona jest w 2 miejsca na akcesoria kąpielowe.
@@ -183005,7 +183145,7 @@ Wymiary dł/szer/wys: 84 cm/ 48 cm/ 28 cm</opis>
 <nazwa>MALTEX Wanna 84cm Zebra biała</nazwa>
 <cena>21.95</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009779</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 84 cm z kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt. Wanienka dodatkowo wyposażona jest w 2 miejsca na akcesoria kąpielowe.
@@ -183029,7 +183169,7 @@ Wymiary dł/szer/wys: 84 cm/ 48 cm/ 28 cm</opis>
 <nazwa>MALTEX Wieszak dziecięcy (kpl 8szt.), biały</nazwa>
 <cena>8.05</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009076</EAN>
 <grupa>MALTEX</grupa>
 <opis/>
@@ -183051,7 +183191,7 @@ Wymiary dł/szer/wys: 84 cm/ 48 cm/ 28 cm</opis>
 <nazwa>MALTEX Wieszak dziecięcy (kpl 8szt.), różowy</nazwa>
 <cena>8.05</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903067009069</EAN>
 <grupa>MALTEX</grupa>
 <opis/>
@@ -184521,7 +184661,7 @@ Globalne badanie śladu węglowego produktu, Austria 2017, przeprowadzone przez 
 <nazwa>MAM 851070 Butelka antykolkowa Perfect Start Planet Love 130ml boy</nazwa>
 <cena>35.55</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9001616851070</EAN>
 <grupa>MAM/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>Butelka antykolkowa MAM Perfect StartTM Anti-Colic -  pogotowie w walce z kolką! Innowacyjny opatentowany system antykolkowy firmy MAM, z zaworem umieszczonym w dnie butelki, zapobiega tworzeniu się pęcherzyków powietrza i powstrzymuje spienianie płynu, powoduje to równomierny przepływ podczas picia i chroni niemowlę przed połykaniem powietrza.Szczegóły produktu:80% mniej kolek - mamy używające butelek MAM Anti-Colic oraz badania kliniczne potwierdzają redukcję kolek oraz większy spokój dziecka podczas karmienia.94% akceptacji smoczka dzięki zastosowaniu opatentowanego przez MAM delikatnego Jedwabistego silikonu.Szybka i prosta samosterylizacja w kuchence mikrofalowej - zajmuje tylko 3 minuty. Pomaga rodzicom zaoszczędzić cenny czas.Łatwy montaż - możliwość rozkręcenia wszystkich części butelki ułatwia jej mycie i przechowywanie. Ponowne złożenie butelki jest niezwykle łatwe.?Łatwa do napełniania dzięki szerokiej szyjce?Osłonka – zabezpiecza przed rozlaniem oraz służy jako miarka ?Opracowana z ekspertami medycznymi?Idealna do łączenia z karmieniem piersią?Przyjaźniejsza dla środowiska - wykonana z materiałów bio-cyrkularnych?Wykonana z materiałów wolnych od BPA i BPS?Łatwa i szybka samosterylizacja ?Wyprodukowana w Europie1Badanie rynku 2009–2022, przeprowadzone z udziałem 1643 dzieci.</opis>
@@ -187407,7 +187547,7 @@ wymiary (cm): szer. 16.5 x wys. 23 x dł/gł. 0.5</opis>
 <nazwa>MARKO SRPP-002 Dekoracja ścienna mała PSI PATROL MARSHAL</nazwa>
 <cena>5.15</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901885736617</EAN>
 <grupa>DEKORACJE</grupa>
 <opis>Piękne, kolorowe dekoracje z wizerunkami głównych bohaterów bajki Psi Patrol, dzięki którym pokój dziecka stanie się przytulny i wyjątkowy, a dziecko chętnie będzie spędzało w nim czas.
@@ -188381,7 +188521,7 @@ Mary's Lampka Nocna LED Mango to doskonały wybór dla każdego, kto pragnie po�
 <b2b>
 <kod>5911964</kod>
 <nazwa>MARY'S MW61048 Lampka nocna led Płomyczek zielony</nazwa>
-<cena>32.48</cena>
+<cena>31.68</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5906555610488</EAN>
@@ -188422,7 +188562,7 @@ Doskonała do pokoju dziecięcego, gdzie bezpieczeństwo jest priorytetem.</opis
 <b2b>
 <kod>5911963</kod>
 <nazwa>MARY'S MW61049 Lampka nocna led Płomyczek żółty</nazwa>
-<cena>32.46</cena>
+<cena>31.67</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5906555610495</EAN>
@@ -188543,7 +188683,7 @@ Mary's Lampka Nocna Helikopter Różowy to doskonałe połączenie funkcjonalno�
 <b2b>
 <kod>5911196</kod>
 <nazwa>MARY'S MW61057 Budzik Robo Dino różowy</nazwa>
-<cena>45.23</cena>
+<cena>44.12</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5906555610570</EAN>
@@ -188871,7 +189011,7 @@ Lampka Mikołaj RGB to nie tylko świąteczny dodatek, ale także praktyczny ele
 <b2b>
 <kod>5911968</kod>
 <nazwa>MARY'S MW61256 Lampka nocna led Bakłażan fioletowy</nazwa>
-<cena>35.15</cena>
+<cena>34.29</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5906555612567</EAN>
@@ -234345,7 +234485,7 @@ Ilość w kartonie zbiorczym: 3 szt.
 <nazwa>MILLY MALLY Koń Lucky Pink</nazwa>
 <cena>118.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761128826</EAN>
 <grupa>MILLY MALLY/KONIKI NA BIEGUNACH</grupa>
 <opis>Wyjątkowy konik na biegunach Lucky 12 od marki Milly Mally. Stworzony, aby sprostać wymaganiom każdego fana konnych wypraw. Wszystkie dzieci uwielbiają bujanie na koniku… przypomina im to kołysanie w ramionach mamy.  Nasza zabawka jest wykonana z drewna, które obecnie jest poszukiwanym materiałem ze względu na swój ekologiczny charakter oraz nieprzemijający wygląd.                                                                                                                                                                     
@@ -236469,7 +236609,7 @@ waga 3,5 kg</opis>
 <nazwa>MILLY MALLY Pojazd 2w1 Look/Cool Unicorn</nazwa>
 <cena>155.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761125573</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Rowerek LOOK jest idealnym rozwiązaniem dla maluszków, które dopiero rozpoczynają naukę jazdy na rowerku i jeszcze nie potrafią utrzymać równowagi na dwóch kółkach, ale chcą już samodzielnie się przemieszczać. Szerokie rozstawienie kółek zapewni niezwykłą stabilność, bezpieczeństwo i komfort jazdy zarówno w domu jak i na zewnątrz, np. w ogrodzie, a lekka i jednocześnie wytrzymała konstrukcja, sprawdzi się w każdych warunkach. Natomiast piankowe koła zapewniają komfort toczenia i nie męczą naszego kierowcy.
@@ -240539,7 +240679,7 @@ Gwarancja: 1 rok
 <nazwa>MILLY MALLY Rowerek 4w1 OPTIMUS Plus grey</nazwa>
 <cena>124.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761128543</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Optimus Plus został zaprojektowany, aby stać się jednym z najlepszych wyborów na pierwszy pojazd twojego dziecka. Dzięki stabilnej trójkołowej konstrukcji zapewnia dziecku odpowiedni poziom bezpieczeństwa i ułatwia zdobywanie nowych umiejętności. Kiedy dziecko ma już opanowane podstawy jazdy i nie wymaga pomocy rodzica poprzez sterowanie rączką do prowadzenia, możemy dodać pedały lub zmienić go w klasyczny rowerek biegowy.
@@ -242485,7 +242625,7 @@ Waga brutto: 0,6 kg
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Koala</nazwa>
 <cena>61.84</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761128888</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Nasz pluszak to połączenie zabawki z projektorem. Projektory przedstawiają dobrze znane postacie zwierząt: mięciutkiego misia, liska, misia koalę, pandę, słonia, przytulaną owcę, jednorożca i uroczą żyrafę. Wspaniała zabawka, która przekształci pokój Twojego dziecka w rozgwieżdżone niebo z mnóstwem gwiazd. Maluszek może przy nich zasypiać słuchając wyciszających dźwięków.                                                                                                                                                 
@@ -247948,7 +248088,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5907267</kod>
-<nazwa>NOVITI RB001-G-07 Rajstopy bawełna gładkie pudrowy róż 56/62*</nazwa>
+<nazwa>NOVITI RB001-G-07 Rajstopy bawełna gładkie pudrowy róż 56/62</nazwa>
 <cena>7.63</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -247959,7 +248099,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5902942</kod>
-<nazwa>NOVITI RB001-G-07 Rajstopy bawełna gładkie pudrowy róż 68/74*</nazwa>
+<nazwa>NOVITI RB001-G-07 Rajstopy bawełna gładkie pudrowy róż 68/74</nazwa>
 <cena>7.63</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -247970,7 +248110,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5902943</kod>
-<nazwa>NOVITI RB001-G-07 Rajstopy bawełna gładkie pudrowy róż 80/86*</nazwa>
+<nazwa>NOVITI RB001-G-07 Rajstopy bawełna gładkie pudrowy róż 80/86</nazwa>
 <cena>7.63</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -248365,7 +248505,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5908012</kod>
-<nazwa>NOVITI RB009-G-01 Rajstopy bawełna żakard wzór prążki białe 104/110*</nazwa>
+<nazwa>NOVITI RB009-G-01 Rajstopy bawełna żakard wzór prążki białe 104/110</nazwa>
 <cena>9.66</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -249505,7 +249645,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5903443</kod>
-<nazwa>NOVITI RM006-G-01 Rajstopy komunijne białe w serca 104/110*</nazwa>
+<nazwa>NOVITI RM006-G-01 Rajstopy komunijne białe w serca 104/110</nazwa>
 <cena>6.09</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -249516,7 +249656,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5903446</kod>
-<nazwa>NOVITI RM006-G-01 Rajstopy komunijne białe w serca 140/146*</nazwa>
+<nazwa>NOVITI RM006-G-01 Rajstopy komunijne białe w serca 140/146</nazwa>
 <cena>5.28</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -249527,7 +249667,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5903447</kod>
-<nazwa>NOVITI RM006-G-01 Rajstopy komunijne białe w serca 152/158*</nazwa>
+<nazwa>NOVITI RM006-G-01 Rajstopy komunijne białe w serca 152/158</nazwa>
 <cena>5.28</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -249538,7 +249678,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5903441</kod>
-<nazwa>NOVITI RM006-G-02 Rajstopy komunijne białe w kwiatki 140/146*</nazwa>
+<nazwa>NOVITI RM006-G-02 Rajstopy komunijne białe w kwiatki 140/146</nazwa>
 <cena>6.09</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -249549,7 +249689,7 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5903442</kod>
-<nazwa>NOVITI RM006-G-02 Rajstopy komunijne białe w kwiatki 152/158*</nazwa>
+<nazwa>NOVITI RM006-G-02 Rajstopy komunijne białe w kwiatki 152/158</nazwa>
 <cena>5.28</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -250395,17 +250535,6 @@ opakowanie zbiorcze 6 par</opis>
 <EAN>5905204323526</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
-</b2b>
-<b2b>
-<kod>5907359</kod>
-<nazwa>NOVITI SB042-G-01 Skarpety podkolanówki dziecięce z kokardą 19/22</nazwa>
-<cena>5.46</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905204335758</EAN>
-<grupa>NOVITI/SKARPETKI</grupa>
-<opis>opakowanie zbiorcze 6szt.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907359-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5907282</kod>
@@ -265805,7 +265934,7 @@ Zasilanie:
 <nazwa>SMILY PLAY 0720 Dogonię cię Biedroneczko</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4895038543423</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Kolorowa biedronka Smily Play to wesoła zabawka dla dzieciaków w wieku powyżej 6 miesiąca życia. Biedroneczka ucieka, kiedy dziecko naciśnie na jej grzbiet – specjalny mechanizm wprawia ją w ruch. Grzechocze i wesoło gra.
@@ -271670,7 +271799,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA DK-091-130 Nocnik KACZKA j.różowy</nazwa>
 <cena>9.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963071576</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Nocnik z wysokiej jakości plastiku, całkowicie bezpiecznego dla dzieci.
@@ -272289,11 +272418,21 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/779248-1.png</zdjecia>
 </b2b>
 <b2b>
+<kod>5914716</kod>
+<nazwa>TEGA FB-004-106 Wanienka składana z odpływem szary</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5905489408925</EAN>
+<grupa>TEGA/WANNY</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5914538</kod>
 <nazwa>TEGA FB-004-119 Wanienka składana z odpływem beżowy</nazwa>
 <cena>42.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905489408949</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>Składana plastikowa wanienka dla dzieci Tega Baby to bardzo praktyczne rozwiązanie w codziennej pielęgnacji maluszka. Przemyślana konstrukcja umożliwia łatwe składanie, co docenią klienci ceniący ergonomię.
@@ -272323,7 +272462,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FB-004-129 Wanienka składana z odpływem j.niebieski</nazwa>
 <cena>42.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905489408932</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>Składana plastikowa wanienka dla dzieci Tega Baby to bardzo praktyczne rozwiązanie w codziennej pielęgnacji maluszka. Przemyślana konstrukcja umożliwia łatwe składanie, co docenią klienci ceniący ergonomię.
@@ -272353,7 +272492,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FB-004-130 Wanienka składana z odpływem j.różowy</nazwa>
 <cena>42.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905489408956</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>Składana plastikowa wanienka dla dzieci Tega Baby to bardzo praktyczne rozwiązanie w codziennej pielęgnacji maluszka. Przemyślana konstrukcja umożliwia łatwe składanie, co docenią klienci ceniący ergonomię.
@@ -273355,7 +273494,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-020-103 Nakładka sedesowa miękka KRÓLICZKI biały</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963008381</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>• Miękkie i wygodne siedzisko nakładki zapewnia komfort użytkowania.
@@ -274379,7 +274518,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-013-119 Nocnik antypoślizgowy MIŚ beżowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008893</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -277872,7 +278011,7 @@ Wymiary maty z pałąkami szer. 90 cm x wys. 65 cm x dł. 90 cm
 <nazwa>TINY LOVE TL12094068 Gimnastyka z pałąkiem i karuzelą 2w1 Jednorożec</nazwa>
 <cena>215.14</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108863529</EAN>
 <grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
 <opis>Mata edukacyjna z pałąkami - Kraina jednorożca to rewolucyjne i innowacyjne rozwiązanie w dziedzinie mat edukacyjnych dla dzieci.
@@ -279116,7 +279255,7 @@ Zabawa akordeonem rozwija zdolność kojarzenia dźwięków z ich odpowiednimi k
 <nazwa>TINY LOVE TL15070068 Muzyczna Konsola Rockers</nazwa>
 <cena>95.71</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>7290108863383</EAN>
 <grupa>TINY LOVE/POZOSTAŁE</grupa>
 <opis>Muzyczna konsola z kolekcji Tiny Rockers to niezwykle wciągająca zabawka, która pomaga rozwijać emocje, zmysły oraz zdolności poznawcze i komunikacyjne u dziecka.
@@ -283593,7 +283732,7 @@ instrukcja</opis>
 <nazwa>TREFL 02656 Gra 2w1 Lilo &amp; Stitch</nazwa>
 <cena>26.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511026566</EAN>
 <grupa>TREFL</grupa>
 <opis>Dwie klasyczne gry w jednym opakowaniu, a wszystko to w bajkowej oprawie, która zachwyci fanów bajki Lilo i Stitch.
@@ -285572,7 +285711,7 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <nazwa>TREFL 16523 Puzzle 100 Tajemnice Zootopii</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511165234</EAN>
 <grupa>TREFL</grupa>
 <opis>Tajemnice Zootopii to puzzle składające się z 100 elementów, zaprojektowane z myślą o małych fanach bajki Zootopia. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm.
@@ -292105,7 +292244,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30104 Zabawka sensoryczna żyrafa</nazwa>
 <cena>8.02</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692301044</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis>Kolorowa żyrafka zabawi maluszka zarówno w domowym zaciszu, jak i podczas podróży czy wycieczki. Niewielkich rozmiarów zabawka, posiada piszczałkę oraz grzechotkę wyposażoną w holograficzną ściankę, tworzącą ciekawy efekt wizualny. Miękkie różki żyrafki sprawdzą się świetnie w roli gryzaka. Kształt zabawki dostosowany jest do małych rączek, co ułatwi i umili najmłodszym korzystanie z niej.
@@ -292859,7 +292998,7 @@ Rozmiar: 5-15cm</opis>
 <nazwa>TULLO 012 Kaczuszki do kąpieli 4 szt.</nazwa>
 <cena>14.81</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905094770127</EAN>
 <grupa>TULLO</grupa>
 <opis>Niezwykle kolorowe gumowe kaczuszki sprawiają, że kąpiel staje się niezapomnianą przygodą. Wanna pełna zabawek to kolejna okazja do ciekawej zabawy. Nasze kaczuszki to piękne, ponadczasowe zabawki, które dzieci kochają od pokoleń.
@@ -297213,7 +297352,7 @@ dł: 166mm x wys: 166mm x szer: 150mm</opis>
 <nazwa>Viga 44008 PolarB Skrzynka z narzędziami</nazwa>
 <cena>32.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6971608440083</EAN>
 <grupa>VIGA</grupa>
 <opis>Viga 44008 Polar Bear Skrzynka z narzędziami
@@ -301407,7 +301546,7 @@ Waga: 0,52 kg</opis>
 <nazwa>Viga 44680 Drewniany traktor z przyczepką i zwierzętami</nazwa>
 <cena>35.58</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608446801</EAN>
 <grupa>VIGA</grupa>
 <opis>Zabawka marki VIGA Drewniany Traktor z przyczepką i zwierzętami powiększa się o kolejne nowości, które nie tylko zachwycają kolorami, ale i doskonale wzbogacą posiadane już zabawki o farmie i zwierzętach gospodarskich.
@@ -313978,7 +314117,7 @@ Interaktywna	Tak</opis>
 <nazwa>WOOPIE 54122 Układanka Sorter Montessori Dopasuj Kształty Wesołe Kurczaczki Jajka 6szt</nazwa>
 <cena>16.10</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280654122</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Białe jajka edukacyjne z kolorowymi naklejkami od marki Woopie wprowadzą Twoje dziecko w świat pełen kolorów, kształtów i zabawnych minek. Każde z sześciu uroczych jajeczek skrywa w środku kolorowego pisklaka z inną, śmieszną minką , po naciśnięciu na którego usłyszymy efekt dźwiękowy. Zadaniem malucha jest nie tylko dopasowanie odpowiedniej skorupki do jajka, ale przede wszystkim dopasowanie go do odpowiedniego miejsca w wytłaczance. Każde jajko ma na spodzie unikalny kształt geometryczny, który odpowiada jednemu otworowi w pudełku. Zabawne minki to świetny sposób, aby nauczyć dzieci rozpoznawania i nazywania emocji. Dzięki nim maluchy w łatwy i przyjemny sposób przyswajają, jak wyglądają i co oznaczają różne uczucia.To fantastyczny trening logicznego myślenia i koordynacji!
@@ -317919,7 +318058,7 @@ Waga:	7 kg</opis>
 <nazwa>WOOPIE 58274 ROYAL Wózek dla lalek Vintage Flower</nazwa>
 <cena>90.04</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280658274</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Wózek spacerówka dla lalek z kwiecistym wzorem od marki Woopie to idealna zabawka dla każdej dziewczynki, która uwielbia bawić się w dom i opiekować swoimi ulubionymi laleczkami lub pluszakami. Dzięki lekkiej, składanej konstrukcji jest łatwy do przenoszenia i świetnie sprawdzi się zarówno w domu, jak i podczas spacerów na świeżym powietrzu. Wygodne uchwyty dopasowane do dziecięcych dłoni oraz podwójne kółka zapewniają komfort jazdy. Stylowa tapicerka w kremowym kolorze z uroczym wzorem w kwiatki dodaje mu wyjątkowego charakteru. To wspaniała propozycja na prezent, który rozwija wyobraźnię, empatię i zdolności manualne dziecka.
@@ -318141,7 +318280,7 @@ Funkcje zabawki 8w1:
 <nazwa>WOOPIE BABY 51640 Kosmiczny Spinner Pop-it zabawka</nazwa>
 <cena>18.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Zestaw Kosmicznych Spinnerów od marki WOOPIE zrobi na dziecku duże wrażenie. W zestawie znajdują się 3 szt. spinnerów: Kosmita, rakieta kosmiczna i kosmonauta. Spinnery dziecko może zabrać i przyczepić wszędzie dzięki gumowym przyssawkom. Można przyczepić spinnera zarówno do szyby w czasie podróży oraz do wanny podczas kąpieli (zabawkę można moczyć). Łożyska spinnerów gwarantują długotrwały obrót. Odczepiane elementy pozwalają na łączenie ich w dowolny sposób. Zabawki posiadają gumowe elementy o różnej powierzchni co rozwinie zmysły dziecka oraz zadziała odstresowująco. Zabawa ćwiczy zwinność rączek oraz poprawia koordynację ręka-oko. Te zabawki mogą działać jako narzędzie do relaksacji i redukcji stresu, pomagając w osiągnięciu stanu spokoju i wyciszenia.
@@ -319146,7 +319285,33 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614250</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Chusta kółkowa Hug Me – bliskość bez wiązania
+
+Kolor: grey
+Materiał: bawełna
+
+Chusta Hug Me to idealne rozwiązanie dla rodziców, którzy chcą być blisko swojego dziecka od pierwszych dni życia, a jednocześnie cenią wygodę i prostotę użytkowania. Dzięki aluminiowym kółkom najwyższej jakości, chusta kółkowa nie wymaga wiązania – wystarczy ją przełożyć i dopasować. Model ten jest szczególnie ceniony przez aktywnych rodziców, w tym ojców, którzy chcą włączyć się w opiekę nad dzieckiem.
+
+Cechy:
+
+dla dzieci od narodzin do około 2 lat (od 3,5 kg do 13 kg)
+brak potrzeby wiązania – łatwe i szybkie dopasowanie dzięki aluminiowym kółkom
+o wymiarach 70x195 cm 
+opcje noszenia – na brzuchu, na boku 
+chusta idealnie podtrzymuje plecy dziecka nadając im kształt literki C (naturalna krzywizna kręgosłupa noworodka), a prawidłowe podwinięcie miednicy umożliwia ustawienie stawów biodrowych w pozycji wspierającej ich prawidłowy rozwój (nóżki powinny być rozstawione na szerokość ok. 60°-90° względem osi ciała, a kolanka nieco wyżej niż pupa (tzw. literka „M”)
+pionowa pozycja wspiera rozwój układu pokarmowego, ułatwia dziecku trawienie i pomaga przy zaparciach
+noszenie w chuście nie przeciąża kręgosłupa ani rąk rodzica
+dziecko w chuście wydaje się znacznie lżejsze
+złożona zajmuje niewiele miejsca - można ją zawsze mieć przy sobie
+zapakowana w pudełko z praktyczną instrukcją 
+spełnia Europejskie Standardy Bezpieczeństwa
+Skład:
+Wysokogatunkowa 100% bawełna; splot jodełkowy o gramaturze 250 g/m2
+
+Przepis prania:
+Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, prasować maksymalnie w temp 150°C, nie czyścić chemicznie. Podczas prania chusty nie używać płynów do zmiękczania tkanin, wybielaczy czy innych detergentów zawierających wybielacze.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914709-1.jpg https://marini.pl/b2b/pictures/5914709-2.jpg https://marini.pl/b2b/pictures/5914709-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914705</kod>
@@ -319156,17 +319321,66 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614212</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Chusta kółkowa Hug Me – bliskość bez wiązania
+
+Kolor: latte
+Materiał: bawełna
+
+Chusta Hug Me to idealne rozwiązanie dla rodziców, którzy chcą być blisko swojego dziecka od pierwszych dni życia, a jednocześnie cenią wygodę i prostotę użytkowania. Dzięki aluminiowym kółkom najwyższej jakości, chusta kółkowa nie wymaga wiązania – wystarczy ją przełożyć i dopasować. Model ten jest szczególnie ceniony przez aktywnych rodziców, w tym ojców, którzy chcą włączyć się w opiekę nad dzieckiem.
+
+Cechy:
+
+dla dzieci od narodzin do około 2 lat (od 3,5 kg do 13 kg)
+brak potrzeby wiązania – łatwe i szybkie dopasowanie dzięki aluminiowym kółkom
+o wymiarach 70x195 cm 
+opcje noszenia – na brzuchu, na boku 
+chusta idealnie podtrzymuje plecy dziecka nadając im kształt literki C (naturalna krzywizna kręgosłupa noworodka), a prawidłowe podwinięcie miednicy umożliwia ustawienie stawów biodrowych w pozycji wspierającej ich prawidłowy rozwój (nóżki powinny być rozstawione na szerokość ok. 60°-90° względem osi ciała, a kolanka nieco wyżej niż pupa (tzw. literka „M”)
+pionowa pozycja wspiera rozwój układu pokarmowego, ułatwia dziecku trawienie i pomaga przy zaparciach
+noszenie w chuście nie przeciąża kręgosłupa ani rąk rodzica
+dziecko w chuście wydaje się znacznie lżejsze
+złożona zajmuje niewiele miejsca - można ją zawsze mieć przy sobie
+zapakowana w pudełko z praktyczną instrukcją 
+spełnia Europejskie Standardy Bezpieczeństwa
+Skład:
+Wysokogatunkowa 100% bawełna; splot jodełkowy o gramaturze 250 g/m2
+
+Przepis prania:
+Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, prasować maksymalnie w temp 150°C, nie czyścić chemicznie. Podczas prania chusty nie używać płynów do zmiękczania tkanin, wybielaczy czy innych detergentów zawierających wybielacze.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914705-1.jpg https://marini.pl/b2b/pictures/5914705-2.jpg https://marini.pl/b2b/pictures/5914705-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914712</kod>
-<nazwa>ZAFFIRO Chusta wiązana BeClose Roma 460 anthrac</nazwa>
+<nazwa>ZAFFIRO Chusta wiązana BeClose Roma 460 anthracyt</nazwa>
 <cena>0.00</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
 <EAN>5902745614281</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Chusta wiązana Be Close – bezpieczna i stylowa
+
+Kolor:anthracite
+Materiał: bawełna
+
+Chusta Be Close to uniwersalna chusta wiązana do noszenia dzieci od urodzenia do około 2. roku życia (3,5–13 kg). Uszyta z oddychającej, antyalergicznej bawełny i tkana splotem skośno-krzyżowym, zapewnia doskonałe podparcie dla dziecka oraz komfort noszenia dla rodzica. Dzięki długości 460 cm i oznaczonemu środkowi, jest łatwa w wiązaniu i dopasowaniu do każdej sylwetki.
+
+Cechy:
+
+dla dzieci od momentu narodzin do około 2 lat 
+możliwość noszenia: na brzuchu, na boku, na plecach - nie zaleca się noszenia na plecach dzieci poniżej 12. miesiąca życia lub do momentu, gdy będą miały na tyle mocne mięśnie, aby móc samodzielnie utrzymywać pozycję siedzącą
+wymiary 70x460 cm 
+wykonana ze 100% przewiewnej i antyalergicznej bawełny 
+podczas noszenia chusta podtrzymuje plecy dziecka nadając im kształt literki C (naturalna krzywizna kręgosłupa noworodka), a prawidłowe podwinięcie miednicy umożliwia ustawienie stawów biodrowych w pozycji wspierającej ich prawidłowy rozwój (nóżki powinny być rozstawione na szerokość ok. 60°-90° względem osi ciała, a kolanka nieco wyżej niż pupa (tzw. literka „M”)
+dziecko w chuście wydaje się znacznie lżejsze (dzięki równomiernemu rozłożeniu ciężaru)
+noszenie w chuście nie przeciąża kręgosłupa ani rąk dorosłego - chusta przejmuje ciężar dziecka
+złożona chusta zajmuje niewiele miejsca 
+zapakowana w pudełko z instrukcją obsługi 
+spełnia Europejskie Standardy Bezpieczeństwa
+Skład:
+Wysokogatunkowa 100% bawełna; splot jodełkowy o gramaturze 250 g/m2
+
+Przepis prania:
+Zaleca się prać delikatnie w 40°C, nie wybielać, nie suszyć w suszarce bębnowej, prasować maksymalnie w temp 150°C, nie czyścić chemicznie. Podczas prania chusty nie używać płynów do zmiękczania tkanin, wybielaczy czy innych detergentów zawierających wybielacze.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914712-1.jpg https://marini.pl/b2b/pictures/5914712-2.jpg https://marini.pl/b2b/pictures/5914712-3.jpg https://marini.pl/b2b/pictures/5914712-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914700</kod>
@@ -319186,7 +319400,31 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614243</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Chusta wiązana BeClose – bezpieczna i stylowa
+
+Kolor: grey
+Materiał: bawełna
+
+Chusta Be Close to uniwersalna chusta wiązana do noszenia dzieci od urodzenia do około 2. roku życia (3,5–13 kg). Uszyta z oddychającej, antyalergicznej bawełny i tkana splotem skośno-krzyżowym, zapewnia doskonałe podparcie dla dziecka oraz komfort noszenia dla rodzica. Dzięki długości 460 cm i oznaczonemu środkowi, jest łatwa w wiązaniu i dopasowaniu do każdej sylwetki.
+
+Cechy:
+
+dla dzieci od momentu narodzin do około 2 lat 
+możliwość noszenia: na brzuchu, na boku, na plecach - nie zaleca się noszenia na plecach dzieci poniżej 12. miesiąca życia lub do momentu, gdy będą miały na tyle mocne mięśnie, aby móc samodzielnie utrzymywać pozycję siedzącą
+wymiary 70x460 cm 
+wykonana ze 100% przewiewnej i antyalergicznej bawełny 
+podczas noszenia chusta podtrzymuje plecy dziecka nadając im kształt literki C (naturalna krzywizna kręgosłupa noworodka), a prawidłowe podwinięcie miednicy umożliwia ustawienie stawów biodrowych w pozycji wspierającej ich prawidłowy rozwój (nóżki powinny być rozstawione na szerokość ok. 60°-90° względem osi ciała, a kolanka nieco wyżej niż pupa (tzw. literka „M”)
+dziecko w chuście wydaje się znacznie lżejsze (dzięki równomiernemu rozłożeniu ciężaru)
+noszenie w chuście nie przeciąża kręgosłupa ani rąk dorosłego - chusta przejmuje ciężar dziecka
+złożona chusta zajmuje niewiele miejsca 
+zapakowana w pudełko z instrukcją obsługi 
+spełnia Europejskie Standardy Bezpieczeństwa  
+Skład:
+Wysokogatunkowa 100% bawełna; splot jodełkowy o gramaturze 250 g/m2
+
+Przepis prania:
+Zaleca się prać delikatnie w 40°C, nie wybielać, nie suszyć w suszarce bębnowej, prasować maksymalnie w temp 150°C, nie czyścić chemicznie. Podczas prania chusty nie używać płynów do zmiękczania tkanin, wybielaczy czy innych detergentów zawierających wybielacze.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914708-1.jpg https://marini.pl/b2b/pictures/5914708-2.jpg https://marini.pl/b2b/pictures/5914708-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914704</kod>
@@ -319196,7 +319434,33 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614205</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Chusta wiązana Be Close – bezpieczna i stylowa
+
+Kolor: latte
+Materiał: bawełna
+
+Chusta Be Close to uniwersalna chusta wiązana do noszenia dzieci od urodzenia do około 2. roku życia (3,5–13 kg). Uszyta z oddychającej, antyalergicznej bawełny i tkana splotem jodełkowym, zapewnia doskonałe podparcie dla dziecka oraz komfort noszenia dla rodzica. Dzięki długości 460 cm i oznaczonemu środkowi, jest łatwa w wiązaniu i dopasowaniu do każdej sylwetki.
+
+Cechy:
+
+dla dzieci od momentu narodzin do około 2 lat 
+możliwość noszenia: na brzuchu, na boku, na plecach - nie zaleca się noszenia na plecach dzieci poniżej 12. miesiąca życia lub do momentu, gdy będą miały na tyle mocne mięśnie, aby móc samodzielnie utrzymywać pozycję siedzącą
+wymiary 70x460 cm 
+wykonana ze 100% przewiewnej i antyalergicznej bawełny 
+podczas noszenia chusta podtrzymuje plecy dziecka nadając im kształt literki C (naturalna krzywizna kręgosłupa noworodka), a prawidłowe podwinięcie miednicy umożliwia ustawienie stawów biodrowych w pozycji wspierającej ich prawidłowy rozwój (nóżki powinny być rozstawione na szerokość ok. 60°-90° względem osi ciała, a kolanka nieco wyżej niż pupa (tzw. literka „M”)
+dziecko w chuście wydaje się znacznie lżejsze (dzięki równomiernemu rozłożeniu ciężaru)
+noszenie w chuście nie przeciąża kręgosłupa ani rąk dorosłego - chusta przejmuje ciężar dziecka
+złożona chusta zajmuje niewiele miejsca 
+zapakowana w pudełko z instrukcją obsługi 
+spełnia Europejskie Standardy Bezpieczeństwa
+Skład:
+Wysokogatunkowa 100% bawełna; splot jodełkowy o gramaturze 250 g/m2
+
+
+Przepis prania:
+Zaleca się prać delikatnie w 40°C, nie wybielać, nie suszyć w suszarce bębnowej, prasować maksymalnie w temp 150°C, nie czyścić chemicznie. Podczas prania chusty nie używać płynów do zmiękczania tkanin, wybielaczy czy innych detergentów zawierających wybielacze.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914704-1.jpg https://marini.pl/b2b/pictures/5914704-2.jpg https://marini.pl/b2b/pictures/5914704-3.jpg https://marini.pl/b2b/pictures/5914704-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914710</kod>
@@ -319206,7 +319470,40 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614267</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Nosidełko ergonomiczne BabyFlow
+
+Kolor: anthracite
+Materiał: bawełna
+
+Nasze nosidło ergonomiczne BabyFlow to idealny wybór dla rodziców świadomych znaczenia, jakie dla rozwoju dziecka ma bliskość oraz dotyk. 
+Nosidełko Babyflow daje możliwość pogłębiania tej najpiękniejszej więzi między rodzicem, a dzieckiem. 
+Zaprojektowane z dbałością o każdy, najmniejszy detal, zapewnia maluchowi bezpieczeństwo i utrzymanie anatomicznie prawidłowej pozycji, a rodzicowi daje komfort i swobodę ruchów.
+
+Cechy:
+
+przeznaczone dla niemowląt i dzieci powyżej 4 miesiąca życia do lat 3 (od 6 kg do 15 kg), przed użyciem produktu dla dziecka urodzonego przedwcześnie, z niską masą urodzeniową lub z chorobami, należy skontaktować się z lekarzem
+jest małe i lekkie, dzięki czemu nosidło można mieć zawsze przy sobie
+dwie opcje noszenia: na brzuchu, na plecach (nie zaleca się noszenia na plecach dzieci poniżej 12. miesiąca życia lub do momentu, gdy będą miały na tyle mocne mięśnie, aby móc samodzielnie utrzymywać pozycję siedzącą)
+lekko wyprofilowane, wygodne i miękkie pasy naramienne, które można zakładać na dwa sposoby - prosto i na krzyż
+antyalergiczna, miła w dotyku wysokogatunkowa 100% bawełna o splocie jodełkowym
+gumki na końcach szelek, które umożliwiają zwinięcie nadmiernej ilości taśmy
+szeroki pas biodrowy o długości od 65 cm do 140 cm zapewnia równomierne rozłożenie ciężaru, dzięki czemu dziecko wydaje się lżejsze
+wysokiej jakości solidna klamra zastosowana w pasie biodrowym, która zamyka się i otwiera jednym ruchem 
+ergonomiczny panel podtrzymuje plecy dziecka umożliwiając ułożenie ich w anatomicznej pozycji, a nóżki utrzymuje w pozycji "M" (żabki), co wpływa na prawidłowe kształtowanie się stawów biodrowych
+miękkie wypełnienie w okolicy nóżek dziecka
+przydatna kieszonka na drobiazgi na pasie biodrowym
+łatwe i intuicyjne w obsłudze - bez niczyjej pomocy wkładasz i wyjmujesz malucha z nosidła
+• do każdego nosidełka dołączona jest instrukcja obsługi
+• zaprojektowane we współpracy z lekarzami, fizjoterapeutami i doradcami noszenia
+Skład:
+Tkanina zewnętrzna - antyalergiczna, miła w dotyku wysokogatunkowa 100% bawełna
+wypełnienie - 100% poliuretan, 100% poliester
+
+Przepis prania:
+
+Zaleca się prać ręcznie, nie chlorować, nie wirować, nie czyścić chemicznie, prasowanie maks. 110°C
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914710-1.jpg https://marini.pl/b2b/pictures/5914710-2.jpg https://marini.pl/b2b/pictures/5914710-3.jpg https://marini.pl/b2b/pictures/5914710-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914698</kod>
@@ -319226,7 +319523,38 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614229</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Nosidełko ergonomiczne BabyFlow
+
+Kolor: grey
+Materiał: bawełna
+
+Nasze nosidło ergonomiczne BabyFlow to idealny wybór dla rodziców świadomych znaczenia, jakie dla rozwoju dziecka ma bliskość oraz dotyk. 
+Nosidełko Babyflow daje możliwość pogłębiania tej najpiękniejszej więzi między rodzicem, a dzieckiem. 
+Zaprojektowane z dbałością o każdy, najmniejszy detal, zapewnia maluchowi bezpieczeństwo i utrzymanie anatomicznie prawidłowej pozycji, a rodzicowi daje komfort i swobodę ruchów.
+
+Cechy:
+
+przeznaczone dla niemowląt i dzieci powyżej 4 miesiąca życia do lat 3 (od 6 kg do 15 kg), przed użyciem produktu dla dziecka urodzonego przedwcześnie, z niską masą urodzeniową lub z chorobami, należy skontaktować się z lekarzem
+jest małe i lekkie, dzięki czemu nosidło można mieć zawsze przy sobie
+dwie opcje noszenia: na brzuchu, na plecach (nie zaleca się noszenia na plecach dzieci poniżej 12. miesiąca życia lub do momentu, gdy będą miały na tyle mocne mięśnie, aby móc samodzielnie utrzymywać pozycję siedzącą)
+lekko wyprofilowane, wygodne i miękkie pasy naramienne, które można zakładać na dwa sposoby - prosto i na krzyż
+antyalergiczna, miła w dotyku wysokogatunkowa 100% bawełna o splocie jodełkowym
+gumki na końcach szelek, które umożliwiają zwinięcie nadmiernej ilości taśmy
+szeroki pas biodrowy o długości od 65 cm do 140 cm zapewnia równomierne rozłożenie ciężaru, dzięki czemu dziecko wydaje się lżejsze
+wysokiej jakości solidna klamra zastosowana w pasie biodrowym, która zamyka się i otwiera jednym ruchem 
+ergonomiczny panel podtrzymuje plecy dziecka umożliwiając ułożenie ich w anatomicznej pozycji, a nóżki utrzymuje w pozycji "M" (żabki), co wpływa na prawidłowe kształtowanie się stawów biodrowych
+miękkie wypełnienie w okolicy nóżek dziecka
+przydatna kieszonka na drobiazgi na pasie biodrowym
+łatwe i intuicyjne w obsłudze - bez niczyjej pomocy wkładasz i wyjmujesz malucha z nosidła
+do każdego nosidełka dołączona jest instrukcja obsługi
+zaprojektowane we współpracy z lekarzami, fizjoterapeutami i doradcami noszenia
+Skład:
+Tkanina zewnętrzna - antyalergiczna, miła w dotyku wysokogatunkowa 100% bawełna
+wypełnienie - 100% poliuretan, 100% poliester
+
+Przepis prania:
+Zaleca się prać ręcznie, nie chlorować, nie wirować, nie czyścić chemicznie, prasowanie maks. 110°C</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914706-1.jpg https://marini.pl/b2b/pictures/5914706-2.jpg https://marini.pl/b2b/pictures/5914706-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914702</kod>
@@ -319256,7 +319584,33 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614274</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Nosidełko ergonomiczne BabyGrow
+
+Kolor: anthracite
+Materiał: bawełna
+
+Nosidło BabyGrow to komfort i bezpieczeństwo dla Twojego dziecka. 
+Nosidło rośnie razem z dzieckiem, dzięki możliwości dostosowania wysokości i szerokości panelu.
+Zaprojektowane z najwyższą starannością – gwarantując Twojemu maluszkowi bezpieczeństwo oraz anatomicznie prawidłową pozycję, a rodzicowi komfort i pełną swobodę ruchów.
+
+Cechy:
+
+nosidło rośnie razem z dzieckiem dzięki regulowanemu panelowi
+wygodne i miękkie wyprofilowane pasy naramienne odciążają kręgosłup rodzica oraz zwiększają komfort noszenia
+łatwe i intuicyjne w obsłudze - bez niczyjej pomocy wkładasz i wyjmujesz malucha z nosidła
+opcje noszenia: na brzuchu, na plecach
+szeroki regulowany pas biodrowy zapewnia równomierne rozłożenie ciężaru dzięki czemu dziecko wydaje się lżejsze
+praktyczna kieszeń na drobne przedmioty na całej szerokości pasa biodrowego
+dla niemowląt i dzieci powyżej 4 miesiąca życia do lat 3 (od 6 kg do 18 kg)
+wyprodukowane w Polsce
+wykonane z bezpiecznych certyfikowanych tkanin
+Skład:
+• tkanina zewnętrzna: antyalergiczna, miła w dotyku wysokogatunkowa 100% bawełna;
+• wypełnienie: 100% poliuretan, 100% poliester
+
+Przepis prania:
+Zaleca się prać ręcznie, nie chlorować, nie wirować, nie czyścić chemicznie, prasowanie maks. 110°C</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914711-1.jpg https://marini.pl/b2b/pictures/5914711-2.jpg https://marini.pl/b2b/pictures/5914711-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914707</kod>
@@ -319266,7 +319620,34 @@ Zaleca się pranie ręczne, nie wybielać, nie suszyć w suszarce bębnowej, pra
 <stan>brak</stan>
 <EAN>5902745614236</EAN>
 <grupa>ZAFFIRO</grupa>
-<opis/>
+<opis>Nosidełko ergonomiczne BabyGrow
+
+Kolor: grey
+Materiał: bawełna
+
+Nosidło BabyGrow to komfort i bezpieczeństwo dla Twojego dziecka. 
+Nosidło rośnie razem z dzieckiem, dzięki możliwości dostosowania wysokości i szerokości panelu.
+Zaprojektowane z najwyższą starannością – gwarantując Twojemu maluszkowi bezpieczeństwo oraz anatomicznie prawidłową pozycję, a rodzicowi komfort i pełną swobodę ruchów.
+
+Cechy:
+
+nosidło rośnie razem z dzieckiem dzięki regulowanemu panelowi
+wygodne i miękkie wyprofilowane pasy naramienne odciążają kręgosłup rodzica oraz zwiększają komfort noszenia
+łatwe i intuicyjne w obsłudze - bez niczyjej pomocy wkładasz i wyjmujesz malucha z nosidła
+opcje noszenia: na brzuchu, na plecach
+szeroki regulowany pas biodrowy zapewnia równomierne rozłożenie ciężaru dzięki czemu dziecko wydaje się lżejsze
+praktyczna kieszeń na drobne przedmioty na całej szerokości pasa biodrowego
+dla niemowląt i dzieci powyżej 4 miesiąca życia do lat 3 (od 6 kg do 18 kg)
+wyprodukowane w Polsce
+wykonane z bezpiecznych certyfikowanych tkanin
+Skład:
+• tkanina zewnętrzna: antyalergiczna, miła w dotyku wysokogatunkowa 100% bawełna;
+• wypełnienie: 100% poliuretan, 100% poliester
+
+Przepis prania:
+Zaleca się prać ręcznie, nie chlorować, nie wirować, nie czyścić chemicznie, prasowanie maks. 110°C
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914707-1.jpg https://marini.pl/b2b/pictures/5914707-2.jpg https://marini.pl/b2b/pictures/5914707-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914703</kod>
@@ -320353,7 +320734,7 @@ Wysoka Jakość!</opis>
 <nazwa>ZETPOL Obuwie dziecięce TYTUS rozmiar 18 i 19</nazwa>
 <cena>21.95</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>ZETPOL</grupa>
 <opis>Obuwie chłopięce wykonane z przyjemnego w dotyku weluru w granatowym kolorze ozdobione haftem. Wkładka wykonana z naturalnej skóry oraz elastycznej pianki. Pianka zawiera węgiel aktywny. Skóra absorbuje nadmiar wilgoci, a węgiel aktywny pochłania nieprzyjemne zapachy zapewniając stopie uczucie świeżości.</opis>
