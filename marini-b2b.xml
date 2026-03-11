@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-03-10T17:55:05.180">
+<MARINI timestamp="2026-03-11T17:55:05.260">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -688,7 +688,7 @@ Charakterystyka produktu:
 <nazwa>4 BABY Fotelik HI-FIX 125-150cm BLACK I-SIZE</nazwa>
 <cena>129.00</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901691958494</EAN>
 <grupa>4BABY/FOTELIKI/HI-FIX</grupa>
 <opis>Hi-fix to fotelik samochodowy dla dziecka o wzroście od 125-150cm. Maksymalne bezpieczeństwo podczas podróży samochodem gwarantuje zgodność z systemem I-SIZE. Hi-fix posiada możliwość zamontowania za pomocą systemu ISOFIX lub 3-punktowych pasów bezpieczeństwa znajdujących się w samochodzie. Dzięki systemowi hybrydowemu złącza ISOFIX można łatwo złożyć, gdy nie są używane. Wzmocnione podbicie i anatomicznie ukształtowane siedzisko chronią kręgosłup, a wygodne podłokietniki podwyższają komfort jazdy. 
@@ -2559,7 +2559,7 @@ Przód: 6' (15 cm)</opis>
 <nazwa>4 BABY Wózek spacerowy RAPID XXIV OLIVE</nazwa>
 <cena>350.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691959187</EAN>
 <grupa>4BABY/WÓZKI/RAPID</grupa>
 <opis>RAPID XXIV Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowani dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia.
@@ -3951,7 +3951,7 @@ Opakowanie zawiera 60 szt. płatków kosmetycznych.
 <nazwa>AKUKU A0004 Butelka 125 ml biała Czarny Misio</nazwa>
 <cena>4.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644000043</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Butelka tradycyjna, wąskootworowa, o profilowanym kształcie umożliwiającym jej wygodne trzymanie podczas karmienia dziecka. Lekka i poręczna, wykonana z bezpiecznego tworzywa – polipropylenu. Wyposażona w silikonowy smoczek antykolkowy okrągły o wolnym przepływie. Szczelny kolorowy kapsel zapobiega rozlaniu zawartości podczas transportu i zabezpiecza smoczek przed zabrudzeniem, a plastikowy dysk uszczelniający przekształca butelkę w pojemnik do przechowywania/zamrażania pokarmu. Wytłoczona podziałka pozwala dokładnie odmierzyć porcję pokarmu. Butelka ozdobiona jest ciekawymi nadrukami.
@@ -5230,7 +5230,7 @@ Pojemność 280 ml</opis>
 </b2b>
 <b2b>
 <kod>768802</kod>
-<nazwa>AKUKU A0376 Kubek do spłukiwania głowy mięta-szary*</nazwa>
+<nazwa>AKUKU A0376 Kubek do spłukiwania głowy mięta-szary wyprzedaż</nazwa>
 <cena>11.62</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -5479,7 +5479,7 @@ Rozmiar grzechotki: 10 x 11,5 cm
 <nazwa>AKUKU A0452 Zestaw piłeczek sensorycznych</nazwa>
 <cena>29.17</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644004522</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Zestaw 8 miękkich gumowych piłeczek sensorycznych marki „akuku” wprowadzą Twojego maluszka w świat zmysłu dotyku, koloru i dźwięku.
@@ -5995,7 +5995,7 @@ Wymiary: 30 × 3,5 cm</opis>
 </b2b>
 <b2b>
 <kod>787373</kod>
-<nazwa>AKUKU A0514 Siateczka do podawania pokarmów yellow*</nazwa>
+<nazwa>AKUKU A0514 Siateczka do podawania pokarmów yellow wyprzedaż</nazwa>
 <cena>11.24</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -6470,7 +6470,7 @@ Przeznaczony dla dzieci w wieku 6m+
 </b2b>
 <b2b>
 <kod>5907085</kod>
-<nazwa>AKUKU A0590 Smoczek uspokajający 12m+ GWIAZDKI turkus*</nazwa>
+<nazwa>AKUKU A0590 Smoczek uspokajający 12m+ GWIAZDKI turkus wyprzedaż</nazwa>
 <cena>4.66</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
@@ -6490,7 +6490,7 @@ Przeznaczony dla dzieci w wieku 12m+
 </b2b>
 <b2b>
 <kod>5907086</kod>
-<nazwa>AKUKU A0591 Smoczek uspokajający 12m+ GWIAZDKI złote*</nazwa>
+<nazwa>AKUKU A0591 Smoczek uspokajający 12m+ GWIAZDKI złote wyprzedaż</nazwa>
 <cena>4.66</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -9141,7 +9141,7 @@ Ostrzeżenie! Zawsze używać pod nadzorem dorosłych. Sprawdź jakość produkt
 </b2b>
 <b2b>
 <kod>5912515</kod>
-<nazwa>AKUKU A1665 Śliniak wiązany GWIAZDKI*</nazwa>
+<nazwa>AKUKU A1665 Śliniak wiązany GWIAZDKI</nazwa>
 <cena>5.22</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
@@ -15415,7 +15415,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam, MDF</opis>
 <nazwa>ALBERO MIO Przewijak twardy krótki 421 MYSZKA</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165684332</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -16097,7 +16097,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak twardy krótki CP4 Zabawa w tropikach</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165685940</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy PT70
@@ -17251,7 +17251,7 @@ Tkanina 1: satyna bawełniana - 100% bawełna, Tkanina 2: jednobarna welur - 100
 <nazwa>ALBERO MIO Rożek niemowlęcy Króliczek W420 WYPRZEDAŻ</nazwa>
 <cena>47.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001940678</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis>Rożek niemowlęcy / Baby horn
@@ -23705,22 +23705,22 @@ Materiał : 100 % BAWEŁNA</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>5906587</kod>
-<nazwa>ATK Koc Velvet 75/100</nazwa>
-<cena>32.93</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN/>
-<grupa>ATK- OP. HURTOWE</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5906120</kod>
 <nazwa>ATK Koc VELVET 75/100</nazwa>
 <cena>31.71</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904276097953</EAN>
+<grupa>ATK- OP. HURTOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5906587</kod>
+<nazwa>ATK Koc Velvet 75/100</nazwa>
+<cena>32.93</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN/>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
 </b2b>
@@ -27403,7 +27403,7 @@ Użyj świecącego w ciemności przycisku smoczka Ultra Air, aby szybko znaleź�
 <nazwa>AVENT SCF376/24 Smoczek Ultra Air Night 0-6m leniwiec / tygrys</nazwa>
 <cena>23.57</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8720689042505</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultra air na noc – pozwala skórze dziecka oddychać
@@ -29324,17 +29324,6 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909881-1.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5908948</kod>
-<nazwa>AXIOM 9337 Myszka Pola 38 cm</nazwa>
-<cena>26.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209893379</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5908948-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908951</kod>
 <nazwa>AXIOM 9341 Kot Alex 30 cm</nazwa>
 <cena>35.90</cena>
@@ -29485,17 +29474,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5911253-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911254</kod>
-<nazwa>AXIOM 9413 Pozytywka Małpka 18 cm</nazwa>
-<cena>28.79</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209894130</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911254-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911255</kod>
@@ -29671,17 +29649,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5911611-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911613</kod>
-<nazwa>AXIOM 9464 Grzechotka Żyrafka niebieska 12 cm</nazwa>
-<cena>12.99</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904209894642</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911613-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911615</kod>
@@ -45602,31 +45569,6 @@ w zestawie: miseczka i łyżeczka</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912636-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>785310</kod>
-<nazwa>B.O.1065/01 Sztućce dla dzieci ze stali szlachetnej*</nazwa>
-<cena>10.34</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435413371</EAN>
-<grupa>BABYONO/NACZYNIA I SZTUĆCE/SZTUĆCE</grupa>
-<opis>Zestaw sztućców wykonany ze stali nierdzewnej bardzo przydaje się podczas nauki samodzielnego jedzenia. Ich wielkość została dopasowana do małych rąk dziecka.
-Widelczyk oraz łyżeczka wykonane są z wysokiej jakości stali nierdzewnej
-Wzornictwo na sztućcach zgodne jest z obecnymi trendami wnętrzarskimi.
-Sztućce wykonane zostały z bezpiecznych materiałów, nie zawierających Bisfenolu A.
-Właściwości techniczne:
-Zestaw składa się z łyżeczki oraz widelca
-Materiał:
-- plastik
-- stal nierdzewna
-- nie zawiera Bisfenolu A
-Waga : 0,03 kg
-Przeznaczone dla dzieci w wieku od 12 miesięcy (12m+)
-Wymiary: 14 x 2,5 cm
-Sztućce nadają się do mycia w zmywarce.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/785310-1.jpg https://marini.pl/b2b/pictures/785310-2.jpg https://marini.pl/b2b/pictures/785310-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>785311</kod>
 <nazwa>B.O.1065/02 Sztućce dla dzieci ze stali szlachetnej</nazwa>
 <cena>9.84</cena>
@@ -47927,7 +47869,7 @@ Dane techniczne:
 <nazwa>B.O.1521 Przytulanka DOG WILLY</nazwa>
 <cena>17.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435414576</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Pierwsze przytulanki mają ogromną moc – są powiernikami smutków i tajemnic malców, a z czasem taka przytulanka staje się najlepszym przyjacielem. Maskotka piesek to idealny, mięciutki towarzysz pierwszych zabaw i drzemek. Twoja pociecha może z łatwością chwycić maskotkę i przytulić się do niej, tak, jak lubi najbardziej.
@@ -48052,33 +47994,6 @@ Wiek dziecka: 0m+.
 Wymiary: 16 x 28 cm.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905644-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905645</kod>
-<nazwa>B.O.1526 Zabawka dla dzieci z pozytywką RABBIT MILLY*</nazwa>
-<cena>31.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435414620</EAN>
-<grupa>BABYONO/ZABAWKI/POZYTYWKI</grupa>
-<opis>Maskotka królik z pozytywką to uśmiechnięty towarzysz codziennych zabaw, który stymuluje rozwój Twojego malucha.  
-Dźwięki płynące z pozytywki uspokajają i pozwalają skupić uwagę dziecka na zabawce.
-Długie uszy królika zachęcają do ciągnięcia i chwytania, a miękkie futerko sprawia, że maskotka jest przyjemna w dotyku. 
-
-Cechy:
-Pozytywka
-Piękna melodia płynąca z zabawki z pozytywką przyciągnie uwagę Twojego szkraba i zachęci go do poznawania świata dźwięków. Delikatne tony sprawią też, że maluch łatwiej się uspokoi i zaśnie po intensywnym dniu.
-Kolorowe metki
-Kolorowe metki zachęcają do poznawania świata i pobudzają w dziecku ciekawość. Pomagają maluchowi w rozwijaniu wyobraźni, a także zdolności manualnych.
-Praktyczna zawieszka
-Zabawka posiada praktyczny uchwyt, który zamocujesz na wózku, łóżeczku, foteliku. Dzięki temu zabawka będzie zawsze blisko Twojego dziecka.
-
-Właściowości techniczne:
-Materiał: 100% poliester.
-Wiek dziecka: 0 m+.
-
-Wymiary: 13x29 cm.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905645-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5905647</kod>
@@ -53056,7 +52971,7 @@ Zapakowany w sztywny kartonik z okienkiem - doskonały pomysł na prezent</opis>
 <nazwa>B.O.1673/02 Kocyk bambusowy jasny beż</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435418055</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -54920,25 +54835,6 @@ POPORODOWY PAS BRZUSZNY:
 <zdjecia>https://marini.pl/b2b/pictures/8808-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>25109</kod>
-<nazwa>B.O.506/11 Biustonosz D70-75 biały*</nazwa>
-<cena>60.35</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435402030</EAN>
-<grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
-<opis>Nowoczesny biustonosz wykonany został w unikalnej technologii wykorzystującej włókna Meryl Skinlife. Włókno to charakteryzuje się właściwościami bakteriostatycznymi, utrzymując naturalną równowagę skóry. Dzięki zawartości dodatnich jonów srebra (Ag+) eliminuje wywoływanie alergii i zapewnia wysoki stopień oddychania, bardzo dobrze odprowadzając wilgoć, zachowując jednocześnie naturalną ciepłotę ciała.
-
-Produkt nie posiada fiszbin, zapewniając jednocześnie wyjątkowy komfort noszenia, a wysoka elastyczność materiału, z którego został wykonany oraz bezszwowa konstrukcja sprawia, iż idealnie podtrzymuje biust nie powodując żadnych ucisków i dopasowując się do każdego rodzaju sylwetki.
-
-BIUSTONOSZ DLA MATEK KARMIĄCYCH I KOBIET W CIĄŻY: 
-- bezszwowy
-- hipoalergiczny
-- idealnie dopasowany
-- odpinane miseczki</opis>
-<zdjecia>https://marini.pl/b2b/pictures/25109-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>769102</kod>
 <nazwa>B.O.511/L Poporodowy pas brzuszny L- profilowany</nazwa>
 <cena>53.00</cena>
@@ -55017,26 +54913,6 @@ Właściwości:
 - łagodzi bóle rany pooperacyjnej dając poczucia bezpieczeństwa
 - ułatwia wczesne wykonywane ćwiczeń gimnastycznych wzmacniających mięśnie brzucha</opis>
 <zdjecia>https://marini.pl/b2b/pictures/769389-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>769688</kod>
-<nazwa>B.O.511/XS Poporodowy pas brzuszny XS-profilowany*</nazwa>
-<cena>53.00</cena>
-<VAT>8</VAT>
-<stan>brak</stan>
-<EAN>5906699072968</EAN>
-<grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
-<opis>Poporodowy pas brzuszny profilowany przeznaczony jest dla kobiet po porodach operacyjnych (tzw: cesarskie cięcie) w celu wzmocnienia nadmiernie rozciągniętych powłok brzusznych oraz zmniejszenia ryzyka występowania przepukliny. Pas łagodzi bóle rany pooperacyjnej, daje poczucie bezpieczeństwa i komfort oraz ułatwia wcześniejsze wykonywanie ćwiczeń gimnastycznych wzmacniających mięśnie brzucha. W celu prawidłowego dopasowania rozmiaru należy zmierzyć obwód brzucha i wybrać rozmiar z tabeli.
-
-Uwaga! Stosowanie wyrobu skonsultować z lekarzem. W czasie noszenia pasa zalecane jest wykonywanie podstawowego zestawu ćwiczeń rehabilitacyjnych. Ciągłe stosowanie pasa bez wykonywania ćwiczeń może doprowadzić do osłabienia mięśni brzucha.
-
-Właściwości:
-- profilowany kształt zapewnia ochronę dolnej części podbrzusza po cesarskim cięciu (tzw. cięcie kosmetyczne)
-- wzmacnia nadmiernie rozciągnięte powłoki brzuszne
-- zabezpiecza przed wystąpieniem przepukliny pooperacyjnej
-- łagodzi bóle rany pooperacyjnej dając poczucia bezpieczeństwa
-- ułatwia wczesne wykonywane ćwiczeń gimnastycznych wzmacniających mięśnie brzucha</opis>
-<zdjecia>https://marini.pl/b2b/pictures/769688-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>769103</kod>
@@ -55258,7 +55134,7 @@ wymiary pojemnika 5,5 cm x 5 cm
 <nazwa>B.O.535/02 Pojemnik na smoczek NATURAL NURSING miętowy</nazwa>
 <cena>8.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435410301</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Pojemnik na smoczek to praktyczny produkt podczas wszelkich podróży. Ochroni smoczek dziecka przed zabrudzeniami, jest wygodny w użyciu i łatwy do zamocowania. Elastyczne zapięcie pozwala na przymocowanie pojemnika do wózka, fotelika lub torby spacerowej. Wykonany z bezpiecznych materiałów, nie zawiera Bisfenolu A.
@@ -58301,7 +58177,7 @@ Wymiary opakowania: 24 × 34 cm</opis>
 </b2b>
 <b2b>
 <kod>5910376</kod>
-<nazwa>B.O.835/05 Śliniak z kieszonką i regulowanym zapięciem</nazwa>
+<nazwa>B.O.835/05 Miękki śliniak z kieszonką i regulowanym zapięciem</nazwa>
 <cena>9.51</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
@@ -58401,25 +58277,6 @@ Wymiary: 42x21 cm
 Wiek dziecka: 0 m+
 W zestawie 2 sztuki</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5906130-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5906131</kod>
-<nazwa>B.O.879/13 Śliniak apaszka BIRDS *</nazwa>
-<cena>12.40</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435414934</EAN>
-<grupa>BABYONO/ŚLINIAKI</grupa>
-<opis>Śliniak apaszka to wielofunkcyjny produkt, który przyda się Twojemu malcowi na co dzień. Ochroni ubranie dziecka przed zabrudzeniem podczas karmienia i zapewni ciepło na spacerze.
-Śliniak jest uszyty z dwuwarstwowej bawełny 100%, więc miękko otula szyję malca. Apaszka jest dwustronna i dostępna w wielu kolorach oraz wzorach. Z łatwością dopasujesz ją do stroju malucha.
-W zestawie znajdziesz 2 sztuki. Chustka ma regulowane zapięcia na napy, co sprawia, że mogą nosić ją zarówno niemowlaki, jak i przedszkolaki.
-
-Dane techniczne
-Materiał: 100% bawełna
-Wymiary: 42x21 cm
-Wiek dziecka: 0 m+
-W zestawie 2 sztuki</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5906131-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5906132</kod>
@@ -63946,7 +63803,7 @@ Cechy:
 <nazwa>BABY EINSTEIN 13157-6 Gryzak z grzechotką ośmiornica Opus's Shake &amp; Soot</nazwa>
 <cena>30.57</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>074451131576</EAN>
 <grupa>BABY EINSTEIN</grupa>
 <opis>Odkryj idealny sposób na łagodzenie bólu dziąseł i pobudzenie zmysłów swojego malucha dzięki Gryzakowi i Grzechotce Baby Einstein Ocean Explorers. Zaprojektowane z myślą o komforcie i rozwoju dziecka, te produkty oferują nie tylko różnorodne tekstury i jasne barwy, ale także ukrytą grzechotkę, która wzbudza ciekawość przy każdym potrząśnięciu.
@@ -65522,11 +65379,11 @@ Cechy produktu:
 <zdjecia>https://marini.pl/b2b/pictures/788605-1.jpg https://marini.pl/b2b/pictures/788605-2.jpg https://marini.pl/b2b/pictures/788605-3.jpg https://marini.pl/b2b/pictures/788605-4.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>48</kod>
+<kod>5914771</kod>
 <nazwa>BALIBAZOO BB 80848 Kot piłka-grzechotka</nazwa>
 <cena>21.35</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6925783808480</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Sensoryczny kotek to piłka i grzechotka w jednym! Ten uroczy zwierzak posiada szeleszczące uszka, a jego głowę zdobią materiałowe metki o zróżnicowanych fakturach. Wszystko po to, aby stymulować zmysły malucha. Czerwona piłka wykonana jest z elastycznego tworzywa i posiada praktyczne otwory, które ułatwiają małym rączkom chwytanie zabawki. Przy potrząsaniu, zabawka wesoło grzechocze.
@@ -65538,14 +65395,14 @@ Cechy produktu:
 – elastyczne tworzywo odporne na zgniatanie
 – otwory ułatwiające chwytanie
 – wiek: 0m+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/48-1.jpg https://marini.pl/b2b/pictures/48-2.jpg https://marini.pl/b2b/pictures/48-3.jpg https://marini.pl/b2b/pictures/48-4.jpg</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5914771-1.jpg https://marini.pl/b2b/pictures/5914771-2.jpg https://marini.pl/b2b/pictures/5914771-3.jpg https://marini.pl/b2b/pictures/5914771-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5904182</kod>
 <nazwa>BALIBAZOO BB 80850 Krowa piłka - grzechotka</nazwa>
 <cena>21.35</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6925783808503</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Szeleszczące uszka, miękka piłeczka i grzechotka – to brzmi jak pomysł na wspaniałą zabawę! Ta multifunkcyjna krówka zabawi malucha, stymulując jego zmysły, aby odkrywanie świata było dla niego jeszcze przyjemniejsze. Główka zwierzaka została wykonana z materiałów o zróżnicowanych fakturach, natomiast elastyczna piłeczka wyposażona jest w praktyczne otwory, które ułatwia małym rączkom chwytanie zabawki.
@@ -77841,7 +77698,7 @@ To nie koniec zabawy! Rozpuść konstrukcję w wodzie i buduj dalej, wykorzystuj
 <nazwa>BRICK TRICK 61556 Klej 40 g</nazwa>
 <cena>13.88</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511615562</EAN>
 <grupa>TREFL/BRICK TRICK</grupa>
 <opis>Potrzebujesz więcej cegieł? Masz nowe pomysły na budowę? Skorzystaj z zestawów uzupełniających. Dodatkowe cegły, dachówki czy klej.
@@ -78345,7 +78202,7 @@ UWAGA! Marka Canpol babies rekomenduje karmienie piersią jako najzdrowszą form
 <nazwa>CANPOL 11/845 Butelka standardowa z uchwytami 250ml CUTE ANIMALS niebieska</nazwa>
 <cena>10.86</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691800762</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka wąska z uchwytem Canpol babies 250 ml CUTE ANIMALS została wykonana z nowoczesnego, nietłukącego się i bezpiecznego materiału. Jest lekka, trwała i całkowicie transparentna. Czytelna i precyzyjna skala umożliwia kontrolowanie ilości zjadanej przez dziecko. Smoczek jest wykonany z miękkiego i bezpiecznego silikonu, dzięki czemu jest bezsmakowy i bezzapachowy, co ułatwia akceptację butelki przez dziecko. Wygodne uchwyty pozwalają Maluszkowi na samodzielne trzymanie butelki, gdy jest już na to gotowe. Uchwyty są zdejmowane. Canpol butelka z uchwytem 250 ml CUTE ANIMALS jest kompatybilna ze wszystkimi laktatorami Canpol babies, dzięki czemu można odciągać pokarm bezpośrednio do butelki bez przelewania do specjalnych woreczków na pokarm, co sprawia, że będzie mniej mycia i nie zmarnuje się ani kropla cennego mleka mamy. Canpol butelka z uchwytem 250 ml CUTE ANIMALS nadaje się do mycia w zmywarce, dezynfekcji w sterylizatorze oraz podgrzewania w kuchence mikrofalowej czy podgrzewaczu do butelek. Canpol butelka z uchwytem 250 ml CUTE ANIMALS została zaprojektowana i wyprodukowana w Polsce z zachowaniem najwyższych standardów jakości i bezpieczeństwa. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Butelka wąska z uchwytem Canpol babies 250 ml z motywem uroczych zwierzątek zachwyci każdego Maluszka – stwórz zestaw z pozostałymi produktami z kolekcji Cute Animals.
@@ -78360,7 +78217,7 @@ UWAGA! Marka Canpol babies rekomenduje karmienie piersią jako najzdrowszą form
 <nazwa>CANPOL 11/845 Butelka standardowa z uchwytami 250ml CUTE ANIMALS pomarańczowa</nazwa>
 <cena>10.86</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691800779</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka wąska z uchwytem Canpol babies 250 ml CUTE ANIMALS została wykonana z nowoczesnego, nietłukącego się i bezpiecznego materiału. Jest lekka, trwała i całkowicie transparentna. Czytelna i precyzyjna skala umożliwia kontrolowanie ilości zjadanej przez dziecko. Smoczek jest wykonany z miękkiego i bezpiecznego silikonu, dzięki czemu jest bezsmakowy i bezzapachowy, co ułatwia akceptację butelki przez dziecko. Wygodne uchwyty pozwalają Maluszkowi na samodzielne trzymanie butelki, gdy jest już na to gotowe. Uchwyty są zdejmowane. Canpol butelka z uchwytem 250 ml CUTE ANIMALS jest kompatybilna ze wszystkimi laktatorami Canpol babies, dzięki czemu można odciągać pokarm bezpośrednio do butelki bez przelewania do specjalnych woreczków na pokarm, co sprawia, że będzie mniej mycia i nie zmarnuje się ani kropla cennego mleka mamy. Canpol butelka z uchwytem 250 ml CUTE ANIMALS nadaje się do mycia w zmywarce, dezynfekcji w sterylizatorze oraz podgrzewania w kuchence mikrofalowej czy podgrzewaczu do butelek. Canpol butelka z uchwytem 250 ml CUTE ANIMALS została zaprojektowana i wyprodukowana w Polsce z zachowaniem najwyższych standardów jakości i bezpieczeństwa. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Butelka wąska z uchwytem Canpol babies 250 ml z motywem uroczych zwierzątek zachwyci każdego Maluszka – stwórz zestaw z pozostałymi produktami z kolekcji Cute Animals.
@@ -78375,7 +78232,7 @@ UWAGA! Marka Canpol babies rekomenduje karmienie piersią jako najzdrowszą form
 <nazwa>CANPOL 11/845 Butelka standardowa z uchwytami 250ml CUTE ANIMALS różowa</nazwa>
 <cena>10.86</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691800786</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka wąska z uchwytem Canpol babies 250 ml CUTE ANIMALS została wykonana z nowoczesnego, nietłukącego się i bezpiecznego materiału. Jest lekka, trwała i całkowicie transparentna. Czytelna i precyzyjna skala umożliwia kontrolowanie ilości zjadanej przez dziecko. Smoczek jest wykonany z miękkiego i bezpiecznego silikonu, dzięki czemu jest bezsmakowy i bezzapachowy, co ułatwia akceptację butelki przez dziecko. Wygodne uchwyty pozwalają Maluszkowi na samodzielne trzymanie butelki, gdy jest już na to gotowe. Uchwyty są zdejmowane. Canpol butelka z uchwytem 250 ml CUTE ANIMALS jest kompatybilna ze wszystkimi laktatorami Canpol babies, dzięki czemu można odciągać pokarm bezpośrednio do butelki bez przelewania do specjalnych woreczków na pokarm, co sprawia, że będzie mniej mycia i nie zmarnuje się ani kropla cennego mleka mamy. Canpol butelka z uchwytem 250 ml CUTE ANIMALS nadaje się do mycia w zmywarce, dezynfekcji w sterylizatorze oraz podgrzewania w kuchence mikrofalowej czy podgrzewaczu do butelek. Canpol butelka z uchwytem 250 ml CUTE ANIMALS została zaprojektowana i wyprodukowana w Polsce z zachowaniem najwyższych standardów jakości i bezpieczeństwa. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Butelka wąska z uchwytem Canpol babies 250 ml z motywem uroczych zwierzątek zachwyci każdego Maluszka – stwórz zestaw z pozostałymi produktami z kolekcji Cute Animals.
@@ -78621,7 +78478,7 @@ Miękkie, elastyczne i bardzo rozciągliwe – idealnie dopasowują się do brzu
 <nazwa>CANPOL 18/115 Smoczek silikon okrągły 2szt wolny</nazwa>
 <cena>4.62</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407181158</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Pasuje do wszystkich standardowych butelek. Dziurkowany fabrycznie, doskonale odpowietrza się i nie zlepia w trakcie karmienia. Produkowany z najwyższej jakości silikonu. Dostępny w 6 wielkościach przepływu: mini, wolny, średni, szybki, kaszka, trójprzepływowy. Dobierając smoczek pamiętaj o wieku dziecka, jego apetycie oraz rodzaju podawanego pokarmu. Smoczek należy utrzymywać w czystości, jest przystosowany do wielokrotnej dezynfekcji.
@@ -78634,7 +78491,7 @@ Miękkie, elastyczne i bardzo rozciągliwe – idealnie dopasowują się do brzu
 <nazwa>CANPOL 18/116 Smoczek silikon 2szt średni</nazwa>
 <cena>4.62</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407181165</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Pasuje do wszystkich standardowych butelek. Dziurkowany fabrycznie, doskonale odpowietrza się i nie zlepia w trakcie karmienia. Produkowany z najwyższej jakości silikonu. Dostępny w 6 wielkościach przepływu: mini, wolny, średni, szybki, kaszka, trójprzepływowy. Dobierając smoczek pamiętaj o wieku dziecka, jego apetycie oraz rodzaju podawanego pokarmu. Smoczek należy utrzymywać w czystości, jest przystosowany do wielokrotnej dezynfekcji.
@@ -78658,7 +78515,7 @@ Miękkie, elastyczne i bardzo rozciągliwe – idealnie dopasowują się do brzu
 <b2b>
 <kod>774053</kod>
 <nazwa>CANPOL 18/118 Smoczek silikon okrągły 2szt kaszka</nazwa>
-<cena>4.68</cena>
+<cena>4.62</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
 <EAN>5903407181189</EAN>
@@ -78876,7 +78733,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/187 Grzechotka Sowa niebieska</nazwa>
 <cena>4.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691812024</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Grzechotka przeznaczona dla najmłodszych dzieci. Lekka, łatwa do utrzymania w małych rączkach, idealna jako pierwsza grzechotka. Różnorodne kształty i kolory zachęcają maluszka do ćwiczeń i zabawy, stymulując jego rozwój. Wprowadzają dziecko w świat dźwięku, ruchów i pięknych barw. Grzechotka jest wykonana z trwałych i bezpiecznych materiałów. Nie posiada ostrych krawędzi.</opis>
@@ -79363,7 +79220,7 @@ Proponowany wiek 0m+</opis>
 <nazwa>CANPOL 2/813 Gryzak Sensoryczny silikonowy 2w1 Kwiatek</nazwa>
 <cena>10.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407170565</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Sensoryczny gryzak silikonowy 2w1 w kształcie kwiatka to doskonałe rozwiązanie dla ząbkujących niemowląt. Gryzak jest lekki i poręczny, co ułatwia trzymanie w małych dłoniach Maluszka. Gryzak 2w1 składa się z dwóch geometrycznych gryzaków połączonych ze sobą. Wykonany z miękkiego, elastycznego i wytrzymałego silikonu, który jest delikatny dla wrażliwych dziąseł Maluszka. Łatwość chwytania, delikatna faktura oraz ciekawa kolorystyka powodują, że Maluszek będzie zaciekawiony gryzakiem, aby poznawać go wszystkimi zmysłami. Gryzak wspomaga rozwój sensoryczny i motoryczny, w tym naukę chwytania i koordynację wzrokowo-ruchową. Gryzak jest bezpieczny dla dziecka – w produkcji nie stosowano BPA ani innych szkodliwych substancji. Sensoryczny gryzak silikonowy 2w1 w kształcie kwiatka to idealny wybór, który przyniesie ulgę swędzącym dziąsłom i pomoże Maluszkowi przejść przez trudny okres ząbkowania.?
@@ -79375,7 +79232,7 @@ Proponowany wiek 0m+</opis>
 <nazwa>CANPOL 2/817 Kostka edukacyjna miękka 6szt</nazwa>
 <cena>19.86</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407028170</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękkie, bajecznie kolorowe kostki ozdobione ilustracjami różnych postaci i przedmiotów wzbudzają zainteresowanie dziecka i zachęcają do pierwszej nauki. Maluch doskonali zmysły wzroku, słuchu i koordynację ruchów.
@@ -79586,7 +79443,7 @@ Bez Bisfenolu A
 <nazwa>CANPOL 21/719 Smoczek do butelek szerokootworowych EasyStart silikon mini 1szt</nazwa>
 <cena>4.46</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407217192</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Do butelek z szeroką szyjką został specjalnie zaprojektowany antykolkowy smoczek. Wykonany jest z wysokiej jakości miękkiego silikonu. Zbliżony do kształtu piersi umożliwia łączenie naturalnego karmienia z karmieniem butelką. Występuje w 6 wielkościach przepływu: mini, wolny, średni, szybki, kaszka, trójprzepływowy. Odpowietrzacz umieszczony w podstawie, sprawia, że w trakcie karmienia dziecko nie łyka powietrza i jest mniej narażone na kolkę.
@@ -79625,7 +79482,7 @@ W opakowaniu: 1 sztuka</opis>
 <nazwa>CANPOL 21/722 Smoczek do butelek szerokootworowych EasyStart silikon szybki 1szt</nazwa>
 <cena>4.46</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407217222</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Do butelek z szeroką szyjką został specjalnie zaprojektowany antykolkowy smoczek. Wykonany jest z wysokiej jakości miękkiego silikonu. Zbliżony do kształtu piersi umożliwia łączenie naturalnego karmienia z karmieniem butelką. Występuje w 6 wielkościach przepływu: mini, wolny, średni, szybki, kaszka, trójprzepływowy. Odpowietrzacz umieszczony w podstawie, sprawia, że w trakcie karmienia dziecko nie łyka powietrza i jest mniej narażone na kolkę.
@@ -80657,7 +80514,7 @@ Canpol smoczek silikonowy Light touch jest łatwy do czyszczenia, dzięki etui, 
 <nazwa>CANPOL 23/228 Smoczek uspokajający silikonowy symetryczny 0-6m Dental Air 2szt. kremowy</nazwa>
 <cena>16.50</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167862</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający zrelaksuje i wyciszy Maluszka. Płaska gumka o symetrycznym kształcie jest przyjazna dla zgryzu i łatwa do zaakceptowania przez dziecko. Smoczek dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt jest polecany przez ekspertów jako wspierający naturalny rytm ssania. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa. Tarczka zapewnia maksymalny dopływ powietrza, dzięki czemu zapobiega podrażnieniom na delikatnej buzi dziecka i minimalizuje ryzyko odciskania się smoczka. Specjalnie zaprojektowany kształt tarczki ułatwia również swobodne oddychanie i połykanie śliny. Smoczek jest bezpieczny i łatwy do utrzymania w czystości – nowoczesne etui, które może służyć do przechowywania, ale też do szybkiej i wygodnej sterylizacji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty by zapewnić smoczkom higieniczną czystość. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Smoczek jest trwały i odporny na odkształcenia. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek w modnych pastelowych kolorach jest dostępny w różnych rozmiarach – rośnie razem z Twoim Maluszkiem.</opis>
@@ -80704,7 +80561,7 @@ W opakowaniu 1 szt.</opis>
 <nazwa>CANPOL 23/910 Smoczek uspokajający silikonowy symetryczny 0-2 m Mini różowy</nazwa>
 <cena>8.00</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691851177</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis/>
@@ -81028,7 +80885,7 @@ prosta konstrukcja (składa się z 2 elementów: pojemnika i pokrywki) ułatwia 
 <nazwa>CANPOL 31/200 Kubek niekapek Anywayup 250 ml Toys różowy</nazwa>
 <cena>9.36</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691813076</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek „Anywayup” z kolekcji Haberman dla Canpol babies został wyposażony w unikalny zaworek niekapek, by umożliwiać dziecku samodzielne picie bez rozlewania:
@@ -81098,7 +80955,7 @@ Pojemność 350 ml.</opis>
 <nazwa>CANPOL 31/406 Miseczka z łyżeczką różowa</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691813106</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Nowa, praktyczna miseczka ułatwi karmienie twojego malca zarówno w domu jak i na spacerze. Szerokie ucho i specjalnie obniżony przeciwległy rant ułatwią trzymanie oraz podawanie jedzenia.
@@ -81130,7 +80987,7 @@ Pojemność 350 ml.</opis>
 <nazwa>CANPOL 31/418 Zestaw sztućców - łyżka,widelac,nóż różowy</nazwa>
 <cena>4.10</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691802872</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Pierwszy zestaw sztućców jest doskonałym wyborem dla dzieci, które chcą bezpiecznie ćwiczyć samodzielne jedzenie. Zestaw zawiera widelec, nóż i łyżkę. Sztućce posiadają szerokie uchwyty, które ułatwiają dziecku trzymanie. Zaokrąglone brzegi sztućców nie podrażniają dziąseł dziecka. Łyżeczka z miarką 5 ml umożliwia odmierzanie i może służyć także do podawania leków. Nóż z delikatnymi ząbkami jest bezpieczny do nauki samodzielnego krojenia. Zestaw sztućców dla dzieci jest rekomendowany dla dzieci powyżej 12 miesiąca życia. Praktyczny zestaw sztućców dla niemowlaka można myć w zmywarce.
@@ -81146,7 +81003,7 @@ Można używać w zmywarce
 <nazwa>CANPOL 31/418 Zestaw sztućców - łyżka.widelec,nóż niebieski</nazwa>
 <cena>4.10</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691802858</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Pierwszy zestaw sztućców jest doskonałym wyborem dla dzieci, które chcą bezpiecznie ćwiczyć samodzielne jedzenie. Zestaw zawiera widelec, nóż i łyżkę. Sztućce posiadają szerokie uchwyty, które ułatwiają dziecku trzymanie. Zaokrąglone brzegi sztućców nie podrażniają dziąseł dziecka. Łyżeczka z miarką 5 ml umożliwia odmierzanie i może służyć także do podawania leków. Nóż z delikatnymi ząbkami jest bezpieczny do nauki samodzielnego krojenia. Zestaw sztućców dla dzieci jest rekomendowany dla dzieci powyżej 12 miesiąca życia. Praktyczny zestaw sztućców dla niemowlaka można myć w zmywarce.
@@ -81162,7 +81019,7 @@ Można używać w zmywarce
 <nazwa>CANPOL 31/419 Zestaw pierwszych łyżeczek do karmienia 3szt niebieski</nazwa>
 <cena>7.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691850002</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Przyszła pora na rozszerzanie diety Malucha? Zestaw pierwszych łyżeczek do karmienia idealnie sprawdzi się podczas przygody z nowymi smakami i pierwszych posiłków. Specjalnie wyprofilowany, kształt łyżeczek ułatwia dziecku pobieranie pokarmu, a wydłużona rączka gwarantuje wygodę podczas karmienia, i ułatwia wybieranie pokarmów ze słoiczków. Zaokrąglone krawędzie nie podrażniają delikatnych dziąseł maluszka, dlatego łyżeczki sprawdzą się też w pierwszych próbach samodzielnego jedzenia. Zestaw zawiera 3 różnokolorowe łyżeczki o matowym wykończeniu, przeznaczony jest dla dzieci powyżej 4. miesiąca życia</opis>
@@ -81184,7 +81041,7 @@ Można używać w zmywarce
 <nazwa>CANPOL 34/920 Smoczek silikonowy 0-6m symetryczny EXOTIC Koala</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691870130</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 0-6m EXOTIC (panda) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81229,7 +81086,7 @@ Proponowany wiek od 0 do 6 miesięcy</opis>
 <nazwa>CANPOL 34/920 Smoczek silikonowy 0-6m symetryczny EXOTIC Panda</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691870161</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 0-6m EXOTIC (panda) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81300,7 +81157,7 @@ Proponowany wiek od 6 do 18 miesięcy</opis>
 <nazwa>CANPOL 34/922 Smoczek silikonowy 18+m symetryczny EXOTIC Koala</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691870215</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 18m+ EXOTIC (koala) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81330,7 +81187,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/922 Smoczek silikonowy 18+m symetryczny EXOTIC Leniwiec</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691870239</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 18m+ EXOTIC (koala) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81345,7 +81202,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/922 Smoczek silikonowy 18+m symetryczny EXOTIC Panda</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691870246</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 18m+ EXOTIC (koala) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -81360,7 +81217,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/924 Smoczek uspokajający silikonowy 0-6 m symetryczny Cute Animals niebieski</nazwa>
 <cena>5.60</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691889392</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający w kolekcji Cute Animals zrelaksuje i wyciszy Maluszka. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i minimalizuje odciskanie się smoczka na delikatnej buzi dziecka. Dodatkowe otworki wentylacyjne pozwalają skórze oddychać i zapobiegają podrażnieniom. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy upadkiem na ziemię i zabrudzeniem. Smoczek symetryczny Canpol babies 0-6m Cute Animals jest trwały i odporny na odkształcenia oraz bezpieczny i łatwy do utrzymania w czystości. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek silikonowy Canpol babies symetryczny rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m Cute Animals jest dostępny w trzech uroczych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem.
@@ -81662,7 +81519,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/932 Smoczek uspokajający silikonowy symetryczny 18 m+ MOUNTAINS żółty</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691889613</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Smoczek uspokajający z kolekcji Mountains zrelaksuje i wyciszy Maluszka. Smoczki symetryczne dobrze dopasowują się do buzi dziecka niezależnie od sposobu umieszczenia, a ich kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i minimalizuje odciskanie się smoczka na delikatnej buzi dziecka. Dodatkowe otworki wentylacyjne pozwalają skórze oddychać i zapobiegają podrażnieniom. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy upadkiem na ziemię i zabrudzeniem. Smoczek silikonowy Canpol babies 6-18m symetryczny Mountains jest trwały i odporny na odkształcenia. Smoczek jest bezpieczny i łatwy do utrzymania w czystości, dzięki nowoczesnemu etui, które może służyć zarówno do przechowywania, ale też do szybkiej i wygodnej sterylizacji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty, aby zapewnić smoczkom higieniczną czystość. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek silikonowy Canpol babies symetryczny jest rekomendowany dla dzieci powyżej 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ Mountains jest dostępny w dwóch wersjach kolorystycznych.
@@ -81678,7 +81535,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/935 Smoczek uspokajający silikonowy18 m+ okrągły EXOTIC ANIMALS koala</nazwa>
 <cena>6.72</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407177441</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający z gumką o okrągłym kształcie zrelaksuje i wyciszy Maluszka. Gumka została wykonana z 100% hipoalergicznego silikonu, który jest bezzapachowy i bezsmakowy, co ułatwia akceptację smoczka przez dziecko. Gumka silikonowa jest trwała i odporna na odkształcenia. Wyprofilowany kształt pod noskiem zapewnia swobodne oddychanie, a otwory wentylacyjne w tarczce przepuszczają powietrze, zapobiegając podrażnieniom delikatnej skóry dziecka. Smoczek jest bezpieczny i łatwy do utrzymania w czystości – nadaje się do wielokrotnej dezynfekcji. Dodatkowo smoczek ma elementy świecące w ciemności, które ułatwiają odnalezienie smoczka nocą. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Smoczek rekomendowany dla dzieci w wieku powyżej18 miesięcy. Smoczek uspokajający silikonowy Canpol babies 18m+ okrągły EXOTIC ANIMALS jest dostępny w czterech wesołych wzorach – wybierz swój ulubiony!</opis>
@@ -81798,7 +81655,7 @@ Więcej informacji znajduje się w instrukcji obsługi dołączonej do smoczka. 
 <nazwa>CANPOL 34/942 Smoczek uspokajający silikonowy 0-6m symetryczny NightGlow 2 szt niebieski</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407362977</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Silikonowy smoczek uspokajający z kolekcji NightGlow zrelaksuje i wyciszy Maluszka. Smoczki symetryczne dobrze dopasowują się do buzi dziecka niezależnie od sposobu umieszczenia, a ich kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Gumka została wykonana z najwyższej jakości delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i ułatwia połykanie śliny. Ergonomiczny kształt minimalizuje ryzyko podrażnień i nie odciska się na delikatnej buzi dziecka. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie do łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy zabrudzeniem. Smoczek NightGlow świeci w ciemności, dzięki czemu łatwo go odnaleźć w nocy, bez niepotrzebnego budzenia Maluszka. Został stworzony z myślą o spokojnym śnie i codziennym komforcie dziecka.?
@@ -81843,7 +81700,7 @@ Więcej informacji znajduje się w instrukcji obsługi dołączonej do smoczka. 
 <nazwa>CANPOL 34/942 Smoczek uspokajający silikonowy 0-6m symetryczny NightGlow 2 szt róż</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407362984</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Silikonowy smoczek uspokajający z kolekcji NightGlow zrelaksuje i wyciszy Maluszka. Smoczki symetryczne dobrze dopasowują się do buzi dziecka niezależnie od sposobu umieszczenia, a ich kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Gumka została wykonana z najwyższej jakości delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i ułatwia połykanie śliny. Ergonomiczny kształt minimalizuje ryzyko podrażnień i nie odciska się na delikatnej buzi dziecka. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie do łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy zabrudzeniem. Smoczek NightGlow świeci w ciemności, dzięki czemu łatwo go odnaleźć w nocy, bez niepotrzebnego budzenia Maluszka. Został stworzony z myślą o spokojnym śnie i codziennym komforcie dziecka.?
@@ -81888,7 +81745,7 @@ Więcej informacji znajduje się w instrukcji obsługi dołączonej do smoczka. 
 <nazwa>CANPOL 34/943 Smoczek uspokajający silikonowy 6-18m symetryczny NightGlow  2 szt  niebieski</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407362991</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Silikonowy smoczek uspokajający z kolekcji NightGlow zrelaksuje i wyciszy Maluszka. Smoczki symetryczne dobrze dopasowują się do buzi dziecka niezależnie od sposobu umieszczenia, a ich kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Gumka została wykonana z najwyższej jakości delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i ułatwia połykanie śliny. Ergonomiczny kształt minimalizuje ryzyko podrażnień i nie odciska się na delikatnej buzi dziecka. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie do łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy zabrudzeniem. Smoczek NightGlow świeci w ciemności, dzięki czemu łatwo go odnaleźć w nocy, bez niepotrzebnego budzenia Maluszka. Został stworzony z myślą o spokojnym śnie i codziennym komforcie dziecka.?
@@ -81975,7 +81832,7 @@ Więcej informacji znajduje się w instrukcji obsługi dołączonej do smoczka. 
 <nazwa>CANPOL 34/944 Smoczek uspokajający silikonowy 18+m NightGlow 2szt niebieski</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407363011</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Silikonowy smoczek uspokajający z kolekcji NightGlow zrelaksuje i wyciszy Maluszka. Smoczki symetryczne dobrze dopasowują się do buzi dziecka niezależnie od sposobu umieszczenia, a ich kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Gumka została wykonana z najwyższej jakości delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i ułatwia połykanie śliny. Ergonomiczny kształt minimalizuje ryzyko podrażnień i nie odciska się na delikatnej buzi dziecka. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie do łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy zabrudzeniem. Smoczek NightGlow świeci w ciemności, dzięki czemu łatwo go odnaleźć w nocy, bez niepotrzebnego budzenia Maluszka. Został stworzony z myślą o spokojnym śnie i codziennym komforcie dziecka.?
@@ -82020,7 +81877,7 @@ Więcej informacji znajduje się w instrukcji obsługi dołączonej do smoczka. 
 <nazwa>CANPOL 34/944 Smoczek uspokajający silikonowy 18+m symetryczny NightGlow 2 szt róż</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407363028</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Silikonowy smoczek uspokajający z kolekcji NightGlow zrelaksuje i wyciszy Maluszka. Smoczki symetryczne dobrze dopasowują się do buzi dziecka niezależnie od sposobu umieszczenia, a ich kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Gumka została wykonana z najwyższej jakości delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i ułatwia połykanie śliny. Ergonomiczny kształt minimalizuje ryzyko podrażnień i nie odciska się na delikatnej buzi dziecka. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie do łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy zabrudzeniem. Smoczek NightGlow świeci w ciemności, dzięki czemu łatwo go odnaleźć w nocy, bez niepotrzebnego budzenia Maluszka. Został stworzony z myślą o spokojnym śnie i codziennym komforcie dziecka.?
@@ -82431,7 +82288,7 @@ Butelka EasyStart Bonjour Paris wykonana została z bezpiecznego, wolnego od BPA
 <nazwa>CANPOL 35/232 Butelka szeroka antykolkowa 240ml Bonjour różowa</nazwa>
 <cena>14.30</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691844384</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka antykolkowa EasyStart Bonjour Paris stworzona została z myślą o najmłodszych dzieciach. Gwarantuje łatwy start w karmieniu i umożliwia łączenie karmienia piersią i butelką. Jej miękki smoczek - kształtem zbliżony do kształtu piersi mamy, ułatwia dziecku akceptację butelki, a skuteczny zaworek antykolkowy zapobiega powstawaniu pęcherzyków powietrza w pokarmie i tym samym redukuje ryzyko powstawania kolek, bólów brzuszka, nadmiernego odbijania i gromadzenia się gazów. Butelkę wyróżnia też oryginalny design. Dostępna jest w dwóch uroczych wzorach, dla chłopca i dziewczynki.
@@ -82489,7 +82346,7 @@ Butelka EasyStart Bonjour Paris wykonana została z bezpiecznego, wolnego od BPA
 <nazwa>CANPOL 35/235 Zestaw butelek do przechowywania pokarmu 3x120ml</nazwa>
 <cena>16.49</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691880641</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Mleko matki to wartościowy i najlepszy pokarm dla dziecka od pierwszych dni życia. Wiemy też z jakimi wyzwaniami i trudnościami przychodzi mamie zmierzyć się podczas okresu karmienia piersią, dlatego zestaw butelek na pokarm Canpol babies został stworzony z myślą o wykorzystywaniu mleka matki w duchu „zero waste” – do ostatniej kropli.Butelki na pokarm Canpol babies mogą być używane bezpośrednio z laktatorami, co umożliwia odciąganie, przechowywanie, podgrzewanie i karmienie dziecka mlekiem matki przy użyciu tej samej butelki. Dzięki czemu nie zmarnuje się ani kropla cennego pokarmu. W efekcie brak konieczności przelewania odciągniętego pokarmu do specjalnych woreczków sprawia, że będzie oszczędniej i mniej zmywania. Butelki można myć w zmywarce i dezynfekować w sterylizatorze oraz podgrzewać w kuchence mikrofalowej czy podgrzewaczu do butelek. Butelki są wykonane z tworzywa umożliwiającego zachowanie korzystnych właściwości mleka matki oraz jego bezpieczne przechowywanie w lodówce czy zamrażarce nawet do 6 miesięcy. Czytelna i precyzyjna skala ułatwia kontrolowanie ilości odciągniętego mleka. W zestawie znajdują się również kapsle i nakrętki zapewniające szczelne zamknięcie. Butelki można używać ze wszystkimi smoczkami do karmienia Canpol babies.Zestaw butelek na pokarm Canpol babies to doskonała pomoc przy karmieniu piersią. Został stworzony z myślą o bezpiecznym i długim przechowywaniu odciągniętego pokarmu, tak aby zapewnić mamom komfort w sytuacjach kiedy muszą wyjść z domu i zostawić dziecko pod opieką innej osoby lub chwilowym niedoborem pokarmu.
@@ -82561,7 +82418,7 @@ Produkt można stosować od momentu narodzin dziecka</opis>
 <nazwa>CANPOL 35/237 Butelka antykolkowa 240ml EasyStart Sleepy Koala niebieska</nazwa>
 <cena>14.60</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691881662</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka antykolkowa EasyStart została stworzona z myślą o szczęśliwym brzuszku dziecka. Specjalny zaworek antykolkowy zapobiega gromadzeniu się pęcherzyków powietrza w pokarmie, co w połączeniu z odpowiednio dobraną pozycją do karmienia pozwala skutecznie eliminować dolegliwości brzuszkowe Maluszka związane z kolką i wzdęciami.
@@ -82645,7 +82502,7 @@ Proponowany wiek: od 12. miesiąca</opis>
 <nazwa>CANPOL 35/238 Butelka antykolkowa 300ml EasyStart Sleepy Koala niebieska</nazwa>
 <cena>15.20</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691881686</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka antykolkowa EasyStart została stworzona z myślą o szczęśliwym brzuszku dziecka. Specjalny zaworek antykolkowy zapobiega gromadzeniu się pęcherzyków powietrza w pokarmie, co w połączeniu z odpowiednio dobraną pozycją do karmienia pozwala skutecznie eliminować dolegliwości brzuszkowe Maluszka związane z kolką i wzdęciami.
@@ -82719,7 +82576,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 35/240 Butelka antykolkowa EasyStart 240ml GOLD niebieska</nazwa>
 <cena>15.70</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691886285</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka antykolkowa Canpol babies EasyStart została stworzona z myślą o szczęśliwym brzuszku dziecka. Specjalny zaworek antykolkowy zapobiega gromadzeniu się pęcherzyków powietrza w pokarmie, co w połączeniu z odpowiednio dobraną pozycją do karmienia pozwala skutecznie eliminować dolegliwości brzuszkowe Maluszka związane z kolką i wzdęciami.
@@ -83004,9 +82861,9 @@ Wyprofilowany kształt butelki ułatwia prawidłowe trzymanie butelki podczas ka
 <b2b>
 <kod>775519</kod>
 <nazwa>CANPOL 4/401 Plastikowy zestaw stołowy Cute Animals kotek różowy</nazwa>
-<cena>26.00</cena>
+<cena>15.69</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691812680</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Plastikowy zestaw naczyń jest polecany dla dzieci powyżej 1 roku życia i zawiera: talerzyk, miseczkę, kubeczek i sztućce. Kolorowe nadruki zachęcą dziecko do jedzenia, a  zaokrąglone kształty sztućców nie podrażniają delikatnych dziąseł małego dziecka. Idealny do nauki samodzielnego jedzenia.
@@ -83017,9 +82874,9 @@ Wyprofilowany kształt butelki ułatwia prawidłowe trzymanie butelki podczas ka
 <b2b>
 <kod>775606</kod>
 <nazwa>CANPOL 4/401 Plastikowy zestaw stołowy Cute Animals piesek niebieski</nazwa>
-<cena>15.70</cena>
+<cena>15.69</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691812697</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Plastikowy zestaw naczyń jest polecany dla dzieci powyżej 1 roku życia i zawiera: talerzyk, miseczkę, kubeczek i sztućce. Kolorowe nadruki zachęcą dziecko do jedzenia, a  zaokrąglone kształty sztućców nie podrażniają delikatnych dziąseł małego dziecka. Idealny do nauki samodzielnego jedzenia.
@@ -83359,7 +83216,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 4/416 Miska antypoślizgowa 270 ml Krówka</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407044163</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Miseczka KRÓWKA z kolorowymi nadrukami uatrakcyjni dziecku każdy posiłek. Została wykonana z wysokiej jakości plastiku bez BPA. Posiada antypoślizgowe dno zapobiegające niekontrolowanemu przesuwaniu się miseczki. Jest przystosowana do mycia w zmywarce. Pojemność 270ml. Przeznaczona dla dzieci w wieku 4m+.</opis>
@@ -83423,7 +83280,7 @@ Można używać w zmywarce</opis>
 <nazwa>CANPOL 4/520 Melamina miseczka antypoślizgowa z uszami Hello Little pomarańczowa</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691811201</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kolorowa miseczka z trwałej melaminy o ciekawym kształcie zachęci do jedzenia każdego malca. Wyposażona jest w praktyczne uszy ułatwiające przytrzymanie lub przenoszenie miseczki oraz antypoślizgowe dno. Kolorowe nadruki zatopione w melaminie są zupełnie bezpieczne dla maluszka.</opis>
@@ -83434,7 +83291,7 @@ Można używać w zmywarce</opis>
 <nazwa>CANPOL 4/520 Melamina miseczka antypoślizgowa z uszami Hello Little zielona</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691811171</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kolorowa miseczka z trwałej melaminy o ciekawym kształcie zachęci do jedzenia każdego malca. Wyposażona jest w praktyczne uszy ułatwiające przytrzymanie lub przenoszenie miseczki oraz antypoślizgowe dno. Kolorowe nadruki zatopione w melaminie są zupełnie bezpieczne dla maluszka.</opis>
@@ -83474,7 +83331,7 @@ Można używać w zmywarce</opis>
 <nazwa>CANPOL 4/530 Łyżeczki z melaminy 2szt Exotic Animals żółte</nazwa>
 <cena>5.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691861633</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Zestaw łyżeczek do karmienia z kolekcji EXOTIC ANIMALS z wesołymi, kolorowymi nadrukami uatrakcyjni dziecku każdy posiłek. Łyżeczki wykonane został z melaminy, tworzywa odpornego na zarysowania. Posiadają zaokrąglony kształt, dzięki czemu nie podrażniają delikatnych dziąseł dziecka. Zestaw składa się z dwóch łyżeczek: małej i dużej. Przeznaczony jest dla dzieci powyżej 9. miesiąca życia.
@@ -83811,7 +83668,7 @@ Dostępny w dwóch wariantach kolorystycznych.</opis>
 <nazwa>CANPOL 51/026 Tasiemka do smoczka uspokajającego Bonjour Paris niebieska</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901691848368</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Tasiemka do smoczka  to praktyczny gadżet, który zabezpieczy ulubiony smoczek przed upadkiem, zabrudzeniem lub zgubieniem. Uniwersalny sznureczek na końcu tasiemki pozwala przymocować ją do każdego smoczka z uchwytem, a bezpieczny klips na drugim końcu umożliwia przypięcie tasiemki do ubrania dziecka. Sprawdzi się w domu i na spacerze. Tasiemka dostępna jest w wersji kolorystycznej dla chłopca i dziewczynki, dzięki temu bez trudu stworzysz stylowy zestaw z pozostałymi produktami z kolekcji: smoczkiem i butelką.</opis>
@@ -83850,7 +83707,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 51/029 Śliniak silikonowy z kieszonką DOTS róż</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691876798</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Wodoodporny śliniak silikonowy z kieszonką jest niezbędny podczas rozszerzania diety Maluszka i pierwszych samodzielnych posiłkach. Doskonale zabezpieczy ubranko dziecka przed zabrudzeniem i przemoczeniem podczas jedzenia. Jest lekki, miękki, elastyczny i przyjemny w dotyku. Został wykonany w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością, dzięki czemu jest bezpieczny i bezzapachowy. Praktyczna głęboka kieszonka zatrzymuje resztki jedzenia, które nie trafiło do buzi dziecka. Kieszonka jest tak zaprojektowana, aby wypełniona jedzeniem zachowała swój kształt i dziecko nie opróżniło jej przez przypadek podczas poruszania się czy naciskania na nią. Śliniak jest łatwy do czyszczenia – można przepłukać go pod bieżącą wodą, przetrzeć lub umyć w zmywarce.
@@ -83962,7 +83819,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 51/400 Silikonowa miseczka z przyssawką 330 ml beżowa</nazwa>
 <cena>15.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691879430</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Silikonowa miseczka z przyssawką jest idealna do pierwszych posiłków Maluszka na początku jego przygody z rozszerzaniem diety, także metodą BLW. Miseczka Canpol babies ma antypoślizgową przyssawkę, która zapobiega niekontrolowanemu przemieszczaniu się naczynia po powierzchni stołu lub blatu krzesełka do karmienia, uniemożliwia wywrócenie naczynia lub zrzucenie w całości na podłogę. Zaokrąglone kształty oraz podwyższona wyprofilowana krawędź miski ułatwiają dziecku nabieranie jedzenia. Została wykonana w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością. Naczynia silikonowe są elastyczne i trwałe, odporne na uderzenia i upadki oraz nie pochłaniają zapachów. Doskonale sprawdza się do podawania zupy, makaronu, jogurtu z owocami czy mleka z płatkami. Miseczka Canpol babies jest łatwa do czyszczenia i odporna na wysokie temperatury – można podgrzewać w mikrofalówce oraz myć w zmywarce.
@@ -83978,9 +83835,9 @@ Produkt można podgrzewać w mikrofali</opis>
 <b2b>
 <kod>5907421</kod>
 <nazwa>CANPOL 51/400 Silikonowa miseczka z przyssawką 330 ml kremowa</nazwa>
-<cena>15.50</cena>
+<cena>15.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691879447</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Silikonowa miseczka z przyssawką jest idealna do pierwszych posiłków Maluszka na początku jego przygody z rozszerzaniem diety, także metodą BLW. Miseczka Canpol babies ma antypoślizgową przyssawkę, która zapobiega niekontrolowanemu przemieszczaniu się naczynia po powierzchni stołu lub blatu krzesełka do karmienia, uniemożliwia wywrócenie naczynia lub zrzucenie w całości na podłogę. Zaokrąglone kształty oraz podwyższona wyprofilowana krawędź miski ułatwiają dziecku nabieranie jedzenia. Została wykonana w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością. Naczynia silikonowe są elastyczne i trwałe, odporne na uderzenia i upadki oraz nie pochłaniają zapachów. Doskonale sprawdza się do podawania zupy, makaronu, jogurtu z owocami czy mleka z płatkami. Miseczka Canpol babies jest łatwa do czyszczenia i odporna na wysokie temperatury – można podgrzewać w mikrofalówce oraz myć w zmywarce.
@@ -84034,7 +83891,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 51/401 Silikonowy trójdzielny talerzyk z przyssawką MIŚ beżowy</nazwa>
 <cena>32.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691879386</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>To wyjątkowy moment, kiedy Twoje dziecko zaczyna samodzielnie jeść. Silikonowy talerz z przyssawką MIŚ jest idealny do pierwszych posiłków Maluszka na początku jego przygody z rozszerzaniem diety, także metodą BLW (Bobas Lubi Wybór). Cztery przegródki ułatwiają porcjowanie i sortowanie różnych smakołyków, co zachęca do próbowania nowych smaków i samodzielnego jedzenia. Talerz ma antypoślizgową przyssawkę, która zapobiega niekontrolowanemu przemieszczaniu się naczynia po powierzchni stołu lub blatu krzesełka do karmienia, uniemożliwia wywrócenie naczynia lub zrzucenie w całości na podłogę. Talerzyk trójdzielny z przyssawką został wykonany w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością. Talerz silikonowy jest elastyczny, wytrzymały i nietłukący się, co jest bardzo istotne w przypadku małych dzieci. Można myć w zmywarce i podgrzewać w mikrofalówce.
@@ -84504,7 +84361,7 @@ W opakowaniu 3 szt.</opis>
 <nazwa>CANPOL 56/136_pin Gryzak wodny z grzechotką - łapka</nazwa>
 <cena>6.20</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691854956</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis/>
@@ -84567,7 +84424,7 @@ Grzechotka jest wykonana z trwałych i bezpiecznych materiałów. Nie posiada os
 <nazwa>CANPOL 56/146 Grzechotka z gryzakiem wodnym Zwierzątka</nazwa>
 <cena>8.60</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407561462</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Grzechotko-gryzaczki przeznaczone są dla najmłodszych dzieci. Łączą w sobie zalety gryzaka elastycznego i grzechotki, gdyż posiadają miękkie części niosące ulgę ząbkującemu maluchowi. Atrakcyjne kształty oraz intensywne kolory przyciągają uwagę dziecka. Miękkie części dostosowane są do delikatnych dziecięcych dziąseł. Grzechotki wykonane są z trwałych i bezpiecznych materiałów (bez ostrych krawędzi). Przed podaniem dziecku, gryzak można schłodzić w lodówce. Pomoże to ukoić ból dziąseł ząbkującego maluszka.</opis>
@@ -84593,7 +84450,7 @@ Produkt nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/152 Gryzak wodny z grzechotką Magiczna Różdżka różowy</nazwa>
 <cena>6.20</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691828582</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny z grzechotką magiczna różdżką.
@@ -84911,7 +84768,7 @@ Transparentny - pozwala na kontrolowanie ilości płynów w bidonie.</opis>
 <nazwa>CANPOL 56/580 Sztućce elastyczne dla dzieci</nazwa>
 <cena>8.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407565804</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Elastyczne sztućce wykonane z bezpiecznego, plastycznego tworzywa, które po zgięciu utrzymuje nadany im kształt. Można je dostosować do potrzeb dziecka niezależnie od tego czy jest prawo czy leworęczne. Sprawdzą się przy nauce samodzielnego jedzenia. Zaokrąglone brzegi sztućców nie podrażniają delikatnych dziąseł małego dziecka. Polecane dla dzieci powyżej 12. miesięcy.
@@ -84939,7 +84796,7 @@ Produkt wolny od BPA. Przeznaczony dla dzieci powyżej 4. miesiąca życia.</opi
 <nazwa>CANPOL 56/582 Łyżeczka z długą rączką różowa</nazwa>
 <cena>4.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691801646</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Praktyczna łyżeczka z długą rączką ułatwia karmienie dziecka oraz wybieranie pokarmu z dna słoiczków. Posiada miękką końcówkę. Zaokrąglone krawędzie nie podrażniają delikatnych dziąseł malucha. Sprawdzi się przy rozszerzaniu diety. Wykonana z bezpiecznego tworzywa bez BPA. Można ją myć w zmywarce. Przeznaczona dla dzieci powyżej 4. miesięcy
@@ -85174,7 +85031,7 @@ W opakowaniu znajduje się 1 sztuka. Aby rozłożyć łyżeczkę należy nacisn�
 <nazwa>CANPOL 56/612 Kubek z silikonowym ustnikiem FirstCup 150ml BONJOUR blue</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691869950</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka. Kubek jest lekki o ergonomicznej, profilowanej budowie. Wygodne uchwyty ułatwiają dziecku trzymanie go w malutkich rączkach. Niewielka ilość elementów sprawia, że jest łatwy do składania i mycia – kubek nie ma zbędnych zakamarków, dzięki czemu można szybko umyć wszystkie części, a ustnik wyparzyć. Canpol kubek niekapek 150ml z silikonowym ustnikiem jest transparentny, co pozwala kontrolować ilości przyjmowanych płynów przez dziecko. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS posiada szczelną osłonkę, która chroni ustnik przed zabrudzeniem. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS z silikonowym ustnikiem jest idealny dla najmłodszych dzieci już od 6 miesiąca życia. W ofercie jest dostępny wymienny silikonowy ustnik. 
@@ -85189,7 +85046,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/612 Kubek z silikonowym ustnikiem FirstCup 150ml BONJOUR pink</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691869967</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka. Kubek jest lekki o ergonomicznej, profilowanej budowie. Wygodne uchwyty ułatwiają dziecku trzymanie go w malutkich rączkach. Niewielka ilość elementów sprawia, że jest łatwy do składania i mycia – kubek nie ma zbędnych zakamarków, dzięki czemu można szybko umyć wszystkie części, a ustnik wyparzyć. Canpol kubek niekapek 150ml z silikonowym ustnikiem jest transparentny, co pozwala kontrolować ilości przyjmowanych płynów przez dziecko. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS posiada szczelną osłonkę, która chroni ustnik przed zabrudzeniem. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS z silikonowym ustnikiem jest idealny dla najmłodszych dzieci już od 6 miesiąca życia. W ofercie jest dostępny wymienny silikonowy ustnik. 
@@ -85204,7 +85061,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/613 Kubek z silikonowym ustnikiem FirstCup 250ml BONJOUR blue</nazwa>
 <cena>17.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691869998</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka.
@@ -85221,7 +85078,7 @@ Pojemność 250ml.
 <nazwa>CANPOL 56/613 Kubek z silikonowym ustnikiem FirstCup 250ml BONJOUR pink</nazwa>
 <cena>17.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691870000</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka.
@@ -85272,7 +85129,7 @@ Pojemność 250ml.
 <nazwa>CANPOL 56/615 Kubek z silikonowym ustnikiem FirstCup 250ml żółty</nazwa>
 <cena>17.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691870086</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka.
@@ -85291,7 +85148,7 @@ Pojemność 250ml.
 <nazwa>CANPOL 56/616 Wymienny ustnik silikonowy do kubków FirstCup 1sz.</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691870116</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Silikonowy ustnik jest doskonały do nauki samodzielnego picia po 6 miesiącu życia zapobiegając rozlewaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka. Łatwo utrzymać go w czystości – ustnik można wyparzać. 
@@ -85306,7 +85163,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/617 Kubek niekapek z rurką i odważnikiem BabiesBoo gepard pomarańczowy</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691893245</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek niekapek z rurką i odważnikiem Canpol babies świetnie sprawdzi się w domu, w podróży i na spacerze. Specjalna membrana umieszczona w rurce sprawia, że płyn trafia do rurki wyłącznie podczas picia, zapobiegając rozlewaniu. To idealne rozwiązanie dla dzieci, które dopiero rozpoczynają przygodę z nauką samodzielnego picia. Kubek niekapek z rurką i odważnikiem wspiera prawidłowy rozwój jamy ustnej, mowy i zgryzu u 99% dzieci.* Odważnik na końcu rurki podąża za płynem, dzięki czemu dziecko wypije swój ulubiony napój do ostatniej kropli, niezależnie od tego, pod jakim kątem przechyli kubeczek. Pokrywka ułatwia szybko i wygodnie schować rurkę, zapobiegając niekontrolowanemu wylewaniu się napoju i gwarantując 100% szczelności, bez przeciekania. Miękka silikonowa rurka jest delikatna dla wrażliwych dziąseł dziecka. Aby utrzymać rurkę w czystości można ją zdemontować i dokładnie umyć. Warto dokupić specjalną szczoteczkę do mycia rurek oraz wymienne rurki. Kubek niekapek Canpol został wykonany z nietłukącego się i bezpiecznego plastiku (PP), nie zawiera BPA ani innych szkodliwych substancji. Jest wytrzymały, lekki i odporny na uszkodzenia. Wygodne uchwyty ułatwiają trzymanie go w dziecięcych dłoniach, a duży otwór ułatwia napełnianie i mycie. Można myć go w zmywarce i podgrzewać w mikrofalówce. Przeznaczony do napojów zimnych lub w temperaturze pokojowej. Praktyczny kubek niekapek Canpol z rurką i odważnikiem 270 ml BabiesBoo będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Kubek niekapek Canpol z rurką i odważnikiem 270 ml BabiesBoo jest rekomendowany dla dzieci od 6 miesiąca życia. ?
@@ -85369,7 +85226,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 56/620_bei Kubek niekapek z rurką i odważnikiem 270 ml MOUNTAINS</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407162416</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek niekapek z rurką i odważnikiem Canpol babies świetnie sprawdzi się w domu, w podróży i na spacerze. Specjalna membrana umieszczona w rurce sprawia, że płyn trafia do rurki wyłącznie podczas picia, zapobiegając rozlewaniu. To idealne rozwiązanie dla dzieci, które dopiero rozpoczynają przygodę z nauką samodzielnego picia. Kubek niekapek z rurką i odważnikiem wspiera prawidłowy rozwój jamy ustnej, mowy i zgryzu u 99% dzieci.* Odważnik na końcu rurki podąża za płynem, dzięki czemu dziecko wypije swój ulubiony napój do ostatniej kropli, niezależnie od tego, pod jakim kątem przechyli kubeczek. Pokrywka ułatwia szybko i wygodnie schować rurkę, zapobiegając niekontrolowanemu wylewaniu się napoju i gwarantując 100% szczelności, bez przeciekania. Miękka silikonowa rurka jest delikatna dla wrażliwych dziąseł dziecka. Aby utrzymać rurkę w czystości można ją zdemontować i dokładnie umyć. Warto dokupić specjalną szczoteczkę do mycia rurek oraz wymienne rurki. Kubek niekapek Canpol został wykonany z nietłukącego się i bezpiecznego plastiku (PP), nie zawiera BPA ani innych szkodliwych substancji. Jest wytrzymały, lekki i odporny na uszkodzenia. Wygodne uchwyty ułatwiają trzymanie go w dziecięcych dłoniach, a duży otwór ułatwia napełnianie i mycie. Można myć go w zmywarce i podgrzewać w mikrofalówce. Przeznaczony do napojów zimnych lub w temperaturze pokojowej. Praktyczny kubek niekapek Canpol z rurką i odważnikiem 270 ml będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Kubek niekapek Canpol z rurką i odważnikiem 270 ml jest rekomendowany dla dzieci od 6 miesiąca życia. ?
@@ -85382,7 +85239,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 56/620_gre Kubek niekapek z rurką i odważnikiem 270ml MOUNTAINS</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407162409</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek niekapek z rurką i odważnikiem Canpol babies świetnie sprawdzi się w domu, w podróży i na spacerze. Specjalna membrana umieszczona w rurce sprawia, że płyn trafia do rurki wyłącznie podczas picia, zapobiegając rozlewaniu. To idealne rozwiązanie dla dzieci, które dopiero rozpoczynają przygodę z nauką samodzielnego picia. Kubek niekapek z rurką i odważnikiem wspiera prawidłowy rozwój jamy ustnej, mowy i zgryzu u 99% dzieci.* Odważnik na końcu rurki podąża za płynem, dzięki czemu dziecko wypije swój ulubiony napój do ostatniej kropli, niezależnie od tego, pod jakim kątem przechyli kubeczek. Pokrywka ułatwia szybko i wygodnie schować rurkę, zapobiegając niekontrolowanemu wylewaniu się napoju i gwarantując 100% szczelności, bez przeciekania. Miękka silikonowa rurka jest delikatna dla wrażliwych dziąseł dziecka. Aby utrzymać rurkę w czystości można ją zdemontować i dokładnie umyć. Warto dokupić specjalną szczoteczkę do mycia rurek oraz wymienne rurki. Kubek niekapek Canpol został wykonany z nietłukącego się i bezpiecznego plastiku (PP), nie zawiera BPA ani innych szkodliwych substancji. Jest wytrzymały, lekki i odporny na uszkodzenia. Wygodne uchwyty ułatwiają trzymanie go w dziecięcych dłoniach, a duży otwór ułatwia napełnianie i mycie. Można myć go w zmywarce i podgrzewać w mikrofalówce. Przeznaczony do napojów zimnych lub w temperaturze pokojowej. Praktyczny kubek niekapek Canpol z rurką i odważnikiem 270 ml będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Kubek niekapek Canpol z rurką i odważnikiem 270 ml jest rekomendowany dla dzieci od 6 miesiąca życia. ?
@@ -85502,7 +85359,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 59/100 Butelka wąska 120 ml AFRICA żółta</nazwa>
 <cena>8.04</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691864900</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka wąska Canpol babies 120 ml AFRICA żółta powstała po to, żeby, wspierać świeżo upieczone mamy, umożliwiając łączenie karmienia piersią i butelką. Dlatego właśnie wyposażona została w okrągły smoczek silikonowy. (Smoczek nadaje się dla maluszków już od pierwszych dni życia). Butelka jest bezpieczna, przejrzysta i lekka, ponieważ została wykonana z najwyższej jakości tworzywa — polipropylenu. 
@@ -85587,7 +85444,7 @@ Sprzedawane w opakowaniach zbiorczych po 3 szt. Cena podana za 1 szt.</opis>
 <nazwa>CANPOL 59/205 Butelka wąska 330 ml PP AFRICA turkus</nazwa>
 <cena>10.32</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691801660</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka wąska Canpol babies 330 ml AFRICA umożliwia łatwe łączenie karmienia piersią i butelką. Wykonana jest z całkowicie bezpiecznego i bardzo wytrzymałego tworzywa — polipropylenu. Dzięki zastosowaniu tego materiału butelka wąska Canpol babies 330 ml AFRICA jest bardzo lekka, a jednocześnie przezroczysta. Umieszczona na niej doskonale widoczna, precyzyjna skala pozwala na dokładne odmierzenie ilości pokarmu podawanego dziecku. Butelka Canpol wąska 330 ml AFRICA została wyposażona w okrągły smoczek silikonowy o przepływie odpowiednim dla dzieci w wieku od 12 miesiąca życia. Ma pojemność 330 ml i polecana jest dla dzieci, które skończyły już roczek. Canpol butelka wąska 330 ml AFRICA wyróżnia się ergonomicznym kształtem, który gwarantuje komfort karmienia. Ponieważ butelka wykonana jest z tworzywa, które się nie potłucze, można bez obawy pozwolić maluchowi trzymać ją w rączkach. Obrazek, którym jest ozdobiona, dodatkowo zachęci dziecko do picia z butelki. Butelka Canpol wąska 330 ml AFRICA jest kompatybilna ze wszystkimi laktatorami Canpol babies. Możliwość odciągania pokarmu bezpośrednio do butelki bardzo ułatwia codzienność zwłaszcza mamom wracającym do pracy po urlopie macierzyńskim. W zestawie znajduje się szczelny kapsel zapobiegający wylaniu się zawartości podczas transportu i pozwalający przekształcić butelkę w praktyczny pojemnik do przechowywania odciągniętego mleka mamy. Canpol butelka wąska 330 ml AFRICA dostępna jest w trzech wersjach kolorystycznych: żółta z tygryskiem, różowa z żyrafą lub turkusowa z nosorożcem.</opis>
@@ -85707,7 +85564,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 59/582 Zestaw łyżeczek 2 szt. różowe</nazwa>
 <cena>4.66</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407595825</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Łyżeczki do karmienia dzieci, wielokrotnego użytku. Zaokrąglone kształty sprawiają, że łyżeczki są bezpieczne i odpowiednie dla delikatnych dziąseł małego dziecka.
@@ -86086,7 +85943,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo</nazwa>
 <cena>40.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691870680</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Sensoryczna karuzela podróżna Canpol babies zapewni Maluszkowi dobrą zabawę podczas spędzania czasu na świeżym powietrzu czy długich podróży samochodem. Posiada wygodny klips, umożliwiający zamocowanie karuzelki na łóżeczku, w wózku, nosidełku, bujaku czy foteliku samochodowym. Wyraźnie zarysowana kontrastująca buzia pandy, przyjemne dźwięki grzechotki, gryzak oraz duże lusterko angażują i wspierają rozwój zmysłów dziecka. Sensoryczna karuzela podróżna Canpol babies wspomaga rozwój naturalnych umiejętności dziecka – zmysłu wzroku, dotyku i słuchu oraz zachęcają dziecko do rozwijania zdolności poznawczych i motorycznych.
@@ -86107,7 +85964,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/092 Sensoryczna mata edukacyjna z lusterkiem BabiesBoo</nazwa>
 <cena>229.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691870697</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Sensoryczna mata edukacyjna Canpol babies pozwala odkrywać dziecku świat z różnych perspektyw. Różne tekstury materiałów, kontrastowe kolory i łagodne dźwięki to świetna rozrywka dla rozwijających się zmysłów maluszka już od pierwszych chwil życia. Mata edukacyjna z 6 zabawkami, które zachęcają dziecko do aktywności i wyciągania do nich rączek, pomaga rozwijać sprawność ruchową, wzmacnia mięśnie i ćwiczy zdolności manualne. Zabawki są zawieszone na pałąkach, które można łatwo zdemontować, aby wyprać matę lub zabrać ze sobą wszędzie tam, gdzie chcemy stworzyć dziecięcą przestrzeń, zapewniając bezpieczny i czysty kawałek podłogi. Zabawki można odpinać i podać do zabawy: 2 grzechoczące buzie zwierzątek, 2 szeleszczące listki z lusterkiem otoczonym kolorowymi metkami i grzechotką oraz z gryzakiem, który przyniesie ulgę podczas ząbkowania, duże odpinane lusterko, które można przypiąć w dowolnym miejscu i gdy Maluch podrośnie będzie zachęcało do leżenia na brzuszku oraz panda z piszczkiem i łapkami na rzepy, dzięki którym można połączyć je ze sobą i objąć nimi pałąk maty lub szczebelek dziecięcego łóżeczka. Wszystkie te interaktywne elementy wspierają rodzica w treningu sensorycznym dziecka, który pozytywnie wpływa na jego rozwój emocjonalny i poznawczy. Mata edukacyjna sensoryczna Canpol babies zachęca dziecko do gimnastyki i chwytania wiszących zabawek, wspomagając rozwój zmysłów poprzez zabawę – wzroku, słuchu i dotyku oraz umiejętności manualnych i motorycznych. Leżenie na macie edukacyjnej pozwala dziecku dostrzec pewne prawidłowości, np. że machając rączką i dotykając wiszących zabawek, powoduje ich ruch i bujanie. Podczas leżenia na brzuszku dziecko może eksplorować za każdym razem inne części maty, które wzbudzają zainteresowanie wyraźnymi kontrastowymi kolorami i wzorami, metkami czy przepiętymi zabawkami w inne miejsce niż zazwyczaj. W późniejszym etapie rozwoju, sensoryczna mata edukacyjna dla niemowlaka, zachęca dziecko do ruszenia z miejsca – pełzania, a później do raczkowania. Sensoryczna mata edukacyjna Canpol babies pomoże zadbać o odpowiednią motorykę każdego Maluszka! Mata edukacyjna sensoryczna Canpol babies to bezpieczny i wspaniały sposób na zajęcia dziecka, a rodzicowi pozwoli na chwilę dla siebie lub na domowe obowiązki.
@@ -86169,7 +86026,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo leniwiec</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167473</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Urocza sensoryczna zabawka z piszczkiem Canpol babies z kolekcji BabiesBoo będzie doskonałym pierwszym towarzyszem spacerów i zabaw Maluszka. Zabawka jest lekka i poręczna, idealna do treningu chwytania. Potrząsana wydaje delikatne i przyjemne dla ucha dźwięki, a po naciśnięciu wydaje ciekawy dźwięk. Miły w dotyku materiał oraz przyjazna buzia leniwca w kontrastowych kolorach przyciąga uwagę dziecka, pobudzając zmysły i wspomagając ich rozwój – wzrok, słuch i dotyk. Doszyte kolorowe metki i różnorodne materiały dodatkowo stymulują sensorycznie dziecko. Zabawka sensoryczna z piszczkiem Canpol rozwija małą motorykę poprzez chwytanie i potrząsanie oraz aktywizuje zmysł słuchu, wzroku i dotyku – to doskonały wybór dla najmłodszych dzieci.</opis>
@@ -86180,7 +86037,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo panda</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167503</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Urocza sensoryczna zabawka z piszczkiem Canpol babies z kolekcji BabiesBoo będzie doskonałym pierwszym towarzyszem spacerów i zabaw Maluszka. Zabawka jest lekka i poręczna, idealna do treningu chwytania. Potrząsana wydaje delikatne i przyjemne dla ucha dźwięki, a po naciśnięciu wydaje ciekawy dźwięk. Miły w dotyku materiał oraz przyjazna buzia pandy w kontrastowych kolorach przyciąga uwagę dziecka, pobudzając zmysły i wspomagając ich rozwój – wzrok, słuch i dotyk. Doszyte kolorowe metki i różnorodne materiały dodatkowo stymulują sensorycznie dziecko. Zabawka sensoryczna z piszczkiem Canpol rozwija małą motorykę poprzez chwytanie i potrząsanie oraz aktywizuje zmysł słuchu, wzroku i dotyku – to doskonały wybór dla najmłodszych dzieci.</opis>
@@ -86191,7 +86048,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167404</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękkie karty kontrastowe stymulują wzrok najmłodszych dzieci, których świat tuż po urodzeniu jest czarno-biały. Noworodki nie rozróżniają barw, widzą jedynie odcienie szarości i najłatwiej jest im dostrzec duże, kontrastowe zestawienie czarno-białych wzorów. Karty kontrastowe ułatwiają Maluszkowi skupić wzrok na oglądanym obrazku, a przy okazji dają możliwość budowania relacji i bliskości podczas pierwszych wspólnych zabaw. Karty połączone są ze sobą plastikowym zaczepem, który umożliwia zamocowanie zabawki w łóżeczku, wózku, bujaku czy foteliku samochodowym. Dzięki temu karty zapewnią dziecku rozrywkę w domu, na spacerze i w podróży. Karty sensoryczne Canpol babies można również rozdzielić i podawać pojedynczo do zabawy. Elastyczne gryzaki sensoryczne na rogu każdej karty przyniosą Maluszkowi ulgę w okresie ząbkowania, masując dziąsełka i łagodząc swędzenie od wyrzynających się zębów. Karty są miękkie, wykonane z przyjemnego w dotyku materiału. ?
@@ -86215,7 +86072,7 @@ Zestaw zawiera 4 dwustronne karty o wymiarach 12 x 12 cm w kontrastowych kolorac
 <nazwa>CANPOL 68/098 Miękka konstastowa kostka sensoryczna BabiesBoo</nazwa>
 <cena>23.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407167428</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękka kontrastowa kostka z kolekcji BabiesBoo ma wiele elementów sensorycznych, które zachęcają do zabawy i wspierają rozwój zmysłów już od pierwszych chwil życia: wzroku, słuchu i dotyku. Elementy szeleszczące, gryzak, lusterko czy delikatnie dzwoniąca grzechotka są interesujące dla dziecka w okresie poznawania świata. Miękka sensoryczna kostka w kontrastowych kolorach, które noworodki widzą jako pierwsze, wspiera prawidłowy rozwój zmysłu wzroku u dziecka. Uniwersalny zaczep umożliwia zamocowanie zabawki w łóżeczku, wózku, bujaku czy foteliku samochodowym, dzięki czemu kostka sensoryczna zapewni dziecku rozrywkę w domu, na spacerze i w podróży. Zabawka została wykonana z miękkich i miłych w dotyku materiałów, ale tak aby różnorodność tekstur zapewniała sensoryczne doznania. Kostka ma kieszonkę, do której dziecko może schować przyczepiony na tasiemce gryzak, ćwicząc swoje umiejętności manualne. Gryzak elastyczny przyniesie Maluszkowi ulgę w okresie ząbkowania, masując dziąsełka i łagodząc swędzenie od wyrzynających się zębów. Zabawka idealna od pierwszych tygodni życia Maluszka, polecana przez fizjoterapeutkę. Kostka kontrastowa dla dzieci to świetny sposób na zabawy w leżeniu na brzuszku i zabawy sensoryczne, wspierające rozwój koordynacji słuchowo-ruchowej, ćwiczeń percepcji wzrokowej, dotykowej oraz motorycznej u dziecka.</opis>
@@ -86258,7 +86115,7 @@ Zabawkę utrzymuj w czystości. Sposób prania podany na wszywce. Przecierać wi
 <nazwa>CANPOL 68/101 Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo</nazwa>
 <cena>41.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167459</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Pluszowa panda z zawieszką, pozytywką i lampką BabiesBoo to doskonały wybór pierwszej zabawki dla każdego Maluszka. Polecana przez fizjoterapeutkę niemowląt, Magdalenę Zujewicz, wspiera prawidłowy rozwój zmysłów i koordynacji dziecka. Miękka, kontrastowa przytulanka jest lekka i poręczna, idealna do małych rączek. Zabawka łączy w sobie pozytywkę, lampkę z delikatnym światłem oraz przytulankę, która z pewnością ukołysze Maluszka do snu. Delikatne światełko przyciąga uwagę dziecka, a spokojne melodie uspokajają i pomagają w zasypianiu.
@@ -86279,7 +86136,7 @@ Zabawkę utrzymuj w czystości. Sposób prania podany na wszywce. Przecierać wi
 <nazwa>CANPOL 7/406_blu2 Szczotka i grzebień z naturalnym włosiem GOLD niebieska</nazwa>
 <cena>10.60</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890855</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Szczotka do włosów z naturalnego, miękkiego włosia w zestawie z grzebykiem GOLD do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które nie podrażniają wrażliwej skóry malucha. Szczotka delikatnie masuje główkę dziecka wzmacniając włosy. Idealna od pierwszych dni po urodzeniu. Zestaw dostępny w kilku wariantach kolorystycznych.
@@ -86293,7 +86150,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 7/406_pin2 Szczotka i grzebień z naturalnym włosiem GOLD różowa</nazwa>
 <cena>10.60</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890848</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Szczotka do włosów z naturalnego, miękkiego włosia w zestawie z grzebykiem GOLD do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które nie podrażniają wrażliwej skóry malucha. Szczotka delikatnie masuje główkę dziecka wzmacniając włosy. Idealna od pierwszych dni po urodzeniu. Zestaw dostępny w kilku wariantach kolorystycznych.
@@ -86335,7 +86192,7 @@ W opakowaniu znajdują się:
 <nazwa>CANPOL 70/002 Woreczki do sterylizacji w kuchence mikrofalowej 6 szt</nazwa>
 <cena>10.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691803930</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Woreczki do sterylizacji w kuchence mikrofalowej Canpol babies to prosty, szybki i bezpieczny sposób sterylizacji butelek, smoczków, laktatorów oraz innych produktów dla niemowląt i dzieci. Sterylizacja jest bezpieczna, bez użycia środków chemicznych i trwa jedynie 90 sekund. Para wodna, która się wytwarza w torebce podczas procesu sterylizacji, eliminuje bakterie i zarazki, zapewniając produktom higieniczną czystość. Każdą torebkę można użyć aż 20 razy, dzięki czemu jedno opakowanie wystarczy na 120 procesów sterylizacji. Jest to produkt zastępujący tradycyjny sterylizator, gdy jesteś w podróży i nie możesz zabrać ze sobą urządzenia lub nie masz wystarczająco miejsca w domu na dodatkowy sprzęt. Zostały wykonane z bezpiecznego tworzywa, nie zawierającego BPA ani innych szkodliwych substancji.
@@ -86527,7 +86384,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 74/019 Zestaw sztućców dla dziecka w etui żółty</nazwa>
 <cena>6.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691885578</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Chcesz podać dziecku posiłek w podróży czy na spacerze? Zestaw sztućców dla dzieci jest idealnym rozwiązaniem na wygodne karmienie poza domem. Zestaw zawierający widelec i łyżeczkę zamknięte w praktycznym etui są gotowe do użycia gdziekolwiek chcesz. Etui zapobiega gromadzeniu się bakterii, dzięki czemu sztućce pozostają czyste, a ich użycie jest higieniczne i bezpieczne dla dziecka. Po zjedzonym posiłku umożliwia przenoszenie ich bez ryzyka zabrudzenia torby czy plecaka. Zaokrąglone krawędzie nie podrażniają delikatnych dziąseł maluszka, dlatego sprawdzą się też w pierwszych próbach samodzielnego jedzenia. Zestaw sztućców niemowlaka został wykonany z bezpiecznego tworzywa – przy produkcji nie stosowano BPA ani innych szkodliwych substancji. Komplet sztućców dla dzieci Canpol babies jest dostępny w kilku wariantach kolorystycznych.
@@ -86642,7 +86499,7 @@ Kompaktowa - pomieści 8 butelek z akcesoriami.
 <nazwa>CANPOL 74/060 Sprytny otwarty kubek dla dzieci do nauki picia żółty</nazwa>
 <cena>6.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407171104</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Sprytny otwarty kubek z uchwytami Canpol babies dla dzieci do nauki samodzielnego picia będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Jest lekki i poręczny, idealnie pasuje do dziecięcych dłoni. Dzieci podpatrując dorosłych chcą korzystać z podobnych naczyń, dlatego sprytny kubek otwarty z uchwytami będzie idealnym rozwiązaniem i bezpieczniejszym w użyciu. Ścięta krawędź kubka ułatwia dziecku picie, dzięki czemu nie musi odchylać głowy do tyłu podczas picia, co zmniejsza ryzyko zakrztuszenia. Kubek został wykonany z nietłukącego się i bezpiecznego plastiku (PP), nie zawiera BPA ani innych szkodliwych substancji. Jest wytrzymały, lekki i odporny na uszkodzenia, nie tłucze się jak szkło czy ceramika. Wygodne uchwyty ułatwiają trzymanie go w dziecięcych dłoniach. Można myć go w zmywarce i podgrzewać w mikrofalówce. Przeznaczony do napojów zimnych lub w temperaturze pokojowej. Praktyczny będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Sprytny otwarty kubek Canpol z uchwytami dla dzieci doskonale nadaje się do codziennego użytku. Kubek jest rekomendowany dla dzieci od 12 miesiąca życia.</opis>
@@ -86761,7 +86618,7 @@ W opakowaniu znajduje się 12 sztuk w rozmiarze: 90x60 cm. Niebielone chlorem.
 <nazwa>CANPOL 78/006 Wielofunkcyjne podklady higieniczne 60x60 cm</nazwa>
 <cena>11.70</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691879041</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Wielofunkcyjne podkłady higieniczne Canpol babies z wodoodporną warstwą ochronną na spodzie podkładu doskonale sprawdzają się w wielu sytuacjach. Superchłonny wkład szybko wchłania płyny i zatrzymuje wilgoć wewnątrz podkładu. Podkłady higieniczne są niezbędne dla kobiet w okresie połogu. Przydają się podczas przewijania Maluszka, w podróży, podczas wizyty w przychodni czy jako zabezpieczenie materaca (przeciekająca pieluszka, ulewanie itd.) oraz w nauce odpieluchowania.
@@ -86886,7 +86743,7 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/014 Mum fit biustonosz do karmienia i odciągania M</nazwa>
 <cena>48.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407172538</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Komfort noszenia poprzez 360° dopasowania i uniesienia biustu.?
@@ -87018,7 +86875,7 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/018 Mum fit majtki ciążowe pod brzuch rozmiar S/M 2 szt.</nazwa>
 <cena>19.99</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407172576</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Wygodna bielizna dla kobiet w ciąży – 2 sztuki w 2 uniwersalnych kolorach: beżowe oraz czarne majtki ciążowe Canpol babies MumFit. Zaprojektowane specjalnie dla przyszłych mam poszukujących wygodnej, bawełnianej bielizny ciążowej. ?Miękkie i elastyczne z szeroką gumką i wycięciem na brzuszek. Nie uciskają, idealnie dopasowują się do brzuszka, dlatego świetnie sprawdzą się przez cały okres ciąży. Figi ciążowe Canpol babies dopasowują się z każdej strony, dając uczucie drugiej skóry dla całodziennego komfortu i swobody w ruchu. 100% bawełniana biała wkładka umożliwia obserwację wydzieliny. Starannie wykonane majtki zachowują kształt, nie odkształcają się po praniu oraz nie strzępią. ?
@@ -87049,7 +86906,7 @@ XL – 78/016?
 <nazwa>CANPOL 78/019 Mum fit majtki ciążowe pod brzuch rozmiar L 2 szt.</nazwa>
 <cena>19.99</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407172583</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Wygodna bielizna dla kobiet w ciąży – 2 sztuki w 2 uniwersalnych kolorach: beżowe oraz czarne majtki ciążowe Canpol babies MumFit. Zaprojektowane specjalnie dla przyszłych mam poszukujących wygodnej, bawełnianej bielizny ciążowej. ?Miękkie i elastyczne z szeroką gumką i wycięciem na brzuszek. Nie uciskają, idealnie dopasowują się do brzuszka, dlatego świetnie sprawdzą się przez cały okres ciąży. Figi ciążowe Canpol babies dopasowują się z każdej strony, dając uczucie drugiej skóry dla całodziennego komfortu i swobody w ruchu. 100% bawełniana biała wkładka umożliwia obserwację wydzieliny. Starannie wykonane majtki zachowują kształt, nie odkształcają się po praniu oraz nie strzępią. ?
@@ -87192,7 +87049,7 @@ Możliwośc stworzenia zestawu z termoopakowaniem.</opis>
 <nazwa>CANPOL 79/101 Interaktywna zabawka z grzechotką miś zielony</nazwa>
 <cena>16.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691820661</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Zabawka posiada różne faktury i kontrastowe kolory które stymulują zmysły dziecka. Elastyczne i ażurowe elementy ułatwiają chwytanie i rzucanie zabawką. Grzechotka z kolorowymi koralikami widoczna przez ażurowe elementy na pewno wzbudzi ciekawość i zachęci maluszka do zabawy, a elastyczne uchwyty z wypustkami ukoją swędzące dziąsła.
@@ -87512,7 +87369,7 @@ Nie można używać w sterylizatorze parowym</opis>
 <nazwa>CANPOL 81/100 Edukacyjna mata do zabawy kojec dla dzieci 0m+ SAFARI</nazwa>
 <cena>154.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901691872653</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Edukacyjna mata do zabawy SAFARI to rozwiązanie 3w1, które rośnie razem z dzieckiem i może służyć jako kojec, mata edukacyjna z zabawkami na pałąkach lub po prostu mata bez dodatkowych akcesoriów. Tak wiele możliwości sprawia, że mata zachęci dziecko do zabawy na długi czas.
@@ -87625,7 +87482,7 @@ Pojemność: kubek 250ml, miska 300ml, talerz 250ml.</opis>
 <nazwa>CANPOL 9/232_ora2 Śliniak zmywalny z kieszenią BabiesBoo gepard</nazwa>
 <cena>5.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890251</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Wodoodporny śliniak z kieszonką jest niezbędny podczas rozszerzania diety Maluszka i pierwszych samodzielnych posiłkach. Doskonale zabezpieczy ubranko dziecka przed zabrudzeniem i przemoczeniem podczas jedzenia. Praktyczna wywijana kieszonka zatrzymuje resztki jedzenia, które nie trafiło do buzi dziecka. Śliniak jest łatwy do czyszczenia – wystarczy go przetrzeć lub przepłukać pod bieżącą wodą. Śliniak canpol z kieszonką ma wygodne zapięcie na rzep i jest bezpieczny dla dziecka. Jest lekki i miękki, został wykonany z miękkiego tworzywa, a w produkcji nie stosowano BPA ani innych szkodliwych substancji. Canpol śliniak z kieszonką jest częścią kolekcji BabiesBoo – sprawdź pozostałe akcesoria. Śliniak zmywalny Canpol babies z kieszenią BabiesBoo gepard jest rekomendowany dla dzieci od 6 miesiąca życia.
@@ -87639,7 +87496,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 9/232_whi Śliniak zmywalny z kieszenią BabiesBoo panda</nazwa>
 <cena>5.80</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890268</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Wodoodporny śliniak z kieszonką jest niezbędny podczas rozszerzania diety Maluszka i pierwszych samodzielnych posiłkach. Doskonale zabezpieczy ubranko dziecka przed zabrudzeniem i przemoczeniem podczas jedzenia. Praktyczna wywijana kieszonka zatrzymuje resztki jedzenia, które nie trafiło do buzi dziecka. Śliniak jest łatwy do czyszczenia – wystarczy go przetrzeć lub przepłukać pod bieżącą wodą. Śliniak canpol z kieszonką ma wygodne zapięcie na rzep i jest bezpieczny dla dziecka. Jest lekki i miękki, został wykonany z miękkiego tworzywa, a w produkcji nie stosowano BPA ani innych szkodliwych substancji. Canpol śliniak z kieszonką jest częścią kolekcji BabiesBoo – sprawdź pozostałe akcesoria. Śliniak zmywalny Canpol babies z kieszenią BabiesBoo gepard jest rekomendowany dla dzieci od 6 miesiąca życia.
@@ -87679,7 +87536,7 @@ Aspirator jest łatwy do utrzymania w czystości – zbiorniczek na wydzielinę 
 <nazwa>CANPOL 9/320 Końcówki do elektrycznego aspirtora do nosa 9/319</nazwa>
 <cena>19.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>0259016918977316</EAN>
 <grupa>CANPOL</grupa>
 <opis>Zapasowe końcówki do naszego elektrycznego aspiratora do nosa EasyNatural (nr kat. 9/319) są dopasowane do potrzeb Maluszka – z wąską końcówką stosowana przy płynnej wydzielinie i szersza przeznaczona do używania przy gęstej wydzielinie. Wykonane z miękkiego i bezpiecznego silikonu chronią błonę śluzową nosa, zapobiegając jej uszkodzeniu przy nagłych ruchach dziecka podczas usuwania wydzieliny. W przypadku gęstej i/lub suchej wydzieliny polecamy użyć soli fizjologicznej lub wody morskiej przeznaczonej do oczyszczania i nawilżania nosa, co ułatwi usunąć wydzielinę.</opis>
@@ -87797,7 +87654,7 @@ Dostępne w kilku wersjach kolorystycznych.</opis>
 <nazwa>CANPOL 9/809 Nożyczki + cążki + pilniczek</nazwa>
 <cena>9.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407098098</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Praktyczny zestaw ułatwi każdej troskliwej mamie pielęgnację paznokietków jej dziecka.
@@ -87838,7 +87695,7 @@ Produkt można stosować od momentu narodzin dziecka</opis>
 <nazwa>CANPOL 9/814 Zestaw pielęgnacyjny do paznokci dla niemowląt i dzieci róż</nazwa>
 <cena>19.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691869356</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Kompletny zestaw do paznokci dla niemowląt zapakowany w praktyczne wodoodporne etui, które umożliwia higieniczne przechowywanie oraz przenoszenie. Zestaw do obcinania paznokci dla niemowląt składa się z 4 elementów – nożyczki, poręczny obcinacz do paznokci, delikatny pilniczek i pęseta. Bestsellerowe nożyczki ze stali nierdzewnej i cążki pomogą skutecznie i bezpiecznie obciąć paznokcie dziecku. Zaokrąglone końcówki nożyczek zapobiegają skaleczeniu. Delikatny pilniczek pomoże usunąć nierówności paznokcia chroniąc dziecko przed zadrapaniem. Canpol zestaw do paznokci dla niemowląt i dzieci jest dostępny w dwóch wersjach kolorystycznych. Canpol zestaw do pielęgnacji paznokci dla niemowląt jest bezpieczny dla dzieci od pierwszych dni życia.
@@ -88847,7 +88704,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-814 Przewijak twardy krótki 50x70 Ultra Light Moon Price</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672346328</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Ultra Light od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -89145,7 +89002,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-637 Składana mata do przewijania 60x40 Giraffe</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672333045</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm.</opis>
@@ -89200,7 +89057,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-727 Składana mata do przewijania 60x40 Basic Mouse</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342658</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89860,7 +89717,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 709-000-739 Cebuszka Huggy Basic Grey Stars</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5907672341989</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Poduszka Huggy to ekonomiczna poduszka wielofunkcyjna, która spełni wymagania klientek, które poszukują praktycznych, wygodnych i kompaktowych rozwiązań. Huggy to produkt, który doskonale wpisuje się w dynamiczny tryb życia współczesnych kobiet. Dzięki swojej ergonomii, rozmiarowi i jakości wykonania, idealnie sprawdzi się również podczas podróży. Łatwa w pielęgnacji poduszka w odpinanym pokrowcu wykonanym z miękkiej w dotyku dzianiny bawełnianej i wypełnieniem z poliestrowych kulek. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89871,7 +89728,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 709-000-742 Cebuszka Huggy Basic Wildflowers</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342016</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Poduszka Huggy to ekonomiczna poduszka wielofunkcyjna, która spełni wymagania klientek, które poszukują praktycznych, wygodnych i kompaktowych rozwiązań. Huggy to produkt, który doskonale wpisuje się w dynamiczny tryb życia współczesnych kobiet. Dzięki swojej ergonomii, rozmiarowi i jakości wykonania, idealnie sprawdzi się również podczas podróży. Łatwa w pielęgnacji poduszka w odpinanym pokrowcu wykonanym z miękkiej w dotyku dzianiny bawełnianej i wypełnieniem z poliestrowych kulek. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89956,7 +89813,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 709-000-829 Cebuszka Huggy Basic muślin Small Twings (150x60x37)</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672347561</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis/>
@@ -90185,7 +90042,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 744-000-635 Koło poporodowe Milky Way</nazwa>
 <cena>33.80</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672335728</EAN>
 <grupa>CEBA</grupa>
 <opis>Koło poporodowe to niezbędny artykuł dla każdej mamy rodzącej siłami natury. Koło przynosi ogromną ulgę po porodzie, ukojenie i upragniony komfort. Poduszka poporodowa jest niezbędna, aby mama mogła bez bólu siedzieć, nie narażając podrażnionego krocza na dodatkowe otarcia i uciski, a także aby mogła bezboleśnie karmić w pozycji siedzącej. Koło chroni obolałe krocze. Poduszka wypełniona jest drobnymi kuleczkami - antyalergiczną mikroperłą styropianową, która idealnie dopasowuje się do ciała i stosowana jest w poduszkach medycznych. Wycięcie w samym środku koła umożliwia kobiecie siedzenie bez uciskania na szwy. Koła poporodowe Ceba Baby dodatkowo wyposażone są w materiałowy dozownik, który pozwala na regulację objętości koła. Mama ma możliwość przesypania mikroperły do dozownika zmniejszając tym samym objętość koła, dopasowując je do własnych indywidualnych potrzeb. Materiały, z których wykonane jest koło poporodowe, gwarantują wysoką jakość produktu oraz długotrwałe użytkowanie.</opis>
@@ -90196,7 +90053,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 744-000-671 Koło poporodowe Szare gwiazdki na białym</nazwa>
 <cena>33.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672335759</EAN>
 <grupa>CEBA</grupa>
 <opis>Koło poporodowe to niezbędny artykuł dla każdej mamy rodzącej siłami natury. Koło przynosi ogromną ulgę po porodzie, ukojenie i upragniony komfort. Poduszka poporodowa jest niezbędna, aby mama mogła bez bólu siedzieć, nie narażając podrażnionego krocza na dodatkowe otarcia i uciski, a także aby mogła bezboleśnie karmić w pozycji siedzącej. Koło chroni obolałe krocze. Poduszka wypełniona jest drobnymi kuleczkami - antyalergiczną mikroperłą styropianową, która idealnie dopasowuje się do ciała i stosowana jest w poduszkach medycznych. Wycięcie w samym środku koła umożliwia kobiecie siedzenie bez uciskania na szwy. Koła poporodowe Ceba Baby dodatkowo wyposażone są w materiałowy dozownik, który pozwala na regulację objętości koła. Mama ma możliwość przesypania mikroperły do dozownika zmniejszając tym samym objętość koła, dopasowując je do własnych indywidualnych potrzeb. Materiały, z których wykonane jest koło poporodowe, gwarantują wysoką jakość produktu oraz długotrwałe użytkowanie.</opis>
@@ -100417,7 +100274,7 @@ FUNKCJA STOŁU DO PRZEWIJANIA DZIECKA (PRZEWIJAKA) – FLIP jest również wygod
 <nazwa>COLIBRO Termometr kąpielowy ASTRO</nazwa>
 <cena>20.24</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN> 5908214730308</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Termometr COLIBRO ASTRO 3w1 – termometr kąpielowy, termometr pokojowy i zabawka w jednym
@@ -101913,7 +101770,7 @@ szczotka do czyszczenia butelek i smoczków.</opis>
 <nazwa>Dr.Browns PS11007 Smoczek uspokajający 0-6 m różowy</nazwa>
 <cena>14.71</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>072239317426</EAN>
 <grupa>DR. BROWN'S/SMOCZKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Wykonany w 100% z silikonu klasy medycznej.
@@ -105294,7 +105151,7 @@ Poliester 100%</opis>
 <nazwa>DUET BABY 614 Kocyk Kostka 80x90cm</nazwa>
 <cena>23.49</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908268746140</EAN>
 <grupa> DUET BABY- MARINI</grupa>
 <opis>kod / rozmiar	614 / 90x80 cm
@@ -105453,7 +105310,7 @@ skład	bawełna / akryl</opis>
 <b2b>
 <kod>5903383</kod>
 <nazwa>DUET BABY 688 Kocyk Warkocz</nazwa>
-<cena>61.13</cena>
+<cena>62.34</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5908268746881</EAN>
@@ -105478,7 +105335,7 @@ skład	acryl 100%</opis>
 <b2b>
 <kod>12761</kod>
 <nazwa>DUET BABY 690 Kocyk SOFT 80x90</nazwa>
-<cena>23.05</cena>
+<cena>23.54</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5908268746904</EAN>
@@ -105625,9 +105482,9 @@ skład	wiskoza bambusowa 70% / bawełna 30%</opis>
 <b2b>
 <kod>5914755</kod>
 <nazwa>DUET BABY 738 Kocyk muślin druk + boucle</nazwa>
-<cena>0.00</cena>
+<cena>46.65</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa> DUET BABY- MARINI</grupa>
 <opis/>
@@ -106760,7 +106617,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30824 Krab Mądrala</nazwa>
 <cena>65.27</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692308241</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Tak wiele funkcji zamkniętych w tak niewielkiej, uroczej skorupie! Ten zabawny krabik rozweseli na wiele sposobów, łącząc w sobie walory edukacyjne oraz rozrywkowe. Zabawka posiada dwa tryby działania, statyczny oraz dynamiczny, a w ramach każdego z tych trybów potrafi działać z dźwiękiem lub bez. W trybie dynamicznym krab szybciutko porusza się na boki, a czujniki przeszkody, pomagają mu uniknąć stłuczki. W trybie statycznym zabawka wyświetla na skorupie różne kształty, literki lub cyferki, w zależności od wybranej kategorii edukacyjnych treści, którą aktywujemy, poprzez naciśnięcie jednego z kolorowych przycisków okalających wyświetlacz na skorupie. Zabawka mówi w języku polskim oraz angielskim, a za wybór języka odpowiada przełącznik, znajdujący się z boku kraba.
@@ -107292,7 +107149,7 @@ Zabawka przeznaczona od 12 miesiąca życia.</opis>
 <nazwa>DUMEL DD 32730 Odkrywczy domek</nazwa>
 <cena>182.29</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>661148327307</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Poznaj domek, w którym ukrytych jest mnóstwo rymowanek, a dźwięki domowych przedmiotów zaskoczą Cię realistycznymi odgłosami!
@@ -108927,7 +108784,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <nazwa>EASY GO Fotelik samochodowy BUZ PRO GRANITO</nazwa>
 <cena>629.00</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739530</EAN>
 <grupa>EURO CART/EASY GO/FOTELIKI</grupa>
 <opis>Fotelik samochodowy EASYGO BUZ PRO z obrotową bazą ISOFIX dla dzieci od 40 do 87 cm (0-13kg) ECE R129 I-SIZE
@@ -109065,7 +108922,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa</opis>
 <nazwa>EASY GO Fotelik samochodowy BUZ PRO GREENER</nazwa>
 <cena>629.00</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART/EASY GO</grupa>
 <opis>Fotelik samochodowy EasyGo BUZ PRO z obrotową bazą ISOFIX dla dzieci od 40 do 87 cm (0-13kg) ECE R129 I-SIZE
@@ -109261,7 +109118,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <nazwa>EASY GO Fotelik samochodowy BUZ PRO TAUPE</nazwa>
 <cena>629.00</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739547</EAN>
 <grupa>EURO CART/EASY GO/FOTELIKI</grupa>
 <opis>Fotelik samochodowy EASYGO BUZ PRO z obrotową bazą ISOFIX dla dzieci od 40 do 87 cm (0-13kg) ECE R129 I-SIZE
@@ -110871,7 +110728,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO SAVANA BEIGE</nazwa>
 <cena>960.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739424</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -111097,7 +110954,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy FARO SAGE GREEN</nazwa>
 <cena>322.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214730773</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy z automatycznym systemem składania FARO marki EASYGO – super jakość w niskiej cenie
@@ -112321,7 +112178,7 @@ www.euro-cart.pl</opis>
 <nazwa>EASY GO Wózek dziecięcy TRIX SAVANA BEIGE</nazwa>
 <cena>429.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907573550114</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy TRIX marki EASYGO spacerówka składana automatycznie
@@ -112709,7 +112566,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <nazwa>EASY GO Wózek dziecięcy ZOYA JUNGLE GREEN</nazwa>
 <cena>519.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek dziecięcy ZOYA marki EASYGO – automatycznie składana spacerówka z możliwością zamontowania gondoli lub fotelika samochodowego
@@ -112905,8 +112762,18 @@ Dbamy o ciebie, twoje dzieci i naszą planetę. Wszystkie opakowania eco rascals
 <opis/>
 </b2b>
 <b2b>
+<kod>5914764</kod>
+<nazwa>ESPIRO Adapter do fotelika ( CLODI)</nazwa>
+<cena>55.24</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906724200007</EAN>
+<grupa>ESPIRO/AKCESORIA</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>778481</kod>
-<nazwa>ESPIRO Adapter do fotelików z wózkami Espiro  (Miloo)</nazwa>
+<nazwa>ESPIRO Adapter do fotelika Pi, Avionaut, Maxi-Cosi  (Miloo)</nazwa>
 <cena>62.23</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -113005,6 +112872,36 @@ wygodny i praktyczny materacyk</opis>
 <zdjecia>https://marini.pl/b2b/pictures/24953-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914761</kod>
+<nazwa>ESPIRO Krzesełko do karmienia 4w1 SENSE 07</nazwa>
+<cena>244.03</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724203374</EAN>
+<grupa>ESPIRO/KRZESEŁKA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914767</kod>
+<nazwa>ESPIRO Wózek spacerowy PEARL 09 champagne pearl</nazwa>
+<cena>908.25</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683801768</EAN>
+<grupa>ESPIRO/WÓZKI/PEARL</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914766</kod>
+<nazwa>ESPIRO Wózek spacerowy PEARL 108 brown pearl</nazwa>
+<cena>908.25</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683801966</EAN>
+<grupa>ESPIRO/WÓZKI/PEARL</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>772081</kod>
 <nazwa>ESPIRO Wózek spacerowy SONIC AIR 07</nazwa>
 <cena>700.00</cena>
@@ -113040,6 +112937,56 @@ Długość: 87cm
 Szerokość: 58,5 cm	
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/772081-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914763</kod>
+<nazwa>ESPIRO Wózek spacerowy WAVE PRO 09 taupe rapsody</nazwa>
+<cena>1013.12</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683801805</EAN>
+<grupa>ESPIRO/WÓZKI/WAVE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914762</kod>
+<nazwa>ESPIRO Wózek spacerowy WAVE PRO 19 beige harmony</nazwa>
+<cena>1013.12</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683801829</EAN>
+<grupa>ESPIRO/WÓZKI/WAVE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914768</kod>
+<nazwa>ESPIRO Wózek spacerowy WIND 04 breeze taupe</nazwa>
+<cena>1048.08</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683802093</EAN>
+<grupa>ESPIRO/WÓZKI/WIND</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914769</kod>
+<nazwa>ESPIRO Wózek spacerowy WIND 09 dusty beige</nazwa>
+<cena>1048.08</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683802116</EAN>
+<grupa>ESPIRO/WÓZKI/WIND</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914770</kod>
+<nazwa>ESPIRO Wózek uniwersalny CLODI 08 fashionable brown</nazwa>
+<cena>2096.87</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683802437</EAN>
+<grupa>ESPIRO/WÓZKI/CLODY</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5911361</kod>
@@ -113248,6 +113195,16 @@ Oznaczenie na kartonie</opis>
 <stan>brak</stan>
 <EAN>5905683801089</EAN>
 <grupa>ESPIRO/WÓZKI</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914760</kod>
+<nazwa>ESPIRO Wózek uniwersalny MILOO 319 perfect beige</nazwa>
+<cena>2796.05</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683802314</EAN>
+<grupa>ESPIRO/WÓZKI/MILOO</grupa>
 <opis/>
 </b2b>
 <b2b>
@@ -113526,6 +113483,16 @@ Najważniejsze cechy
 <zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
 </b2b>
 <b2b>
+<kod>5914765</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 529 sahara beige</nazwa>
+<cena>1747.27</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5905683801997</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>782926</kod>
 <nazwa>EURO-CART Baza ISOFIX Czarna</nazwa>
 <cena>284.21</cena>
@@ -113634,7 +113601,7 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Taupe</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
@@ -114705,7 +114672,7 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO IRON</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
@@ -114841,7 +114808,7 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO TAUPE</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
@@ -115078,7 +115045,7 @@ Szerokość opakowania 29 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy EZZO rose</nazwa>
 <cena>295.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214738373</EAN>
 <grupa>EURO CART/EURO CART/WÓZKI</grupa>
 <opis>Wózek spacerowy EZZO marki EURO-CART – idealny wózek typu „parasolka”
@@ -127220,7 +127187,7 @@ Wiek użytkownika:
 <nazwa>FIKI MIKI Materac piankowy FS Air4sleep (MDM 2303) 120x60x11</nazwa>
 <cena>292.85</cena>
 <VAT>8</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902686315155</EAN>
 <grupa>FIKI MIKI/MATERACE</grupa>
 <opis/>
@@ -141256,7 +141223,7 @@ Cechy produktu:
 <nazwa>KATAREK Adapter + do mocniejszych odkurzaczy pionowych</nazwa>
 <cena>23.17</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905279336377</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Poznaj Adapter+ do mocniejszych odkurzaczy pionowych w tym marki Samsung
@@ -141807,7 +141774,7 @@ Oznaczenia w języku polskim
 <nazwa>KATAREK Roztwór soli fizjologicznej 10x5ml NaCI 0,9%</nazwa>
 <cena>7.32</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905279336131</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Katarek roztwór soli fizjologiczny (NaCl 0,9%) to wyrób medyczny w klasie IIa. Może być stosowany u niemowląt od pierwszych dni życia, starszych dzieci, a także u osób dorosłych.
@@ -141837,7 +141804,7 @@ Chlorek sodu, woda oczyszczona.
 <nazwa>KATAREK Roztwór soli fizjologicznej Secure+ 20x5ml NaCI 0,9%</nazwa>
 <cena>15.85</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905279336230</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Sól fizjologiczna Katarek Secure+, której przełomowa konstrukcja ampułki zapewnia zwiększone bezpieczeństwo aplikacji!
@@ -141852,7 +141819,7 @@ Możesz nim również rozcieńczać leki stosowane do inhalacji. Sól fizjologic
 <nazwa>KATAREK Roztwór soli hipertoniczny 18x4ml NaCI 3%</nazwa>
 <cena>15.85</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5905279336292</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Sól hipertoniczna 3% to sterylny hipertoniczny roztwór chlorku sodu (NaCl 3%), który jest  przeznaczony do nebulizacji oraz udrażniania dróg oddechowych. Katarek Roztwór soli hipertoniczny  wspomaga usuwanie wydzieliny z dolnych dróg oddechowych dzięki działaniu osmotycznemu, co jest szczególnie przydatne w przypadku mukowiscydozy, rozstrzeni oskrzeli czy zapalenia oskrzelików. Zapobiega również wysuszaniu błon śluzowych oskrzeli. Może być stosowany u niemowląt, dzieci i dorosłych z użyciem nebulizatorów pneumatycznych lub ultradźwiękowych – najlepiej po konsultacji z lekarzem.
@@ -141966,7 +141933,7 @@ Art. 38. prawa konsumenta
 <nazwa>KATAREK TRAVEL 2w1 Aspirator kataru - zestaw na katar do odkurzacza i aspiracji ustnej</nazwa>
 <cena>47.57</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5905279336155</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Aspirator Katarek Travel 2w1 – do odkurzacza i ustny
@@ -175564,7 +175531,7 @@ funkcje
 <nazwa>LOVI 0273 Butelka Medical+ 150ml duopack</nazwa>
 <cena>22.86</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407904948</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis/>
@@ -175995,7 +175962,7 @@ Twój maluch nie rozstaje się ze swoim ulubionym smoczkiem uspokajającym? Koni
 <nazwa>LOVI 10/893 Łańcuszek do smoczka Night&amp;Day girl</nazwa>
 <cena>12.36</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691877023</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -176567,7 +176534,7 @@ koordynacja ssania, połykania i oddychania</opis>
 <nazwa>LOVI 21/563 Butelka Medical+ 250ml</nazwa>
 <cena>26.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407215631</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis>Butelka do podawania odciągniętego mleka mamy o pojemności 150 ml. Bezpieczna dla dziecka karmionego piersią, ponieważ nie zaburza odruchu ssania (potwierdzone w badaniu medycznym). Wykonana z polipropylenu (bez bisfenolu A). Wyposażona w profesjonalny smoczek dynamiczny zbudowany z niejednorodnych warstw silikonu (cienka, dynamiczna, wydłużająca się końcówka i twarda, profilowana podstawa). Dzięki temu wymaga od dziecka aktywnego ssania: silnej pracy mięśni warg i języka. Przebadana medycznie. Kompatybilna z laktatorami Prolactis i Protect. Teraz z nowym systemem odpowietrzania SUPER vent.
@@ -177047,7 +177014,7 @@ kapsuła do higienicznego przechowywania smoczków</opis>
 <nazwa>LOVI 22/857 Smoczek silikonowy dynamiczny 6-18m 2szt Indian Summer Boy</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407228570</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Dynamiczne smoczki uspokajające LOVI zostały opracowane w wyniku badań z udziałem lekarzy i neurologopedów. Mają symetryczny kształt inspirowany kształtem brodawki sutkowej. Szczególne rozwiązanie polegające na zastosowaniu niejednorodnej warstwy silikonu umożliwia ssanie w indywidualnym rytmie. 
@@ -177062,7 +177029,7 @@ kapsuła do higienicznego przechowywania smoczków</opis>
 <nazwa>LOVI 22/857 Smoczek silikonowy dynamiczny 6-18m 2szt Indian Summer Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691802810</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Dynamiczne smoczki uspokajające LOVI zostały opracowane w wyniku badań z udziałem lekarzy i neurologopedów. Mają symetryczny kształt inspirowany kształtem brodawki sutkowej. Szczególne rozwiązanie polegające na zastosowaniu niejednorodnej warstwy silikonu umożliwia ssanie w indywidualnym rytmie. 
@@ -177191,9 +177158,9 @@ Główka smoczków wykonana jest z silikonu, natomista tarcza i rączka z bezpie
 <b2b>
 <kod>5914747</kod>
 <nazwa>LOVI 22/869 Smoczek silikonowy dynamiczny 0-6m 2 szt Botanic Girl</nazwa>
-<cena>0.00</cena>
+<cena>24.66</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407169309</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis/>
@@ -177225,7 +177192,7 @@ Główka smoczków wykonana jest z silikonu, natomista tarcza i rączka z bezpie
 <nazwa>LOVI 22/871 Smoczek silikonowy dynamiczny 6-18 m 2szt Botanic Boy</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407228716</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis/>
@@ -177236,7 +177203,7 @@ Główka smoczków wykonana jest z silikonu, natomista tarcza i rączka z bezpie
 <nazwa>LOVI 22/871 Smoczek silikonowy dynamiczny 6-18 m 2szt Botanic Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691817333</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis/>
@@ -177872,7 +177839,7 @@ Dynamiczny smoczek uspokajający LOVI został stworzony we współpracy z neurol
 <nazwa>LOVI 22/900 Smoczek silikonowy dynamiczny 0-2m 2 szt Baby Shower Boy</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691853713</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Smoczek silikonowy dynamiczny LOVI 0-2m 2 szt. Baby Shower Girl
@@ -177893,7 +177860,7 @@ nie zaburza prawidłowego rozwoju mowy i zgryzu*
 <nazwa>LOVI 22/900 Smoczek silikonowy dynamiczny 0-2m 2 szt Baby Shower Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691853706</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Smoczek silikonowy dynamiczny LOVI 0-2m 2 szt. Baby Shower Girl
@@ -178004,7 +177971,7 @@ nie zaburza prawidłowego rozwoju mowy i zgryzu pod warunkiem przestrzegania zal
 <nazwa>LOVI 22/903 Smoczek silikonowy dynamiczny 6-18m 2szt Jungle Vibes Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691853775</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Smoczek silikonowy dynamiczny LOVI 6-18m 2 szt. Jungle Vibes 
@@ -178066,6 +178033,16 @@ Gumka smoczka podczas ssania będzie się rozciągać i kurczyć do rytmu, jest 
 Jak już wiadomo, silikon jest najlepszym materiałem do produkcji smoczków a więc i tutaj nie mogło go zabraknąć. Silikon jest bezpieczny dla maluszka, nie posiada smaku ani zapachu.
 Skóra dziecka jest wyjątkowo narażona na wszelkie odparzenia, tarczka smoczka posiada wypustki, po to by właśnie im zapobiec.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/789385-1.jpg https://marini.pl/b2b/pictures/789385-2.jpg https://marini.pl/b2b/pictures/789385-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914772</kod>
+<nazwa>LOVI 22/905_new boy Smoczek silikonowy dynamiczny 0-6 m 2 szt Harmony Boy</nazwa>
+<cena>24.66</cena>
+<VAT>5</VAT>
+<stan>duża ilość</stan>
+<EAN>5903407169576</EAN>
+<grupa>LOVI/USPOKAJANIE</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5914346</kod>
@@ -179271,7 +179248,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/404 Smoczek silikonowy dynamiczny PRIME 0-6m 1 szt Nude</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890350</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179313,7 +179290,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/405 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Blush</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890367</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179355,7 +179332,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/406 Smoczek silikonowy dynamiczny Prime 6-18m 2 szt Nude/Blush</nazwa>
 <cena>29.00</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890374</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179523,7 +179500,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/412 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Pistachio</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691890435</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179649,7 +179626,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/416 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Baby Blue</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890473</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179691,7 +179668,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/417 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Blue</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890480</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179775,7 +179752,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/419 Smoczek silikonowy dynamiczny Prime 18m+ 2szt Baby Blue/Blue</nazwa>
 <cena>29.00</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901691890503</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179817,7 +179794,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/420 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Lilac</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691890510</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179859,7 +179836,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/421 Smoczek silokonowy dynamiczny Prime 0-6m 1 szt Violet</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691890527</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -179901,7 +179878,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/422 Smoczek silikonowy dynamiczny Prime 6-18m 2 szt Lilac/Violet</nazwa>
 <cena>29.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691890534</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -180130,7 +180107,7 @@ kapsel</opis>
 <nazwa>LOVI 35/353 Pierwszy kubek z ustnikiem 150ml. pink</nazwa>
 <cena>21.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407353531</EAN>
 <grupa>LOVI/KARMIENIE PIERSIĄ</grupa>
 <opis>LOVI Pierwszy kubek do picia to idealny kubek dla dziecka do samodzielnej nauki picia od 6m+. Umożliwia łatwą i szybką zmianę sposobu picia z butelki na kubek.?</opis>
@@ -180152,7 +180129,7 @@ kapsel</opis>
 <nazwa>LOVI 35/358 Pierwszy kubek z ustnikiem 150ml. blue</nazwa>
 <cena>21.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691874381</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
 <opis>LOVI Pierwszy kubek do picia to idealny kubek dla dziecka do samodzielnej nauki picia od 6m+. Umożliwia łatwą i szybką zmianę sposobu picia z butelki na kubek.?</opis>
@@ -180229,7 +180206,7 @@ Pierwszy kubek ze słomką LOVI to kubek dla najmłodszych dzieci (6m+), które 
 <nazwa>LOVI 35/368_bei Kubek treningowy Genius 150 ml nude</nazwa>
 <cena>24.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407173825</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
 <opis>Kubek treningowy LOVI Genius 150 ml Nude
@@ -180259,7 +180236,7 @@ Produktu nie należy umieszczać w nagrzanym piekarniku ani ogrzewać na kuchenc
 <nazwa>LOVI 35/368_gre Kubek treningowy Genius 150 ml pistachio</nazwa>
 <cena>24.30</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407173818</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
 <opis>Kubek treningowy LOVI Genius 150 ml Pistachio
@@ -180406,7 +180383,7 @@ Zestaw zawiera:
 <nazwa>LOVI 51/020 Tasiemka do smoczka Baby Shower Boy</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901691835085</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Tasiemka do smoczka to ciekawy i  stylowy dodatek do smoczka i ubranka dziecka. To wielkie udogodnienie dla rodziców oraz nowoczesny design spójny z kolekcją naszych smoczków.
@@ -180427,7 +180404,7 @@ Bezpieczna i trwała
 <nazwa>LOVI 51/020 Tasiemka do smoczka Baby Shower Girl</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5903407510200</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Tasiemka do smoczka to ciekawy i  stylowy dodatek do smoczka i ubranka dziecka. To wielkie udogodnienie dla rodziców oraz nowoczesny design spójny z kolekcją naszych smoczków.
@@ -180708,9 +180685,9 @@ kubek do pojenia</opis>
 <b2b>
 <kod>5914748</kod>
 <nazwa>LOVI 74/106 Butelka szklana 150 ml</nazwa>
-<cena>0.00</cena>
+<cena>28.57</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5903407365015</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis/>
@@ -181902,7 +181879,11 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <stan>średnia ilość</stan>
 <EAN>5903067007584</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
-<opis/>
+<opis>wyjątkowa stabilność przemyślanej konstrukcji
+swoim kształtem odpowiada 99,9% toalet dostępnych na rynku
+największa powierzchnia użytkowa dostępna na rynku podestów dla dzieci
+dzięki grubszym ściankom podest jest wyjątkowo stabilny i nie ulega deformacji pod wpływem nacisku</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5911848-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911847</kod>
@@ -181912,7 +181893,11 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <stan>duża ilość</stan>
 <EAN>5903067007591</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
-<opis/>
+<opis>wyjątkowa stabilność przemyślanej konstrukcji
+swoim kształtem odpowiada 99,9% toalet dostępnych na rynku
+największa powierzchnia użytkowa dostępna na rynku podestów dla dzieci
+dzięki grubszym ściankom podest jest wyjątkowo stabilny i nie ulega deformacji pod wpływem nacisku</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5911847-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5911849</kod>
@@ -181922,7 +181907,11 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <stan>średnia ilość</stan>
 <EAN>5903067007614</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
-<opis/>
+<opis>wyjątkowa stabilność przemyślanej konstrukcji
+swoim kształtem odpowiada 99,9% toalet dostępnych na rynku
+największa powierzchnia użytkowa dostępna na rynku podestów dla dzieci
+dzięki grubszym ściankom podest jest wyjątkowo stabilny i nie ulega deformacji pod wpływem nacisku</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5911849-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910365</kod>
@@ -181951,7 +181940,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Nakładka 2K Lama szałwiowa zieleń</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067017125</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -193245,7 +193234,7 @@ Gramatura: 250g/m2</opis>
 <nazwa>MATEX Poduszka 36x36 KLIN Original [TB0399_01]</nazwa>
 <cena>40.54</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902675067393</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka dla dziecka KlinAIR o wymiarach 36x36 jest przystosowana do niemal każdej gondoli wózka.
@@ -193267,7 +193256,7 @@ Wypełnienie: Pianka poliuretanowa, Pianka Calipore</opis>
 <nazwa>MATEX Poduszka 40x36 AEROKLIN [TB0250_01]</nazwa>
 <cena>59.29</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675040686</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka niemowlęca Aeroklin to idealne rozwiązanie do łóżeczka, wózka czy kołyski.
@@ -193680,7 +193669,7 @@ Podczas karmienia: Poduszka RELAX jest idealnym pomocnikiem. Już w pierwszych d
 <nazwa>MATEX Poduszka termoplastyczna 50x26 MEMO [TB0235]</nazwa>
 <cena>51.73</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902675039505</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka termoplastyczna MEMO.
@@ -215857,7 +215846,7 @@ Gwarancja: 1 rok
 <nazwa>MILLY MALLY 6091 Zestaw mebli Olaf Blocks - Stolik i dwa krzesełka Dark Grey</nazwa>
 <cena>145.74</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761127263</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Zestaw mebli dziecięcych Olaf Blocks - Stolik i dwa krzesełka to wielofunkcyjny komplet, zaprojektowany z myślą o zapewnieniu najmłodszym komfortu i przestrzeni do kreatywnej zabawy oraz nauki. Stolik z dwoma krzesełkami utrzymany jest w stonowanej kolorystyce, co nadaje mu nowoczesny i estetyczny wygląd, pasujący do każdego wnętrza. Występuje w kolorystyce: White, Dark Grey.
@@ -216533,7 +216522,7 @@ Link do etykiety:www.pminvestment.pl/manual/ tinymini_manual.pdf</opis>
 <nazwa>MILLY MALLY 6099 TinyMini JL626-2D Mata edukacyjna 2w1 Basen z piłkami</nazwa>
 <cena>61.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761129991</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>TinyMini JL626-2D to innowacyjna mata edukacyjna 2w1 z funkcją bezpiecznego kojca i basenu z kolorowymi piłkami. Została zaprojektowana z myślą o rozwoju sensorycznym maluszka już od pierwszych dni życia. Wyróżnia się kontrastową kolorystyką (czarno-biały wzór), która pobudza wzrok noworodków oraz stonowanymi pastelowymi dodatkami.
@@ -225920,7 +225909,7 @@ www.pminvestment.pl/manual/qplay_nova_max_manual.pdf</opis>
 <nazwa>MILLY MALLY 6306 Qplay Rowerek Trójkołowy Nova Max Green</nazwa>
 <cena>436.61</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047482209</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>NOVA MAX to nowoczesny, wielofunkcyjny rowerek trójkołowy zaprojektowany z myślą o wygodzie dziecka i komforcie rodzica. Dzięki przemyślanym rozwiązaniom rośnie razem z maluchem i dostosowuje się do jego potrzeb na różnych etapach rozwoju – od spacerów po samodzielną jazdę.
@@ -238067,7 +238056,7 @@ waga z opakowaniem – 2,8 kg.</opis>
 <nazwa>MILLY MALLY Pojazd Monster Black Pink</nazwa>
 <cena>72.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700740</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Quad Monster od Milly Mally, to idealny jeździk dla wszystkich chłopców i dziewczynek, którzy uwielbiają zabawę na świeżym powietrzu… zwłaszcza
@@ -247846,31 +247835,6 @@ Do wyboru jednorożec lub smok.
 <zdjecia>https://marini.pl/b2b/pictures/790845-1.png https://marini.pl/b2b/pictures/790845-2.png</zdjecia>
 </b2b>
 <b2b>
-<kod>790847</kod>
-<nazwa>NICI 43706 Gryzak Smok Dragilu 12cm PROMOCJA!</nazwa>
-<cena>18.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>4012390437065</EAN>
-<grupa>NICI</grupa>
-<opis>Pierwsze ząbkowanie to niezbędny i trudny proces w życiu każdego niemowlaka.
-Pluszowy gryzak smok Dragilu marki My First NICI, nie tylko ułatwia ten etap, ale także wspomaga rozwój zmysłów dziecka. Przyciąga wzrok dzięki uroczemu wzornictwu i jest bardzo przyjemny w dotyku. Struktury powierzchni nietoksycznego plastikowego gryzaka z małymi wypustkami zapewniają ulgę swędzącym dziąsłom i są łatwe do uchwycenia przez małą rączkę. Gryzak jest odpowiedni dla niemowląt od szóstego miesiąca życia</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790847-1.jpg https://marini.pl/b2b/pictures/790847-2.jpg https://marini.pl/b2b/pictures/790847-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790846</kod>
-<nazwa>NICI 43708 Zabawka z pozytywką Smok Dragilu 18cm. Schubert s PROMOCJA!</nazwa>
-<cena>51.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>4012390437089</EAN>
-<grupa>NICI</grupa>
-<opis>Pozytywka Smok Draguli jest nie tylko wykonana z super miękkiego pluszu, który można przytulać i kochać, ale także gra czarującą kołysankę o przyjemnym brzmieniu, gdy pociągnie się za kółko. Dziecko można ukoić, pocieszyć i delikatnie ukołysać do snu dzięki znanej kołysance Schuberta. Za pomocą zielonego sznurka możesz łatwo przymocować pozytywkę do łóżeczka, kołyski, wózka lub fotelika. Pozytywka NICI Smok Draguli to idealny prezent na narodziny dziecka.
-Zabawki z kolekcji My First NICI zostały zaprojektowane z najwyższą starannością przez rodziców małych dzieci, przywiązujących wagę nie tylko do przemyślanego wzornictwa, ale także do wysokiej jakości materiałów oraz bezpieczeństwa zabawy. Nie tylko dziecko jest tu szczęśliwe, ale także rodzice zapewniając dziecku uroczą, wysokiej jakości i bezpieczną zabawkę! 
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790846-1.jpg https://marini.pl/b2b/pictures/790846-2.jpg https://marini.pl/b2b/pictures/790846-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908632</kod>
 <nazwa>NIVEA BABY 80503 Szampon 200 ml</nazwa>
 <cena>11.85</cena>
@@ -247967,31 +247931,6 @@ Zawiera:
 Aqua, Glycerin, Helianthus Annuus Seed Oil, Glyceryl Stearate, Cetyl Alcohol, Stearyl Alcohol, Palmitic Acid, Stearic Acid, Butyrospermum Parkii Butter, Hydrogenated Coco-Glycerides, Prunus Amygdalus Dulcis Oil, Prunus Amygdalus Dulcis Seed Extract, Panthenol, Pantolactone, Citric Acid, Tocopherol, Sodium Ascorbyl Phosphate, Hydroxypropyl Starch Phosphate, Polyglyceryl-2 Caprate, Sodium Hydroxide, Myristic Acid, Arachidic Acid, Oleic Acid, Phenoxyethanol, Parfum
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908626-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908634</kod>
-<nazwa>NIVEA BABY 80546 Żel 2w1 do mycia ciała i włosów na dobranoc 200 ml</nazwa>
-<cena>13.92</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900017090436</EAN>
-<grupa>KOSMETYKI/NIVEA</grupa>
-<opis>NIVEA BABY Żel 2w1 do mycia ciała i włosów na dobranoc. Delikatnie myje ciało i włosy od 1. dnia życia. Nie szczypie w oczy. Wspomaga relaks przed snem dzięki technologii SleepEssence™. Z olejkiem migdałowym i witaminami B5, C i E. Produkt rekomendowany przez Instytut Centrum Zdrowia Matki Polki.
-NAJWAŻNIEJSZE CECHY PRODUKTU
- Od 1. dnia życia
- Delikatnie myje ciało i włosy
- Nie szczypie w oczy
- Wspomaga relaks przed snem dzięki technologii SleepEssence™
- Zawiera w 100% naturalny olejek migdałowy i witaminy B5, C i E
- Tolerancja dla delikatnej i wrażliwej skóry niemowląt i dzieci potwierdzona dermatologicznie
- Produkt rekomendowany przez Instytut Centrum Zdrowia Matki Polki
-Odkryj nowość od NIVEA BABY Żel 2w1 do mycia ciała i włosów na dobranoc, który nie tylko myje ciało i włosy, ale także pomaga chronić i wzmacnia skórę dziecka, wspierając jej naturalny proces rozwoju od 1. dnia życia. Nie szczypie w oczy. Formuła z technologią SleepEssence™ koi oraz wspomaga relaks dziecka przed snem. Zawiera w 100% naturalny olejek migdałowy i witaminy B5, C i E. Stworzony tak aby minimalizować ryzyko alergii**. Produkt rekomendowany przez Instytut Centrum Zdrowia Matki Polki, a jego tolerancja dla delikatnej i wrażliwej skóry niemowląt i dzieci została potwierdzona dermatologicznie. Nasze nowe formuły są łagodne i dbają o delikatną skórę dziecka i naszą planetę. Formuła jest wegańska, biodegradowalna^ i nie zawiera mikroplastiku^^. ^formuła bez składników pochodzenia zwierzęcego, biodegradowalna w 99,9% ^^zgodnie z definicją UNEP **z kompozycją zapachową wolną od alergenów, zidentyfikowanych w opinii SCCS/1459/11
-LISTA SKŁADNIKÓW 
-Nie zawiera Mikroplastików
-
-Zawiera:
-Aqua, Cocamidopropyl Betaine, Glycerin, Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Prunus Amygdalus Dulcis Oil, Tocopheryl Acetate, Sodium Ascorbyl Phosphate, Panthenol, Prunus Amygdalus Dulcis Seed Extract, Lavendula Angustifolia Flower Extract, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Caprylyl Glycol, Potassium Sorbate, Sodium Chloride, Citric Acid, Hydrogenated Coconut Acid, Pantolactone, Sodium Benzoate, Parfum</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908634-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5908629</kod>
@@ -255188,7 +255127,7 @@ Oprócz pieluszek Moussy, w ofercie muślinów bambusowych znajdują się także
 <nazwa>PETITE&amp;MARS 415368 Zestaw pieluszek z muślinu bambusowego 3 szt 68x68 cm Whale Song</nazwa>
 <cena>20.15</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8596202016991</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Otul się miękkością
@@ -266039,7 +265978,7 @@ Wymaga 3 baterii typu AAA 1,5V. Dołączono do zestawu.</opis>
 <nazwa>SMILY PLAY 0176 Mali kumple książeczka gryzak</nazwa>
 <cena>16.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4895038501768</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis/>
@@ -266384,7 +266323,7 @@ Zasilanie: 2 bateria AAA, dołączona do zestawu.</opis>
 <nazwa>SMILY PLAY 0733 Zwierzaki naciśnij i jedź Pies</nazwa>
 <cena>34.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4895038541405</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis/>
@@ -267434,7 +267373,7 @@ Kategorie</opis>
 <nazwa>SMILY PLAY AN85053 Helikopter światło-dźwięk</nazwa>
 <cena>26.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375850531</EAN>
 <grupa>SMILY PLAY/ZABAWKI MUZYCZNE</grupa>
 <opis>HELIKOPTER ŚWIATŁO-DŹWIĘK Helikopter ze światłem i dźwiękiem to dynamiczna zabawka, która zapewnia dzieciom realistyczne doświadczenia lotnicze i rozbudza ich wyobraźnię. Wyposażony w efekty dźwiękowe i świetlne, ten helikopter przyciąga uwagę małych pilotów i fanów lotnictwa. Helikopter ze światłem i dźwiękiem to zabawka, która nie tylko dostarcza rozrywki, ale również inspiruje do kreatywnej zabawy i eksploracji. Dzięki realistycznym efektom dźwiękowym i świetlnym, dzieci mogą odgrywać różne scenariusze lotniczych misji oraz rozwijać swoje zdolności percepcyjne i kreatywne. To idealny wybór dla małych miłośników lotnictwa i przygód na powietrzu. Edukacyjna wartość: Pomaga dzieciom rozwijać wyobraźnię, kreatywność oraz zainteresowanie technologią i lotnictwem. Rozwój zmysłów: Efekty świetlne i dźwiękowe angażują zmysły i wspierają rozwój percepcji słuchowej i wzrokowej. Zabawa interaktywna: Interaktywne funkcje zachęcają do aktywnej zabawy i eksploracji różnych scenariuszy.
@@ -269214,7 +269153,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83944 Lalka Julka uczy, śpiewa</nazwa>
 <cena>29.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905375839444</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>LALKA JULKA UCZY, ŚPIEWA, OPOWIADA SMILY PLAY
@@ -270757,7 +270696,7 @@ Bezpieczeństwo: Wykonana z bezpiecznych i trwałych materiałów, lalka jest od
 <nazwa>SMILY PLAY SP85302 Klocki magnetyczne 112 el.</nazwa>
 <cena>58.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905375853020</EAN>
 <grupa>SMILY PLAY/KLOCKI</grupa>
 <opis/>
@@ -274055,7 +273994,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071019</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -286821,9 +286760,9 @@ Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego k
 <b2b>
 <kod>5914758</kod>
 <nazwa>TREFL 17405 Puzzle 60 Wóz strażacki</nazwa>
-<cena>0.00</cena>
+<cena>8.79</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900511174052</EAN>
 <grupa>TREFL</grupa>
 <opis/>
@@ -286831,9 +286770,9 @@ Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego k
 <b2b>
 <kod>5914759</kod>
 <nazwa>TREFL 17406 Puzzle 60 Traktor koparko - ładowarka</nazwa>
-<cena>0.00</cena>
+<cena>8.79</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900511174069</EAN>
 <grupa>TREFL</grupa>
 <opis/>
@@ -287492,16 +287431,6 @@ Przeznaczone dla dzieci powyżej 8 roku życia</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905550-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5904580</kod>
-<nazwa>TREFL 31340 Puzzle 25 Ramkowe Mapa swiata ze zwierzętami</nazwa>
-<cena>11.22</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900511313406</EAN>
-<grupa>TREFL</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5904582</kod>
 <nazwa>TREFL 31342 Puzzle 25 Ramkowe Układ Słoneczny</nazwa>
 <cena>11.22</cena>
@@ -287627,25 +287556,6 @@ Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały wykorzystane eko
 
 Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały wykorzystane ekologiczne materiały. Puzzle przeznaczone są dla dzieci powyżej 4. roku życia.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/787020-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>789783</kod>
-<nazwa>TREFL 34397 Puzzle 4w1 Mandalorian</nazwa>
-<cena>15.13</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900511343977</EAN>
-<grupa>TREFL</grupa>
-<opis>Nie jedna, nie dwie, ale aż cztery układanki zamknięte w jednym pudełku to prawdziwa gratka dla miłośników puzzli! Po ułożeniu otrzymamy cztery obrazki różnej wielkości z uwielbianymi przez dzieci bohaterami. Zestaw doskonale spełnia oczekiwania rodzeństwa - każdy ułoży swój ulubiony obrazek nawet w tym samym czasie. Zróżnicowana liczba elementów pozwala na zabawę zarówno młodszym, jak i nieco starszym dzieciom. Dodatkowym urozmaiceniem zabawy może być układanie na czas, porównywanie obrazków, szukanie różnic i podobieństw. Piękna grafika i możliwość wspólnego tworzenia to powody, dla których dzieci uwielbiają układać puzzle.
-Puzzle przyjazne dziecku!
-Do produkcji puzzli użyliśmy materiałów ekologicznych i płótnowanego papieru eliminującego odbijanie światła, co gwarantuje bezpieczeństwo i radość zabawy.
-Zawartość pudełka:
-1 układanka 70 elementów
-1 układanka 54 elementy
-1 układanka 48 elementów
-1 układanka 35 elementów
-Dla dzieci w wieku: 4+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/789783-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911391</kod>
@@ -288508,7 +288418,7 @@ Produkt został wykonany w Polsce z dbałością o środowisko i przy użyciu wy
 <nazwa>TREFL 34885 Puzzle 3x80 Świat Stitcha</nazwa>
 <cena>11.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900511348859</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle 3x80 to aż trzy układanki 80 elementów w jednym opakowaniu! Układanie staje się jeszcze ciekawsze i może w nim uczestniczyć więcej maluchów.
@@ -288685,9 +288595,9 @@ Waga opakowania zbiorczego (kg): 0.42</opis>
 <b2b>
 <kod>5914757</kod>
 <nazwa>TREFL 34897 Puzzle 3x80 Zwierzakowe śledztwo /Disney Zootopia</nazwa>
-<cena>0.00</cena>
+<cena>11.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900511348972</EAN>
 <grupa>TREFL</grupa>
 <opis/>
@@ -297927,7 +297837,7 @@ dł: 242mm x wys: 92mm x szer: 270mm</opis>
 <nazwa>Viga 44014 PolarB Autolaweta z samochodzikami</nazwa>
 <cena>39.82</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608440144</EAN>
 <grupa>VIGA</grupa>
 <opis>Auto laweta z samochodami od firmy Viga w nowej kolekcji POLAR BEAR to jedna z najwspanialszych zabawek, która będzie służyła długo i zapewni Twojemu dziecku wiele lat ciekawej i kreatywnej zabawy. Drewniany główny pojazd ma dwa poziomy, na których umieszczone są 3 różnokolorowe auta. Górną płytę można opuścić, tak aby stworzyła rampę, po której zjadą samochody. Dodatkowym atutem jest zamontowany kołeczek dzięki, któremu można było odpiąć lawetę lub swobodnie skręcać naczepą. Drewniane autka sprawdzą się podczas zabawy w domu oraz w terenie. Dziecko chętnie zabierze je do piaskownicy czy plac zabaw. Maluch może odgrywać wiele scenek z pojazdami, co kształtuje jego wyobraźnię.
@@ -297972,7 +297882,7 @@ dł: 375mm x wys: 125mm x szer: 80mm</opis>
 <nazwa>Viga 44016 PolarB piramidka edukacyjna z sorterem</nazwa>
 <cena>40.19</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608440168</EAN>
 <grupa>VIGA</grupa>
 <opis>Kolorowa piramidka edukacyjna z sorterem kształtu od firmy Viga to zabawka którą pokocha każde dziecko. Delikatne pastelowe kolory oraz estetyka wykonania zachęcą każdego malucha do zabawy. Edukacyjny piramidka z sorterem wspomoże rozwój koordynacji wzrokowo-ruchowej jak i pomoże ćwiczyć sprawność rączek. Zabawka rozwija wyobraźnię i uczy kreatywnego myślenia, daje dziecku wiele wariantów zabawy. Zadaniem dziecka jest dopasowywanie ustawienie „kubeczków” jeden na drugim a następnie dopasowanie kształtów klocków do otworów.
@@ -299849,7 +299759,7 @@ Waga: 0,49 kg
 <nazwa>Viga 44216 PolarB Zielony ekspres do kawy</nazwa>
 <cena>42.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6971608442162</EAN>
 <grupa>VIGA</grupa>
 <opis>Seria zabawek PolarB powiększa się o nowości, które nie tylko zachwycają kolorami. Zabawki doskonale wzbogacą posiadane już zabawki do gotowania oraz zabawy w dom.
@@ -302801,7 +302711,7 @@ Zabawka rozwija:
 <nazwa>Viga 50041 Skaczące zwierzątka</nazwa>
 <cena>25.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6934510500412</EAN>
 <grupa>VIGA</grupa>
 <opis>Viga 50041 Skaczące zwierzątka
@@ -304212,7 +304122,7 @@ Układ kolorów zabawek może różnić się od przedstawionych na zdjęciach.
 <nazwa>WADER 10950 Gigant Wózek/przyczepa czerwona</nazwa>
 <cena>59.41</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694109506</EAN>
 <grupa>WADER</grupa>
 <opis>Wózek-przyczepa -  wózek o udźwigu 60 kg, może służyć jako przyczepa do auta/traktora z serii Gigant lub wózek do ciągnięcia po doczepieniu "rączki" (element w zestawie). 
@@ -305569,7 +305479,7 @@ przeznaczone dla dzieci 1+</opis>
 <nazwa>WADER 41134 Szmaragdowa Komnata Zamek zestaw do piasku</nazwa>
 <cena>9.91</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694411340</EAN>
 <grupa>WADER</grupa>
 <opis>Nowa seria Toys in Trends to niecodzienna oferta zabawek w oryginalnych wersjach kolorystycznych dostosowanych do najnowszych obowiązujących trendów aranżacji wnętrz. Stworzyliśmy cztery niepowtarzalne kolekcje zabawek dopasowane kolorystycznie do czterech magicznych pokojów dziecięcych o bajecznych nazwach: Różana Wata Cukrowa, Słoneczny Poranek, Szmaragdowa Komnata oraz Biszkoptowa Chmurka. Szmaragdowa Komnata to połączenie pastelowych odcieni nasyconego turkusu, mlecznej mięty oraz bieli, z którymi doskonale komponują się nasze zabawki: Gigant wywrotka, Kid Cars trio, Misiowa Piramidka, Kręgle, Serwis kawowy oraz Zamek zestaw do piasku.
@@ -305708,7 +305618,7 @@ przeznaczone dla dzieci 1+</opis>
 <nazwa>WADER 41144 Biszkoptowa Chmurka Zamek zestaw do piasku</nazwa>
 <cena>9.91</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694411449</EAN>
 <grupa>WADER</grupa>
 <opis>Nowa seria Toys in Trends to niecodzienna oferta zabawek w oryginalnych wersjach kolorystycznych dostosowanych do najnowszych obowiązujących trendów aranżacji wnętrz. Stworzyliśmy cztery niepowtarzalne kolekcje zabawek dopasowane kolorystycznie do czterech magicznych pokojów dziecięcych o bajecznych nazwach: Różana Wata Cukrowa, Słoneczny Poranek, Szmaragdowa Komnata oraz Biszkoptowa Chmurka. Biszkoptowa Chmurka to połączenie pastelowych odcieni jasnego beżu, mlecznej szarości oraz bieli, z którymi doskonale komponują się nasze zabawki: Gigant wywrotka, Kid Cars trio, Misiowa Piramidka, Kręgle, Serwis kawowy oraz Zamek zestaw do piasku.
@@ -306194,7 +306104,7 @@ komplet zapakowany w estetyczne pudełko, idealne na prezent</opis>
 <nazwa>WADER 50471 Garaż Serwis z drogą</nazwa>
 <cena>80.20</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694504714</EAN>
 <grupa>WADER</grupa>
 <opis>Garaż Serwis z serii Garage to wymarzona zabawka dla każdego fana motoryzacji. Nowoczesny, realistycznie zaprojektowany garaż wyposażony jest w windę transportującą samochody jeden z trzech poziomów, rampę, myjnię samochodową, dystrybutor paliwa, serwis samochodowy, liczne dekoracje, 2 autka oraz system dróg o długości 3 metrów. Wielką zaletą jest kolorowa, lekka i prosta w montażu konstrukcja.
@@ -308632,7 +308542,7 @@ Zaleca się prać ręcznie, nie chlorować, nie wirować, nie czyścić chemiczn
 <nazwa>WOMAR Nosidło Zaffiro City Air grey Leaves</nazwa>
 <cena>172.82</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902745550831</EAN>
 <grupa>WOMAR/NOSIDŁA</grupa>
 <opis>Zaffiro CITY AIR to wysokiej jakości nosidło w przystępnej cenie. Jego główne zalety to niewielki rozmiar oraz waga 0,4 kg dzięki czemu możesz je mieć zawsze przy sobie: w domu, na spacerze, w podróży czy na wakacjach.
@@ -310049,7 +309959,7 @@ Waga:	0.4 kg</opis>
 <nazwa>WOOPIE 43865 Zestaw łopatka i grabki</nazwa>
 <cena>13.10</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Zestaw Łopatka i Grabki od marki WOOPIE. To doskonały wybór na słoneczne i ciepłe dni. Bez tego zestawu nie może się  odbyć żadna wyprawa do piaskownicy, ogrodu czy na plażę. Łopatka oraz grabki  posiadają bardzo mocny, plastikowy trzonek zakończony poręcznym chwytakiem. Zabawa w piasku, kopanie tuneli, budowanie zamków to jedne z najbardziej ulubionych zajęć najmłodszych pobudzające ich kreatywność i wyobraźnię. Bawiąc się w ten sposób dzieci rozwijają swoje umiejętności motoryczne, manualne, koordynację wzrokowo-ruchową oraz myślenie przestrzenne. Jest to również bardzo dobry moment, aby zaprosić do zabawy rówieśników, co ma pozytywny wpływ na rozwój umiejętności społecznych naszych pociech. Zabawka wykonana z wysokiej jakości, nietoksycznego i odpornego na warunki atmosferyczne tworzywa. Całość jest starannie wykończona i bezpieczna w użytkowaniu.
