@@ -973,7 +973,7 @@
     <ean>5710409200943</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>1</stock>
+    <stock>0</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -1565,7 +1565,7 @@
     <ean>5060204031557</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>24</stock>
+    <stock>23</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -2133,7 +2133,7 @@
     <ean>191856075325</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>18</stock>
+    <stock>17</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -3861,7 +3861,7 @@
     <ean>3550833300992</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>36</stock>
+    <stock>38</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -4517,7 +4517,7 @@
     <ean>4779030060129</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>712</stock>
+    <stock>711</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -4525,7 +4525,7 @@
     <ean>4779030060273</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>848</stock>
+    <stock>847</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -6093,7 +6093,7 @@
     <ean>2780015670174</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>54</stock>
+    <stock>53</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -6141,7 +6141,7 @@
     <ean>5055166357685</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>35</stock>
+    <stock>33</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
