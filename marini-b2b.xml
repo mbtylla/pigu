@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-03-25T17:55:06.603">
+<MARINI timestamp="2026-03-26T18:55:05.050">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -2610,7 +2610,7 @@ Przód: 6' (15 cm)</opis>
 <nazwa>4 BABY Wózek spacerowy RAPID XXIV MOKKA</nazwa>
 <cena>350.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959163</EAN>
 <grupa>4BABY/WÓZKI/RAPID</grupa>
 <opis>RAPID XXIV Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowani dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia.
@@ -8895,7 +8895,7 @@ Kolor niebieski</opis>
 <nazwa>AKUKU A1231 Okrycie kąpielowe 80x80 cm 100% bawełna ecru</nazwa>
 <cena>26.05</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644012312</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Praktyczne i delikatne okrycie z kapturkiem jest niezastąpione już od pierwszej kąpieli. Wykonane z wysokiej jakości miękkiej 100% bawełny typu frotte. Znakomicie wchłania wodę i stanowi skuteczną ochronę przed zimnem dla delikatnej skóry dziecka. Luźny fason nie ogranicza i nie krępuje ruchów wykąpanego maluszka, a wszyty kapturek chroni mokrą głowę dziecka przed oziębieniem. Dostępne w sześciu kolorach: turkusowy, ecru, żółty, zielony, niebieski i różowy.
@@ -10840,7 +10840,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 447 Śpiące owieczki</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907001940067</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania miękka MM70 
@@ -13137,7 +13137,7 @@ Tkanina: termofrotta - 82% bawełna, 18% poliester</opis>
 <nazwa>ALBERO MIO Okrycie kąpielowe C015 Sweet Heart World</nazwa>
 <cena>39.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001941057</EAN>
 <grupa>ALBERO MIO/AKCESORIA/OKRYCIA KĄPIELOWE</grupa>
 <opis>Okrycie kąpielowe dla niemowląt to niezastąpiony element wyprawki dla noworodka. Wykonane z wysokiej jakości termofrotty, zapewnia miękkość oraz doskonałe właściwości termoregulacyjne. To sprawia, że dziecko czuje się po kąpieli komfortowo i przytulnie. 
@@ -14910,7 +14910,7 @@ Tkanina: double gauze - 100% bawełna</opis>
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak WM447 Biszkoptowy</nazwa>
 <cena>41.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907001940197</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
 <opis>Przedstawiamy Prześcieradła do gondoli muślinowe 2-pak od Albero mio – niezbędny element wyprawki każdego noworodka. Wykonane z najwyższej jakości bawełny muślinowej, te miękkie i przewiewne prześcieradła zapewniają komfortowy sen i delikatną pielęgnację wrażliwej skóry dziecka. Zestaw zawiera dwa prześcieradła w naturalnych, stonowanych kolorach – które idealnie wpasują się w każdą gondolę.
@@ -17623,7 +17623,7 @@ Tkanina double gauze- 100% bawełna
 <nazwa>ALBERO MIO Rożek niemowlęcy Cotton color CC1 róż</nazwa>
 <cena>67.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001940739</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis>Rożek niemowlęcy wykonany z delikatnego i miękkiej tkaniny double gaze, czyli 100% muślinu bawełnianego, jest idealnym dodatkiem do wyprawki każdego maluszka.
@@ -21764,9 +21764,9 @@ WYM. OPAKOWANIA: 49,5 X 37 X 14,5 CM.</opis>
 <b2b>
 <kod>778705</kod>
 <nazwa>ARTYK 125720 Wesoły Bączek</nazwa>
-<cena>13.76</cena>
+<cena>12.69</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811125720</EAN>
 <grupa>ARTYK</grupa>
 <opis>3 WZORY, WYM. OPK: 13 X 14 X 12 CM., 3+</opis>
@@ -21862,31 +21862,6 @@ Pozostałe informacje:
 - wiek: 3+
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911640-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>781288</kod>
-<nazwa>ARTYK 131240 Auto budowlane zdalnie sterowane Betoniarka TOYS FOR BOYS</nazwa>
-<cena>44.94</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901811131240</EAN>
-<grupa>ARTYK</grupa>
-<opis>BETONIARKA ZDALNIE STEROWANA
- 
-W ZESTAWIE:
-AUTO 27 CM.
-PILOT
-FUNKCJE:
-PEŁEN ZAKRES JAZDY
-ZASIĘGO DO 10 M.
-DZIAŁAJĄCE PRZEDNIE ŚWIATŁA
-SYRENA Z MIGAJĄCYM ŚWIATŁEM I DŹWIĘKIEM
-4 PRZYCISKI DŹWIĘKOWE: WŁĄCZANIA SILNIKA, COFANIA, KLAKSONU, PRACY BETONIARKI
- 
-
-WYM. OPAKOWANIA: 31,5 X 14,5 X 10,5 CM.
-BATERIE: 3 X AG13 1,5V, ZAŁĄCZONE TESTOWE</opis>
-<zdjecia>https://marini.pl/b2b/pictures/781288-1.jpg https://marini.pl/b2b/pictures/781288-2.png https://marini.pl/b2b/pictures/781288-3.png https://marini.pl/b2b/pictures/781288-4.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5909827</kod>
@@ -22245,12 +22220,30 @@ Pozostałe informacje:
 <b2b>
 <kod>5914894</kod>
 <nazwa>ARTYK 142116 Zestaw Farma z traktorem 6 el.</nazwa>
-<cena>0.00</cena>
+<cena>82.04</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811142116</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- traktor
+- stodoła
+- przyczepka
+- stanowisko do dojenia krów
+- figurka rolnika
+- 2 figurki krów
+- 3 figurki narzędzi
+- figurka drzewa
+
+Funkcje:
+- traktor – napęd frykcyjny
+- efekty świetlne
+- odgłosy pracy pojazdu
+
+Pozostałe informacje:
+- baterie: 3 x AG13 dołączone
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914894-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5913950</kod>
@@ -22433,7 +22426,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 160370 Jeżdżąca Sówka</nazwa>
 <cena>3.60</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901811160370</EAN>
 <grupa>ARTYK</grupa>
 <opis>FUNKCJE:
@@ -22534,9 +22527,9 @@ Funkcje:
 <b2b>
 <kod>5909306</kod>
 <nazwa>ARTYK 163708 Auto Straż Pożarna z dźwiękiem i światłem</nazwa>
-<cena>48.93</cena>
+<cena>52.93</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811163708</EAN>
 <grupa>ARTYK</grupa>
 <opis>W zestawie:
@@ -22576,7 +22569,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 168086 Lalka NATALIA mówi po polsku 39 cm w szarym sweterku</nazwa>
 <cena>63.83</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811168086</EAN>
 <grupa>ARTYK</grupa>
 <opis>NACIŚNIJ MÓJ BRZUSZEK I POSŁUCHAJ CO POWIEM!
@@ -22918,12 +22911,24 @@ Pozostałe informacje:
 <b2b>
 <kod>5914896</kod>
 <nazwa>ARTYK 171581 Zestaw pistoletów na naboje piankowe</nazwa>
-<cena>0.00</cena>
+<cena>21.80</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811171581</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- pistolet 24 cm
+- pistolet 12 cm
+- 3 klocki z tarczami
+- 6 nabojów piankowych
+
+Funkcje:
+- po naciśnięciu spustu strzela pociskiem
+
+Pozostałe informacje:
+- wymiary opakowania: 34,5 x 26,5 x 5,5 cm
+- wiek: 6+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914896-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5913452</kod>
@@ -22956,12 +22961,21 @@ Pozostałe informacje:
 <b2b>
 <kod>5914895</kod>
 <nazwa>ARTYK 173530 Łódka zdalnie sterowana</nazwa>
-<cena>0.00</cena>
+<cena>23.63</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811173530</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- łódź dł. 25 cm
+- pilot
+
+Funkcje:
+- pełny zakres poruszania
+- wym. opak. 36 x 11 x 11,2 cm, baterie: 3 x AA (łódź)
+- 2 x AA (pilot) niedołączone
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914895-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5913233</kod>
@@ -23037,9 +23051,9 @@ Pozostałe informacje:
 <b2b>
 <kod>5914350</kod>
 <nazwa>ARTYK 174155 Pluszowy Miś interaktywny E-EDU</nazwa>
-<cena>31.83</cena>
+<cena>27.29</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901811174155</EAN>
 <grupa>ARTYK</grupa>
 <opis>Funkcje:
@@ -23083,12 +23097,13 @@ Pozostałe informacje:
 <b2b>
 <kod>5914899</kod>
 <nazwa>ARTYK 175947 Jeżdżący kurczak</nazwa>
-<cena>0.00</cena>
+<cena>3.60</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901811175947</EAN>
 <grupa>ARTYK</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/5914899-1.png https://marini.pl/b2b/pictures/5914899-2.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914241</kod>
@@ -23115,12 +23130,25 @@ Pozostałe informacje:
 <b2b>
 <kod>5914900</kod>
 <nazwa>ARTYK 176005 Edukacyjna lokomotywa E-EDU</nazwa>
-<cena>0.00</cena>
+<cena>22.73</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811176005</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>Funkcje:
+- przycisk w wydechu lokomotywy aktywuje odgłosy pociągu
+- przyciski ze zwierzątkami aktywują odgłosy psa, ptaka, kota i krótkie dźwięki
+- podświetlany przód lokomotywy
+- napęd free wheel
+- ruch kół sprawia, że trybiki się obracają
+- uchwyt z koralikami
+
+Pozostałe informacje:
+- wymiary zabawki: 19 x 18 x 7 cm
+- wymiary opakowania: 19,6 x 10,1 x 22 cm
+- baterie 2 x aa niedołączone
+- wiek: 18m+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914900-1.png https://marini.pl/b2b/pictures/5914900-2.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5912493</kod>
@@ -23355,9 +23383,9 @@ Pozostałe informacje:
 <b2b>
 <kod>5913148</kod>
 <nazwa>ARTYK 176982 Auto zdalnie sterowane pomarańczowe</nazwa>
-<cena>95.38</cena>
+<cena>99.88</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811176982</EAN>
 <grupa>ARTYK</grupa>
 <opis>- skala 1:8
@@ -23448,7 +23476,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 177040 Auto / Robot dźwig</nazwa>
 <cena>36.41</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811177040</EAN>
 <grupa>ARTYK</grupa>
 <opis>W zestawie:
@@ -23469,7 +23497,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 177057 Auto / Robot wóz gaśniczy</nazwa>
 <cena>36.41</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811177057</EAN>
 <grupa>ARTYK</grupa>
 <opis>W zestawie:
@@ -23542,12 +23570,22 @@ Pozostałe informacje:
 <b2b>
 <kod>5914898</kod>
 <nazwa>ARTYK 177279 Wańka wstańka kurczak</nazwa>
-<cena>0.00</cena>
+<cena>7.21</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901811177279</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>- wys. kurczaka 12 cm
+- 3 kolory do wyboru
+
+Funkcje:
+- kurczaczek kołysze się na boki przy dźwięku dzwoneczków
+- ruchome oczy
+
+Pozostałe informacje:
+- wym. disp. 29,5 x 12,5 x 29 cm
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914898-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914692</kod>
@@ -23736,9 +23774,9 @@ Pozostałe informacje:
 <b2b>
 <kod>5913947</kod>
 <nazwa>ARTYK 179563 Auto wyścigowe zdalnie sterowane</nazwa>
-<cena>20.04</cena>
+<cena>20.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811179563</EAN>
 <grupa>ARTYK</grupa>
 <opis>W zestawie:
@@ -23762,22 +23800,42 @@ Pozostałe informacje:
 <b2b>
 <kod>5914888</kod>
 <nazwa>ARTYK 179594 Auto miejskie Podnośnik Scania</nazwa>
-<cena>0.00</cena>
+<cena>40.61</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811179594</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- podnośnik
+
+Funkcje:
+- napęd frykcyjny
+- efekty świetlne i dźwiękowe
+
+pozostałe informacje:
+- baterie: 2 x AAA 1,5 V niedołączone
+- wiek:3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914888-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914887</kod>
 <nazwa>ARTYK 179600 Auto miejskie Wywrotka Scania</nazwa>
-<cena>0.00</cena>
+<cena>40.61</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811179600</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- wywrotka
+
+Funkcje:
+- napęd frykcyjny
+- efekty świetlne i dźwiękowe
+
+Pozostałe informacje:
+- baterie: 2 x AAA 1,5 V niedołączone
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914887-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914352</kod>
@@ -23854,92 +23912,211 @@ Pozostałe informacje:
 <b2b>
 <kod>5914901</kod>
 <nazwa>ARTYK 180453 Książeczka Malucha E-EDU pojazdy</nazwa>
-<cena>0.00</cena>
+<cena>3.20</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811180453</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>Funkcje:
+- miękkie, szeleszczące strony książeczki stymulują wrażenia sensoryczne
+
+Pozostałe informacje:
+- wym. opak.: 14,5 x 16,5 cm
+- książeczka wym. 10 x 10 cm
+- wiek:0+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914901-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914902</kod>
 <nazwa>ARTYK 180460 Książeczka Malucha E-EDU cyferki</nazwa>
-<cena>0.00</cena>
+<cena>3.20</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811180460</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>Funkcje:
+- miękkie, szeleszczące strony książeczki stymulują wrażenia sensoryczne
+
+Pozostałe informacje:
+- wym. opak.: 14,5 x 16,5 cm
+- książeczka wym. 10 x 10 cm
+- wiek:0+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914902-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914903</kod>
 <nazwa>ARTYK 180477 Książeczka Malucha E-EDU farma</nazwa>
-<cena>0.00</cena>
+<cena>3.20</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811180477</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>Funkcje:
+- miękkie, szeleszczące strony książeczki stymulują wrażenia sensoryczne
+
+Pozostałe informacje:
+- wym. opak.: 14,5 x 16,5 cm
+- książeczka wym. 10 x 10 cm
+- wiek:0+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914903-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914904</kod>
 <nazwa>ARTYK 180484 Książeczka Malucha E-EDU dinozaury</nazwa>
-<cena>0.00</cena>
+<cena>3.20</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811180484</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>Funkcje:
+- miękkie, szeleszczące strony książeczki stymulują wrażenia sensoryczne
+
+Pozostałe informacje:
+- wym. opak.: 14,5 x 16,5 cm
+- książeczka wym. 10 x 10 cm
+- wiek:0+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914904-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914891</kod>
 <nazwa>ARTYK 180644 Zestaw Farma z traktorem 12 el.</nazwa>
-<cena>0.00</cena>
+<cena>63.79</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811180644</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- stodoła wym. 27 x 22 x 14 cm
+- traktor wym. 15 x 9 x 9 cm
+- figurka rolniczki
+- krowa
+- kura
+- kogut
+- podstawka z 4 kurczakami
+- drzewo
+- bańka na mleko
+- wiaderko
+-korytko
+- kostka słomy/paszy
+
+Funkcje:
+- efekty świetlne i dźwiękowe przy traktorze
+
+Dodatkowe informacje:
+- wym. opak.: 41,5 x 24 x 21 cm
+- baterie: 3 x AG13 (traktor) dołączone
+- wiek:3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914891-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914889</kod>
 <nazwa>ARTYK 180651 Zestaw Farma z traktorem 7 el.</nazwa>
-<cena>0.00</cena>
+<cena>41.06</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811180651</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- budynek stajni
+- trakto
+- siewnik
+- figurka farmerki
+- dwa konie
+- drzewo
+
+Funkcje:
+- efekty świetlne i dźwiękowe przy traktorze
+
+Pozostałe informacje:
+- wym. opak. 44 x 12,5 x 18 cm
+- baterie: 3 x AG13 (traktor) dołączone
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914889-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914890</kod>
 <nazwa>ARTYK 180668 Zestaw Farma z traktorem 7 el.</nazwa>
-<cena>0.00</cena>
+<cena>41.06</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811180668</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- traktor wym. 15 x 9 x 9 cm
+- przyczepa-cysterna
+- obora
+- dwie krowy
+- figurka rolnika
+- drzewo
+
+Funkcje:
+- efekty świetlne i dźwiękowe przy traktorze
+
+Pozostałe informacje:
+- wym. opak.: 42,5 x 18 x 16 cm;
+- baterie: 3 x AG13 dołączone;
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914890-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914892</kod>
 <nazwa>ARTYK 180682 Zestaw Farma z traktorem 49 el.</nazwa>
-<cena>0.00</cena>
+<cena>59.31</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811180682</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- traktor
+- zadaszona zagroda
+- 2 konie
+- 4 owce
+- figurka rolnika
+- silos
+- przyczepa
+- widły/łopata
+- taczka
+- drzewko
+- pasza/siano
+- korytko z paszą
+- elementy ogrodzenia
+
+Funkcje:
+- efekty świetlne i dźwiękowe przy traktorze
+
+Pozostałe nformacje:
+- baterie: 3 x AG13 dołączone
+- wiek:3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914892-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914893</kod>
 <nazwa>ARTYK 180705 Zestaw Farma z traktorem 15 el.</nazwa>
-<cena>0.00</cena>
+<cena>77.56</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901811180705</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>W zestawie:
+- stajnia
+- traktor
+- przyczepa do przewozu zwierząt
+- 2 figurki farmerów
+- dwa konie
+- stanowisko do mycia koni
+- koryto na siano/słomę
+- widły, grabie
+- łopata
+- drzewo
+- stojak na siodło
+
+Funkcje:
+- efekty świetlne i dźwiękowe przy traktorze
+
+Pozostałe informacje:
+- baterie: 3 x AG13 dołączone
+- wiek: 3+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914893-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5913361</kod>
@@ -24394,32 +24571,6 @@ Pozostałe informacje:
 <zdjecia>https://marini.pl/b2b/pictures/5914688-1.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5913232</kod>
-<nazwa>ARTYK 187612 Wóz Strażacki zdalnie sterowany</nazwa>
-<cena>38.06</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>ARTYK</grupa>
-<opis>W zestawie:
-- wóz strażacki dł. 26 cm
-- pilot
-
-Funkcje:
-- działające przednie światła
-- wysuwany ruchomy wysięgnik
-- pełny zakres jazdy
-- ustawienie zbieżności kół
-
-Pozostałe informacje:
-- częstotliwość 27 mhz
-- gumowe opony
-- wymiary opakowania: 41 x 17,5 x 12 cm
-- baterie 4 x AA 1,5V (auto) 2 x AA 1,5V (pilot) niedołączone
-- wiek: 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913232-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5913364</kod>
 <nazwa>ARTYK 187681 Autobus piętrowy</nazwa>
 <cena>28.88</cena>
@@ -24591,12 +24742,21 @@ Pozostałe informacje:
 <b2b>
 <kod>5914897</kod>
 <nazwa>ARTYK 188664 Pianinko Malucha E-EDU</nazwa>
-<cena>0.00</cena>
+<cena>17.25</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5901811188664</EAN>
 <grupa>ARTYK</grupa>
-<opis/>
+<opis>Funkcje:
+- 3 tryby zabawy: pianinko, piosenki, odgłosy zwierząt
+- regulacja głośności
+
+Pozostałe informacje:
+- wym. zabawki: 22 x 14,5 x 4,5 cm
+- wym. opak. 25,5 x 19,4 x 5 cm
+- baterie: 2 x AAA 1.5V niedołączone
+- wiek: 12m+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914897-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5906919</kod>
@@ -25964,7 +26124,7 @@ Kolekcja Ultra Air jest zawsze modna. Jasne i kolorowe wzornictwo sprawia, że T
 <nazwa>AVENT SCF080/06 Smoczek Ultra Air Animals 0-6M dziewczynka ptaszek/pingwin</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8710103949374</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Lekki, przepuszczający powietrze smoczek
@@ -27801,7 +27961,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <nazwa>AVENT SCF094/02 Smoczek uspokajający SOOTHER SOFT 0-6 NIGHT&amp;DAY księżyc/sowa</nazwa>
 <cena>26.32</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689049627</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI</grupa>
 <opis/>
@@ -27989,7 +28149,7 @@ Zawartość zestawu - Smoczek uspokajający 2  szt.
 <nazwa>AVENT SCF135/06 Pojemnik do mleka w proszku</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5012909006941</EAN>
 <grupa>AVENT/AKCESORIA</grupa>
 <opis>Idealny w podróży
@@ -30342,7 +30502,7 @@ Smoczek z regulacją przepływu (5 prędkości):
 <nazwa>AVENT SCY966/02 Smoczek Responsywny Natural 6m kaszka Thick feed</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103985174</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Wsparcie naturalnego rytmu ssania niemowlęcia
@@ -31063,7 +31223,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9492 Miluś Koala kropeczki 25 cm</nazwa>
 <cena>15.75</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209894925</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -32635,6 +32795,16 @@ Chiny
 Ostrzeżenie
 OSTRZEŻENIA! Ciągłe i przedłużona ssanie płynów może powodować próchnicę. Zawsze sprawdzać temperaturę pokarmu przed karmieniem. Wyrzucić przy pierwszych oznakach uszkodzenia lub zużycia. Nieużywane części przechowywać w miejscu niedostępnym dla dzieci. Nigdy nie przypinać do sznurków, wstążek, koronek ani luźnych części ubranka. Dziecko może się udusić. Produkt nie jest zabawką. Produkt do użytku pod nadzorem osoby dorosłej.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914379-1.jpg https://marini.pl/b2b/pictures/5914379-2.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914911</kod>
+<nazwa>B.BOX BB001347 Kubek 3w1 zestaw 240 ml Latte</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>9353965013471</EAN>
+<grupa>B.BOX</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5912522</kod>
@@ -45660,7 +45830,7 @@ Każda z pozycji/części zamiennych do dokupienia osobno.</opis>
 <nazwa>B.O. 1901 Termometr elektroniczny elastyczna końcówka DMT-4336</nazwa>
 <cena>10.80</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435416457</EAN>
 <grupa>BABYONO/ELEKTRONIKA/TERMOMETRY</grupa>
 <opis>1901 Nasz termometr elektroniczny z miękką końcówką to wyrób medyczny przeznaczony do łatwego i dokładnego mierzenia temperatury ciała. Zaprojektowaliśmy go z myślą o Twoim maluszku – jego elastyczna, delikatna końcówka zapewnia bezpieczeństwo i komfort w trakcie pomiaru.
@@ -46847,7 +47017,7 @@ w zestawie: miseczka i łyżeczka</opis>
 </b2b>
 <b2b>
 <kod>785311</kod>
-<nazwa>B.O.1065/02 Sztućce dla dzieci ze stali szlachetnej</nazwa>
+<nazwa>B.O.1065/02 Sztućce dla dzieci ze stali szlachetnej szaro różowe</nazwa>
 <cena>9.84</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
@@ -46869,6 +47039,16 @@ Wymiary: 14 x 2,5 cm
 Sztućce nadają się do mycia w zmywarce.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/785311-1.jpg https://marini.pl/b2b/pictures/785311-2.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914906</kod>
+<nazwa>B.O.1065/03 Sztućce dla dzieci ze stali szlachetnej beżowe</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435418598</EAN>
+<grupa>BABYONO/NACZYNIA I SZTUĆCE</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>785828</kod>
@@ -50782,7 +50962,7 @@ Składana
 <nazwa>B.O.1578 Zabawka edukacyjna - zawieszka do wózka i fotelika NATURE</nazwa>
 <cena>25.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416587</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Zawieszka do wózka i fotelika NATURE to sensoryczna zabawka, która pomaga w stymulowaniu zmysłów dotyku i wzroku oraz rozwoju umiejętności motorycznych dziecka. Zamocuj ją na wózku, kołysce lub foteliku, aby dostarczyć maluszkowi rozrywki podczas spacerów i podróży. Na pokrytej przyjemnym w dotyku materiałem zawieszce umieściliśmy grzechoczącego ptaszka, bezpieczne lusterko z wystającymi sznureczkami, szeleszczącego króliczka oraz kółko i gwiazdkę. Ciekawie dobrane elementy zachęcają do ich poznawania i przyciągają uwagę dziecka. Twój maluch jednocześnie bawi się, odkrywa świat i rozwija koordynację wzrokowo-słuchową.
@@ -50972,7 +51152,7 @@ Wiek dziecka
 <nazwa>B.O.1585 Gryzak sensoryczny STAR BALL</nazwa>
 <cena>20.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416570</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
 <opis>Gryzak sensoryczny STAR BALL to idealna zabawka dla niemowląt. Została wykonana w całości z bezpiecznych materiałów, a jej przemyślany projekt wspiera rozwój sensoryczny i motoryczny najmłodszych.
@@ -53307,7 +53487,7 @@ WŁAŚCIWOŚCI TECHNICZNE
 <nazwa>B.O.1664 Taśma zabezpieczająca krawędzie  - bezbarwna 3m</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435417737</EAN>
 <grupa>BABYONO/ZABEZPIECZENIA</grupa>
 <opis>Taśma zabezpieczająca krawędzie – bezbarwna 3m
@@ -53934,7 +54114,7 @@ Wymiary torby: 45 x 12 x 30 cm
 <nazwa>B.O.1672/02 Torba dla mamy / do wózka CAMI beżowa</nazwa>
 <cena>98.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435417942</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
 <opis>Stylowa i wygodna torba dla aktywnej mamy? To nasza torba do wózka CAMI – odzwierciedlenie sportowej elegancji. Dołączyliśmy do niej delikatną apaszkę ze zwierzęcym wzorem, którą zawiążesz na różne sposoby.
@@ -54062,7 +54242,7 @@ Wymiary torby: 45 x 12 x 30 cm
 <nazwa>B.O.1673/01 Kocyk bambusowy różowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435418048</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -54194,7 +54374,7 @@ Wiek dziecka
 <nazwa>B.O.1674/01 Kocyk bambusowy różowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435418086</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -54299,7 +54479,7 @@ Wiek dziecka
 <nazwa>B.O.1674/04 Kocyk bambusowy szałwiowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435418116</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -55440,6 +55620,36 @@ Wymiar: 70x70 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908612-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914907</kod>
+<nazwa>B.O.397/13 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO beżowy</nazwa>
+<cena>0.00</cena>
+<VAT>5</VAT>
+<stan>brak</stan>
+<EAN>5901435418475</EAN>
+<grupa>BABYONO/PIELĘGNACJA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914908</kod>
+<nazwa>B.O.397/14 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO różowy</nazwa>
+<cena>0.00</cena>
+<VAT>5</VAT>
+<stan>brak</stan>
+<EAN>5901435418482</EAN>
+<grupa>BABYONO/PIELĘGNACJA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914909</kod>
+<nazwa>B.O.397/15 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO brązowy</nazwa>
+<cena>0.00</cena>
+<VAT>5</VAT>
+<stan>brak</stan>
+<EAN>5901435418499</EAN>
+<grupa>BABYONO/PIELĘGNACJA</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>776625</kod>
 <nazwa>B.O.398/01 Zestaw do pielęgnacji paznokci dla dzieci i niemowląt MIĘTOWY TAKE CARE</nazwa>
 <cena>15.10</cena>
@@ -55978,6 +56188,16 @@ POPORODOWY PAS BRZUSZNY:
 - łagodzi bóle rany pooperacyjnej dając poczucia bezpieczeństwa
 - ułatwia wczesne wykonywane ćwiczeń gimnastycznych wzmacniających mięśnie brzucha</opis>
 <zdjecia>https://marini.pl/b2b/pictures/8808-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914910</kod>
+<nazwa>B.O.509/12 Podkład do przewijania 60x90 10 szt. + 2 gratis</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5901435417997</EAN>
+<grupa>BABYONO/DLA MAMY</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>769102</kod>
@@ -56756,7 +56976,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/02 Biustonosz do karmienia C75-80 czarny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415061</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -58992,7 +59212,7 @@ WŁAŚCIWOŚCI TECHNICZNE
 <nazwa>B.O.799 Szczotka z naturalnego włosia</nazwa>
 <cena>14.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5901435412299</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Nasza szczotka przeznaczona jest dla dzieci już od pierwszych dni życia. Wykonaliśmy ją z bardzo miękkiego włosia koziego oraz naturalnego, certyfikowanego drewna bukowego. Idealnie nadaje się do pielęgnacji wrażliwej skóry Twojego dziecka.
@@ -65543,7 +65763,7 @@ WYMIARY:
 <cena>91.46</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5902216920729</EAN>
 <grupa>BABY MIX/POJAZDY I HULAJNOGI</grupa>
 <opis/>
 </b2b>
@@ -65552,7 +65772,7 @@ WYMIARY:
 <nazwa>BABY MIX 45834 Dziecięcy jeździk z dźwiękiem RACER czerwony</nazwa>
 <cena>91.46</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902216920712</EAN>
 <grupa>BABY MIX/POJAZDY I HULAJNOGI</grupa>
 <opis>Rewelacyjny jeździk, pchacz RACER, to nie lada gratka dla małych kierowców. Wykonany z solidnych i wytrzymałych materiałów, zapewniających długotrwałe użytkowanie. Model wyposażony w panel dźwiękowy. Jeździdełko pomaga rozwijać umiejętności motoryczne dziecka, a także gwarantuje dużo zabawy i radości.
@@ -77264,7 +77484,7 @@ Nie można używać w sterylizatorze parowym</opis>
 <nazwa>CANPOL 22/580_bei_new Smoczek uspokajający silikonowy symetryczny 0-6m Newborn Baby beżowy</nazwa>
 <cena>6.38</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407164939</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis/>
@@ -77684,7 +77904,7 @@ Nie zawiera BPA</opis>
 <nazwa>CANPOL 22/659 Smoczek silikonowy 6-18m symetryczny Sleepy Koala 2 szt. różowy</nazwa>
 <cena>16.50</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691856073</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Rekomendowany przez specjalistów jako pierwszy smoczek Twojego Maluszka.* Smoczki Light touch stworzono by zapewnić maksymalny komfort najmłodszym dzieciom. Ich wyjątkowo miękka silikonowa gumka wymaga mniej wysiłku podczas ssania, a lekka, profilowana tarczka nie obciąża zgryzu i gwarantuje swobodne oddychanie, co według specjalistów ma istotny wpływ na prawidłowy rozwój jamy ustnej dziecka.** Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecące w ciemności elementy - tarczka lub uchwyt, ułatwiają odnalezienie smoczka nocą. Smoczki Light touch z łatwością utrzymasz w czystości, dzięki nowoczesnemu etui, które może służyć do przechowywania, ale też do szybkiej i wygodnej dezynfekcji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty by zapewnić smoczkom higieniczną czystość. Smoczki Light touch dostępne są w kilku wyjątkowych, inspirowanych najnowszymi trendami kolekcjach i różnych rozmiarach – rosną razem z Twoim Maluszkiem.</opis>
@@ -78530,7 +78750,7 @@ Można używać w zmywarce
 <nazwa>CANPOL 34/920 Smoczek silikonowy 0-6m symetryczny EXOTIC Koala</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901691870130</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 0-6m EXOTIC (panda) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -78706,7 +78926,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/924 Smoczek uspokajający silikonowy 0-6 m symetryczny Cute Animals niebieski</nazwa>
 <cena>5.60</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691889392</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający w kolekcji Cute Animals zrelaksuje i wyciszy Maluszka. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i minimalizuje odciskanie się smoczka na delikatnej buzi dziecka. Dodatkowe otworki wentylacyjne pozwalają skórze oddychać i zapobiegają podrażnieniom. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy upadkiem na ziemię i zabrudzeniem. Smoczek symetryczny Canpol babies 0-6m Cute Animals jest trwały i odporny na odkształcenia oraz bezpieczny i łatwy do utrzymania w czystości. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek silikonowy Canpol babies symetryczny rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m Cute Animals jest dostępny w trzech uroczych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem.
@@ -80579,7 +80799,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 4/413 Kubek plastikowy z uchem dla dziecka 170ml Cute Animals blue 2</nazwa>
 <cena>3.16</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691885844</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek z wesołym wzorem będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Jest lekki i poręczny, idealnie pasuje do dziecięcych dłoni. Dzieci podpatrując dorosłych chcą korzystać z podobnych naczyń, dlatego kubeczek dla niemowląt z uchem jest idealnym rozwiązaniem i bezpieczniejszym w użyciu. Kubek jest wytrzymały, odporny na uszkodzenia i nie tłucze się jak szkło czy ceramika. Kubek o pojemności 170 ml jest przeznaczony dla dzieci powyżej 12 miesiąca życia, które potrafią już samodzielnie pić. Uniwersalny kubeczek dla niemowląt z uchem doskonale nadaje się do codziennego użytku. Jest bardzo praktyczny i wygodny w użytkowaniu – można myć w zmywarce i podgrzewać w mikrofalówce. Kubek dla niemowląt może być używany do gorących i zimnych napojów. Wesołe zwierzaki w kolekcji Cute Animals umilą każdy posiłek Twojemu dziecku – sprawdź inne wzory dostępne w kolekcji.
@@ -83033,7 +83253,7 @@ Kształt spirali - pozwala zamontowac zabawkę w zależności od potrzeb (wózek
 <nazwa>CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys</nazwa>
 <cena>213.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407680774</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Kontrastowa mata edukacyjna SENSORY TOYS posiada elementy interaktywne, które zajmą dziecko na długi czas. Mata w kontrastowych kolorach jest idealna dla dziecka już od pierwszych chwil, ponieważ dziecko na początku widzi tylko kontrasty. Mata wypełniona jest warstwą ociepliny, która izoluje malca od chłodnej podłogi. Mata rośnie razem z dzieckiem, może służyć jako kojec, klasyczna mata z zabawkami na pałąkach oraz mata bez pałąków. Wyposażona jest w 5 zabawek: grzechotki, gryzaki, lusterka. Dodatkową atrakcją jest duże odpinane lusterko, kóre można przypiąć w dowolnym miejscu. Zabawki z pałąków można odpiąć i podać dziecku do zabawy. Mata przeznaczona jest dla dzieci 0m+. Do maty pasują inne zabawki z kolekcji SENSORY TOYS np. zawieszka do wózka , którą bez trudu można zamontować na pałąkach.
@@ -83359,7 +83579,7 @@ Zestaw zawiera 4 dwustronne karty o wymiarach 12 x 12 cm w kontrastowych kolorac
 <nazwa>CANPOL 68/097 Sensoryczna miękka książeczka edukacyjna BabiesBoo</nazwa>
 <cena>26.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167411</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Książeczka sensoryczna to idealna pierwsza lektura dla Maluszka. Jest zapinana na rzep i bezpieczna dla dziecka. Książeczka sensoryczna wspiera naturalny rozwój dziecka aktywizując zmysł wzroku, dotyku i słuchu oraz wspomaga trening zdolności manualnych i ruchowych dla niemowlaków, a także starszaków. Świetnie sprawdza się podczas ćwiczeń na macie. Posiada wiele elementów sensorycznych zwracających uwagę dziecka, pobudzając dziecięcą wyobraźnię i ciekawość, co zachęca dziecko do zabawy, wydłużając czas w leżeniu na brzuszku. Plastikowy zaczep umożliwia zamocowanie zabawki w wózku, bujaku czy foteliku samochodowym, dzięki czemu książeczka zapewni dziecku rozrywkę w domu, na spacerze i w podróży. Książeczka sensoryczna Canpol jest polecana przez fizjoterapeutkę i z pewnością będzie ulubioną zabawką Maluszka. Rekomendowana już od pierwszych tygodni życia Maluszka.</opis>
@@ -83718,7 +83938,7 @@ Kompaktowa - pomieści 8 butelek z akcesoriami.
 <nazwa>CANPOL 74/027 Śliniak silikonowy z kieszonką Bonjour Paris beżowy</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691852341</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis/>
@@ -83740,7 +83960,7 @@ Kompaktowa - pomieści 8 butelek z akcesoriami.
 <nazwa>CANPOL 74/027 Śliniak silikonowy z kieszonką Bonjour Paris granatowy</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691852327</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis/>
@@ -83933,7 +84153,7 @@ W opakowaniu znajduje się 10 sztuk w rozmiarze: 60x60 cm.</opis>
 <nazwa>CANPOL 78/007 Dyskretne podpaski poporodowe ze skrzydełkami Day</nazwa>
 <cena>8.99</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691879058</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Superchłonne podpaski poporodowe Canpol babies są idealnym rozwiązaniem dla kobiet w czasie połogu do użytkowania w domu po wyjściu ze szpitala. Podpaski poporodowe są cieńsze i dyskretniejsze niż podkłady poporodowe, ale również bardzo chłonne i oddychające. Zwykłe podpaski nie sprawdzają się w tej sytuacji. Rozmiar podpaski został dostosowany, tak aby dobrze zabezpieczała przed przeciekaniem. Podpaski poporodowe Canpol babies mają tylko 2,2 mm grubości, ale zapewniają do 100% ochrony przed przeciekaniem i dyskrecję noszenia. Ultrachłonny wkład szybko wchłania płyny i zatrzymuje wilgoć wewnątrz, zapewniając długotrwałe uczucie suchości i komfortu. Dodatkowo wyprofilowany kształt, 4 skrzydełka i szeroki pasek samoprzylepny utrzymują podpaskę na miejscu podczas ruchu i aktywności w ciągu dnia. Miękka wierzchnia warstwa ściśle przylega do wypełnienia podpaski, nie rozwarstwia się zapobiegając przywieraniu do skóry i powstawaniu podrażnień. Jest delikatna dla skóry i całkowicie oddychająca, a technologia neutralizująca nieprzyjemne zapachy pozwala zachować uczucie świeżości.
@@ -84281,7 +84501,7 @@ To wyrób medyczny. Dla bezpieczeństwa stosuj zgodnie z instrukcją lub etykiet
 <nazwa>CANPOL 78/022 Okłady żelowe po porodzie 2 szt</nazwa>
 <cena>13.90</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407172651</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Okłady żelowe po porodzie do terapii ciepłem lub zimnem Canpol babies 2 szt to wszechstronny produkt stworzony z myślą o przywracaniu komfortu Mamy w czasie połogu. Przynosi ulgę po pęknięciu lub nacięciu krocza, po cięciu cesarskim oraz przy hemoroidach. Okłady żelowe można schładzać w lodówce lub zamrażalce lub podgrzewać w kuchence mikrofalowej. Ciepły okład działa kojąco na dyskomfort przy skurczach macicy. Zimny okład wspiera w łagodzeniu obrzęku. Dzięki elastycznej miękkiej powierzchni doskonale dopasowuje się do skóry, a perełki wewnątrz okładu pozostają w niezmienionym kształcie nawet po zamrożeniu. Okład żelowy po porodzie do terapii ciepłem lub zimnem Canpol babies może być stosowany wewnątrz bielizny lub zewnętrznie, np. na bliznę po cięciu cesarskim. Jego rozmiar 25 cm na 5,5 cm odpowiada wymiarom sporej wielkości podpaski. W zestawie z 12 jednorazowymi pokrowcami, które zwiększają komfort i higienę użytkowania po porodzie. Kolejny zapas jednorazowych wymiennych pokrowców jest dostępny do kupienia oddzielnie.</opis>
@@ -85615,7 +85835,7 @@ Waga:
 <nazwa>CEBA 143-000-812 Przewijak miękki mały 50x70 Basic Meadow Fairy</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672346519</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI</grupa>
 <opis/>
@@ -85925,7 +86145,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-783 Przewijak twardy krótki 50x70 Ultra Light Forest Friends</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672345192</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Ultra Light od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -88950,7 +89170,7 @@ Dzięki tym wszystkim cechom zabawka jest odpowiednia dla każdego dziecka, odpo
 <nazwa>CHICCO 00010171020200 Izotoniczny roztwór soli fizjologicznej 2ml 20 sztuk</nazwa>
 <cena>14.18</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8058090045335</EAN>
 <grupa>CHICCO/AKCESORIA/AKCESORIA DO HIGIENY NIEMOWLĄT</grupa>
 <opis>Roztwór soli fizjologicznej, który codziennie oczyszcza i nawilża noski maluchów, wspomagając eliminację nadmiaru śluzu. Może być również stosowany do zewnętrznego oczyszczania oczu poprzez nasączenie gazy roztworem fizjologicznym i delikatne wklepywanie go w oczy dziecka. Wskazany również do terapii aerozolowej. 20 sztuk w opakowaniu.</opis>
@@ -101208,7 +101428,7 @@ Materiał: drewno sosnowe 100%</opis>
 <nazwa>DREWEX Łóżeczko ALEX biały + opuszczany bok</nazwa>
 <cena>420.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902622007250</EAN>
 <grupa>DREWEX/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -101277,7 +101497,7 @@ Wszystko to zapakowane w oryginalny bezpieczny karton chroniący przed uszkodzen
 <nazwa>DREWEX Łóżeczko LAURA biała opuszczany bok 120x60</nazwa>
 <cena>395.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902622004594</EAN>
 <grupa>DREWEX/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -101289,6 +101509,27 @@ Wszystko to zapakowane w oryginalny bezpieczny karton chroniący przed uszkodzen
 Wymiary:
 66x92x128,50 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/772172-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>11937</kod>
+<nazwa>DREWEX Łóżeczko LAURA biała z szufladą 120x60 cm</nazwa>
+<cena>326.00</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5902622001791</EAN>
+<grupa>DREWEX/ŁÓŻECZKA</grupa>
+<opis>Opis produktu:
+
+- wersja z szufldą
+- okragłe szczebelki
+- plastikowe nakładki w standardzie
+- kółka w opcji
+
+Wymiary:
+66x92x128,50 cm
+
+zdjecie poglądowe.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/11937-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5907009</kod>
@@ -101901,7 +102142,7 @@ Wymiary:
 <nazwa>DUET BABY 010 Myjka kąpielowa termofrota</nazwa>
 <cena>3.84</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907180608109</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
 <opis>myjka kąpielowa termofrota
@@ -102618,23 +102859,27 @@ skład	wiskoza bambusowa 70% / bawełna 30%</opis>
 </b2b>
 <b2b>
 <kod>5914755</kod>
-<nazwa>DUET BABY 738 Kocyk muślin druk + boucle</nazwa>
+<nazwa>DUET BABY 738 Kocyk muślin druk + boucle 90x80 cm</nazwa>
 <cena>46.65</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5908268747383</EAN>
 <grupa> DUET BABY- MARINI</grupa>
-<opis/>
+<opis>Kocyk podwójny muślin złote kropki + boucla
+Wymiar: 90 x 80 cm +/-3%
+Surowiec: MUŚLIN - Bawełna 100%
+               BOUCLA - Poliester 100%</opis>
 </b2b>
 <b2b>
 <kod>5914873</kod>
-<nazwa>DUET BABY 742 Kocyk muślin druk 75x90</nazwa>
+<nazwa>DUET BABY 742 Kocyk muślin druk 75x90 cm</nazwa>
 <cena>48.84</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5908268747420</EAN>
 <grupa> DUET BABY- MARINI/DO WÓZKA</grupa>
-<opis/>
+<opis>Kocyk muślin druk
+Wymiar: 90 x 75 cm +/-3%</opis>
 </b2b>
 <b2b>
 <kod>5913136</kod>
@@ -104311,7 +104556,7 @@ Zabawka przeznaczona dla dzieci od 12 m.</opis>
 <nazwa>DUMEL DD 38987 Zegar TIK-TAK</nazwa>
 <cena>72.15</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>672552089873</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Wesoły 2-języczny (angielski/polski) zegar , który poprzez zabawę pomoże Maluszkowi w nauce cyfr, godzin i rozpoznawania kształtów. Kiedy dziecko zacznie przesuwać wskazówkami usłyszy ustawioną przez siebie godzinę. Po przełączeniu na „Quiz” Maluszek będzie miał za zadanie wskazać odpowiednią godzinę. Dodatkowo wesołe melodie i świecące przyciski zachęcą dziecko do zabawy. Zegar posiada wygodny do przenoszenia uchwyt, dzięki któremu Maluszek może zabrać go wszędzie ze sobą.
@@ -113324,7 +113569,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728111 MELLOW Body dł. róż 74</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356728111</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -113423,7 +113668,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728302 MELLOW Body dł. rozpinane niebieskie 62</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356728302</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -113672,7 +113917,7 @@ PRODUKT 100% POLSKI
 <nazwa>EWA 730718 MELLOW Pajac niebieski 56</nazwa>
 <cena>33.60</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356730718</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -115040,7 +115285,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 851840 Spodenki CEREMONY CH szare 62</nazwa>
 <cena>30.55</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356851840</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Spodnie chłopięce z kolekcji "Ceremony" wykonane z miękkiej i przyjemnej w dotyku szarej i granatowej dresówki. Zapinane na guziczek. Posiadają w pasie gumę nie uwierająca brzuszka dziecka. Nogawki posiadają mocowane wywinięcie. Wyprodukowane w Polsce, posiadają certyfikat "Bezpieczny dla dziecka". 100% bawełna</opis>
@@ -115051,7 +115296,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 851857 Spodenki CEREMONY CH szare 68</nazwa>
 <cena>30.55</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356851857</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Spodnie chłopięce z kolekcji "Ceremony" wykonane z miękkiej i przyjemnej w dotyku szarej i granatowej dresówki. Zapinane na guziczek. Posiadają w pasie gumę nie uwierająca brzuszka dziecka. Nogawki posiadają mocowane wywinięcie. Wyprodukowane w Polsce, posiadają certyfikat "Bezpieczny dla dziecka". 100% bawełna</opis>
@@ -115062,7 +115307,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 851864 Spodenki CEREMONY CH szare 74</nazwa>
 <cena>30.55</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356851864</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Spodnie chłopięce z kolekcji "Ceremony" wykonane z miękkiej i przyjemnej w dotyku szarej i granatowej dresówki. Zapinane na guziczek. Posiadają w pasie gumę nie uwierająca brzuszka dziecka. Nogawki posiadają mocowane wywinięcie. Wyprodukowane w Polsce, posiadają certyfikat "Bezpieczny dla dziecka". 100% bawełna</opis>
@@ -115172,7 +115417,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852267 NEWBORN Śpioch biały 56</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356852267</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -115249,7 +115494,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852335 NEWBORN Śpioch szary 62</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356852335</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -115511,9 +115756,9 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <b2b>
 <kod>771968</kod>
 <nazwa>EWA 852571 NEWBORN Pajac biały 62</nazwa>
-<cena>33.32</cena>
+<cena>36.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356852571</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -115776,7 +116021,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 859259 Spodenki CEREMONY CH granat 68</nazwa>
 <cena>30.55</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356859259</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Spodnie chłopięce z kolekcji "Ceremony" wykonane z miękkiej i przyjemnej w dotyku szarej i granatowej dresówki. Zapinane na guziczek. Posiadają w pasie gumę nie uwierająca brzuszka dziecka. Nogawki posiadają mocowane wywinięcie. Wyprodukowane w Polsce, posiadają certyfikat "Bezpieczny dla dziecka". 100% bawełna</opis>
@@ -115809,7 +116054,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 859280 Spodenki CEREMONY CH granat 86</nazwa>
 <cena>30.55</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356859280</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Spodnie chłopięce z kolekcji "Ceremony" wykonane z miękkiej i przyjemnej w dotyku szarej i granatowej dresówki. Zapinane na guziczek. Posiadają w pasie gumę nie uwierająca brzuszka dziecka. Nogawki posiadają mocowane wywinięcie. Wyprodukowane w Polsce, posiadają certyfikat "Bezpieczny dla dziecka". 100% bawełna</opis>
@@ -116125,7 +116370,7 @@ PRODUKT 100% POLSKI</opis>
 <nazwa>EWA 906113 Rękawiczki róż baw.</nazwa>
 <cena>4.43</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5904356906113</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Opakowanie zbiorcze 5 par
@@ -116137,7 +116382,7 @@ Podana cena za 1 parę</opis>
 <nazwa>EWA 906120 Rękawiczki niebieskie baw.</nazwa>
 <cena>4.43</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5904356906120</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Opakowanie zbiorcze 5 par
@@ -116163,7 +116408,7 @@ Podana cena za 1 parę</opis>
 <nazwa>EWA 906144 Rękawiczki białe baw.</nazwa>
 <cena>4.43</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904356906144</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Rękawiczki niemowlęce niedrapki uszyte z miękkiej i przyjemnej w dotyku dzianiny bawełnianej. Zakończone delikatnym bezuciskowym ściągaczem, dzięki temu nie zsuwają sie z malutkich rączek. Rękawiczki niemowlęce bawełniane są elementem obowiązkowym w każdej wyprawce. W pierwszych chwilach życia maluszka, do pierwszego obcięcia paznokci rączki należy zasłonić niedrapkami, aby dziecko nie zadrapało delikatnej skóry twarzy.
@@ -116490,7 +116735,7 @@ PRODUKT 100% POLSKI</opis>
 <nazwa>EWA 906427 Czapka Smerfetka biały 056</nazwa>
 <cena>6.44</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356906427</EAN>
 <grupa> UBRANKA/EWA KLUCZE/CZAPKI</grupa>
 <opis>Czapeczka niemowlęca szara uszyta z miękkiej i przyjemnej w dotyku dzianiny bawełnianej. Czapeczka nie uciska główki dziecka. Czapeczki niemowlęce to obowiązkowy element wyprawki dla niemowląt. Przydadzą się również maluszkom narodzonym w letnich miesiącach. Wybierając czapeczkę dla dzidziusia zwracajmy uwagę na materiał z jakiego jest wykonana. Najlepszym wyborem będzie bawełna, która pozwala na oddychanie skóry dziecka.
@@ -116639,7 +116884,7 @@ PRODUKT 100% POLSKI</opis>
 <nazwa>EWA 906564 Czapka Smerfetka 2-pak róż 50</nazwa>
 <cena>13.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904356906564</EAN>
 <grupa> UBRANKA/EWA KLUCZE/CZAPKI</grupa>
 <opis/>
@@ -118855,7 +119100,7 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <nazwa>EWA 961925 LINDA Koszula ciążowa winogronowa M</nazwa>
 <cena>76.37</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905359961925</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
 <opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
@@ -121781,9 +122026,9 @@ Różne wzory, wysyłane losowo</opis>
 <b2b>
 <kod>789571</kod>
 <nazwa>FIKI MIKI Materac do ćwiczeń ruchowych beż MRR1</nazwa>
-<cena>79.74</cena>
+<cena>80.73</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902686313618</EAN>
 <grupa>FIKI MIKI/MATERACE</grupa>
 <opis/>
@@ -121793,7 +122038,7 @@ Różne wzory, wysyłane losowo</opis>
 <nazwa>FIKI MIKI Materac do ćwiczeń ruchowych biały MRR1</nazwa>
 <cena>80.73</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902686306146</EAN>
 <grupa>FIKI MIKI/MATERACE</grupa>
 <opis>Materac do ćwiczeń ruchowych (Model: MRR1)
@@ -123882,7 +124127,7 @@ GAGAGU zadbało o to, aby wszystkie produkty były estetyczne, funkcjonalne i pr
 <nazwa>GAGAGU GGG0833 Zawieszka Szop Pingwin oponka</nazwa>
 <cena>12.05</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904754608336</EAN>
 <grupa>GAGAGU</grupa>
 <opis>Zestaw maskotek GAGAGU to uroczy i kreatywny komplet zabawek stworzony z myślą o najmłodszych dzieciach. W skład zestawu wchodzą dwie sympatyczne maskotki: szop oraz pingwin, które wykonane są z wysokiej jakości, bezpiecznych dla dzieci materiałów, co sprawia, że są odpowiednie już dla maluszków od 0+.
@@ -139385,7 +139630,7 @@ Pielęgnacja - można prać w pralce w temperaturze 30°C, wirować na obrotach 
 <nazwa>KIECZMERSKI Ochraniacz - warkocz bawełna 100% dł.240 cm beż</nazwa>
 <cena>85.37</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>Ochraniacz Warkocz - to bardzo miękki ochraniacz do łóżeczka dzięki, któremu dziecko ma poczucie bezpieczeństwa i wygody, a rodzice mają pewność, że ich pociecha jest bezpieczna. 
@@ -142699,7 +142944,7 @@ Do wyboru ze wzornika. Nie gwarantujemy dostępności wybranego wzoru.
 <nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą BIANCOLINE biały z koronką</nazwa>
 <cena>46.34</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907803145042</EAN>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
@@ -146365,7 +146610,7 @@ Waga: 3,5 kg</opis>
 <nazwa>KINDERKRAFT Bujaczek MIMI beige</nazwa>
 <cena>152.48</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533920969</EAN>
 <grupa>KINDERKRAFT/BUJACZKI</grupa>
 <opis>Lekki leżaczek MIMI
@@ -146821,9 +147066,9 @@ Waga: 6 kg</opis>
 <b2b>
 <kod>5912486</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy FIX2GO i-Size 76-150 cm black</nazwa>
-<cena>317.47</cena>
+<cena>311.79</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533925889</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>FIX2GO i-Size – Bezpieczeństwo i komfort przez lata
@@ -147254,7 +147499,7 @@ Regulacja pochylenia: 5 pozycji (tyłem i przodem do kierunku jazdy).</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-360 i-Size 40-150cm black</nazwa>
 <cena>433.55</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533923298</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>Fotelik samochodowy 40-150 cm I-360 i-Size Kinderkraft
@@ -147556,9 +147801,9 @@ pomoc@kinderkraft.com
 <b2b>
 <kod>5914880</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-GROW 2 PLUS i-Size black</nazwa>
-<cena>0.00</cena>
+<cena>381.21</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929825</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis/>
@@ -147566,9 +147811,9 @@ pomoc@kinderkraft.com
 <b2b>
 <kod>5914882</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-GROW 2 PLUS i-Size green</nazwa>
-<cena>0.00</cena>
+<cena>381.21</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929849</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis/>
@@ -147576,9 +147821,9 @@ pomoc@kinderkraft.com
 <b2b>
 <kod>5914881</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-GROW 2 PLUS i-Size grey</nazwa>
-<cena>0.00</cena>
+<cena>381.21</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929832</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis/>
@@ -147586,9 +147831,9 @@ pomoc@kinderkraft.com
 <b2b>
 <kod>5914883</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-GROW 2 PLUS i-Size navy</nazwa>
-<cena>0.00</cena>
+<cena>381.21</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929856</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis/>
@@ -147734,9 +147979,9 @@ Waga: 11 kg</opis>
 <b2b>
 <kod>5910125</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-SPARK i-size 100-150cm black</nazwa>
-<cena>179.86</cena>
+<cena>170.69</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533924943</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>I-SPARK to nowoczesne rozwiązanie dla rodziców, którym zależy na komforcie i bezpieczeństwie dziecka podczas podróży. To fotelik samochodowy 2w1 dla dzieci o wzroście 100-150 cm (od ok 3,5 do 12 lat), zgodny z najnowszą normą bezpieczeństwa R129 i-Size. Dzięki zapinaniu na 3-punktowy pas samochodowy montaż fotelika jest szybki i łatwy. I-SPARK jest także lekki (4,5 kg), co ułatwia przenoszenie fotelika z samochodu do samochodu. W razie potrzeby oparcie można zdemontować, tworząc podkładkę dla starszych dzieci.
@@ -147790,9 +148035,9 @@ Tapicerka: poliester</opis>
 <b2b>
 <kod>5909258</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-SPARK i-size 100-150cm green</nazwa>
-<cena>173.36</cena>
+<cena>170.69</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533924967</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>I-SPARK to nowoczesne rozwiązanie dla rodziców, którym zależy na komforcie i bezpieczeństwie dziecka podczas podróży. To fotelik samochodowy 2w1 dla dzieci o wzroście 100-150 cm (od ok 3,5 do 12 lat), zgodny z najnowszą normą bezpieczeństwa R129 i-Size. Dzięki zapinaniu na 3-punktowy pas samochodowy montaż fotelika jest szybki i łatwy. I-SPARK jest także lekki (4,5 kg), co ułatwia przenoszenie fotelika z samochodu do samochodu. W razie potrzeby oparcie można zdemontować, tworząc podkładkę dla starszych dzieci.
@@ -147846,9 +148091,9 @@ Tapicerka: poliester</opis>
 <b2b>
 <kod>5909359</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-SPARK i-size 100-150cm grey</nazwa>
-<cena>173.36</cena>
+<cena>170.69</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533924950</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>I-SPARK to nowoczesne rozwiązanie dla rodziców, którym zależy na komforcie i bezpieczeństwie dziecka podczas podróży. To fotelik samochodowy 2w1 dla dzieci o wzroście 100-150 cm (od ok 3,5 do 12 lat), zgodny z najnowszą normą bezpieczeństwa R129 i-Size. Dzięki zapinaniu na 3-punktowy pas samochodowy montaż fotelika jest szybki i łatwy. I-SPARK jest także lekki (4,5 kg), co ułatwia przenoszenie fotelika z samochodu do samochodu. W razie potrzeby oparcie można zdemontować, tworząc podkładkę dla starszych dzieci.
@@ -147902,9 +148147,9 @@ Tapicerka: poliester</opis>
 <b2b>
 <kod>5909667</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-SPARK i-size 100-150cm pink</nazwa>
-<cena>179.86</cena>
+<cena>172.47</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533924974</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>I-SPARK to nowoczesne rozwiązanie dla rodziców, którym zależy na komforcie i bezpieczeństwie dziecka podczas podróży. To fotelik samochodowy 2w1 dla dzieci o wzroście 100-150 cm (od ok 3,5 do 12 lat), zgodny z najnowszą normą bezpieczeństwa R129 i-Size. Dzięki zapinaniu na 3-punktowy pas samochodowy montaż fotelika jest szybki i łatwy. I-SPARK jest także lekki (4,5 kg), co ułatwia przenoszenie fotelika z samochodu do samochodu. W razie potrzeby oparcie można zdemontować, tworząc podkładkę dla starszych dzieci.
@@ -149360,9 +149605,9 @@ Wewnętrzna wysokość (minimalna): 50 cm</opis>
 <b2b>
 <kod>5912229</kod>
 <nazwa>KINDERKRAFT Hulajnoga FREELY beige</nazwa>
-<cena>153.86</cena>
+<cena>133.14</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533927548</EAN>
 <grupa>KINDERKRAFT/HULAJNOGI</grupa>
 <opis>FREELY – Hulajnoga składana dla całej rodziny
@@ -149600,9 +149845,9 @@ Waga: 4,9 kg</opis>
 <b2b>
 <kod>5914885</kod>
 <nazwa>KINDERKRAFT Hulajnoga HALLEY 2 grassland green</nazwa>
-<cena>0.00</cena>
+<cena>145.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533930180</EAN>
 <grupa>KINDERKRAFT/HULAJNOGI</grupa>
 <opis/>
@@ -149610,9 +149855,9 @@ Waga: 4,9 kg</opis>
 <b2b>
 <kod>5914886</kod>
 <nazwa>KINDERKRAFT Hulajnoga HALLEY 2 rose pink</nazwa>
-<cena>0.00</cena>
+<cena>145.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533930173</EAN>
 <grupa>KINDERKRAFT/HULAJNOGI</grupa>
 <opis/>
@@ -149620,9 +149865,9 @@ Waga: 4,9 kg</opis>
 <b2b>
 <kod>5914884</kod>
 <nazwa>KINDERKRAFT Hulajnoga HALLEY 2 stone white</nazwa>
-<cena>0.00</cena>
+<cena>145.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533930166</EAN>
 <grupa>KINDERKRAFT/HULAJNOGI</grupa>
 <opis/>
@@ -149765,9 +150010,9 @@ Rowerek biegowy: przeznaczony dla dzieci od roku do 20 kg
 <b2b>
 <kod>5912231</kod>
 <nazwa>KINDERKRAFT Hulajnoga RAKET black</nazwa>
-<cena>174.45</cena>
+<cena>145.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533927777</EAN>
 <grupa>KINDERKRAFT/HULAJNOGI</grupa>
 <opis>RAKET – hulajnoga trójkołowa LED, która wspiera rozwój i gwarantuje świetną zabawę!
@@ -149999,9 +150244,9 @@ Waga: 3,2 kg</opis>
 <b2b>
 <kod>5912225</kod>
 <nazwa>KINDERKRAFT Hulajnoga SOLIS black</nazwa>
-<cena>153.86</cena>
+<cena>129.72</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533927401</EAN>
 <grupa>KINDERKRAFT/HULAJNOGI</grupa>
 <opis>SOLIS – sportowa hulajnoga dla dzieci, nastolatków i dorosłych
@@ -150087,7 +150332,7 @@ Waga: 3,1 kg</opis>
 <b2b>
 <kod>5912226</kod>
 <nazwa>KINDERKRAFT Hulajnoga SOLIS pink</nazwa>
-<cena>153.86</cena>
+<cena>138.71</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5902533927418</EAN>
@@ -150417,9 +150662,9 @@ Waga: 5kg</opis>
 <b2b>
 <kod>5911275</kod>
 <nazwa>KINDERKRAFT Krzesełko do karmienia DINNLY GREY</nazwa>
-<cena>132.19</cena>
+<cena>133.14</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533926558</EAN>
 <grupa>KINDERKRAFT/KRZESEŁKA</grupa>
 <opis>Krzesełko do karmienia DINNLY od Kinderkraft
@@ -153749,9 +153994,9 @@ Produkt testowany i zatwierdzony zgodnie z europejskimi standardami bezpieczeńs
 <b2b>
 <kod>5911321</kod>
 <nazwa>KINDERKRAFT Mata edukacyjna COZYPLAY</nazwa>
-<cena>113.77</cena>
+<cena>108.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533926930</EAN>
 <grupa>KINDERKRAFT/MATY</grupa>
 <opis>Mata edukacyjna COZYPLAY — cozy moments, happy play
@@ -154362,9 +154607,9 @@ Waga: 2,88 kg</opis>
 <b2b>
 <kod>784365</kod>
 <nazwa>KINDERKRAFT Rowerek biegowy 2WAY NEXT rose pink</nazwa>
-<cena>98.60</cena>
+<cena>96.72</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533922246</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
 <opis>Rowerek biegowy Kinderkraft 2WAY NEXT
@@ -156614,7 +156859,7 @@ Wysokość rączki rodzica: 92–100 cm</opis>
 <nazwa>KINDERKRAFT Rowerek trójkołowy JAZZ 3 green</nazwa>
 <cena>369.83</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902533929993</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
 <opis>Kinderkraft JAZZ 3 – składany trójkołowiec | 6 trybów
@@ -157059,9 +157304,9 @@ Pojemny kosz i cup holder sprawią, że wszystko będziesz mieć pod ręką.</op
 <b2b>
 <kod>5908781</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy APINO DOVE GREY</nazwa>
-<cena>359.73</cena>
+<cena>352.76</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533924103</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>Wózek spacerowy APINO Kinderkraft
@@ -157127,7 +157372,7 @@ Rozłożony: 93 x 47 x 99 cm</opis>
 <b2b>
 <kod>5908782</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy APINO DUNE BEIGE</nazwa>
-<cena>374.72</cena>
+<cena>358.53</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5902533924110</EAN>
@@ -157195,9 +157440,9 @@ Rozłożony: 93 x 47 x 99 cm</opis>
 <b2b>
 <kod>5908783</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy APINO RAVEN BLACK</nazwa>
-<cena>359.73</cena>
+<cena>352.76</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533924127</EAN>
 <grupa>KINDERKRAFT</grupa>
 <opis>Wózek spacerowy APINO Kinderkraft
@@ -157263,9 +157508,9 @@ Rozłożony: 93 x 47 x 99 cm</opis>
 <b2b>
 <kod>5914877</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy GRANDE 2 midnight black</nazwa>
-<cena>0.00</cena>
+<cena>405.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929580</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis/>
@@ -157273,9 +157518,9 @@ Rozłożony: 93 x 47 x 99 cm</opis>
 <b2b>
 <kod>5914879</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy GRANDE 2 moonlight grey</nazwa>
-<cena>0.00</cena>
+<cena>405.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929610</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis/>
@@ -157283,9 +157528,9 @@ Rozłożony: 93 x 47 x 99 cm</opis>
 <b2b>
 <kod>5914878</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy GRANDE 2 sand beige</nazwa>
-<cena>0.00</cena>
+<cena>405.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929603</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis/>
@@ -157383,9 +157628,9 @@ Wymiary kartonu / waga: 84 x 45 x 20 (cm) / 11,5 kg
 <b2b>
 <kod>5910800</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy Helsi 2 Black</nazwa>
-<cena>477.73</cena>
+<cena>472.24</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533926046</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>Terenowa spacerówka do 27 kg HELSI 2 Kinderkraft
@@ -157553,7 +157798,7 @@ Waga: 11 kg</opis>
 <nazwa>KINDERKRAFT Wózek spacerowy INDY 3 Coal Black</nazwa>
 <cena>248.65</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533926879</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>INDY 3 – kompaktowa spacerówka miejska
@@ -159466,7 +159711,7 @@ Prowadnice kulkowe
 <nazwa>KLUPŚ Komoda AMELIA dąb</nazwa>
 <cena>641.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912244580</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Rozmiar zewnętrzny: 
@@ -159506,7 +159751,7 @@ Prowadnice kulkowe</opis>
 <nazwa>KLUPŚ Komoda DALIA biel-popiel</nazwa>
 <cena>481.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912244863</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Rozmiar zewnętrzny (cm): 80x81x45
@@ -159688,7 +159933,7 @@ Kod EAN: 5901912245877</opis>
 <nazwa>KLUPŚ Komoda PAULINE grafit-dąb</nazwa>
 <cena>546.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912245327</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Komoda PAULINE to przede wszystkim nowoczesność. Głębię grafitu przełamuje drewno sosnowe, które uzupełnia zestaw o ciepły akcent kolorystyczny.
@@ -159704,7 +159949,7 @@ opcjonalna nakładka do przewijania, prowadnice kulkowe
 <nazwa>KLUPŚ Komoda PAULINE grafit-sosna</nazwa>
 <cena>525.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912244993</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda Pauline
@@ -159803,7 +160048,7 @@ trzy szuflady na prowadnicach kulkowych pełen wysuw</opis>
 <nazwa>KLUPŚ Komoda z przewijakiem PAULA II biała</nazwa>
 <cena>414.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245587</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Opis produktu:
@@ -160837,7 +161082,7 @@ Rozmiar zewnętrzny (cm):-54 |9 •73
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 biały</nazwa>
 <cena>96.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912241084</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Opis produktu:
@@ -166457,7 +166702,7 @@ Konstrukcja kojca została wzmocniona za pomocą specjalnych stalowych tub o śr
 <nazwa>LIONELO Kosz na pieluchy Purebin Grey</nazwa>
 <cena>78.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903771725453</EAN>
 <grupa>LIONELO/AKCESORIA</grupa>
 <opis>Lionelo Purebin
@@ -171546,7 +171791,7 @@ płyta MDF, płyta meblowa
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę biel</nazwa>
 <cena>65.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912244528</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Nakładka do przewijania to przydatny dodatek do pokoju każdego dziecka. Posiada zabezpieczenia, które powodują, że bez obaw możesz zająć się pielęgnacją maluszka.
@@ -172048,7 +172293,7 @@ Aby jeszcze bardziej wspierać dzieci w nauce samodzielności, zaprojektowany pr
 <nazwa>LOVI 1/610 Kubek 360 250ml Night&amp;Day Rabbit</nazwa>
 <cena>26.79</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407171500</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
 <opis>Naucz się pić jak dorosły. Kubek 360° NIGHT&amp;DAY jest idealny dla dzieci, które są gotowe do samodzielnego picia. Dzięki innowacyjnej uszczelce umożliwia zassanie płynu z dowolnego miejsca wokół krawędzi. W ten sposób dziecko oswaja się z naturalnym, dorosłym sposobem picia, np. z otwartego kubka i ze szklanki, ale bez rozlewania.
@@ -172560,7 +172805,7 @@ W zestawie:
 <nazwa>LOVI 19/602 Wkładki laktacyjne antybakteryjne Discreet Elegance 40szt białe</nazwa>
 <cena>17.63</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691805248</EAN>
 <grupa>LOVI/KARMIENIE PIERSIĄ</grupa>
 <opis>Wkładki laktacyjne LOVI Discreet Elegance zapewniają ochronę antybakteryjną dla mamy i dla jej dziecka. Specjalny wkład antybakteryjny, z dodatkiem nano-srebra eliminuje określone bakterie i chroni skórę piersi przed ich działaniem *, co daje jeszcze większą higienę i bezpieczeństwo podczas karmienia. ?Antybakteryjne wkładki są wysokochłonne, wkład żelujący wchłania wilgoć i utrzymuje ją z dala od skóry, zapewniając uczucie suchości zarówno w dzień, jak i w nocy. Oddychająca struktura, umożliwia swobodny przepływ powietrza, dzięki czemu wrażliwa skóra piersi nie jest narażona na odparzenia. ?Wkładki z dodatkiem antybakteryjnym są wyjątkowe cienkie i odpowiednio wyprofilowane, wykończone elegancką koronką, więc idealnie dopasowują się do kształtu piersi. Dzięki podwójnemu paskowi samoprzylepnemu wkładka nie przesuwa się wewnątrz biustonosza. Każda wkładka jest pakowana indywidualnie, dla maksymalnej higieny. ?*Różowy element wkładki posiada właściwości antybakteryjne, jego współczynnik hamujący dla bakterii gronkowca złocistego, E.coli oraz drożdżaka Candida albicans? wynosi co najmniej 90% co jest potwierdzone na bazie raportu SGS-CSTC Standards Technical Services (Shanghai) Co., Ltd.
@@ -174126,7 +174371,7 @@ nie zaburza prawidłowego rozwoju mowy i zgryzu pod warunkiem przestrzegania zal
 <nazwa>LOVI 22/905 Smoczek silikonowy dynamiczny 0-3m 2 szt Harmony Boy</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691853805</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Lovi Harmony Smoczek Silikonowy Dynamiczny 0-3 m 
@@ -177390,7 +177635,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Fotelik do kąpieli Classic beżowy</nazwa>
 <cena>10.14</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>MALTEX/FOTELIKI DO KĄPIELI</grupa>
 <opis>Leżaczek do kąpieli od Maltex Baby przeznaczony jest dla niemowlaka do około 6 miesiąca życia. Produkt został odpowiednio zaprojektowany uwzględniając anatomię dziecka i jego bezpieczną pozycję podczas kąpieli. Leżaczek jest szczególnie polecany z matą antypoślizgową która stanowi dodatkowe zabezpieczenie podczas kąpieli dziecka.
@@ -177489,7 +177734,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Fotelik do kąpieli Zebra róż</nazwa>
 <cena>17.18</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067009113</EAN>
 <grupa>MALTEX/FOTELIKI DO KĄPIELI</grupa>
 <opis>Leżaczek do kąpieli z najnowszej kolekcji “Zeberka” od Maltex Baby przeznaczony jest dla niemowlaka do około 6 miesiąca życia. Produkt został odpowiednio zaprojektowany uwzględniając anatomię dziecka i jego bezpieczną pozycję podczas kąpieli. 
@@ -177537,7 +177782,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Fotelik kąpielowy Misiu Leśna Ferajna szary</nazwa>
 <cena>15.32</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067007713</EAN>
 <grupa>MALTEX/FOTELIKI DO KĄPIELI</grupa>
 <opis/>
@@ -177730,7 +177975,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miękka nakładka sedesowa Zebra /niebieski</nazwa>
 <cena>32.52</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067014278</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis>Design, który cieszy oko malucha. Dzięki zastosowaniu elastomera produkt posiada gładkie krawędzie i właścowości antypoślizgowe.Anatomiczny kształt, wygodne oparcie, wysoka osłona antyrozpryskowa, miękkie i komfortowe siedzisko. Produkt łatwy do utrzymania w czystości. Prosty demontaż siedziska pozwala na utrzymanie właściwej higieny.Rozmiar i forma nakładki jest odpowiednia dla 99% desek sedesowych dostępnych na rynku.</opis>
@@ -189216,7 +189461,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Podkład higieniczny SAFE FROTTE 60X120 [TB0243_01]</nazwa>
 <cena>26.65</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675040662</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
 <opis>Podkład higieniczny SAFE frotte z oddychającą membraną
@@ -190725,7 +190970,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło jersey z gumką 80x160 [TB0388_01] białe</nazwa>
 <cena>31.93</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902675062602</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło jersey z gumą na materac roz. 80x160 cm, wys.10-15 cm</opis>
@@ -190755,7 +191000,7 @@ Skład surowcowy:
 <nazwa>MATEX Prześcieradło jersey z gumką 80x160 [TB0388_24] niebieski</nazwa>
 <cena>31.30</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675073394</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradełko bawełniane Jersey z gumką wszytą w tunelu.
@@ -201087,7 +201332,7 @@ Waga z opakowaniem - 9,8 kg</opis>
 <nazwa>MILLY MALLY 4539 Qplay Hulajnoga Sema 3w1 beige</nazwa>
 <cena>168.02</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047481219</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Gdy mały odkrywca rusza by odkrywać świat… Hulajnoga SEMA dopasuje się do wieku i potrzeb dziecka. Należy ona do rodziny produktów GROW UP – rośnie wraz z dzieckiem. SEMA, to idealne rozwiązanie dla aktywnych maluszków, które są w ciągłym ruchu. To nie tylko hulajnoga, to także jeździk dla dzieci w wieku od trzecich urodzin, ale także dotrzyma kroku dziecku w kolejnych etapach rozwoju jako hulajnoga balansowa.
@@ -201144,7 +201389,7 @@ Waga brutto- 4,8 kg</opis>
 <nazwa>MILLY MALLY 4540 Qplay Hulajnoga Sema 3w1 blue</nazwa>
 <cena>168.02</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047481226</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Gdy mały odkrywca rusza by odkrywać świat… Hulajnoga SEMA dopasuje się do wieku i potrzeb dziecka. Należy ona do rodziny produktów GROW UP – rośnie wraz z dzieckiem. SEMA, to idealne rozwiązanie dla aktywnych maluszków, które są w ciągłym ruchu. To nie tylko hulajnoga, to także jeździk dla dzieci w wieku od trzecich urodzin, ale także dotrzyma kroku dziecku w kolejnych etapach rozwoju jako hulajnoga balansowa.
@@ -201201,7 +201446,7 @@ Waga brutto- 4,8 kg</opis>
 <nazwa>MILLY MALLY 4541 Qplay Hulajnoga Sema 3w1 pink</nazwa>
 <cena>168.02</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047481202</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Gdy mały odkrywca rusza by odkrywać świat… Hulajnoga SEMA dopasuje się do wieku i potrzeb dziecka. Należy ona do rodziny produktów GROW UP – rośnie wraz z dzieckiem. SEMA, to idealne rozwiązanie dla aktywnych maluszków, które są w ciągłym ruchu. To nie tylko hulajnoga, to także jeździk dla dzieci w wieku od trzecich urodzin, ale także dotrzyma kroku dziecku w kolejnych etapach rozwoju jako hulajnoga balansowa.
@@ -210561,7 +210806,7 @@ Waga brutto: 6 kg</opis>
 <nazwa>MILLY MALLY 5751 Hulajnoga Scooter FUZZY classic</nazwa>
 <cena>115.25</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761129809</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Scooter FUZZY to trójkołowa balansująca hulajnoga z siedziskiem dla najmłodszych. To popularny wybór wśród rodziców szukających bezpiecznego i atrakcyjnego środka transportu dla swoich dzieci. Idealnie łączy w sobie zabawę i funkcjonalność, wspiera rozwój fizyczny i koordynację ruchową
@@ -212656,7 +212901,7 @@ www.pminvestment.pl/manual/ tinymini_manual.pdf
 <nazwa>MILLY MALLY 6097 TinyMini 382-1B Mata edukacyjna Koala</nazwa>
 <cena>54.89</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761129977</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini 3821B Koala to urocze i funkcjonalne miejsce do zabawy dla najmłodszych dzieci. Zaprojektowana z myślą o rozwoju sensorycznym i motorycznym, przyciąga wzrok maluszka dzięki pastelowym kolorom, kontrastowym wzorom i przyjaznym motywom zwierzątek z dżungli. Idealna od pierwszych dni życia.
@@ -217470,7 +217715,7 @@ www.pminvestment.pl/manual/sparky_manual.pdf</opis>
 <nazwa>MILLY MALLY 6250 Scooter Sparky champagn</nazwa>
 <cena>121.34</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907090700351</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Hulajnoga trójkołowa SPARKY – kolorowa jazda pełna frajdy! Jest to idealny wybór dla dzieci, które cenią sobie dobrą zabawę. Wyposażona w 4-stopniową regulację wysokości kierownicy, rośnie razem z dzieckiem, zapewniając komfort jazdy przez długi czas. Rama wykonana jest z aluminium, co sprawia, że hulajnoga jest lekka.
@@ -218798,7 +219043,7 @@ www.pminvestment.pl/manual/bounzee_manual.pdf</opis>
 <nazwa>MILLY MALLY 6263 Centrum aktywności Bounzee Green</nazwa>
 <cena>151.83</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907090700870</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Centrum Aktywności Bounzee
@@ -219230,7 +219475,7 @@ www.pminvestment.pl/manual/OPTIMUS_max_manual_2024.pdf</opis>
 <nazwa>MILLY MALLY 6267 Rowerek 5w1 OPTIMUS MAX pink</nazwa>
 <cena>153.75</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907090700269</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Optimus Max został zaprojektowany, aby stać się jednym z najlepszych wyborów na pierwszy pojazd twojego dziecka. Dzięki stabilnej trójkołowej konstrukcji zapewnia dziecku odpowiedni poziom bezpieczeństwa i ułatwia zdobywanie nowych umiejętności. Kiedy dziecko ma już opanowane podstawy jazdy i nie wymaga pomocy rodzica poprzez sterowanie rączką do prowadzenia, możemy dodać pedały lub zmienić go w klasyczny rowerek biegowy.
@@ -240819,7 +241064,7 @@ Mömbella® to dynamicznie rozwijająca się marka założona w 2013 roku przez 
 <nazwa>Mombella 00141 Gryzak Grzybek Mushroom Mocha Loca</nazwa>
 <cena>30.10</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5060666872385</EAN>
 <grupa>MOMBELLA</grupa>
 <opis>Mombella Gryzak Grzybek Mushroom Mocha Loca
@@ -243238,7 +243483,7 @@ brutto: 6,5 kg</opis>
 <nazwa>MOOVKEE MIKE Rowerek 6w1 fresh green</nazwa>
 <cena>199.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904722257269</EAN>
 <grupa>MOOVKEE</grupa>
 <opis>Rowerek Mike to wielofunkcyjny rowerek od 1 roku aż do 5 lat. Zmiana z rowerka trójkołowego na biegowy odbywa się za pomocą kliku "kliknięć" nie wymagających żadnych kluczy.
@@ -245555,7 +245800,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM001-G-01 Rajstopy micro 40 den białe 116/122</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204300039</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -245599,7 +245844,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM001-G-01 Rajstopy micro 40 den białe 68/74</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204335468</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -245610,7 +245855,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM001-G-01 Rajstopy micro 40 den białe 80/86</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905204335475</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -248230,7 +248475,7 @@ Prosimy o ponowne sprawdzenie temperatury bezpośrednio przed podaniem dziecku b
 <nazwa>NUK 216343 Butelka 300ml + smoczek +3m FC KOALA</nazwa>
 <cena>31.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4008600446545</EAN>
 <grupa>NUK/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis/>
@@ -248998,7 +249243,7 @@ Smoczek lateksowy NUK Star:
 <nazwa>NUK 730617 Smoczek uspokajający 2 el. 0-6m SIGNATURE biały/zielony</nazwa>
 <cena>20.60</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4008600442363</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis/>
@@ -252429,7 +252674,7 @@ Produkt nie jest zabawką. Dla bezpieczeństwa i zdrowia Twojego dziecka przed p
 <nazwa>PETITE&amp;MARS 581799 Silikonowy gryzak do podawania owoców dla niemowląt Fruzi Green Ochre 6 m+</nazwa>
 <cena>13.61</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8596202015857</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Stałe pokarmy bezpiecznie podane
@@ -264358,7 +264603,7 @@ Specyfikacja:
 <nazwa>SMILY PLAY SP83399 Piłeczki sensoryczne</nazwa>
 <cena>19.34</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905375833992</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Miękkie piłeczki sensoryczne do zabawy dla maluszka. Dziecko chwytając piłki, odkrywa różne faktury; tocząca się kulka może również zachęcać do chwytania jej lub raczkowania.
@@ -265579,7 +265824,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83986 Auto Policja światło dźwięk</nazwa>
 <cena>27.08</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905375839864</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Samochód policyjny na baterie ze światłem i realistycznymi odgłosami auta policyjnego.
@@ -267784,7 +268029,7 @@ KAŻDY FOTELIK POSIADA WKŁAD KTÓRY MOŻNA WYCIĄGNĄĆ OD SPODU ZABAWKI
 </b2b>
 <b2b>
 <kod>5914737</kod>
-<nazwa>SPRINT Fotelik podstawka iSize isofix czarny 15-36kg</nazwa>
+<nazwa>SPRINT Fotelik podstawka iSize isofix czarny</nazwa>
 <cena>85.00</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
@@ -269271,7 +269516,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-003-107 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963015082</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.
@@ -269313,7 +269558,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-003-111 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.beżowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963015051</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.
@@ -269537,7 +269782,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-007-107 Nocnik krzesełko LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>21.05</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071897</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -270302,7 +270547,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA ME-003-165 Fotelik do kąpieli antypoślizgowy METEO turkusowy</nazwa>
 <cena>16.88</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963002433</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.
@@ -271994,6 +272239,22 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <zdjecia>https://marini.pl/b2b/pictures/772405-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>772404</kod>
+<nazwa>TEGA PO-073-108 Nocnik krzesełko z pozytywką LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
+<cena>25.00</cena>
+<VAT>23</VAT>
+<stan>duża ilość</stan>
+<EAN>5902963015709</EAN>
+<grupa>TEGA/NOCNIKI</grupa>
+<opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
+• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.
+• Posiada wysokie oparcie oraz wyjmowany od góry wkład i klapkę.
+• Antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.
+• Produkt posiadajacy certyfikat TÜV Rheinland.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/772404-1.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>772407</kod>
 <nazwa>TEGA PO-073-109 Nocnik krzesełko z pozytywką LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>25.00</cena>
@@ -272107,7 +272368,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-078-123 Nocnik krzesełko z pozytywką METEO różowy</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963002839</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko z pozytywką.
@@ -275148,7 +275409,7 @@ Do 6 miesiąca życia dziecko nie jest w stanie się nachylić, by sięgnąć za
 <nazwa>TINY LOVE TL14055000 Łuk muzyczny z zabawkami DECOR czarno/biały</nazwa>
 <cena>78.03</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108863246</EAN>
 <grupa>TINY LOVE/PAŁĄKI</grupa>
 <opis>Łuk z zabawkami to jedyny w swoim rodzaju produkt, który dołączony do fotelika, leżaczka czy wózka urozmaica czas maluchowi.
@@ -280799,7 +281060,26 @@ Kraj pochodzenia: Polska</opis>
 <stan>średnia ilość</stan>
 <EAN>5900511029659</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>YAPPA to pełna energii, szalona gra towarzyska, w której liczy się refleks, spryt i… stalowe nerwy! Czas na odpowiedź odmierzany jest przez wyjątkowy „zegar” nakręcaną szczękę, która buduje napięcie z każdą sekundą. Nakręć szczękę do oporu, weź kartę i zacznij błyskawicznie udzielać odpowiedzi, zanim czas się skończy! Każde poprawne hasło to cenne punkty, które przybliżają Cię do zwycięstwa. Wydaje się proste? Tylko do momentu, gdy do gry wkroczą różnego rodzaju przeszkadzajki, zabawne utrudnienia, które sprawiają, że nawet najłatwiejsze pytanie potrafi nagle stanowić wyzwanie. Musisz wykazać się kreatywnością, umiejętnością improwizacji i odpornością na presję… a przede wszystkim dobrym humorem. YAPPA gwarantuje salwy śmiechu, emocje do ostatniej sekundy i niezapomniane rozgrywki w gronie rodziny i przyjaciół. Gotowi? Nakręć, kłap i wygraj!
+Gra imprezowa YAPPA – proste zasady, zwariowana rozgrywka
+YAPPA to zwariowana gra towarzyska, w której czas odmierza… nakręcana szczęka!
+
+Nakręć szczękę do oporu i odpowiadaj tak szybko, jak potrafisz, by zdobyć jak najwięcej punktów! Zadanie jest proste: podać jak najwięcej poprawnych odpowiedzi do wylosowanego hasła, zanim szczęka przestanie kłapać. Presja czasu i nieprzewidywalne przeszkadzajki, które mogą utrudnić kolejną rundę, sprawiają, że każda rozgrywka to wybuch śmiechu i solidna dawka zdrowej rywalizacji.
+
+To idealna gra na wieczory ze znajomymi – zasady są proste, ale zabawa tak szybko nabiera tempa, że SZCZENA OPADA! Mnóstwo dwustronnych kart z hasłami zapewnia różnorodność rozgrywki. Gra przeznaczona jest dla 2–6 graczy od 10. roku życia. Średni czas rozgrywki wynosi około 20 minut.
+
+Jak grać w grę towarzyską YAPPA?
+Każdą rundę rozpoczyna odczytanie hasła z karty (a w pudełku czeka aż 168 dwustronnych kart!). Następnie aktywny gracz wprawia w ruch wcześniej nakręconą szczękę – i od tej chwili zegar tyka. Dopóki szczęka kłapie, trzeba wyrzucić z siebie jak najwięcej trafnych odpowiedzi.
+
+Kiedy szczęka się zatrzyma, gracz otrzymuje punkty za poprawne odpowiedzi, przesuwa swój pionek po planszy i aktywuje przeszkadzajkę, która może namieszać w kolejnej rundzie. Zabawa trwa, aż ktoś dotrze do mety (reszta dogrywa swoją turę) lub do rozegrania ustalonej liczby rund. Zwycięża gracz z największą liczbą punktów!
+
+Szczegółowe dane
+EAN: 5900511029659
+Kod produktu: 02965
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Waga opakowania zbiorczego (kg): 0.92</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914874-1.jpg https://marini.pl/b2b/pictures/5914874-2.jpg https://marini.pl/b2b/pictures/5914874-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910281</kod>
@@ -281473,7 +281753,12 @@ Waga opakowania zbiorczego (kg): 0.320000</opis>
 <stan>średnia ilość</stan>
 <EAN>5900511154290</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Puzzle składają się z 160 elementów, po ich ułożeniu powstanie obrazek o wymiarach 410 x 275 mm, przedstawiający bohaterów bajki
+Żywe kolory i przyjazne kształty puzzli zachęcają dzieci do zabawy, a ciekawe ilustracje przyciągają ich wzrok
+Układanie puzzli pobudza ciekawość świata i wyobraźnię, przyjemnie łącząc naukę i zabawę, wycisza dziecko, ćwiczy koncentrację, uczy cierpliwości i spostrzegawczości, buduje pewność siebie
+Puzzle zostały dostosowane do możliwości poznawczych i rozwoju dzieci w różnym wieku
+Doskonały prezent dla każdego dziecka. Wykonane z bezpiecznych, wysokiej jakości naturalnych materiałów</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914697-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914034</kod>
@@ -281920,7 +282205,16 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <stan>duża ilość</stan>
 <EAN>5900511164923</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Pojazd rolnika to puzzle składające się z 60 elementów, zaprojektowane z myślą o małych fanach motoryzacji. Po ułożeniu układanki powstanie obrazek o wymiarach 330x220 mm.
+
+Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru, który odbija światło, co ułatwia układanie. Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały użyte materiały ekologiczne.
+Szczegółowe dane
+EAN: 5900511164923
+Kod produktu: 16492
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Waga opakowania zbiorczego (kg): 0.20</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914696-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912251</kod>
@@ -282784,7 +283078,16 @@ Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego k
 <stan>duża ilość</stan>
 <EAN>5900511174052</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Wóz strażacki to puzzle składające się z 60 elementów, zaprojektowane z myślą o małych fanach motoryzacji. Po ułożeniu układanki powstanie obrazek o wymiarach 330x220 mm.
+
+Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru, który odbija światło, co ułatwia układanie. Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały użyte materiały ekologiczne.
+Szczegółowe dane
+EAN: 5900511174052
+Kod produktu: 17405
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Waga opakowania zbiorczego (kg): 0.20</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914758-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914759</kod>
@@ -282794,7 +283097,16 @@ Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego k
 <stan>duża ilość</stan>
 <EAN>5900511174069</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Traktor koparko-ładowarka to puzzle składające się z 60 elementów, zaprojektowane z myślą o małych fanach motoryzacji. Po ułożeniu układanki powstanie obrazek o wymiarach 330x220 mm.
+
+Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru, który odbija światło, co ułatwia układanie. Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały użyte materiały ekologiczne.
+Szczegółowe dane
+EAN: 5900511174069
+Kod produktu: 17406
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Waga opakowania zbiorczego (kg): 0.20</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914759-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914161</kod>
@@ -283457,7 +283769,16 @@ Przeznaczone dla dzieci powyżej 8 roku życia</opis>
 <stan>duża ilość</stan>
 <EAN>5900511300666</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Państwa Miasta to kultowa gra towarzyska, która od lat rozkręca spotkania z rodziną i znajomymi. Proste zasady, szybkie rundy i mnóstwo śmiechu sprawiają, że to idealna propozycja na każdą okazję - od domówki po spokojny wieczór przy stole. W tej wersji otrzymujesz gotowe arkusze do gry, dzięki którym możecie zacząć zabawę od razu, wystarczy długopis i dobra energia. Jeśli szukasz gry, która łączy pokolenia, nie wymaga przygotowań i zawsze wywołuje emocje, Państwa Miasta to strzał w dziesiątkę.
+
+Szczegółowe dane
+EAN: 5900511300666
+Kod produktu: 30066
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Liczba pudełek w opakowaniu zbiorczym (szt): szt
+Waga opakowania zbiorczego (kg): 0.46</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914860-1.png https://marini.pl/b2b/pictures/5914860-2.png https://marini.pl/b2b/pictures/5914860-3.png https://marini.pl/b2b/pictures/5914860-4.png https://marini.pl/b2b/pictures/5914860-5.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914861</kod>
@@ -283467,7 +283788,16 @@ Przeznaczone dla dzieci powyżej 8 roku życia</opis>
 <stan>duża ilość</stan>
 <EAN>5900511300673</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Państwa Miasta to kultowa gra towarzyska, która od lat rozkręca spotkania z rodziną i znajomymi. Proste zasady, szybkie rundy i mnóstwo śmiechu sprawiają, że to idealna propozycja na każdą okazję - od domówki po spokojny wieczór przy stole. W wersji Sport otrzymujesz gotowe arkusze do gry, dzięki którym możecie zacząć zabawę od razu, wystarczy długopis i dobra energia. Jeśli szukasz gry, która łączy pokolenia, nie wymaga przygotowań i zawsze wywołuje emocje, Państwa Miasta to strzał w dziesiątkę.
+
+Szczegółowe dane
+EAN: 5900511300673
+Kod produktu: 30067
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Liczba pudełek w opakowaniu zbiorczym (szt): szt
+Waga opakowania zbiorczego (kg): 0.46</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914861-1.png https://marini.pl/b2b/pictures/5914861-2.png https://marini.pl/b2b/pictures/5914861-3.png https://marini.pl/b2b/pictures/5914861-4.png https://marini.pl/b2b/pictures/5914861-5.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914862</kod>
@@ -283477,7 +283807,16 @@ Przeznaczone dla dzieci powyżej 8 roku życia</opis>
 <stan>duża ilość</stan>
 <EAN>5900511300697</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Państwa Miasta to kultowa gra towarzyska, która od lat rozkręca spotkania z rodziną i znajomymi. Proste zasady, szybkie rundy i mnóstwo śmiechu sprawiają, że to idealna propozycja na każdą okazję - od domówki po spokojny wieczór przy stole. W wersji Babski wieczór otrzymujesz gotowe arkusze do gry, dzięki którym możecie zacząć zabawę od razu, wystarczy długopis i dobra energia. Jeśli szukasz gry, która łączy pokolenia, nie wymaga przygotowań i zawsze wywołuje emocje, Państwa Miasta to strzał w dziesiątkę.
+
+Szczegółowe dane
+EAN: 5900511300697
+Kod produktu: 30069
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Liczba pudełek w opakowaniu zbiorczym (szt): szt
+Waga opakowania zbiorczego (kg): 0.46</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914862-1.png https://marini.pl/b2b/pictures/5914862-2.png https://marini.pl/b2b/pictures/5914862-3.png https://marini.pl/b2b/pictures/5914862-4.png https://marini.pl/b2b/pictures/5914862-5.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914863</kod>
@@ -283487,7 +283826,15 @@ Przeznaczone dla dzieci powyżej 8 roku życia</opis>
 <stan>duża ilość</stan>
 <EAN>5900511300703</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Państwa Miasta to kultowa gra towarzyska, która od lat rozkręca spotkania z rodziną i znajomymi. Proste zasady, szybkie rundy i mnóstwo śmiechu sprawiają, że to idealna propozycja na każdą okazję - od domówki po spokojny wieczór przy stole. W wersji Lata 90-te otrzymujesz gotowe arkusze do gry, dzięki którym możecie zacząć zabawę od razu, wystarczy długopis i dobra energia. Jeśli szukasz gry, która łączy pokolenia, nie wymaga przygotowań i zawsze wywołuje emocje, Państwa Miasta to strzał w dziesiątkę.
+Szczegółowe dane
+EAN: 5900511300703
+Kod produktu: 30070
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Liczba pudełek w opakowaniu zbiorczym (szt): szt
+Waga opakowania zbiorczego (kg): 0.46</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914863-1.png https://marini.pl/b2b/pictures/5914863-2.png https://marini.pl/b2b/pictures/5914863-3.png https://marini.pl/b2b/pictures/5914863-4.png https://marini.pl/b2b/pictures/5914863-5.png https://marini.pl/b2b/pictures/5914863-6.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914864</kod>
@@ -283497,7 +283844,22 @@ Przeznaczone dla dzieci powyżej 8 roku życia</opis>
 <stan>duża ilość</stan>
 <EAN>5900511300710</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Gotowi na najbardziej absurdalną, zaskakującą i pełną śmiechu rozgrywkę? MaturaToBzdura Quiz to wyjątkowa gra towarzyska inspirowana popularnym kanałem MaturaToBzdura. W środku znajdziesz 400 nieprzewidywalnych pytań, na które… prawie nikt nie zna odpowiedzi!
+
+I o to chodz, tu liczą się sprytne strzały, błyskotliwe zgadywanie i dobra zabawa. Dowiedz się ile osób jest teraz w kosmosie, ile waży mózg kota, albo ile lat minęło od wysłania pierwszego SMS-a.
+
+Odpowiedzi mogą Cię naprawdę zaskoczyć! Gra idealnie sprawdzi się na imprezach, spotkaniach ze znajomymi, rodzinnych wieczorach i wszędzie tam, gdzie liczy się humor oraz rywalizacja w lekkiej, rozrywkowej formie.
+
+Nieważne, ile wiesz – ta gra i tak Cię zaskoczy!
+Szczegółowe dane
+EAN: 5900511300710
+Kod produktu: 30071
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Liczba pudełek w opakowaniu zbiorczym (szt): szt
+Waga opakowania zbiorczego (kg): 0.46
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914864-1.jpg https://marini.pl/b2b/pictures/5914864-2.jpg https://marini.pl/b2b/pictures/5914864-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5904582</kod>
@@ -284669,7 +285031,8 @@ Waga opakowania zbiorczego (kg): 0.42</opis>
 <stan>duża ilość</stan>
 <EAN>5900511348972</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Puzzle 3x80 to aż trzy układanki 80 elementów w jednym opakowaniu! Układanie staje się jeszcze ciekawsze i może w nim uczestniczyć więcej maluchów. Zwierzakowe śledztwo to puzzle przedstawiające bohaterów bajki Zootopia 2. Każda z układanek pozwoli stworzyć obrazek o wymiarach 275x180 mm. Produkt został wykonany w Polsce z dbałością o środowisko i przy użyciu wysokiej jakości materiałów posiadających certyfikat FSC.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914757-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>783982</kod>
@@ -284845,7 +285208,18 @@ Wiek: 2+</opis>
 <stan>duża ilość</stan>
 <EAN>5900511361377</EAN>
 <grupa>TREFL</grupa>
-<opis/>
+<opis>Puzzle Baby to duże układanki z grubego kartonu przeznaczone dla najmniejszych dzieci, są idealne do rozpoczęcia przygody z układaniem puzzli.
+
+Żywe kolory i przyjazne kształty zachęcają maluchy do zabawy. Piękne, kolorowe ilustracje przyciągają wzrok dzieci i sprawiają, że zabawa staje się jeszcze ciekawsza. Układanka przedstawiająca zwierzątka zachęca do poznawania świata poprzez skojarzenia i symbole.
+
+Puzzle składające się z 4 niezależnych układanek, a zróżnicowana liczba elementów w każdej z nich pozwala na zabawę progresywną.
+Szczegółowe dane
+EAN: 5900511361377
+Kod produktu: 36137
+Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
+Kraj pochodzenia: Polska
+Waga opakowania zbiorczego (kg): 0.43</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914695-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914025</kod>
@@ -286153,7 +286527,7 @@ Zabawka zachęca do wspólnych spacerów.</opis>
 <nazwa>TREFL 61688 Zabawka drewniana Pingwin Edwin</nazwa>
 <cena>30.51</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511616880</EAN>
 <grupa>TREFL</grupa>
 <opis>wykonany z jasnego, naturalnego drewna
@@ -286961,45 +287335,6 @@ Dane importera: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.c
 Kraj pochodzenia: Indie
 Waga opakowania zbiorczego (kg): 0.646000</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912196-1.jpg https://marini.pl/b2b/pictures/5912196-2.jpg https://marini.pl/b2b/pictures/5912196-3.png https://marini.pl/b2b/pictures/5912196-4.png https://marini.pl/b2b/pictures/5912196-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5912197</kod>
-<nazwa>TREFL 62605 Skillmatics Foil Fun Zestaw kreatywny Modowe Kreacje</nazwa>
-<cena>45.11</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5900511626056</EAN>
-<grupa>TREFL</grupa>
-<opis>Zestaw Skillmatics Foil Fun – Modowe Kreacje
-Przygotuj się na twórczą przygodę z zestawem kreatywnym Skillmatics Foil Fun –  Modowe Kreacje. Dzięki specjalnej technice ozdabiania folią, dzieci mogą puścić wodze fantazji i tworzyć unikalne stylizacje. To idealna propozycja dla małych miłośniczek i miłośników mody! 
-Zabawa jest niezwykle prosta i intuicyjna – wystarczy odkleić wierzchnią warstwę piankowej naklejki, a następnie przyłożyć wybrany arkusz foliowy i delikatnie go dociskać. Folia przyklei się do lepkiej powierzchni, tworząc efektowne, połyskujące wzory. Im więcej kolorowych dodatków, tym bardziej spektakularny efekt końcowy!
-Zestaw rozwija małą motorykę i koordynację ręka-oko, stymuluje kreatywność i zachęca do twórczej ekspresji. 
-
-Foil Fun – kreatywna zabawa bez bałaganu
-Seria Foil Fun to zestawy kreatywne, które pozwalają dzieciom ozdabiać obrazki bez użycia kleju i farb, co oznacza brak brudzenia i bałaganu – idealne zarówno do domu, jak i w podróży! Przy użyciu foliowych arkuszy i piankowych naklejek dzieci mogą tworzyć połyskujące dzieła sztuki w prosty i angażujący sposób.
-
-Zawartość opakowania
-    • 100 kolorowych arkuszy foliowych,
-    • Ponad 100 piankowych naklejek,
-    • 10 arkuszy z tłami,
-    • Instrukcja krok po kroku.
-
-Skillmatics – z miłości do nauki i zabawy
-Skillmatics to globalna marka tworząca innowacyjne, edukacyjne produkty, które łączą naukę z rozrywką. Seria Dot It! With Magnets oraz Foil Fun zachęca dzieci do rozwijania kreatywności, niezależnie od zainteresowań – w ofercie znajdziesz motywy jednorożców, księżniczek, kosmosu, zwierząt i wielu innych.
-
-Wymiary pudełka: 306 x 237 x 37 mm
-Wiek: 4 lata +
-
-OSTRZEŻENIE! Nieodpowiednie dla dzieci w wieku poniżej 3 lat. Istnieje ryzyko zadławienia się małymi elementami. Przed przekazaniem produktu dziecku należy zdjąć i wyrzucić wszelkie elementy opakowania. Zalecany nadzór osoby dorosłej. Do pewnych materiałów naklejki mogą się przykleić na stałe. Radzimy, aby przed przyklejeniem naklejki do wybranego materiału wykonać test na jego niewidocznej części – pozwoli to sprawdzić, czy naklejkę będzie można bez problemu usunąć. Z biegiem czasu naklejki mogą przykleić się na stałe do dowolnego rodzaju materiału. Zawartość może różnić się od tej przedstawionej na zdjęciach. Opakowanie należy zachować, ponieważ zawiera ważne informacje.
-Rozwiń
-Szczegółowe dane
-EAN: 5900511626056
-Kod produktu: 62605
-Dane producenta: Grasper Global Private Limited, 222A Podar Chambers, 109 S.A. Brelvi Road, Fort, Mumbai – 400001, India, www.skillmaticsworld.com, hello@skillmaticsworld.com
-Dane importera: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
-Kraj pochodzenia: Indie
-Waga opakowania zbiorczego (kg): 0.686000</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912197-1.jpg https://marini.pl/b2b/pictures/5912197-2.png https://marini.pl/b2b/pictures/5912197-3.png https://marini.pl/b2b/pictures/5912197-4.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5912198</kod>
@@ -290182,7 +290517,7 @@ Rozmiar: 5,4cm 6,6cm 7,6cm</opis>
 <nazwa>TULLO 409 Piłka sensoryczna do masażu i rehabilitacji 6,6 cm czerwony</nazwa>
 <cena>7.19</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094774095</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Piłka z kolcami przeznaczona do masażu ciała, rehabilitacji, ćwiczeń fitness, jogi oraz do terapii integracji sensorycznej. Bardzo dobrze sprawdza się podczas zabawy z dziećmi, jest uatrakcyjnieniem zajęć grupowych. Specjalne stożkowe kolce pobudzają receptory czuciowe i poprawiają ukrwienie.
@@ -290340,7 +290675,7 @@ nie zawierają ftalanów, BPA, metali ciężkich</opis>
 <nazwa>TULLO 415 Piłka rehabilitacyjna 5,4cm.zielona</nazwa>
 <cena>6.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094774156</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Piłka z kolcami przeznaczona do masażu ciała, rehabilitacji, ćwiczeń fitness, jogi oraz do terapii integracji sensorycznej. Bardzo dobrze sprawdza się podczas zabawy z dziećmi, jest uatrakcyjnieniem zajęć grupowych. Specjalne stożkowe kolce pobudzają receptory czuciowe i poprawiają ukrwienie.
@@ -291373,7 +291708,7 @@ nie zawierają ftalanów, BPA, metali ciężkich</opis>
 <nazwa>TULLO 474 Półkula sensoryczna zielona</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094774743</EAN>
 <grupa>TULLO</grupa>
 <opis>Półkula sensoryczna przeznaczona do ćwiczeń równowagi, korekcji wad postawy oraz masażu stóp. Bardzo dobrze sprawdza się podczas zabawy z dziećmi, jest uatrakcyjnieniem zajęć grupowych. Specjalne stożkowe kolce pobudzają receptory czuciowe i poprawiają ukrwienie.
@@ -292971,7 +293306,7 @@ ul. Olechowska 83
 <nazwa>TULLO 703 Ścieżka sensoryczna - sensoryczne płytki z cieczą 30 cm 4 szt.</nazwa>
 <cena>182.34</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094777034</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Ścieżka sensoryczna – kolorowe płytki sensoryczne z cieczą 4 szt.
@@ -295211,7 +295546,7 @@ Waga:	0.3 kg</opis>
 <b2b>
 <kod>791038</kod>
 <nazwa>Viga 44088 Drewniane drzewo Peek-a-Boo</nazwa>
-<cena>24.06</cena>
+<cena>14.99</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN/>
@@ -296837,7 +297172,91 @@ Waga brutto: 0,8 kg</opis>
 <stan>mała ilość</stan>
 <EAN>6971608442568</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Przepiękny, drewniany dwupoziomowy domek dla lalek z mebelkami marki PolarB by Viga to marzenie każdego dziecka! Utrzymany w delikatnej pastelowej kolorystyce różu, bieli i naturalnego drewna, domek zachwyca zarówno wyglądem, jak i funkcjonalnością. To idealna zabawka, która pobudza wyobraźnię i zachęca do kreatywnej zabawy w odgrywanie ról.
+
+Domek posiada dwa piętra oraz liczne pomieszczenia urządzone w realistycznym stylu — salon, kuchnię, sypialnię i łazienkę. W zestawie znajduje się komplet drewnianych mebelków i akcesoriów (m.in. łóżko, szafa, stół, krzesła, wanna, lampa, stolik i kanapa), które pozwalają na dowolne aranżowanie wnętrz.
+
+Drzwi i okiennice można otwierać, a pomiędzy piętrami znajduje się praktyczna drewniana drabinka, po której lalki mogą się wspinać. Domek jest od razu gotowy do zabawy – nie wymaga montażu.
+
+Zabawka rozwija u dzieci:
+
+Wyobraźnię i kreatywność,
+
+Zdolności manualne i koordynację ręka–oko,
+
+Kompetencje społeczne poprzez zabawę w rodzinę i codzienne życie,
+
+Umiejętność planowania i organizowania przestrzeni.
+
+
+Cechy produktu:
+
+Marka: Viga Toys / PolarB
+
+Model: 44256
+
+Seria: PolarB – Wooden Dollhouse
+
+Materiał: drewno
+
+Kolory: pastelowy róż, biały, naturalne drewno
+
+W zestawie: domek + 16 drewnianych mebelków i akcesoriów
+
+Wiek: 3+
+
+Bezpieczne, nietoksyczne farby zgodne z normami EN71 i ASTM
+
+Opakowanie: solidne pudełko z rączką – idealne na prezent
+
+
+Dlaczego warto:
+
+Gotowy do zabawy – nie wymaga składania
+
+Zawiera komplet mebelków i akcesoriów
+
+Wykonany z wysokiej jakości drewna
+
+Wspiera rozwój wyobraźni i umiejętności społecznych
+
+Piękne, pastelowe kolory pasujące do serii PolarB
+
+
+Wymiary produktu:
+Dł.405 x szer.190 x wys.380 mm
+Wymiary opakowania:
+Dł.420 x szer.210 x wys.400 mm
+Waga: 0,33 kg
+
+Ten uroczy domek to idealny prezent dla każdego dziecka, które lubi tworzyć własne historie i aranżować mały, drewniany świat!
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+Viga 44256 PolarB Dwupoziomowy domek dla lalek z mebelkami
+ Zabawka przeznaczona dla dzieci w wieku powyżej 3 +
+OSTRZEŻENIE! Nieodpowiednie dla dzieci poniżej 3 lat  . Zawiera małe elementy. Ryzyko udławienia.
+PRODUCENT:
+Ningbo Viga International Co., Ltd.
+20F, 588 CANHGAI ROAD
+315040, NINGBO, Chiny
+e-mail: sales@vigatoys.com
+IMPORTER:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+INSTRUKCJA OBSŁUGI WAŻNE! PRZECZYTAJ UWAŻNIE I ZACHOWAJ DO PÓŹNIEJSZEGO STOSOWANIA.
+OSTRZEŻENIA! Montażu zabawki może dokonywać tylko osoba dorosła. Przed użyciem zabawki usuń
+opakowanie, trzymaj z dala od dzieci śrubokręt oraz małe elementy potrzebne do montażu. Nieprawidłowy
+montaż może spowodować obrażenia u dzieci. Przed użyciem zabawki sprawdź czy wszystkie elementy są
+prawidłowo dokręcone. Nie używać zabawki jeśli jakikolwiek jego element jest uszkodzony lub go brakuje.
+Czyszczenie: Przetrzyj wilgotną szmatką lub szczotką o miękkim włosiu zwilżoną w wodzie z mydłem. Nie
+mocz drewna w wodzie. Po umyciu wytrzyj do sucha czystą szmatką. INSTRUKCJA MONTAŻU Postępuj
+zgodnie z instrukcją obrazkową montażu dołączoną do zabawki. Przed zmontowaniem - trzymaj wszystkie
+elementy poza zasięgiem dziecka. Montażu może dokonywać tylko osoba dorosła.
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na podanej.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914868-1.jpg https://marini.pl/b2b/pictures/5914868-2.jpg https://marini.pl/b2b/pictures/5914868-3.jpg https://marini.pl/b2b/pictures/5914868-4.jpg https://marini.pl/b2b/pictures/5914868-5.jpg https://marini.pl/b2b/pictures/5914868-6.jpg https://marini.pl/b2b/pictures/5914868-7.jpg https://marini.pl/b2b/pictures/5914868-8.jpg https://marini.pl/b2b/pictures/5914868-9.jpg https://marini.pl/b2b/pictures/5914868-10.jpg https://marini.pl/b2b/pictures/5914868-11.jpg https://marini.pl/b2b/pictures/5914868-12.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911875</kod>
@@ -296885,7 +297304,27 @@ Zabawka rozwija:
 <stan>mała ilość</stan>
 <EAN>6971608442582</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Wyjątkowa dwustronna tablica do rysowania, idealna dla małych artystów. Jest wyposażona w czarno-białą powierzchnię, która wspiera rozwój kreatywności i umiejętności manualnych u dzieci. Jedna strona służy do pisania kredą, a druga to biała powierzchnia magnetyczna, doskonała do rysowania markerami whiteboard. Dziecko może również używać czterech drewnianych magnesów do przyczepienia papieru do rysowania, a także czterech dekoracyjnych magnesów w kształcie zwierząt. Tablica jest łatwa do montażu i demontażu oraz regulowana na trzech poziomach wysokości, dzięki czemu nadaje się dla dzieci o różnym wzroście. Może być również zdjęta i powieszona na ścianie, kiedy dziecko skończy swoje dzieło.
+
+Całość wykonana została z drewna bukowego i pomalowana nietoksycznymi farbami o stonowanych barwach, które przyciągną wzrok oraz zachęcą do zabawy dając jednocześnie mnóstwo radości. Farby są w 100% bezpieczne, spełniają normy bezpieczeństwa EN71 i ASTM.
+
+Zestaw zapakowany jest w kolorowe kartonowe pudełko, w sam raz na prezent.
+
+Zabawka przeznaczona dla dzieci powyżej 36. miesiąca życia.
+
+Cała seria zabawek PolarB została stworzona przez firmę VIGA aby sprostać oczekiwaniom rodziców i dzieci w doskonaleniu procesu ich rozwoju poprzez zabawę.
+
+
+DANE TECHNICZNE:
+ 
+Wymiary opakowania:
+ 
+Dł. 475 mm x wys. 625 mm x szer. 80 mm
+
+Waga netto: 3,8 kg
+Waga brutto: 4,3 kg
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914871-1.jpg https://marini.pl/b2b/pictures/5914871-2.jpg https://marini.pl/b2b/pictures/5914871-3.jpg https://marini.pl/b2b/pictures/5914871-4.jpg https://marini.pl/b2b/pictures/5914871-5.jpg https://marini.pl/b2b/pictures/5914871-6.jpg https://marini.pl/b2b/pictures/5914871-7.jpg https://marini.pl/b2b/pictures/5914871-8.jpg https://marini.pl/b2b/pictures/5914871-9.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913892</kod>
@@ -297084,7 +297523,84 @@ koncentrację i cierpliwość</opis>
 <stan>mała ilość</stan>
 <EAN>6971608442674</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Zestaw Viga 44267 PolarB Drewniany zestaw do kawy i herbaty - pink jest prosty w użyciu i zapewnia wiele możliwości zabawy dla maluchów. Zestaw można również wykorzystywać jako narzędzie edukacyjne, wprowadzając maluchy do pojęć, takich jak smak, zapach czy różnice między herbatą a kawą. Viga 44267 PolarB Drewniany zestaw do kawy i herbaty - pink to uroczy zestaw do zabawy, który zachęca dzieci do kreatywnego odgrywania ról. Wykonany z wysokiej jakości drewna, zestaw oferuje realistyczne akcesoria do kawy, czy herbaty, w tym dzbanek, filiżanki, łyżeczki oraz różne dodatki, takie jak plasterki cytryny i herbatniki. Dzięki eleganckiemu designowi i pastelowej kolorystyce, ten zestaw idealnie nadaje się do organizowania zabawkowych przyjęć herbacianych, rozwijając jednocześnie wyobraźnię, umiejętności społeczne oraz koordynację ruchową dzieci.
+
+W zestawie:
+- Dzbanek do herbaty z pokrywką,
+- 2 filiżanki z podstawkami,
+- 2 łyżeczki i 2 torebki herbaty,
+- Dzbanek na mleko,
+- Plasterek cytryny i plasterek truskawki,
+- 2 ciasteczka,
+- Taca do serwowania.
+
+Zalety produktu:
+
+Rozwój wyobraźni: zestaw zachęca dzieci do kreatywnej zabawy w odgrywanie ról, co wspomaga rozwój wyobraźni i zdolności do symulowania sytuacji z codziennego życia, takich jak organizowanie przyjęcia herbacianego.
+
+Promowanie umiejętności społecznych: dzięki możliwości zabawy z innymi, zestaw uczy maluchy współdziałania, dzielenia się oraz uprzejmego zachowania podczas interakcji społecznych, co jest kluczowe dla ich rozwoju społeczno-emocjonalnego.
+
+Bezpieczne materiały: zestaw wykonany jest z bezpiecznego drewna, bez ostrych krawędzi, co sprawia, że jest odpowiedni dla najmłodszych użytkowników.
+
+Estetyczny design: elegancka, pastelowa kolorystyka i staranne wykonanie sprawiają, że zestaw jest atrakcyjny wizualnie i doskonale komponuje się z innymi drewnianymi zabawkami w stylu Montessori.
+
+Wieloelementowy zestaw: dziecko ma do dyspozycji bogaty zestaw akcesoriów – dzbanek, filiżanki, herbatniki, łyżeczki i dodatki takie jak plasterek cytryny czy truskawki – które wzbogacają zabawę, oferując różne możliwości tworzenia własnych scenariuszy.
+
+Wzmacnianie koordynacji ruchowej: używanie łyżeczek, nalewanie z dzbanka oraz umieszczanie filiżanek na tacy wspomaga rozwój koordynacji ręka-oko i precyzyjnych umiejętności manualnych.
+
+Korzyści dla Dziecka:
+
+- Zestaw doskonale wspiera rozwój kreatywnego odgrywania ról, co pomaga dzieciom w wyrażaniu emocji i rozwijaniu komunikacji.
+- Grając w przyjęcie herbaciane, dziecko może rozwijać umiejętności społeczne, takie jak dzielenie się, współpraca i etykieta przy stole.
+- Zabawa z różnymi elementami zestawu, takimi jak filiżanki, dzbanek czy ciasteczka, sprzyja rozwojowi motoryki małej, precyzji i koordynacji ręka-oko.
+
+Jak korzystać z produktu:
+
+Zorganizowanie przyjęcia herbacianego: dziecko może zaprosić swoje pluszaki, lalki lub nawet członków rodziny na "herbatkę". Może przygotować herbatę, dodać plasterek cytryny lub truskawki do filiżanki, a następnie podać napoje i ciasteczka na tacy. Ćwiczenie kreatywnej zabawy: Dzieci mogą naśladować dorosłych, przygotowując kawę lub herbatę. Będą udawać, że nalewają napój z dzbanka, dodają mleko z dzbanuszka i mieszają łyżeczką. Rozwój umiejętności społecznych: Podczas zabawy w przyjęcie herbaciane maluchy uczą się zasad gościnności i współpracy. Mogą ćwiczyć uprzejme zachowania, takie jak dzielenie się, czekanie na swoją kolej oraz nawiązywanie rozmów. Nauka przez zabawę: dzieci mogą bawić się samodzielnie lub z innymi, rozwijając przy tym umiejętności komunikacji i odgrywania ról, co wspomaga ich wyobraźnię i rozwój emocjonalny.
+
+Wybierz ten zestaw od Viga, który oferuje nie tylko świetną zabawę, ale także wiele korzyści rozwojowych, które czynią go wartościowym dodatkiem do kolekcji zabawek każdego dziecka.                                                                                                                      
+
+Elementy zabawki zostały zapakowane w estetyczny, kolorowe pudełko z uchwytem do przenoszenia, dzięki temu estetycznemu opakowaniu zabawka jest idealna na prezent! 
+
+Całość wykonana została z drewna bukowego i pomalowana farbami, które zadowolą każdego użytkownika i dadzą mnóstwo radości z zabawy.
+Naszym priorytetem jest bezpieczeństwo i jakość oferowanych produktów, dlatego dbamy o to aby farby, którymi malujemy nasze zabawki spełniały normy bezpieczeństwa ( EN71 i ASTM).
+ 
+Zabawka przeznaczona dla dzieci powyżej 3 roku życia.
+
+Wymiary produktu:
+
+Dł.265 mm x wys. 175 mm x szer. 23 mm
+
+Wymiary opakowania:
+
+Dł.272 mm x wys. 93 mm x szer. 180 mm
+Waga netto: 0,50 kg 
+Waga brutto: 0,60 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Viga 44267 PolarB Drewniany zestaw do kawy i herbaty - pink
+
+Zabawka przeznaczona dla dzieci w wieku od 3 lat.
+
+OSTRZEŻENIE! Nieodpowiednie dla dzieci w wieku poniżej 3 lat. Zawiera małe elementy. Ryzyko zadławienia.
+
+PRODUCENT:
+Ningbo Viga International Co., Ltd.
+20F, 588 CANHGAI ROAD
+315040, NINGBO, Chiny
+e-mail: sales@vigatoys.com
+
+IMPORTER:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+INSTRUKCJA OBSŁUGI. WAŻNE! PRZECZYTAJ UWAŻNIE I ZACHOWAJ DO PÓŹNIEJSZEGO STOSOWANIA.
+OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Nie używać zabawki jeśli jakikolwiek jej element jest uszkodzony lub go brakuje. Czyszczenie: Przetrzyj wilgotną ściereczką lub szczotką o miękkim włosiu zwilżoną w wodzie z mydłem. Nie mocz drewna w wodzie. Po umyciu wytrzyj do sucha czystą ściereczką.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914872-1.jpg https://marini.pl/b2b/pictures/5914872-2.jpg https://marini.pl/b2b/pictures/5914872-3.jpg https://marini.pl/b2b/pictures/5914872-4.jpg https://marini.pl/b2b/pictures/5914872-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913327</kod>
@@ -297151,7 +297667,78 @@ Zabawka rozwija:
 <stan>mała ilość</stan>
 <EAN>6971608442728</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Viga 44272 PolarB Gra zręcznościowa – rzut do celu to doskonała zabawka dla dzieci, która pozwala na rozwijanie zdolności motorycznych i koordynacji ręka-oko w sposób pełen zabawy. Gra składa się z drewnianej ramy o solidnej konstrukcji, na której umieszczone są cztery otwory o różnych kształtach i wartościach punktowych: od 10 do 50 punktów. Do zestawu dołączono trzy miękkie woreczki do rzucania, co umożliwia grę indywidualną lub w grupie. Dzięki prostym zasadom, gra nadaje się zarówno dla młodszych, jak i starszych dzieci, zachęcając do rywalizacji i wspólnej zabawy z rodzeństwem czy przyjaciółmi. Woreczki są przechowywane w wygodnej siateczkowej kieszonce, zamontowanej na jednym z otworów, co ułatwia organizację po zakończeniu zabawy. Składana rama sprawia, że gra jest łatwa do przenoszenia i przechowywania, a jej konstrukcja pozwala na szybką rozgrywkę w dowolnym miejscu – w domu, ogrodzie, czy na podwórku.
+
+W zestawie:
+
+- Drewniana rama z czterema otworami o różnych kształtach i wartościach punktowych (od 10 do 50 punktów),
+- 3 woreczki do rzucania.
+
+Zalety produktu:
+
+Rozwój zdolności motorycznych – dziecko ćwiczy precyzyjne ruchy, rzucając woreczkami do celu, co wpływa na koordynację ręka-oko oraz ogólną sprawność ruchową.
+
+Zwiększenie koncentracji – gra wymaga skupienia i celności, co pomaga rozwijać umiejętność koncentracji i cierpliwości.
+
+Zabawa na świeżym powietrzu – gra może być wykorzystywana zarówno w domu, jak i na zewnątrz, co sprzyja aktywnemu spędzaniu czasu na świeżym powietrzu.
+
+Rozwój zdrowej rywalizacji – dzięki punktacji i możliwości gry z rodziną czy przyjaciółmi, dzieci uczą się zdrowej rywalizacji oraz jak radzić sobie z wygraną i porażką.
+
+Łatwość przechowywania i przenoszenia – składana rama oraz woreczki przechowywane w siatce sprawiają, że gra jest wygodna w użytkowaniu i przenoszeniu.
+
+Korzyści dla Dziecka:
+
+- Poprawa koordynacji ruchowej, gdzie rzucanie do celu doskonali precyzję ruchów i kontrolę nad ciałem.
+- Rozwijanie umiejętności planowania, gdzie dziecko musi wybrać odpowiednią strategię, by uzyskać jak najwięcej punktów.
+- Budowanie pewności siebie dziecka. Udało się trafić do celu? Sukcesy w grze wzmacniają poczucie własnej wartości i pewność siebie dziecka.
+- Nauka cierpliwości i koncentracji, poprzez regularną grę pomagamy dziecku skupić się na zadaniu i być cierpliwym w osiąganiu celu.
+- Stymulacja rozwoju społecznego, gdzie gra w grupie uczy współpracy, dzielenia się oraz zasad rywalizacji.
+
+Jak korzystać z produktu:
+
+Rozłóż drewnianą ramę, ustawiając ją stabilnie na płaskiej powierzchni. Kolejny etap to przygotowanie woreczków. Upewnij się, że wszystkie woreczki są dostępne, a w przypadku transportu znajdziesz je w siateczkowej kieszonce na jednym z otworów. Następnie wykonuj próby w celowaniu i rzucaniu, stań w odpowiedniej odległości od ramy, rzucaj woreczkami w otwory, celując w te o wyższych wartościach punktowych (im trudniejszy kształt, tym wyższa wartość punktowa). Kolejny etap to liczenie punktów. Po każdym rzucie policz punkty zdobyte za trafienia. Możesz grać samodzielnie lub z innymi graczami, porównując wyniki. Atrakcyjności w tej zabawie dodaje rywalizacja. Graj na punkty – zwycięża osoba, która zgromadzi najwięcej punktów po określonej liczbie rzutów. Możesz wprowadzić różne zasady, np. dodatkowe rundy za trafienie w najwyżej punktowany otwór.
+Gra rzut do celu to idealny sposób na rozwijanie precyzji, celności oraz cierpliwości u dzieci, a także wspaniała okazja do wspólnego spędzania czasu z rodziną. Wybierz tą grę zręcznościową od Viga, który oferuje nie tylko świetną zabawę, ale także wiele korzyści rozwojowych, które czynią ją wartościowym dodatkiem do kolekcji gier każdego dziecka.                                                                                                                      
+
+Elementy zabawki zostały zapakowane w estetyczny, kolorowe pudełko, dzięki temu estetycznemu opakowaniu zabawka jest idealna na prezent! 
+
+Całość wykonana została z drewna bukowego i pomalowana farbami, które zadowolą każdego użytkownika i dadzą mnóstwo radości z zabawy.
+Naszym priorytetem jest bezpieczeństwo i jakość oferowanych produktów, dlatego dbamy o to aby farby, którymi malujemy nasze zabawki spełniały normy bezpieczeństwa ( EN71 i ASTM).
+ 
+Zabawka przeznaczona dla dzieci powyżej 24 miesiąca życia.
+
+
+Wymiary produktu:
+
+Dł.300 mm x wys. 445 mm x szer. 300 mm
+
+Wymiary opakowania:
+
+Dł.306 mm x wys. 452 mm x szer. 28 mm
+Waga netto: 0,60 kg
+Waga brutto: 0,70 kg
+Ilość kartonowa: 6 szt.
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Viga 44272 PolarB Gra zręcznościowa - rzut do celu
+
+Zabawka przeznaczona dla dzieci w wieku od 24 miecięcy.
+
+PRODUCENT:
+Ningbo Viga International Co., Ltd.
+20F, 588 CANHGAI ROAD
+315040, NINGBO, Chiny
+e-mail: sales@vigatoys.com
+
+IMPORTER:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+INSTRUKCJA OBSŁUGI WAŻNE! PRZECZYTAJ UWAŻNIE I ZACHOWAJ DO PÓŹNIEJSZEGO STOSOWANIA.
+OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Przed użyciem zabawki sprawdź czy wszystkie elementy są prawidłowo dokręcone. Nie używać zabawki jeśli jakikolwiek jego element jest uszkodzony lub go brakuje. Czyszczenie: Przetrzyj wilgotną ściereczką lub szczotką o miękkim włosiu zwilżoną w wodzie z mydłem. Nie mocz drewna w wodzie. Po umyciu wytrzyj do sucha czystą ściereczką.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914869-1.jpg https://marini.pl/b2b/pictures/5914869-2.jpg https://marini.pl/b2b/pictures/5914869-3.jpg https://marini.pl/b2b/pictures/5914869-4.jpg https://marini.pl/b2b/pictures/5914869-5.jpg https://marini.pl/b2b/pictures/5914869-6.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911722</kod>
@@ -297225,7 +297812,77 @@ OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Nie używać zabawki jeś
 <stan>mała ilość</stan>
 <EAN>6971608442742</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Drewniane pianino dla dzieci z serii PolarB by Viga to wyjątkowa zabawka muzyczna, która łączy estetyczny design z edukacyjną wartością. Zostało zaprojektowane z myślą o najmłodszych melomanach, aby wprowadzić ich w świat dźwięków i rytmu w przyjazny, zabawowy sposób.
+
+Instrument wykonano z wysokiej jakości drewna i pomalowano bezpiecznymi, nietoksycznymi farbami w delikatnych, pastelowych kolorach. Zielone pianino ozdobiono subtelnymi ilustracjami zwierzątek i nutek, co nadaje mu uroczy, naturalny wygląd pasujący do pokoju dziecka.
+
+Pianino posiada 18 klawiszy, które emitują delikatne dźwięki, pozwalając dziecku odtwarzać pierwsze melodie. Kolorowe oznaczenia nut (C, D, E, F, G, A, B) pomagają w nauce prostych utworów – w zestawie znajdują się również karty z nutami i drewniany stojak, które ułatwiają pierwsze kroki w świecie muzyki.
+Zabawka wspiera rozwój koordynacji wzrokowo-ruchowej, słuchu muzycznego oraz poczucia rytmu. To doskonały sposób, by pobudzić kreatywność i zachęcić dziecko do nauki poprzez zabawę.
+
+Cechy produktu:
+
+Marka: Viga Toys / PolarB
+
+Model: 44274
+
+Seria: PolarB
+
+Materiał: drewno
+
+Kolory: pastelowa zieleń, naturalne drewno, czarno-białe klawisze
+
+Elementy zestawu: pianino, nuty z oznaczeniami kolorystycznymi, drewniany stojak
+
+Liczba klawiszy: 18
+
+Wiek: 3 lata +
+
+Zasilanie: 2 × AA (brak w zestawie)
+
+Farby: bezpieczne, nietoksyczne, zgodne z EN71 i ASTM
+
+
+Dlaczego warto:
+
+Rozwija słuch muzyczny i poczucie rytmu
+
+Pomaga w nauce dźwięków i prostych melodii
+
+Wysoka jakość wykonania z drewna
+
+Stylowy design w pastelowych kolorach
+
+Doskonały prezent dla małych muzyków
+
+
+Wymiary produktu:
+Dł.330 x szer.250 x wys.290 mm
+Wymiary opakowania:
+Dł.370 x szer.295 x wys.335 mm
+Waga: 0,33 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Viga 44274 PolarB Drewniane pianino dla dzieci
+
+Zabawka przeznaczona dla dzieci w wieku od 3 lat.
+
+PRODUCENT:
+Ningbo Viga International Co., Ltd.
+20F, 588 CANHGAI ROAD
+315040, NINGBO, Chiny
+e-mail: sales@vigatoys.com
+
+IMPORTER:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+INSTRUKCJA OBSŁUGI. WAŻNE! PRZECZYTAJ UWAŻNIE I ZACHOWAJ DO PÓŹNIEJSZEGO STOSOWANIA.
+OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Nie używać zabawki jeśli jakikolwiek jej element jest uszkodzony lub go brakuje. Czyszczenie: Przetrzyj wilgotną ściereczką lub szczotką o miękkim włosiu zwilżoną w wodzie z mydłem. Nie mocz drewna w wodzie. Po umyciu wytrzyj do sucha czystą ściereczką.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914865-1.jpg https://marini.pl/b2b/pictures/5914865-2.jpg https://marini.pl/b2b/pictures/5914865-3.jpg https://marini.pl/b2b/pictures/5914865-4.jpg https://marini.pl/b2b/pictures/5914865-5.jpg https://marini.pl/b2b/pictures/5914865-6.jpg https://marini.pl/b2b/pictures/5914865-7.jpg https://marini.pl/b2b/pictures/5914865-8.jpg https://marini.pl/b2b/pictures/5914865-9.jpg https://marini.pl/b2b/pictures/5914865-10.jpg https://marini.pl/b2b/pictures/5914865-11.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913321</kod>
@@ -297646,7 +298303,30 @@ Zabawka rozwija
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Drewniane koła zębate od marki Viga z serii PolarB, są idealną zabawką dla dzieci, które chcą odkrywać otaczający ich świat. Ta kolorowa zabawka składa się z 10 kół zębatych, które dziecko układa, tworząc poruszający się mechanizm – świetna zabawa połączona z nauką! Urocze wzory i pastelowe kolory przyciągają uwagę, rozwijając jednocześnie ciekawość i logiczne myślenie. Każde przekręcenie kółek to dla malucha radość odkrywania, jak działa ruch. To idealny prezent dla małych odkrywców świata, którzy kochają kreatywną i mądrą zabawę!
+
+Charakterystyka:
+
+- Przeznaczona dla dzieci od 18 miesiąca życia
+- 10 zębatek można układać na wiele sposobów, zapewniając dziecku dużo zabawy i satysfakcji
+- Wprawione w ruch elementy przyciągną uwagę dziecka
+- Wykonana z wysokiej jakości, bezpiecznego drewna
+- Paleta kolorów w pastelowym stylu, przyciąga uwagę
+- Stabilna, gładka podstawa przyjazna małym dłoniom
+Zestaw zawiera:
+
+- Drewniana plansza – baza łamigłówki
+- 10 kół zębatych w tematyce ogrodu
+- Elementy ozdobne w kształcie zwierząt i roślin
+- Ilustracje nawiązujące do życia w ogrodzie
+Zabawka rozwija:
+
+- Zdolności manualne i koordynację wzrokowo-ruchową
+- Logiczne myślenie i zrozumienie zasady przyczyny i skutku
+- Cierpliwość, koncentrację i spostrzegawczość
+- Wyobraźnię i kreatywność podczas zabawy
+- Zainteresowanie naturą i światem przyrody</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914531-1.jpg https://marini.pl/b2b/pictures/5914531-2.jpg https://marini.pl/b2b/pictures/5914531-3.jpg https://marini.pl/b2b/pictures/5914531-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913326</kod>
@@ -298227,7 +298907,7 @@ Waga: 0,52 kg</opis>
 <nazwa>Viga 44680 Drewniany traktor z przyczepką i zwierzętami</nazwa>
 <cena>33.05</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608446801</EAN>
 <grupa>VIGA</grupa>
 <opis>Zabawka marki VIGA Drewniany Traktor z przyczepką i zwierzętami powiększa się o kolejne nowości, które nie tylko zachwycają kolorami, ale i doskonale wzbogacą posiadane już zabawki o farmie i zwierzętach gospodarskich.
@@ -298864,7 +299544,54 @@ Waga:	0.15 kg</opis>
 <stan>mała ilość</stan>
 <EAN>6971608448010</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Drewniana remiza strażacka Viga 44801 to wyjątkowy zestaw dla małych miłośników straży pożarnej i zabawy w ratowanie świata! Ten kolorowy, solidny zestaw zapewni dziecku wiele godzin kreatywnej zabawy, rozwijając przy tym wyobraźnię, koordynację ruchową i zdolności manualne.
+Remiza posiada dwa poziomy, połączone drabiną i rurą zjazdową dla strażaków. Na dachu znajduje się lądowisko dla helikoptera, a w środku – biuro dowodzenia, garaż z wozem strażackim, dzwonek alarmowy i wiele akcesoriów, które pozwalają tworzyć realistyczne scenariusze akcji ratunkowych.
+Zestaw zawiera liczne elementy: 2 figurki strażaków, helikopter, wóz strażacki, drabinę, znaki ostrzegawcze, hydrant, płomień i mebelki biurowe. Wszystkie części wykonano z wysokiej jakości drewna, pomalowanego bezpiecznymi, nietoksycznymi farbami.
+
+Cechy produktu:
+•    Producent: Viga Toys
+•    Model: 44801
+•    Wiek: od 3 lat
+•    Materiał: drewno
+•    W zestawie: remiza, 2 figurki strażaków, wóz strażacki, helikopter, drabina, hydrant, płomień, znaki ostrzegawcze, biurko, krzesła i szafka
+•    Farby: bezpieczne, nietoksyczne, wodne
+•    Certyfikaty: CE, EN71, ASTM, UKCA
+
+Zalety zabawki:
+•    Rozwija wyobraźnię, kreatywność i zdolności manualne,
+•    Zachęca do odgrywania ról i zabawy zespołowej,
+•    Uczy zasad bezpieczeństwa i pracy strażaków,
+•    Solidne wykonanie gwarantuje długotrwałą zabawę,
+•    Piękne, intensywne kolory pobudzają zmysły i uwagę dziecka.
+
+Viga 44801 Drewniana remiza strażacka z akcesoriami to doskonały pomysł na prezent, który łączy w sobie edukację, rozwój i mnóstwo dobrej zabawy. Dzięki niej każde dziecko może wcielić się w rolę dzielnego strażaka i przeżyć prawdziwe przygody!
+Wymiary produktu:
+Dł.330 x szer.225 x wys.325 mm
+Wymiary opakowania:
+Dł.360 x szer.330 x wys.240 mm
+Waga: 0,33 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Viga 44801 Drewniana remiza strażacka z akcesoriami
+
+Zabawka przeznaczona dla dzieci w wieku od 3 roku.
+
+PRODUCENT:
+Ningbo Viga International Co., Ltd.
+20F, 588 CANHGAI ROAD
+315040, NINGBO, Chiny
+e-mail: sales@vigatoys.com
+
+IMPORTER:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+INSTRUKCJA OBSŁUGI. WAŻNE! PRZECZYTAJ UWAŻNIE I ZACHOWAJ DO PÓŹNIEJSZEGO STOSOWANIA.
+OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Nie używać zabawki jeśli jakikolwiek jej element jest uszkodzony lub go brakuje. Czyszczenie: Przetrzyj wilgotną ściereczką lub szczotką o miękkim włosiu zwilżoną w wodzie z mydłem. Nie mocz drewna w wodzie. Po umyciu wytrzyj do sucha czystą ściereczką.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914867-1.jpg https://marini.pl/b2b/pictures/5914867-2.jpg https://marini.pl/b2b/pictures/5914867-3.jpg https://marini.pl/b2b/pictures/5914867-4.jpg https://marini.pl/b2b/pictures/5914867-5.jpg https://marini.pl/b2b/pictures/5914867-6.jpg https://marini.pl/b2b/pictures/5914867-7.jpg https://marini.pl/b2b/pictures/5914867-8.jpg https://marini.pl/b2b/pictures/5914867-9.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914219</kod>
@@ -298916,7 +299643,61 @@ Waga:	2.7 kg</opis>
 <stan>mała ilość</stan>
 <EAN>6971608448034</EAN>
 <grupa>VIGA</grupa>
-<opis/>
+<opis>Drewniany komisariat policji Viga 44803 to doskonały zestaw dla małych fanów służb mundurowych! Dzięki tej zabawce dzieci mogą wcielić się w rolę dzielnych policjantów, ścigać przestępców, patrolować miasto i dbać o porządek — wszystko w bezpieczny i kreatywny sposób.
+Komisariat składa się z dwóch pięter i lądowiska dla helikoptera, co umożliwia wiele scenariuszy zabawy. Na niższym poziomie znajduje się biuro i miejsce odpoczynku policjantów, a na wyższym — cela dla więźnia i pomieszczenie dowodów. Realizmu dodają szczegółowe nadruki przedstawiające sprzęt policyjny, taki jak kamizelka, kajdanki czy latarka.
+Zestaw zawiera również figurkowe postacie policjantów, złodzieja i psa policyjnego, a także samochód policyjny, helikopter i elementy wyposażenia komisariatu, które pozwalają dziecku tworzyć własne historie.
+Całość wykonana jest z wysokiej jakości drewna, pomalowanego nietoksycznymi farbami, bezpiecznymi dla dzieci.
+
+Cechy produktu:
+•    Producent: Viga Toys
+•    Model: 44803
+•    Wiek: od 3 lat
+•    Materiał: drewno
+•    W zestawie:
+- budynek komisariatu (2 poziomy + lądowisko dla helikoptera),
+- 2 figurki policjantów, 1 figurka złodzieja, 1 pies policyjny,
+- samochód policyjny, helikopter,
+- akcesoria: biurko, krzesło, regał, tarcza do ćwiczeń, pachołki drogowe, drabina.
+•    Wymiary zabawki: 36 × 33 × 24
+•    Waga: 0,33
+•    Farby: nietoksyczne, na bazie wody
+•    Certyfikaty: CE, EN71, ASTM, UKCA
+
+Zalety zabawki:
+•    Wspiera rozwój wyobraźni i kreatywności,
+•    Uczy zasad bezpieczeństwa i roli służb porządkowych,
+•    Pomaga w rozwoju mowy i zabawach tematycznych,
+•    Trwała, stabilna i bezpieczna konstrukcja,
+•    Żywe kolory przyciągają uwagę i zachęcają do zabawy.
+
+Viga 44803 Drewniany komisariat policji z akcesoriami to idealny prezent dla każdego małego miłośnika policji. Z tą zabawką każda akcja policyjna zakończy się sukcesem!
+Wymiary produktu:
+Dł.330 x szer.225 x wys.325 mm
+Wymiary opakowania:
+Dł.360 x szer.330 x wys.240 mm
+Waga: 0,33 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Viga 44803 Drewniany komisariat policji z akcesoriami
+
+Zabawka przeznaczona dla dzieci w wieku od 3 roku.
+
+PRODUCENT:
+Ningbo Viga International Co., Ltd.
+20F, 588 CANHGAI ROAD
+315040, NINGBO, Chiny
+e-mail: sales@vigatoys.com
+
+IMPORTER:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+INSTRUKCJA OBSŁUGI. WAŻNE! PRZECZYTAJ UWAŻNIE I ZACHOWAJ DO PÓŹNIEJSZEGO STOSOWANIA.
+OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Nie używać zabawki jeśli jakikolwiek jej element jest uszkodzony lub go brakuje. Czyszczenie: Przetrzyj wilgotną ściereczką lub szczotką o miękkim włosiu zwilżoną w wodzie z mydłem. Nie mocz drewna w wodzie. Po umyciu wytrzyj do sucha czystą ściereczką.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914866-1.jpg https://marini.pl/b2b/pictures/5914866-2.jpg https://marini.pl/b2b/pictures/5914866-3.jpg https://marini.pl/b2b/pictures/5914866-4.jpg https://marini.pl/b2b/pictures/5914866-5.jpg https://marini.pl/b2b/pictures/5914866-6.jpg https://marini.pl/b2b/pictures/5914866-7.jpg https://marini.pl/b2b/pictures/5914866-8.jpg https://marini.pl/b2b/pictures/5914866-9.jpg https://marini.pl/b2b/pictures/5914866-10.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913886</kod>
@@ -300133,7 +300914,7 @@ Produkt przeznaczony dla dzieci w wieku od 2 do 5 lat.</opis>
 <nazwa>VTECH 61672 Sekretny Pamiętnik</nazwa>
 <cena>95.31</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511616729</EAN>
 <grupa>V-TECH</grupa>
 <opis>Sekretny Pamiętnik od Vtech Interaktywna Zabawka Dla Dzieci od 6. roku życia
@@ -301283,7 +302064,7 @@ Opis techniczny
 <nazwa>WADER 36221 Magic Truck Action Straż Pożarna</nazwa>
 <cena>82.59</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694362215</EAN>
 <grupa>WADER</grupa>
 <opis>Magic Truck Action – Straż Pożarna jak na prawdziwy wóz strażacki przystało, posiada wysuwaną, ruchomą drabinę, na końcu której znajduje się kosz dla strażaka, pompkę oraz wąż, z którego, po napełnieniu zbiorniczka, tryska woda. Obrotowe elementy sprawiają, że strumień wody można skierować w dowolną stronę. Skrętną naczepę można przyczepić do kabiny na dwa sposoby, przez co auto może osiągnąć długość 80 cm. Dodatkowo została ona wyposażona w wysuwane nóżki podporowe, dzięki czemu może również stać samodzielnie. Pojazd wykonany jest z materiałów bezpiecznych dla dzieci. Ogromną zaletą jest trwałość i wytrzymałość konstrukcji, co sprawia, że zabawka może służyć dzieciom latami.
@@ -303721,24 +304502,6 @@ Każdy z elementów charakteryzuje się dużą wytrzymałością i odpornością
 Atrakcyjna grafika z wizerunkami ulubionych postaci oraz różnorodne kolory użyte w produkcji elementów, spodobają się dzieciom i uprzyjemnią zabawę
 Doskonały pomysł na prezent dla fanów bajki Koci Domek Gabi</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911667-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912295</kod>
-<nazwa>WADER 82160 Gabby's Dollhouse piaskownica z kompletem do piasku</nazwa>
-<cena>39.76</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694821606</EAN>
-<grupa>WADER</grupa>
-<opis>Piaskownica z kompletem do piasku z bohaterami bajki Koci Domek Gabi to zabawka, która łączy radość z nauką. Urocza Gabi pomaga dzieciom rozwijać wyobraźnię i kreatywność. Piaskownica w kolorze turkusowym ma wbudowany młynek do przelewania wody i piasku. Komplet zawiera wiaderko, grabki, łopatkę i foremki, które umożliwiają dzieciom tworzenie piaskowych budowli. Wykonane z bezpiecznego tworzywa sztucznego, odpornego na wodę i słońce, zestaw zapewnia długotrwałą zabawę. Idealna do ogrodu, na plażę, czy do parku.
-Opis techniczny
-zestaw składa się z piaskownicy i dodatkowych akcesoriów: małe wiaderko 1 l z grafiką Koci Domek Gabi, młynek z mocowaniem do rantu piaskownicy, łopatka, grabki, foremka
-wymiary piaskownicy to 35,5 x 14 x 35,5 cm
-piaskownica jest kompaktowa i ma modny turkusowy kolor
-wykonana z bezpiecznego tworzywa najwyższej jakości, trwałego i wytrzymałego na warunki atmosferyczne
-zabawa piaskownicą z akcesoriami umożliwia maluchom twórczą zabawę, a także rozwijać zdolności manualne i motoryczne
-odpowiednia dla dzieci 1+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912295-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912296</kod>
@@ -306442,7 +307205,7 @@ Wymiary opakowania	19,5 x 6 x 30,5 (cm)</opis>
 <nazwa>WOOPIE 45241 Kulodrom tor kulkowy - zestaw spirala 142 el.</nazwa>
 <cena>30.87</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Kulodrom od WOOPIE to spiralny tor zapewniająca niekończącą się zabawę. Ten kolorowy zestaw składa się z wielu różnych kolorowych elementów , które maluch może z łatwością układać jedna na drugiej oraz dowolnie łączyć w wymyślne tory. Dodatkowo z tyłu opakowania znajduję się instrukcja pokazująca przykładowy tor z wykorzystaniem wszystkich elementów. Puszczaj kulki i obserwuj, jak toczą się jedna po drugiej. W zestawie jest aż 142 elementów, w tym np. wyrzutnia i kulki do toru. Rozmiar jest odpowiedni dla małych rączek i pomaga rozwijać koordynację wzrokowo-ruchową.
@@ -315307,7 +316070,7 @@ Podlewanie to okazja do nauki dzielenia się. „Najpierw moja kolej na podlewan
 <nazwa>YOOKIDOO 40244 Prysznic Słonik niebiesko-granatowy</nazwa>
 <cena>76.49</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>7290107724227</EAN>
 <grupa>YOOKIDOO</grupa>
 <opis>Yookidoo to marka oferująca innowacyjne zabawki pobudzające wyobraźnię dziecka, rozwijają jego zmysły, uczą związku przyczynowo-skutkowego oraz logicznego myślenia. Wszystko to w połączeniu z najlepszą jakością oraz niebanalnym designem.  
