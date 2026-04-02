@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-04-01T18:55:05.343">
+<MARINI timestamp="2026-04-02T18:55:05.250">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -10539,7 +10539,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka 432 LENIWCE</nazwa>
 <cena>46.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685384</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Mata miękka do przewijania (MM70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczona jest do nałożenia na komodę lub półkoprzewijak. Nie posiada dodatkowego usztywnienia.
@@ -15685,7 +15685,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam, MDF</opis>
 <nazwa>ALBERO MIO Przewijak twardy długi 419 MISIO</nazwa>
 <cena>64.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165681812</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -16147,7 +16147,7 @@ ENG Size: 70x47 (+/-0,5) cm, to be put on a baby cot (120x60cm). Composition: ph
 <nazwa>ALBERO MIO Przewijak twardy krótki 428 MOTYLKI</nazwa>
 <cena>57.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165684400</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -20572,7 +20572,7 @@ Wymiar: S - długość całkowita 90cm, szerokość pod pachami 36cm.</opis>
 <nazwa>ALBERO MIO Śpiworek z nogawkami S 1,5 tog CP8 Gwiezdny pył</nazwa>
 <cena>108.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001942283</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ŚPIWORKI</grupa>
 <opis>Śpiworek - kombinezon z nogawkami
@@ -21599,7 +21599,7 @@ WIEK: 3+</opis>
 <nazwa>ARTYK 073151 PILSAN Traktor na pedały z łyżką żółty</nazwa>
 <cena>186.25</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8693461073151</EAN>
 <grupa>ARTYK</grupa>
 <opis>FUNKCJE:
@@ -22076,7 +22076,7 @@ Pozostałe informacje:
 <b2b>
 <kod>790699</kod>
 <nazwa>ARTYK 132490 Bajkowy pojazd zdalnie sterowany pomarańczowy</nazwa>
-<cena>25.63</cena>
+<cena>25.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5901811132490</EAN>
@@ -22121,7 +22121,7 @@ WIEK: 3+
 <b2b>
 <kod>5902847</kod>
 <nazwa>ARTYK 132513 Bajkowy pojazd zdalnie sterowany fioletowy</nazwa>
-<cena>25.63</cena>
+<cena>25.00</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5901811132513</EAN>
@@ -23748,7 +23748,7 @@ Pozostałe informacje:
 <b2b>
 <kod>5914692</kod>
 <nazwa>ARTYK 177354 Tańcząca kałamarnica mix kolorów 3+</nazwa>
-<cena>24.55</cena>
+<cena>23.95</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5901811177354</EAN>
@@ -25235,22 +25235,22 @@ Materiał : 100 % BAWEŁNA</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>5906120</kod>
-<nazwa>ATK Koc VELVET 75/100</nazwa>
-<cena>31.71</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5904276097953</EAN>
-<grupa>ATK- OP. HURTOWE</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5906587</kod>
 <nazwa>ATK Koc Velvet 75/100</nazwa>
 <cena>32.93</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
+<grupa>ATK- OP. HURTOWE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5906120</kod>
+<nazwa>ATK Koc VELVET 75/100</nazwa>
+<cena>31.71</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5904276097953</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
 </b2b>
@@ -25503,9 +25503,9 @@ Jednorazowe wkładki laktacyjne 2 szt.</opis>
 <b2b>
 <kod>5906714</kod>
 <nazwa>AVENT SCD502/26 Niania elektroniczna</nazwa>
-<cena>257.39</cena>
+<cena>231.65</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>8710103993728</EAN>
 <grupa>AVENT/ELEKTRONIKA/NIANIE</grupa>
 <opis>PHILIPS SCD 502/26
@@ -25686,9 +25686,9 @@ Możesz zacząć używać niani zaraz po wyjęciu z pudełka i korzystać z odbi
 <b2b>
 <kod>5912455</kod>
 <nazwa>AVENT SCD953/26 Niania elektroniczna video Full HD</nazwa>
-<cena>718.95</cena>
+<cena>672.06</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>8720689039536</EAN>
 <grupa>AVENT/ELEKTRONIKA/NIANIE</grupa>
 <opis>Bądź zawsze blisko, nawet gdy nie jesteś obok
@@ -26086,7 +26086,7 @@ Wspiera rutynę snu noworodka
 <nazwa>AVENT SCF075/13 Smoczek SOOTHER START 0-2D</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689041768</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier ultra start - Koi noworodki od pierwszego dnia
@@ -26282,7 +26282,7 @@ Kolekcja Ultra Air jest zawsze modna. Jasne i kolorowe wzornictwo sprawia, że T
 <nazwa>AVENT SCF080/06 Smoczek Ultra Air Animals 0-6M dziewczynka ptaszek/pingwin</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103949374</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Lekki, przepuszczający powietrze smoczek
@@ -27238,7 +27238,7 @@ Zawartość zestawu - Smoczek Ultra Air 2  szt.
 <nazwa>AVENT SCF087/13 Smoczek Ultra Air 6-18m monstera /kotek</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689043052</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -27276,7 +27276,7 @@ Zawartość zestawu - Smoczek Ultra Air 2  szt.
 <nazwa>AVENT SCF087/17 Smoczek Ultra Air 6-18m liście</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689043069</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -27494,9 +27494,9 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.<
 <b2b>
 <kod>5906238</kod>
 <nazwa>AVENT SCF091/15 Smoczek Ultra Soft 6-18m gałązka/ptaszek</nazwa>
-<cena>23.55</cena>
+<cena>25.62</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8720689016889</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Nasz najbardziej miękki smoczek dla wrażliwej skóry dziecka
@@ -27849,7 +27849,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <nazwa>AVENT SCF091/42 Smoczek Ultra Soft 6-18m 2 szt. niebieski/zielony</nazwa>
 <cena>24.95</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689041690</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultrasoft – wyjątkowo delikatny dla skóry wrażliwej
@@ -27931,7 +27931,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <nazwa>AVENT SCF091/45 Smoczek Ultra Soft 6-18m beżowy / oliwkowy</nazwa>
 <cena>24.95</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689041317</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultrasoft – wyjątkowo delikatny dla skóry wrażliwej
@@ -28537,7 +28537,7 @@ Zadbaj o rozwój uzębienia dziecka z symetrycznym smoczkiem, który dostosowuje
 <nazwa>AVENT SCF349/18 Smoczek Ultra Air 18m+ słoń/hello</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8720689017091</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Pozwala skórze Twojego dziecka oddychać
@@ -28632,7 +28632,7 @@ Wybór rodzaju silikonu, z którego wykonane są smoczki Ultra Soft i Ultra Air,
 <nazwa>AVENT SCF349/47 Smoczek Ultra Air 18+ małpka/ kameleon</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>8720689042482</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -29693,7 +29693,7 @@ Zgodność ze wszystkimi butelkami i kubkami Philips Avent</opis>
 <nazwa>AVENT SCF551/05 Kubek z ustnikiem 6+ 200ml niebieski</nazwa>
 <cena>18.71</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103854371</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Avent Kubek z ustnikiem
@@ -29762,7 +29762,7 @@ Wszystkie butelki i kubki Philips Avent są ze sobą zgodne z wyjątkiem butelek
 <nazwa>AVENT SCF603/25 Torebki do przechow.pok.</nazwa>
 <cena>25.92</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689035842</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/POJEMNIKI VIA</grupa>
 <opis>Pewne, szczelne, podwójne zamknięcie zapewnia bezpieczeństwo przechowywanego pokarmu.
@@ -29779,7 +29779,7 @@ Woreczek został wykonany z materiału niezawierającego bisfenolu A</opis>
 <nazwa>AVENT SCF618/10 Pojemniki Via 180 ml + pokrywki</nazwa>
 <cena>54.93</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103671602</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/POJEMNIKI VIA</grupa>
 <opis>Zestaw pojemników do przechowywania i transportowania pokarmu
@@ -29794,7 +29794,7 @@ Woreczek został wykonany z materiału niezawierającego bisfenolu A</opis>
 <nazwa>AVENT SCF619/05 Pojemniki Via 180 ml + pokrywki</nazwa>
 <cena>28.98</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103671688</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/POJEMNIKI VIA</grupa>
 <opis>Philips Avent Pojemniki na pokarm 5 x 180 ml + pokrywki SCF619/05. 
@@ -29807,7 +29807,7 @@ Wielorazowy pojemnik nadaje się do sterylizacji i można go używać z laktator
 <nazwa>AVENT SCF796/01 Kubek ze słomką 200 ml boy</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103781899</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Kubek ze słomką Avent
@@ -29827,7 +29827,7 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <nazwa>AVENT SCF796/02 Kubek ze słomką 200 ml girl</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103781912</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Kubek ze słomką Avent
@@ -29847,7 +29847,7 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <nazwa>AVENT SCF798/01 Kubek ze słomką 300 ml boy</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>8710103781974</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Kubek ze słomką Avent
@@ -29865,9 +29865,9 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <b2b>
 <kod>768025</kod>
 <nazwa>AVENT SCF798/02 Kubek ze słomką 300 ml girl</nazwa>
-<cena>27.44</cena>
+<cena>27.74</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103781998</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Kubek ze słomką Avent
@@ -30631,7 +30631,7 @@ Smoczek z regulacją przepływu (4 prędkości):
 <nazwa>AVENT SCY965/02 Smoczek Responsywny Natural 6m+ Extra fast (5)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103985150</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Wsparcie naturalnego rytmu ssania niemowlęcia
@@ -30660,7 +30660,7 @@ Smoczek z regulacją przepływu (5 prędkości):
 <nazwa>AVENT SCY966/02 Smoczek Responsywny Natural 6m kaszka Thick feed</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>8710103985174</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Wsparcie naturalnego rytmu ssania niemowlęcia
@@ -48979,7 +48979,7 @@ Talerzyk z silikonu jest łatwy do czyszczenia. Można go bezpiecznie myć w zmy
 <nazwa>B.O.1482/04 Silikonowy talerzyk z przyssawką beżowy</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435417072</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu. Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -51082,7 +51082,7 @@ Składana
 <nazwa>B.O.1578 Zabawka edukacyjna - zawieszka do wózka i fotelika NATURE</nazwa>
 <cena>25.40</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416587</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Zawieszka do wózka i fotelika NATURE to sensoryczna zabawka, która pomaga w stymulowaniu zmysłów dotyku i wzroku oraz rozwoju umiejętności motorycznych dziecka. Zamocuj ją na wózku, kołysce lub foteliku, aby dostarczyć maluszkowi rozrywki podczas spacerów i podróży. Na pokrytej przyjemnym w dotyku materiałem zawieszce umieściliśmy grzechoczącego ptaszka, bezpieczne lusterko z wystającymi sznureczkami, szeleszczącego króliczka oraz kółko i gwiazdkę. Ciekawie dobrane elementy zachęcają do ich poznawania i przyciągają uwagę dziecka. Twój maluch jednocześnie bawi się, odkrywa świat i rozwija koordynację wzrokowo-słuchową.
@@ -57438,7 +57438,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/06 Biustonosz do karmienia E70-75 czarny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435415108</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -67957,7 +67957,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82387 Wałek Piesek Pedro</nazwa>
 <cena>64.27</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783823872</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Piesio Pedro najlepszym przyjacielem każdego malucha! Ten wielofunkcyjny wałek stanowić będzie wsparcie dla dziecka leżącego na brzuszku. Zdobią go przeróżne ozdoby i zabaweczki, których zadaniem jest pobudzić zmysły bobasa i zapewnić mu rozwojową zabawę. Znajdziemy tu grzechoczące kółeczko, piszczałkę, kolorowe elementy, a także tasiemkę do przeciągania, którą z jednej strony zdobi materiałowy ślimaczek, a z drugiej strony, miękki gryzak z wypustkami, który przyniesie ulgę podczas ząbkowania. Uszy psiaka wesoło szeleszczą. Wałek wykonany został z materiałów o zróżnicowanych fakturach i kontrastowych kolorach, co pomoże maluchowi rozwijać zdolności poznawcze.
@@ -70909,7 +70909,7 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 569005 Sorter sensoryczny ślimak</nazwa>
 <cena>23.30</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905523646894</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -82182,7 +82182,7 @@ Pojemnik jest wygodny i praktyczny, sprawdzi się doskonale na spacerze lub w po
 <nazwa>CANPOL 56/105 Siateczka do podawania pokarmów zielony</nazwa>
 <cena>9.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691812765</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Siateczka do podawania pokarmów firmy Canpol Babies służy do bezpiecznego podawania nie tylko świeżych owoców, ale także warzyw, sera czy ciastek. Szczególnie przydatna jest w momencie przejścia od jedzenia pokarmów płynnych do posiłków o konsystencji stałej. Likwiduje ryzyko zakrztuszenia się niedokładnie pogryzionymi kawałkami jedzenia. W zestawie kapsel chroniący siateczkę przed zabrudzeniem.</opis>
@@ -82578,7 +82578,7 @@ Pozwala rodzicom bezpiecznie czyścić delikatne dziąsła/ząbki dziecka, bez o
 <nazwa>CANPOL 56/510_gre Bidon niekapek z rurką i odważnikiem 350ml GOOSE</nazwa>
 <cena>14.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691802841</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Bidon niekapek z rurką z odważnikiem doskonale sprawdzi się w domu, w podróży i na spacerze. W rurce znajduje się specjalna membrana, która umożliwia picie bez rozlewania. Wygodna pokrywka pozwalająca w łatwy sposób schować rurkę, gwarantuje nie tylko higienę, ale również 100% szczelności. Dzięki odważnikowi rurka podąża za płynem, umożliwiając wypicie zawartości do ostatniej kropli bez względu na kąt nachylenia bidonu. To rozwiązanie sprawia, że Canpol bidon z rurką i odważnikiem 350 ml bardzo ułatwia dzieciom samodzielne zaspokajanie pragnienia i chroni przed niepotrzebną frustracją. Zapasowe rurki można dokupić. Canpol bidon z rurką i odważnikiem 350 ml jest lekki i odporny na uszkodzenia — na pewno się nie potłucze. Rurka jest wykonana z miękkiego silikonu, więc dziecko może bezpiecznie doskonalić umiejętność samodzielnego picia. Bidon Canpol z odważnikiem 350 ml nie zawiera BPA ani innych szkodliwych substancji. Można myć go w zmywarce i podgrzewać w kuchence mikrofalowej. Canpol bidon niekapek z rurką i odważnikiem 350 ml wyposażony w wygodny uchwyt umożliwiający przymocowanie go do torby lub paska, dzięki czemu idealnie sprawdzi się w podróży. Bidon niekapek z rurką z odważnikiem jest rekomendowany dla dzieci od 9 miesiąca życia.</opis>
@@ -83159,7 +83159,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 56/620_gre Kubek niekapek z rurką i odważnikiem 270ml MOUNTAINS</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407162409</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek niekapek z rurką i odważnikiem Canpol babies świetnie sprawdzi się w domu, w podróży i na spacerze. Specjalna membrana umieszczona w rurce sprawia, że płyn trafia do rurki wyłącznie podczas picia, zapobiegając rozlewaniu. To idealne rozwiązanie dla dzieci, które dopiero rozpoczynają przygodę z nauką samodzielnego picia. Kubek niekapek z rurką i odważnikiem wspiera prawidłowy rozwój jamy ustnej, mowy i zgryzu u 99% dzieci.* Odważnik na końcu rurki podąża za płynem, dzięki czemu dziecko wypije swój ulubiony napój do ostatniej kropli, niezależnie od tego, pod jakim kątem przechyli kubeczek. Pokrywka ułatwia szybko i wygodnie schować rurkę, zapobiegając niekontrolowanemu wylewaniu się napoju i gwarantując 100% szczelności, bez przeciekania. Miękka silikonowa rurka jest delikatna dla wrażliwych dziąseł dziecka. Aby utrzymać rurkę w czystości można ją zdemontować i dokładnie umyć. Warto dokupić specjalną szczoteczkę do mycia rurek oraz wymienne rurki. Kubek niekapek Canpol został wykonany z nietłukącego się i bezpiecznego plastiku (PP), nie zawiera BPA ani innych szkodliwych substancji. Jest wytrzymały, lekki i odporny na uszkodzenia. Wygodne uchwyty ułatwiają trzymanie go w dziecięcych dłoniach, a duży otwór ułatwia napełnianie i mycie. Można myć go w zmywarce i podgrzewać w mikrofalówce. Przeznaczony do napojów zimnych lub w temperaturze pokojowej. Praktyczny kubek niekapek Canpol z rurką i odważnikiem 270 ml będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Kubek niekapek Canpol z rurką i odważnikiem 270 ml jest rekomendowany dla dzieci od 6 miesiąca życia. ?
@@ -83740,7 +83740,7 @@ Magnesy w zabawkach pozwalają na odczepienie elementów, dzięki czemu dziecko 
 <nazwa>CANPOL 68/084 Kontrastowa karuzela z pozytywką SENSORY TOYS</nazwa>
 <cena>106.37</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407680842</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Kontrastowa karuzela z pozytywką z kolekcji SENSORY TOYS kryje wiele niespodzianek, które zajmą dziecko na długi czas. Wspiera rozwój maluszka już od pierwszych dni. Stymuluje wzrok dzięki czerwieni i czerni, kolorom które niemowlę widzi jako pierwsze. Karuzela doskonale stymuluje rozwój koordynacji wzrokowo-słuchowej i motorycznej dziecka.  
@@ -84253,7 +84253,7 @@ W opakowaniu 2 sztuki.</opis>
 <nazwa>CANPOL 74/015 Gryzak wodny Ptaszek</nazwa>
 <cena>4.30</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407740157</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny PTASZEK idealnie sprawdzi się w okresie ząbkowania, gdy dziąsła są rozpulchnione, bardzo swędzą i dziecko ma silną potrzebę gryzienia. Wykonany z miękkiego tworzywa, które dopasowuje się do dziąseł malucha. Różnorodne kształty i kolory stymulują rozwój koordynacji wzrokowo ruchowej dziecka. Gryzak jest lekki i poręczny, dzięki czemu maluchowi jest łatwiej go złapać i utrzymać w małych rączkach. Przeznaczony dla dzieci w wieku 3m+. Przed podaniem dziecku gryzak należy schłodzić w lodówce.</opis>
@@ -85536,7 +85536,7 @@ Aby zminimalizować ryzyko niespodziewanego poruszenia się dziecka, zaleca się
 <nazwa>CANPOL 9/814 Zestaw pielęgnacyjny do paznokci dla niemowląt i dzieci blue</nazwa>
 <cena>19.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691869363</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Kompletny zestaw do paznokci dla niemowląt zapakowany w praktyczne wodoodporne etui, które umożliwia higieniczne przechowywanie oraz przenoszenie. Zestaw do obcinania paznokci dla niemowląt składa się z 4 elementów – nożyczki, poręczny obcinacz do paznokci, delikatny pilniczek i pęseta. Bestsellerowe nożyczki ze stali nierdzewnej i cążki pomogą skutecznie i bezpiecznie obciąć paznokcie dziecku. Zaokrąglone końcówki nożyczek zapobiegają skaleczeniu. Delikatny pilniczek pomoże usunąć nierówności paznokcia chroniąc dziecko przed zadrapaniem. Canpol zestaw do paznokci dla niemowląt i dzieci jest dostępny w dwóch wersjach kolorystycznych. Canpol zestaw do pielęgnacji paznokci dla niemowląt jest bezpieczny dla dzieci od pierwszych dni życia.
@@ -90110,7 +90110,7 @@ Zabawka ma wymiary: 15x15x35 cm</opis>
 <nazwa>CHICCO 00011156000000 ECO+ Cars niebieski</nazwa>
 <cena>27.46</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8058664151936</EAN>
 <grupa>CHICCO/ZABAWKI</grupa>
 <opis>Vintage design i trwałe materiały
@@ -94876,7 +94876,7 @@ WAGA : 4,3 kg</opis>
 <nazwa>COLIBRO Fotelik samochodowy PETIT DOVE</nazwa>
 <cena>266.67</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739974</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Fotelik samochodowy PETIT marki COLIBRO  z homologacją R129 dla dzieci od 40 do 87 cm (od narodzin do około 13 kg)
@@ -94939,7 +94939,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <nazwa>COLIBRO Fotelik samochodowy PETIT ONYX</nazwa>
 <cena>266.67</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739967</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Montaż na praktycznie każdym wózku dziecięcym
@@ -95192,7 +95192,7 @@ WAGA:
 <nazwa>COLIBRO Fotelik samochodowy PETIT PRO ONYX</nazwa>
 <cena>502.38</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214730001</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Fotelik samochodowy PETIT PRO marki COLIBRO  z homologacją R129 lub I-SIZE dla dzieci od 40 do 87 cm (od narodzin do około 13 kg)
@@ -96044,7 +96044,7 @@ Waga: 5,70 kg</opis>
 <nazwa>COLIBRO Krzesełko do karmienia SCANDI ALMOND</nazwa>
 <cena>204.76</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739684</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Krzesełko do karmienia 3w1 SCANDI marki COLIBRO – skandynawski styl
@@ -97072,7 +97072,7 @@ Waga: 0,4 kg</opis>
 <nazwa>COLIBRO Nocnik dziecięcy SOLO LILA fiolet</nazwa>
 <cena>17.86</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214730209</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Nocnik dziecięcy SOLO marki COLIBRO – wysoka jakość w niskiej cenie
@@ -97250,7 +97250,7 @@ Kod EAN 5908214734368</opis>
 <nazwa>COLIBRO Nosidełko HONEY ONYX</nazwa>
 <cena>107.14</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN> 5908214734351</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Nosidełko ergonomiczne z siodełkiem biodrowym COLIBRO HONEY (12 w 1)
@@ -105472,7 +105472,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 55060 Kurczak Leoś</nazwa>
 <cena>36.65</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4897126755060</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Uroczy kurczaczek w zabawkowej skorupce buja się wesoło, odtwarzając przy tym przeróżne dźwięki. Leoś zna kilka krótkich rymowanek oraz wesołe piosenki i melodie, a gdy maluch pchnie go do tyłu lub w bok, kurczaczek zakołysze się na podstawce i wróci do bazowej pozycji. Zabawka wyposażona jest w trzy przyciski, różniące się kolorem i obrazkiem, a każdy z nich aktywuje inny tryb. Kwiatek uruchamia wierszyki, symbol
@@ -107609,7 +107609,7 @@ Waga : 1,50 kg</opis>
 <nazwa>EASY GO Gondola miękka do wózka ECHO SAGE GREEN</nazwa>
 <cena>129.65</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN/>
 <grupa>EURO CART/EASY GO/AKCESORIA</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) do wózka dla dwójki dzieci ECHO marki EASYGO
@@ -107800,7 +107800,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO EBONY BLACK</nazwa>
 <cena>960.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214739400</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -107846,7 +107846,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO SAGE GREEN</nazwa>
 <cena>960.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214739431</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -108546,7 +108546,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy HERO JUNGLE GREEN</nazwa>
 <cena>470.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214730421</EAN>
 <grupa>EURO CART/EASY GO</grupa>
 <opis>Wózek dziecięcy spacerowy HERO marki EASYGO – automatycznie składany, lekki, stylowy
@@ -110449,9 +110449,9 @@ Producent wprowadzający: BDG PRODUKCJA Sp. z o.o. ul. Warszawska 8 42-262 Pocze
 <b2b>
 <kod>5914932</kod>
 <nazwa>ESPIRO Wózek uniwersalny CODE 119 loving beige</nazwa>
-<cena>0.00</cena>
+<cena>2236.71</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905683802239</EAN>
 <grupa>ESPIRO/WÓZKI/CODE</grupa>
 <opis/>
@@ -110669,9 +110669,9 @@ Oznaczenie na kartonie</opis>
 <b2b>
 <kod>5914930</kod>
 <nazwa>ESPIRO Wózek uniwersalny MILOO 308 excellent chocolate</nazwa>
-<cena>0.00</cena>
+<cena>2796.05</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905683802277</EAN>
 <grupa>ESPIRO/WÓZKI/MILOO</grupa>
 <opis/>
@@ -110679,9 +110679,9 @@ Oznaczenie na kartonie</opis>
 <b2b>
 <kod>5914931</kod>
 <nazwa>ESPIRO Wózek uniwersalny MILOO 309 tasty cappuccino</nazwa>
-<cena>0.00</cena>
+<cena>2796.05</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905683802307</EAN>
 <grupa>ESPIRO/WÓZKI/MILOO</grupa>
 <opis/>
@@ -110691,7 +110691,7 @@ Oznaczenie na kartonie</opis>
 <nazwa>ESPIRO Wózek uniwersalny MILOO 319 perfect beige</nazwa>
 <cena>2796.05</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5905683802314</EAN>
 <grupa>ESPIRO/WÓZKI/MILOO</grupa>
 <opis/>
@@ -110862,63 +110862,6 @@ W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, kt
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5905056</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 219 chic brown gel</nazwa>
-<cena>1677.35</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5906724206542</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -110969,6 +110912,63 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5905056</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 219 chic brown gel</nazwa>
+<cena>1677.35</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724206542</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -111085,7 +111085,7 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Iron</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN/>
 <grupa>EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
@@ -111147,7 +111147,7 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Taupe</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
@@ -112218,7 +112218,7 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO IRON</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN/>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
@@ -112647,7 +112647,7 @@ Szerokość opakowania 29 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy EZZO taupe</nazwa>
 <cena>295.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214738380</EAN>
 <grupa>EURO CART/EURO CART/WÓZKI</grupa>
 <opis>Wózek spacerowy EZZO marki EURO-CART – idealny wózek typu „parasolka”
@@ -137191,7 +137191,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER 18650 EWA STARS Nakładka sedesowa antypoślizgowa kosmiczny szary</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396044881</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -137402,7 +137402,7 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM PEPPA PIG Nocnik antypoślizgowy nordic white</nazwa>
 <cena>15.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396080544</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>informacje o produkcie
@@ -137695,7 +137695,7 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER EWA RAINBOW Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396093148</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis/>
@@ -137827,7 +137827,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER IGOR PANDA Podest dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396072839</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -138408,6 +138408,16 @@ PP</opis>
 <b2b>
 <kod>5914937</kod>
 <nazwa>KIECZMERSKI Daszek do wózka, osłonka przeciwsłoneczna MUŚLIN bawełna 100% pudrowy róż</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN/>
+<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5914944</kod>
+<nazwa>KIECZMERSKI Daszek do wózka, osłonka przeciwsłoneczna MUŚLIN bawełna 100% śmietanka</nazwa>
 <cena>0.00</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
@@ -139271,6 +139281,16 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5910876-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914852</kod>
+<nazwa>KIECZMERSKI Kokon niemowlęcy MUŚLIN bawełna 100% Listki</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907378109449</EAN>
+<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5912057</kod>
 <nazwa>KIECZMERSKI Kokon niemowlęcy MUŚLIN PREMIUM ciepły beż bawełna 100%</nazwa>
 <cena>99.39</cena>
@@ -139319,16 +139339,6 @@ Ułatwi dzieciom spanie na boczku, które mają problem z ulewaniem.
 
 Idealne na wyjazd i krótki urlop.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912059-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5914852</kod>
-<nazwa>KIECZMERSKI Kokon niemowlęcy MUŚLIN PREMIUM Listki śmietanka bawełna 100%</nazwa>
-<cena>0.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
-<opis/>
 </b2b>
 <b2b>
 <kod>5912058</kod>
@@ -141284,7 +141294,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 </b2b>
 <b2b>
 <kod>5913922</kod>
-<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN BAWEŁNIANY bawełna 100% beż 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN bawełna 100% beż 2-pak</nazwa>
 <cena>9.15</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -141331,7 +141341,7 @@ Polski produkt antyalergiczny, bezpieczny dla niemowląt.</opis>
 </b2b>
 <b2b>
 <kod>5913924</kod>
-<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN BAWEŁNIANY bawełna 100% jeans 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN bawełna 100% jeans 2-pak</nazwa>
 <cena>9.15</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -141377,8 +141387,18 @@ Polski produkt antyalergiczny, bezpieczny dla niemowląt.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913924-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914945</kod>
+<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN bawełna 100% Listki 2-pak</nazwa>
+<cena>0.00</cena>
+<VAT>5</VAT>
+<stan>brak</stan>
+<EAN/>
+<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5913923</kod>
-<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN BAWEŁNIANY bawełna 100% pudrowy róż 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN bawełna 100% pudrowy róż 2-pak</nazwa>
 <cena>9.15</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -141425,7 +141445,7 @@ Polski produkt antyalergiczny, bezpieczny dla niemowląt.</opis>
 </b2b>
 <b2b>
 <kod>5913921</kod>
-<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN BAWEŁNIANY bawełna 100% śmietanka 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN bawełna 100% śmietanka 2-pak</nazwa>
 <cena>9.15</cena>
 <VAT>5</VAT>
 <stan>średnia ilość</stan>
@@ -141472,7 +141492,7 @@ Polski produkt antyalergiczny, bezpieczny dla niemowląt.</opis>
 </b2b>
 <b2b>
 <kod>5912576</kod>
-<nazwa>KIECZMERSKI Pieluszki 80x80 +/- 3 cm MUŚLIN BAWEŁNIANY bawełna 100% śmietanka/ciepły beż 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszki 80x80 +/- 3 cm MUŚLIN bawełna 100% śmietanka/ciepły beż 2-pak</nazwa>
 <cena>23.17</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
@@ -141525,7 +141545,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 </b2b>
 <b2b>
 <kod>5912578</kod>
-<nazwa>KIECZMERSKI Pieluszki 80x80 +/- 3 cm MUŚLIN BAWEŁNIANY bawełna 100% śmietanka/jeans 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszki 80x80 +/- 3 cm MUŚLIN bawełna 100% śmietanka/jeans 2-pak</nazwa>
 <cena>23.17</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
@@ -141582,7 +141602,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 </b2b>
 <b2b>
 <kod>5912577</kod>
-<nazwa>KIECZMERSKI Pieluszki 80x80 +/- 3 cm MUŚLIN BAWEŁNIANY bawełna 100% śmietanka/pudrowy róż 2-pak</nazwa>
+<nazwa>KIECZMERSKI Pieluszki 80x80 +/- 3 cm MUŚLIN bawełna 100% śmietanka/pudrowy róż 2-pak</nazwa>
 <cena>23.17</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
@@ -142371,6 +142391,16 @@ Wirować maksymalnie 800 obrotów. Suszyć w pozycji rozłożonej. Nie suszyć w
 <zdjecia>https://marini.pl/b2b/pictures/5912040-1.jpg https://marini.pl/b2b/pictures/5912040-2.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914943</kod>
+<nazwa>KIECZMERSKI Pościel C-2 100x135 cm MUŚLIN bawełna 100% Listki</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907378109463</EAN>
+<grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5607</kod>
 <nazwa>KIECZMERSKI Pościel C-2 100x135 cm ROYAL z falbanką beż</nazwa>
 <cena>51.32</cena>
@@ -142766,7 +142796,7 @@ Do wyboru ze wzornika. Nie gwarantujemy dostępności wybranego wzoru.
 </b2b>
 <b2b>
 <kod>5911981</kod>
-<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN BAWEŁNIANY ciepły beż bawełna 100%</nazwa>
+<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN bawełna 100% ciepły beż</nazwa>
 <cena>69.51</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -142837,7 +142867,7 @@ KOLOR ROŻKA - MUŚLIN CIEPŁY BEŻ</opis>
 </b2b>
 <b2b>
 <kod>5912061</kod>
-<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN BAWEŁNIANY jeans bawełna 100%</nazwa>
+<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN bawełna 100% jeans</nazwa>
 <cena>69.51</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -142906,7 +142936,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</opis>
 </b2b>
 <b2b>
 <kod>5912060</kod>
-<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN BAWEŁNIANY pudrowy róż bawełna 100%</nazwa>
+<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN bawełna 100% pudrowy róż</nazwa>
 <cena>69.51</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -142975,7 +143005,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</opis>
 </b2b>
 <b2b>
 <kod>5911982</kod>
-<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN BAWEŁNIANY śmietanka bawełna 100%</nazwa>
+<nazwa>KIECZMERSKI Rożek niemowlęcy z kokardą MUŚLIN bawełna 100% śmietanka</nazwa>
 <cena>69.51</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
@@ -145871,6 +145901,75 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 <zdjecia>https://marini.pl/b2b/pictures/5914611-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914609</kod>
+<nazwa>KIECZMERSKI Śpiworek letni AVI MUŚLIN bawełna 100% 3-12m, 0,5-1TOG Listki</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907378109364</EAN>
+<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
+<opis>Śpiworek letni dla niemowląt "AVI", zapinany na suwak, rozmiar 74 cm MUŚŁIN BAWEŁNIANY, BAWEŁNA 100%
+
+Śpiworek do spania wykonany z muślinu bawełnianego, podwójna gaza, zapinany na suwak, bawełna 100%
+
+Mięciutki śpiworek wykonany z naturalnej bawełny 100% doskonale sprawdzi się do spania.
+
+Przez całą noc dokładnie otula dziecko bez potrzeby nocnego kontrolowania czy dziecko się nie rozkopało i nie marznie w łóżeczku.
+
+Dodatkowe zalety:
+
+Mięciutka dzianina jest niezwykle delikatna dla skóry dziecka.
+
+Brak rękawów nie krępuje ruchów maluszka i zapewnia doskonałą wentylację podczas snu.
+
+Gruszkowaty kształt zapewnia większą swobodę dla nóżek.
+
+Delikatne boczne gumeczki dopasowują śpiworek
+
+Wygodny 1 suwak zapinany od góry do dołu.
+
+Śpiworek jest uszyty z 2 warstw bawełny, dzięki temu jest leciutki i przewiewny. Idealny na sezon letni.
+
+Zamek z osłonką dla wygodnego i bezpiecznego użytkowania. Nakładka stanowi zabezpieczenie przed przypadkowym zahaczeniem lub zadrapaniem delikatnej skóry dziecka.
+
+Grubość śpiworka: 0.5 - 1 TOG
+
+Wszyte gumeczki po bokach, dopasowują śpiworek pod paszkami.
+
+ROZMIARY:
+
+Długość całkowita: 70 cm (+/- 1 cm)
+
+Szerokość pod paszkami: 31 - 34 cm (+/- 1 cm)
+
+Szerokość w najszerszym miejscu:  50 cm (+/- 2 cm)
+
+WIEK DZIECKA / WZROST DZIECKA: 3 - 12  miesięcy / 52 - 77 cm
+
+GRUBOŚĆ ŚPIWORKA - 0,5 - 1 TOG
+
+Poszycie: MUŚLIN BAWEŁNIANY - BAWEŁNA 100%
+
+Naturalna 100% tkanina bawełniana, która nie powoduje żadnych podrażnień, ani alergii. 
+
+Niezwykle miękka i przyjemna w dotyku, a jednocześnie wytrzymała w użytkowaniu.  
+
+Gwarantowane bezpieczeństwo i jakość produktu, zachowanie odpowiednich atestów i certyfikatów.
+
+Pielęgnacja - prać w temperaturze 30 stopni C, można prasować w niskiej temperaturze, wirowanie maksymalnie 800 obrotów, nie wybielać, nie namaczać, można czyścic chemicznie, nie suszyć w suszarce bębnowej, suszyć w pozycji rozłożonej.
+
+PRODUKT POLSKI, PRODUKT ANTYALERGICZNY.
+
+UWAGA - TRZYMAĆ DALEGO OD OGNIA
+
+OSTRZEŻENIE: Nie stosować w połączeniu z innymi elementami pościeli (  np. kołdrą do łóżeczka ). Wziąć pod uwagę temperaturę w pomieszczeniu i bieliznę nocną dziecka. Przegrzanie może grozić życiu Twego dziecka!
+POLSKI PRODUKT ANTYALERGICZNY
+
+WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturze 30°C. Prasować w niskiej temperaturze. Wirować maksymalnie 800 obrotów. Suszyć w pozycji rozłożonej. Nie suszyć w suszarce bębnowej. Nie czyścić chemicznie. Uprać produkt przed pierwszym użyciem. Nie używać produktu przy oznakach zniszczenia lub uszkodzenia. Trzymać produkt z daleka od ognia.
+
+Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może różnić się od modelu przedstawionego na zdjęciach. Proszę pamiętać o tym, że kolory przedmiotów na zdjęciach w zależności od ustawień monitora czy wyświetlacza, mogą nieznacznie różnić się od tych w rzeczywistości.</opis>
+</b2b>
+<b2b>
 <kod>5914610</kod>
 <nazwa>KIECZMERSKI Śpiworek letni AVI MUŚLIN bawełna 100% 3-12m, 0,5-1TOG pudrowy róż</nazwa>
 <cena>70.73</cena>
@@ -146009,75 +146108,6 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 
 Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może różnić się od modelu przedstawionego na zdjęciach. Proszę pamiętać o tym, że kolory przedmiotów na zdjęciach w zależności od ustawień monitora czy wyświetlacza, mogą nieznacznie różnić się od tych w rzeczywistości.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914607-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5914609</kod>
-<nazwa>KIECZMERSKI Śpiworek letni AVI MUŚLIN Listki bawełna 100% 3-12m, 0,5-1TOG śmietanka</nazwa>
-<cena>0.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
-<opis>Śpiworek letni dla niemowląt "AVI", zapinany na suwak, rozmiar 74 cm MUŚŁIN BAWEŁNIANY, BAWEŁNA 100%
-
-Śpiworek do spania wykonany z muślinu bawełnianego, podwójna gaza, zapinany na suwak, bawełna 100%
-
-Mięciutki śpiworek wykonany z naturalnej bawełny 100% doskonale sprawdzi się do spania.
-
-Przez całą noc dokładnie otula dziecko bez potrzeby nocnego kontrolowania czy dziecko się nie rozkopało i nie marznie w łóżeczku.
-
-Dodatkowe zalety:
-
-Mięciutka dzianina jest niezwykle delikatna dla skóry dziecka.
-
-Brak rękawów nie krępuje ruchów maluszka i zapewnia doskonałą wentylację podczas snu.
-
-Gruszkowaty kształt zapewnia większą swobodę dla nóżek.
-
-Delikatne boczne gumeczki dopasowują śpiworek
-
-Wygodny 1 suwak zapinany od góry do dołu.
-
-Śpiworek jest uszyty z 2 warstw bawełny, dzięki temu jest leciutki i przewiewny. Idealny na sezon letni.
-
-Zamek z osłonką dla wygodnego i bezpiecznego użytkowania. Nakładka stanowi zabezpieczenie przed przypadkowym zahaczeniem lub zadrapaniem delikatnej skóry dziecka.
-
-Grubość śpiworka: 0.5 - 1 TOG
-
-Wszyte gumeczki po bokach, dopasowują śpiworek pod paszkami.
-
-ROZMIARY:
-
-Długość całkowita: 70 cm (+/- 1 cm)
-
-Szerokość pod paszkami: 31 - 34 cm (+/- 1 cm)
-
-Szerokość w najszerszym miejscu:  50 cm (+/- 2 cm)
-
-WIEK DZIECKA / WZROST DZIECKA: 3 - 12  miesięcy / 52 - 77 cm
-
-GRUBOŚĆ ŚPIWORKA - 0,5 - 1 TOG
-
-Poszycie: MUŚLIN BAWEŁNIANY - BAWEŁNA 100%
-
-Naturalna 100% tkanina bawełniana, która nie powoduje żadnych podrażnień, ani alergii. 
-
-Niezwykle miękka i przyjemna w dotyku, a jednocześnie wytrzymała w użytkowaniu.  
-
-Gwarantowane bezpieczeństwo i jakość produktu, zachowanie odpowiednich atestów i certyfikatów.
-
-Pielęgnacja - prać w temperaturze 30 stopni C, można prasować w niskiej temperaturze, wirowanie maksymalnie 800 obrotów, nie wybielać, nie namaczać, można czyścic chemicznie, nie suszyć w suszarce bębnowej, suszyć w pozycji rozłożonej.
-
-PRODUKT POLSKI, PRODUKT ANTYALERGICZNY.
-
-UWAGA - TRZYMAĆ DALEGO OD OGNIA
-
-OSTRZEŻENIE: Nie stosować w połączeniu z innymi elementami pościeli (  np. kołdrą do łóżeczka ). Wziąć pod uwagę temperaturę w pomieszczeniu i bieliznę nocną dziecka. Przegrzanie może grozić życiu Twego dziecka!
-POLSKI PRODUKT ANTYALERGICZNY
-
-WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturze 30°C. Prasować w niskiej temperaturze. Wirować maksymalnie 800 obrotów. Suszyć w pozycji rozłożonej. Nie suszyć w suszarce bębnowej. Nie czyścić chemicznie. Uprać produkt przed pierwszym użyciem. Nie używać produktu przy oznakach zniszczenia lub uszkodzenia. Trzymać produkt z daleka od ognia.
-
-Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może różnić się od modelu przedstawionego na zdjęciach. Proszę pamiętać o tym, że kolory przedmiotów na zdjęciach w zależności od ustawień monitora czy wyświetlacza, mogą nieznacznie różnić się od tych w rzeczywistości.</opis>
 </b2b>
 <b2b>
 <kod>5905137</kod>
@@ -147795,7 +147825,7 @@ Waga: 11 kg</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-SPARK i-size 100-150cm black</nazwa>
 <cena>170.69</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533924943</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>I-SPARK to nowoczesne rozwiązanie dla rodziców, którym zależy na komforcie i bezpieczeństwie dziecka podczas podróży. To fotelik samochodowy 2w1 dla dzieci o wzroście 100-150 cm (od ok 3,5 do 12 lat), zgodny z najnowszą normą bezpieczeństwa R129 i-Size. Dzięki zapinaniu na 3-punktowy pas samochodowy montaż fotelika jest szybki i łatwy. I-SPARK jest także lekki (4,5 kg), co ułatwia przenoszenie fotelika z samochodu do samochodu. W razie potrzeby oparcie można zdemontować, tworząc podkładkę dla starszych dzieci.
@@ -160581,7 +160611,10 @@ dąb
 
 materiał	
 płyta MDF, płyta meblowa
-</opis>
+
+Funkcja barierki
+
+Opcja: możliwość dokupienia pojemnika na pościel osobno.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909725-1.jpg https://marini.pl/b2b/pictures/5909725-2.jpg https://marini.pl/b2b/pictures/5909725-3.jpg https://marini.pl/b2b/pictures/5909725-4.jpg https://marini.pl/b2b/pictures/5909725-5.jpg</zdjecia>
 </b2b>
 <b2b>
@@ -174377,7 +174410,7 @@ Obawiasz się, że smoczek uspokajający może kolidować z karmieniem malucha p
 <nazwa>LOVI 22/914 Smoczek silikonowy dynamiczny 3-6m 2szt Night&amp;Day girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691874466</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -187679,22 +187712,6 @@ Skład surowcowy:
 <zdjecia>https://marini.pl/b2b/pictures/780403-1.jpg https://marini.pl/b2b/pictures/780403-2.jpg https://marini.pl/b2b/pictures/780403-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>787509</kod>
-<nazwa>MATEX Kocyk INES bawełniany dwustronny 75x100 [TB0236_37] róże WYPRZEDAŻ</nazwa>
-<cena>53.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5902675067041</EAN>
-<grupa>BABYMATEX/KOCYKI I NARZUTY</grupa>
-<opis>Kocyk Ines to idealne rozwiązanie na lato.
-Kocyk został wykonany z najwyższej jakości bawełny, stonowana kolorystyka oraz wzory są przyjazne dla dziecka. Ines posiada certyfikat Oeko-Tex.
-Rozmiar: 
-75 x 100 cm
-Skład surowcowy:
-100 % bawełna</opis>
-<zdjecia>https://marini.pl/b2b/pictures/787509-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>790482</kod>
 <nazwa>MATEX Kocyk KOALA MUSLIN z kapturkiem 95x95 cm [TB0444_03]</nazwa>
 <cena>72.77</cena>
@@ -187759,7 +187776,7 @@ Rozmiar:
 <nazwa>MATEX Kocyk MILLY dziecięcy z mikrofazy 75x100 [TB0294_K01] kropki białe</nazwa>
 <cena>28.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675045551</EAN>
 <grupa>BABYMATEX/KOCYKI I NARZUTY</grupa>
 <opis>Ciepły i bardzo miły w dotyku kocyk Milly zapewni dziecku zdrowy i spokojny sen w domu jak również na spacerze. Wykonany z 100% poliestru. Dostępny w kilku wzorach i kolorach.
@@ -187777,7 +187794,7 @@ Rozmiar:
 <nazwa>MATEX Kocyk MILLY dziecięcy z mikrofazy 75x100 [TB0294_K42] kropki szary</nazwa>
 <cena>28.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675045568</EAN>
 <grupa>BABYMATEX/KOCYKI I NARZUTY</grupa>
 <opis>Ciepły i bardzo miły w dotyku kocyk Milly zapewni dziecku zdrowy i spokojny sen w domu jak również na spacerze. Wykonany z 100% poliestru. Dostępny w kilku wzorach i kolorach.
@@ -187995,22 +188012,6 @@ Welur</opis>
 <zdjecia>https://marini.pl/b2b/pictures/789170-1.jpg https://marini.pl/b2b/pictures/789170-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>780397</kod>
-<nazwa>MATEX Kocyk WILLY 85x100 [TB0374_02]beżowy piesek</nazwa>
-<cena>26.83</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5902675060905</EAN>
-<grupa>BABYMATEX/KOCYKI I NARZUTY</grupa>
-<opis>Kocyk Willy roz. 85x100 cm
-po zwinięciu kocyk zamienia się w maskotkę przyjazną maluchowi
-Rozmiar:
-85 x100 cm
-Skład surowcowy:
-100 % poliester</opis>
-<zdjecia>https://marini.pl/b2b/pictures/780397-1.jpg https://marini.pl/b2b/pictures/780397-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>780398</kod>
 <nazwa>MATEX Kocyk WILLY 85x100 [TB0374_03]zielona żaba</nazwa>
 <cena>26.83</cena>
@@ -188084,9 +188085,9 @@ Skład surowcowy:
 <b2b>
 <kod>770577</kod>
 <nazwa>MATEX Materacyk łagodzący objawy kolki z termoforem [TB0169]</nazwa>
-<cena>252.51</cena>
+<cena>252.41</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675030199</EAN>
 <grupa>BABYMATEX/MATERACE</grupa>
 <opis>Materacyk z termoforem przeznaczony dla noworodków. Wykonany w kształcie klina z otworami wentylacyjnymi, zapobiega zakrztuszeniu się dziecka w wyniku ulewania. Głównym atutem produktu jest możliwość umieszczenia w nim termofora z ciepłą wodą, który ogrzewa brzuszek maluszka, uśmierzając bóle spowodowane kolką.Dodatkowo na bokach materacyka znajdują się regulowane ograniczniki, umocowane na rzepach, które zapobiegają niekontrolowanej zmianie pozycji. Możliwość zdejmowania pokrowca do prania.</opis>
@@ -188253,7 +188254,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Materacyk ortopedyczny do kołyski  SOFTI SIMPLI 90x40x4 [TB0307_01]</nazwa>
 <cena>49.66</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675018333</EAN>
 <grupa>BABYMATEX/MATERACE</grupa>
 <opis>Zaprojektowany i skonstruowany w myśl zasady:
@@ -188541,7 +188542,7 @@ Rozmiary:
 <nazwa>MATEX Ochraniacz do łóżeczka BUMP AIR 360x30 [TB0239_01]</nazwa>
 <cena>84.49</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675040518</EAN>
 <grupa>BABYMATEX/POZOSTAŁE</grupa>
 <opis>Ochraniacz Bump AIR®
@@ -188721,7 +188722,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Podkład higieniczny BASIC 70x140 [TB0020_01]</nazwa>
 <cena>23.22</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675002264</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
 <opis>Podkład higieniczny
@@ -188786,7 +188787,7 @@ Podkład posiada gumki w czterech rogach, uniemożliwiające przesuwanie się na
 <nazwa>MATEX Podkład higieniczny KOMFI 60x120 [TB0230]</nazwa>
 <cena>42.82</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675039239</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
 <opis>Podkład chłonny KOMFI to idealne rozwiązanie dla utrzymania higieny podczas snu dziecka. Idealnie sprawdza się podczas letnich upałów. Zapewnia przewiewność i odpowiednią cyrkulację powietrza pomiędzy ciałem dziecka a materacem, jednocześnie zapewniając optymalny komfort snu. Podkład  chroni materac przed wszelkimi zabrudzeniami. Świetne rozwiązanie dla dzieci ulewających. Można go prać w pralce bez obawy że zmieni swój kształt czy wielkość. Na rogach podkładu zostały wszyte gumki aby uniemożliwić jego przesunięcie. Podkład jest świetnym pomysłem na prezent dla nowo narodzonego dziecka i jego rodziców.
@@ -188860,7 +188861,7 @@ Warstwa stabilizująco-ochronna – zapewnia stabilizację całego podkładu pod
 <nazwa>MATEX Podkład higieniczny OXI Proof 35X75 [TB0325]</nazwa>
 <cena>30.68</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675021425</EAN>
 <grupa>BABYMATEX/POZOSTAŁE</grupa>
 <opis>Podkład oddychający OXI PROOF to innowacyjny produkt na polskim rynku. Został wykonany w nowej technologii co sprawia, że nie odgniata się pod wpływem nacisku a tym samym zachowuje swój pierwotny kształt. Ta cecha jest niezmiernie ważna dla zdrowia naszej pociechy, ponieważ utrzymuje delikatny kręgosłup w odpowiedniej pozycji podczas snu.
@@ -188878,9 +188879,9 @@ rozmiar: 35x75 cm (do wózka)</opis>
 <b2b>
 <kod>767728</kod>
 <nazwa>MATEX Podkład higieniczny OXI Proof 40x90 [TB0326_01]</nazwa>
-<cena>36.80</cena>
+<cena>38.67</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675050524</EAN>
 <grupa>BABYMATEX/POZOSTAŁE</grupa>
 <opis>Podkład oddychający OXI PROOF to innowacyjny produkt na polskim rynku. Został wykonany w nowej technologii co sprawia, że nie odgniata się pod wpływem nacisku a tym samym zachowuje swój pierwotny kształt. Ta cecha jest niezmiernie ważna dla zdrowia naszej pociechy, ponieważ utrzymuje delikatny kręgosłup w odpowiedniej pozycji podczas snu.
@@ -189043,7 +189044,7 @@ Gramatura: 250g/m2</opis>
 <nazwa>MATEX Poduszka 36x36 KLIN Original [TB0399_01]</nazwa>
 <cena>40.54</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5902675067393</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka dla dziecka KlinAIR o wymiarach 36x36 jest przystosowana do niemal każdej gondoli wózka.
@@ -189189,7 +189190,7 @@ Skład: poszewka: 100% bawełna, poduszka: 100% poliester, wypełnienie: włókn
 <nazwa>MATEX Poduszka dla niemowląt Aero3D 37x57 [TB0184]</nazwa>
 <cena>70.90</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675034371</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis>Poduszka AERO 3D.
@@ -189409,16 +189410,6 @@ Rozmiar: dł. 170 cm po stronie zewnętrznej</opis>
 <VAT>8</VAT>
 <stan>mała ilość</stan>
 <EAN>5902675084154</EAN>
-<grupa>BABYMATEX/PODUSZKI</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5913061</kod>
-<nazwa>MATEX Poduszka pozycjonująca RELAX JERSEY PU PRINT dł. 190 [TB0499_03]</nazwa>
-<cena>127.61</cena>
-<VAT>8</VAT>
-<stan>brak</stan>
-<EAN>5902675084161</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
 <opis/>
 </b2b>
@@ -189732,7 +189723,7 @@ Skład: 82% bawełna, 18% poliester</opis>
 <nazwa>MATEX Prześcieradło FROTTE na materacyk do wózka 75x35 [TB0247_01] białe</nazwa>
 <cena>18.56</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675040624</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło FROTTE z gumką.
@@ -190305,9 +190296,9 @@ Dostępne rozmiary:
 <b2b>
 <kod>765555</kod>
 <nazwa>MATEX Prześcieradło JERSEY z gumką 70x140 [TB0028_01] białe</nazwa>
-<cena>24.26</cena>
+<cena>21.88</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675000321</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło JERSEY z gumką
@@ -190895,7 +190886,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne jersey 40/50x80/90 do łóżeczka piccolo [TB0359 01] biały</nazwa>
 <cena>27.99</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675058346</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Wierzchnia warstwa wykonana jest z miękkiej dzianiny typu jersey. Spodnia warstwa prześcieradła, wykonana jest z oddychającej membrany poliuretanowej. Nie przepuszcza płynów, chroniąc materac przed zmoczeniem. Posiada wszytą gumę, która uniemożliwia przesunięcie się prześcieradełka. Posiada status wyrobu medycznego
@@ -190913,7 +190904,7 @@ Skład surowcowy:
 <nazwa>MATEX Prześcieradło nieprzemakalne jersey 40/50x80/90 do łóżeczka piccolo [TB0359_10] róż</nazwa>
 <cena>27.99</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675073622</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>MATEX Prześcieradło nieprzemakalne jersey 40/50x80/90 idealnie pasuje do łóżeczka Piccolo. Wykonane z miękkiego, oddychającego materiału, chroni materac przed wilgocią i zabrudzeniami. Hipoalergiczne, delikatne dla skóry dziecka, z elastyczną gumką zapewniającą pewne dopasowanie.</opis>
@@ -190941,7 +190932,7 @@ Skład surowcowy:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60x120 [TB0241_01] biały</nazwa>
 <cena>31.30</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675040525</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
@@ -190958,10 +190949,10 @@ Dostępne rozmiary:
 </b2b>
 <b2b>
 <kod>787518</kod>
-<nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60X120 [TB0241_02] ekri</nazwa>
+<nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60X120 [TB0241_02A] ekri</nazwa>
 <cena>31.30</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675067089</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey
@@ -190979,9 +190970,9 @@ Dostępne rozmiary:
 <b2b>
 <kod>766078</kod>
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60x120 [TB0241_09] j.róż</nazwa>
-<cena>33.07</cena>
+<cena>31.30</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675081368</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
@@ -191010,7 +191001,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60X120 [TB0241_24] niebieski</nazwa>
 <cena>32.96</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675040556</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
@@ -191030,7 +191021,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60x120 [TB0241_42] popiel</nazwa>
 <cena>31.30</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675050296</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
@@ -191050,7 +191041,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 70x140 [TB0242_01] białe</nazwa>
 <cena>33.07</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5902675040570</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
@@ -191067,11 +191058,11 @@ Dostępne rozmiary:
 </b2b>
 <b2b>
 <kod>767670</kod>
-<nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 70x140 [TB0242_10] róż</nazwa>
+<nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 70x140 [TB0242_09A] jasny róż</nazwa>
 <cena>33.07</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
-<EAN>5902675040594</EAN>
+<stan>mała ilość</stan>
+<EAN>5902675081382</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
 Wierzchnia warstwa wykonana jest z miękkiego jerseyu zapobiegającego podrażnieniom sktóry, natomiast spodnia warstwa prześcieradła, wykonana jest z oddychającej membrany poliuretanowej. Nie przepuszcza płynów, chroniąc materac przed zmoczeniem. Dostępne w dwóch rozmiarach.
@@ -195289,7 +195280,7 @@ www.pminvestment.pl/manual/thor_manual.pdf</opis>
 <nazwa>MILLY MALLY 3171 Gokart na pedały Thor Red</nazwa>
 <cena>255.49</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761125788</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Twoje dziecko chce poczuć się jak prawdziwy kierowca rajdowy? Mamy dla Was świetna wiadomość – w naszej ofercie pojawił się gokart THOR.
@@ -198800,9 +198791,9 @@ Waga – 5,1 kg</opis>
 <b2b>
 <kod>788025</kod>
 <nazwa>MILLY MALLY 4073 Qplay Rowerek trójkołowy Nova+Rubber golden</nazwa>
-<cena>424.12</cena>
+<cena>406.91</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5061047480427</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Składany rowerek trójkołowy NOVA+ RUBBER został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -205122,7 +205113,7 @@ Waga brutto: 2,4 kg
 <nazwa>MILLY MALLY 5680 Qplay Rowerek trójkołowy Rito Deluxe Rubber black</nazwa>
 <cena>392.89</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047480267</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek trójkołowy RITO DELUXE RUBBER został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -209162,6 +209153,16 @@ www.pminvestment.pl/manual/Audi_e_tron_sportback_manual.pdf</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913217-1.jpg https://marini.pl/b2b/pictures/5913217-2.jpg https://marini.pl/b2b/pictures/5913217-3.jpg https://marini.pl/b2b/pictures/5913217-4.jpg https://marini.pl/b2b/pictures/5913217-5.jpg https://marini.pl/b2b/pictures/5913217-6.jpg https://marini.pl/b2b/pictures/5913217-7.jpg https://marini.pl/b2b/pictures/5913217-8.jpg https://marini.pl/b2b/pictures/5913217-9.jpg https://marini.pl/b2b/pictures/5913217-10.jpg https://marini.pl/b2b/pictures/5913217-11.jpg https://marini.pl/b2b/pictures/5913217-12.jpg https://marini.pl/b2b/pictures/5913217-13.jpg https://marini.pl/b2b/pictures/5913217-14.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914941</kod>
+<nazwa>MILLY MALLY 5739 Pojazd na akumulator Traktor z przyczepą Farmer Green</nazwa>
+<cena>536.58</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN/>
+<grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5913216</kod>
 <nazwa>MILLY MALLY 5740 Pojazd na akumulator Traktor z przyczepą Farmer Yellow</nazwa>
 <cena>561.54</cena>
@@ -209322,9 +209323,9 @@ Waga brutto: 19,0 kg
 <b2b>
 <kod>5912113</kod>
 <nazwa>MILLY MALLY 5741 Pojazd na akumulator Traktor z przyczepą Farmer Red</nazwa>
-<cena>561.54</cena>
+<cena>536.58</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901761129083</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Farmer wzorowany na najlepszych maszynach rolniczych - polecamy! Traktor na akumulator z przyczepą Farmer, w którym dziecko poczuje się jak dorosły Rolnik.
@@ -209480,9 +209481,9 @@ Waga brutto: 19,0 kg
 <b2b>
 <kod>5912112</kod>
 <nazwa>MILLY MALLY 5742 Pojazd na akumulator Traktor z przyczepą Farmer Blue</nazwa>
-<cena>561.54</cena>
+<cena>536.58</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901761129090</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Farmer wzorowany na najlepszych maszynach rolniczych - polecamy! Traktor na akumulator z przyczepą Farmer, w którym dziecko poczuje się jak dorosły Rolnik.
@@ -215820,7 +215821,7 @@ email: info@pminvestment.pl</opis>
 <nazwa>MILLY MALLY 6183 Rowerek trójkołowy Bobby beige</nazwa>
 <cena>93.07</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700153</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>DLACZEGO RODZICE WYBIERAJĄ ROWERKI MILLY MALLY?
@@ -219511,9 +219512,9 @@ www.pminvestment.pl/manual/qplay_stager_manual.pdf</opis>
 <b2b>
 <kod>5911682</kod>
 <nazwa>MILLY MALLY 6278 Rowerek trójkołowy Stager 3w1 brown</nazwa>
-<cena>174.27</cena>
+<cena>157.93</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5061047481745</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek Trójkołowy Stager 3w1 został zaprojektowany, aby stać się jednym z najlepszych wyborów na pierwszy pojazd twojego dziecka. Dzięki stabilnej trójkołowej konstrukcji zapewnia dziecku odpowiedni poziom bezpieczeństwa i ułatwia zdobywanie nowych umiejętności. Kiedy dziecko ma już opanowane podstawy jazdy i nie wymaga pomocy rodzica poprzez sterowanie rączką do prowadzenia, możemy dodać pedały lub zmienić go w klasyczny rowerek biegowy.
@@ -220564,9 +220565,9 @@ www.pminvestment.pl/manual/qplay_racer_manual.pdf</opis>
 <b2b>
 <kod>5911698</kod>
 <nazwa>MILLY MALLY 6289 Qplay Rowerek biegowy Feduro black-golden</nazwa>
-<cena>136.79</cena>
+<cena>133.54</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047481790</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek biegowy FEDURO o stylizowanym wyglądzie motocykla, ma wyjątkową ramę, która imituje zbiorniki paliwa jak w prawdziwym motorze. Rowerek wyposażony jest w regulowane, wyściełane siedzisko, które dopasowuje się do Twojego dziecka. Ergonomiczna konstrukcja, solidna metalowa rama i gumowe uchwyty na kierownicę zapewniają maluchom pewny chwyt podczas zabawy i dziecko nabierze pewności siebie. Kierownica tego rowerka FEDURO jest wyprofilowana jak w motocyklu co dodaje charakteru dla rowerka i pobudza wyobraźnię dziecka. Na kierownicy umieszczona plakietka imitująca numer startowy z logo QPLAY i nazwą rowerka, aby jeszcze uatrakcyjnić rowerek i dać jak najwięcej zabawy małemu rowerzyście- kolarzowi w wyścigu z rówieśnikami.
@@ -220663,9 +220664,9 @@ www.pminvestment.pl/manual/qplay_feduro_manual.pdf</opis>
 <b2b>
 <kod>5913627</kod>
 <nazwa>MILLY MALLY 6290 Qplay Rowerek biegowy Feduro beige</nazwa>
-<cena>136.79</cena>
+<cena>133.54</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047481806</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek biegowy FEDURO o stylizowanym wyglądzie motocykla, ma wyjątkową ramę, która imituje zbiorniki paliwa jak w prawdziwym motorze. Rowerek wyposażony jest w regulowane, wyściełane siedzisko, które dopasowuje się do Twojego dziecka. Ergonomiczna konstrukcja, solidna metalowa rama i gumowe uchwyty na kierownicę zapewniają maluchom pewny chwyt podczas zabawy i dziecko nabierze pewności siebie. Kierownica tego rowerka FEDURO jest wyprofilowana jak w motocyklu co dodaje charakteru dla rowerka i pobudza wyobraźnię dziecka. Na kierownicy umieszczona plakietka imitująca numer startowy z logo QPLAY i nazwą rowerka, aby jeszcze uatrakcyjnić rowerek i dać jak najwięcej zabawy małemu rowerzyście- kolarzowi w wyścigu z rówieśnikami.
@@ -221076,9 +221077,9 @@ www.pminvestment.pl/manual/qplay_sweetie_manual.pdf</opis>
 <b2b>
 <kod>5912511</kod>
 <nazwa>MILLY MALLY 6298 Qplay Rowerek Trójkołowy Rito Deluxe Rubber Olive</nazwa>
-<cena>383.54</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047481639</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek trójkołowy RITO DELUXE RUBBER został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -221245,9 +221246,9 @@ www.pminvestment.pl/manual/qplay_rito_deluxe_manual.pdf
 <b2b>
 <kod>5912510</kod>
 <nazwa>MILLY MALLY 6299 Qplay Rowerek Trójkołowy Rito Deluxe Rubber Brown</nazwa>
-<cena>392.89</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047481646</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek trójkołowy RITO DELUXE RUBBER został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -221414,9 +221415,9 @@ www.pminvestment.pl/manual/qplay_rito_deluxe_manual.pdf
 <b2b>
 <kod>5912875</kod>
 <nazwa>MILLY MALLY 6300 Qplay Rowerek Trójkołowy Comfo Max Black</nazwa>
-<cena>392.89</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5061047482117</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis/>
@@ -221425,9 +221426,9 @@ www.pminvestment.pl/manual/qplay_rito_deluxe_manual.pdf
 <b2b>
 <kod>5912507</kod>
 <nazwa>MILLY MALLY 6301 Qplay Rowerek Trójkołowy Comfo Max Olive Green</nazwa>
-<cena>392.89</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5061047482124</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Rowerek Trójkołowy Comfo Max
@@ -221580,9 +221581,9 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <b2b>
 <kod>5912505</kod>
 <nazwa>MILLY MALLY 6302 Qplay Rowerek Trójkołowy Comfo Max Coffe</nazwa>
-<cena>392.89</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5061047482155</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Rowerek Trójkołowy Comfo Max
@@ -221735,9 +221736,9 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <b2b>
 <kod>5912506</kod>
 <nazwa>MILLY MALLY 6303 Qplay Rowerek Trójkołowy Comfo Max Beige</nazwa>
-<cena>392.89</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5061047482148</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Rowerek Trójkołowy Comfo Max
@@ -221890,9 +221891,9 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <b2b>
 <kod>5912837</kod>
 <nazwa>MILLY MALLY 6304 Qplay Rowerek Trójkołowy Nova Max Beige</nazwa>
-<cena>436.61</cena>
+<cena>413.09</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5061047482186</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>NOVA MAX to nowoczesny, wielofunkcyjny rowerek trójkołowy zaprojektowany z myślą o wygodzie dziecka i komforcie rodzica. Dzięki przemyślanym rozwiązaniom rośnie razem z maluchem i dostosowuje się do jego potrzeb na różnych etapach rozwoju – od spacerów po samodzielną jazdę.
@@ -222341,9 +222342,9 @@ www.pminvestment.pl/manual/qplay_nova_max_manual.pdf
 <b2b>
 <kod>5912834</kod>
 <nazwa>MILLY MALLY 6307 Qplay Rowerek Trójkołowy Nova Max Black</nazwa>
-<cena>436.61</cena>
+<cena>413.09</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047481998</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>NOVA MAX to nowoczesny, wielofunkcyjny rowerek trójkołowy zaprojektowany z myślą o wygodzie dziecka i komforcie rodzica. Dzięki przemyślanym rozwiązaniom rośnie razem z maluchem i dostosowuje się do jego potrzeb na różnych etapach rozwoju – od spacerów po samodzielną jazdę.
@@ -222490,9 +222491,9 @@ www.pminvestment.pl/manual/qplay_nova_max_manual.pdf</opis>
 <b2b>
 <kod>5912502</kod>
 <nazwa>MILLY MALLY 6308 Qplay Rowerek Trójkołowy Nova Deluxe Black</nazwa>
-<cena>530.30</cena>
+<cena>511.89</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047482018</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Rowerek Trójkołowy Nova Deluxe
@@ -223439,9 +223440,9 @@ www.pminvestment.pl/manual/qplay_sema_evo_manual.pdf</opis>
 <b2b>
 <kod>5912504</kod>
 <nazwa>MILLY MALLY 6340 Qplay Rowerek Trójkołowy Comfo Max Grey</nazwa>
-<cena>392.89</cena>
+<cena>382.22</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5061047482285</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Rowerek Trójkołowy Comfo Max
@@ -227066,9 +227067,9 @@ www.pminvestment.pl/manual/play.jpg</opis>
 <b2b>
 <kod>5912839</kod>
 <nazwa>MILLY MALLY 6456 Qplay Rowerek Trójkołowy Nova Deluxe Beige</nazwa>
-<cena>530.30</cena>
+<cena>511.89</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047482001</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>kładany rowerek trójkołowy NOVA DELUXE został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -227225,9 +227226,9 @@ www.pminvestment.pl/manual/qplay_nova_deluxe_manual.pdf</opis>
 <b2b>
 <kod>5912838</kod>
 <nazwa>MILLY MALLY 6457 Qplay Rowerek Trójkołowy Nova Deluxe Grey</nazwa>
-<cena>530.30</cena>
+<cena>511.89</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5061047482025</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Składany rowerek trójkołowy NOVA DELUXE został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -229269,7 +229270,7 @@ www.pminvestment.pl/manual/tinymini_manual.pdf
 <nazwa>MILLY MALLY 6830 TinyMini CC9639 Mata edukacyjna Śpiący Miś</nazwa>
 <cena>96.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700979</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini Śpiący Miś to przytulna i funkcjonalna mata edukacyjna dla niemowląt, stworzona z myślą o bezpiecznej zabawie oraz wsparciu rozwoju dziecka już od pierwszych tygodni życia. Delikatna kolorystyka i motyw zwierzątek sprzyjają wyciszeniu, koncentracji i poczuciu bezpieczeństwa.
@@ -229577,11 +229578,21 @@ www.pminvestment.pl/manual/tinymini_manual.pdf
 <zdjecia>https://marini.pl/b2b/pictures/5914606-1.jpg https://marini.pl/b2b/pictures/5914606-2.jpg https://marini.pl/b2b/pictures/5914606-3.jpg https://marini.pl/b2b/pictures/5914606-4.jpg https://marini.pl/b2b/pictures/5914606-5.jpg https://marini.pl/b2b/pictures/5914606-6.jpg https://marini.pl/b2b/pictures/5914606-7.jpg https://marini.pl/b2b/pictures/5914606-8.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5914942</kod>
+<nazwa>MILLY MALLY 6939 Pojazd na akumulator Traktor z przyczepą Farmer Pink</nazwa>
+<cena>536.58</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5907090701099</EAN>
+<grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5914938</kod>
 <nazwa>MILLY MALLY 6940 Pojazd na akumulator Lexus GX550 White</nazwa>
-<cena>0.00</cena>
+<cena>505.49</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701105</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -229589,9 +229600,9 @@ www.pminvestment.pl/manual/tinymini_manual.pdf
 <b2b>
 <kod>5914939</kod>
 <nazwa>MILLY MALLY 6941 Pojazd na akumulator Lexus GX550 Black</nazwa>
-<cena>0.00</cena>
+<cena>505.49</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -229599,9 +229610,9 @@ www.pminvestment.pl/manual/tinymini_manual.pdf
 <b2b>
 <kod>5914940</kod>
 <nazwa>MILLY MALLY 6942 Pojazd na akumulator Lexus GX550 Pink</nazwa>
-<cena>0.00</cena>
+<cena>505.49</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701129</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -233601,7 +233612,7 @@ waga brutto: 2,7kg</opis>
 <nazwa>MILLY MALLY Pojazd JAKE BOB</nazwa>
 <cena>124.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901761123784</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Rowerek JAKE jest idealnym rozwiązaniem dla maluszków, które dopiero rozpoczynają naukę jazdy na rowerku i jeszcze nie potrafią utrzymać równowagi na dwóch kółkach, ale chcą już samodzielnie się przemieszczać. Szerokie rozstawienie kółek zapewni niezwykłą stabilność, bezpieczeństwo i komfort jazdy zarówno w domu jak i na zewnątrz, np. w ogrodzie, a lekka i jednocześnie wytrzymała konstrukcja, sprawdzi się w każdych warunkach. Natomiast piankowe koła zapewniają komfort toczenia i nie męczą naszego kierowcy.
@@ -256658,7 +256669,7 @@ Cechy produktu:
 <nazwa>SCENTOS ST 42969 Maszynka do makaronu</nazwa>
 <cena>54.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>0194689429693</EAN>
 <grupa>DUMEL/SCENTOS</grupa>
 <opis>Cechy produktu:
@@ -261091,7 +261102,7 @@ Nigdy nie zostawiaj dziecka bez opieki podczas zabawy w wodzie i wokół niej.
 <nazwa>SILVERLIT SI 81122 MY FIRST RC HOVERCRAFT SYTLR 2</nazwa>
 <cena>43.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4891813811220</EAN>
 <grupa>DUMEL/SILVERLIT</grupa>
 <opis>Zdalnie sterowany poduszkowiec zapewni maluchom moc zabawy w wodzie i na lądzie! Przód pojazdu zdobią wesołe oczka, co nadaje mu przyjaznego charakteru. Dołączony do zestawu pilot jest wodoodporny, więc nie straszne mu zachlapanie podczas zabawy. Pozwala on na sterowanie poduszkowcem w przód i skręt do tyłu. Pojazd działa na częstotliwości 2,4Ghz.
@@ -268053,7 +268064,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA DK-091-131 Nocnik KACZKA j.zielony</nazwa>
 <cena>9.21</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963071583</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Nocnik z wysokiej jakości plastiku, całkowicie bezpiecznego dla dzieci.
@@ -269804,7 +269815,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071019</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -270925,16 +270936,6 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <opis/>
 </b2b>
 <b2b>
-<kod>782489</kod>
-<nazwa>TEGA PK-007-101 Nocnik krzesełko PIES I KOT j.niebieski</nazwa>
-<cena>20.83</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5902963009272</EAN>
-<grupa>TEGA/NOCNIKI</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>772000</kod>
 <nazwa>TEGA PK-007-102 Nocnik krzesełko PIES I KOT żółty</nazwa>
 <cena>20.83</cena>
@@ -271637,7 +271638,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-073-107 Nocnik krzesełko z pozytywką LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963015693</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -275822,7 +275823,7 @@ Kojarzenie -Światła i dźwięki elektronicznego pianina pozwalają dziecku zro
 <nazwa>TINY LOVE TL19008067 Jeździk-pchacz 5w1 Rosnę z Tobą niebieski</nazwa>
 <cena>171.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>7290108862461</EAN>
 <grupa>TINY LOVE/POZOSTAŁE</grupa>
 <opis>Rozwój mobilności u małych dzieci jest jednym z głównych i najbardziej ekscytujących kamieni milowych - Jeździk-pchacz 5w1 to wszechstronna zabawka mobilna, która rośnie wraz z Twoim dzieckiem
@@ -275867,7 +275868,7 @@ waga z opakowaniem: 3.3kg
 <nazwa>TINY LOVE TL33331205 Gimnastyka dla Bobasa Świat Małej Księżniczki ECO</nazwa>
 <cena>173.75</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>7290108861884</EAN>
 <grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
 <opis/>
@@ -276527,7 +276528,7 @@ Wkłady kompatybilne TYLKO z koszami Sangenic TEC / HP / TWIST
 <nazwa>TOMMEE TIPPEE TTP 42243790 Butelka szklana 150 ml</nazwa>
 <cena>32.88</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5010415224378</EAN>
 <grupa>TOMMEE TIPPEE/BUTELKI I SMOCZKI</grupa>
 <opis>Tommee Tippee Closer to Nature, Szklana butelka do karmienia, smoczek przypominający pierś o powolnym przepływie z zaworem antykolkowym, pojemność 150 ml, opakowanie 1 szt.
@@ -307274,7 +307275,7 @@ Zabawka rozwija:
 <nazwa>WOOPIE 47924 Zabawki do kąpieli Kubeczek+kaczuszka</nazwa>
 <cena>19.58</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Zestaw Zabawek do Kąpieli od marki WOOPIE to idealny kompan dla Twojego malucha podczas kąpieli. Składający się z kubeczka, kaczuszki oraz dozownika mydła, ten zestaw przyniesie uśmiech na twarz Twojego dziecka i uczyni z codziennej kąpieli prawdziwą zabawę. Dozownik mydła jest nie tylko funkcjonalny, ale także spienia mydło, tworząc bąbelki, które na pewno zachwycą Twojego malucha. Kaczuszka pływająca na wodzie sprawi, że Twoje dziecko będzie chciało spędzać więcej czasu w wannie, a kubeczek może posłużyć do przelewania wody. Wszystkie elementy zestawu zostały wykonane z materiałów wysokiej jakości, które są bezpieczne dla dzieci. To idealny zestaw, aby uczynić czas kąpieli bardziej zabawnym i interaktywnym dla Twojego dziecka.
@@ -308567,26 +308568,6 @@ Długość (z odnóżami): 9 cm
 Szerokość (z odnóżami): 12 cm
 Wysokość: 3 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908694-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911889</kod>
-<nazwa>WOOPIE 50216 Pistolet na wodę z Plecakiem Dino</nazwa>
-<cena>20.92</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN/>
-<grupa>WOOPIE</grupa>
-<opis>Pistolet na wodę DINO od marki WOOPIE, to początek ekscytującej przygody na gorące dni! Ta zabawka to idealny pomysł dla dzieci, które uwielbiają zabawy na świeżym powietrzu i gry wodne. Uroczy dinozaur i żywe kolory, na pewno przypadną do gustu twojego dziecka. Wystarczy napełnić wodą zbiorniczek zabawki, a następnie założyć plecak z wodą na plecy- teraz możesz zaczynać zabawę! Zaproś znajomych, aby dołączyli do zabawy i cieszyć się epickimi bitwami wodnymi na ogrodzie, parku lub plaży. Ta zabawka promuje aktywność na świeżym powietrzu, wyobraźnię i koordynację ręka-oko, podczas gdy dzieci planują swoje wojny wodne i cieszą się grami zespołowych w wyimaginowanym środowisku gier.
-
-Charakterystyka:
-
-- Zabawka od 1 roku życia
-- Zasięg strzału wody nawet do 9 metrów!
-- Piękne kolory, wytrzymała konstrukcja
-- Wygodny sposób używania- zbiorniczek w formie plecaka
-- Wspiera małą motorykę oraz wyobraźnię
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911889-1.jpg https://marini.pl/b2b/pictures/5911889-2.jpg https://marini.pl/b2b/pictures/5911889-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5908978</kod>
@@ -313219,7 +313200,7 @@ Waga:	0.7 kg</opis>
 <nazwa>WOOPIE 57093 Walizka Dinosaur World - edukacyjny zestaw</nazwa>
 <cena>29.58</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280657093</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Przenieś swoje dziecko w czasy prehistoryczne z wyjątkowym zestawem Dinosaur World od marki Woopie — walizką pełną przygód i nauki. W środku znajdziesz realistyczne figurki dinozaurów, jaja, wulkany i elementy scenografii, które pobudzają wyobraźnię. Poręczna walizka ułatwia przechowywanie i zabranie zabawki w podróż, a solidne, bezpieczne materiały gwarantują wielokrotne zabawy. Zestaw zachęca do kreatywnej zabawy, odkrywania skamielin i poznawania świata prehistorycznego. To idealny prezent dla małego paleontologa i fana dinozaurów od 3+ roku życia.
