@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-04-23T19:55:05.943">
+<MARINI timestamp="2026-04-24T18:55:05.877">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -4168,9 +4168,9 @@ Pamiętaj: nawilżany papier toaletowy marki „akuku” można wrzucać do toal
 <b2b>
 <kod>783369</kod>
 <nazwa>AKUKU A0031 Jednorazowe chusteczki nawilżane wodą 70 szt</nazwa>
-<cena>3.21</cena>
+<cena>3.43</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644000319</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Jednorazowe chusteczki „akuku”, nawilżane 99% wodą. Pozostałe 1% to m.in. gliceryna, sok z liści aloesu, kwas cytrynowy i srebra jonowe. Pomagają chronić delikatną skórę dziecka. Nie zawierają alkoholu ani perfum. Są one całkowicie bezpieczne dla delikatnej skóry noworodka. Mogą być również stosowane przez dorosłych, do codziennej higieny rąk oraz twarzy. Dzięki wygodnemu opakowaniu można je zabrać ze sobą na spacer i w podróż.
@@ -4439,7 +4439,7 @@ grzebień: 15 × 3 × 0,5 cm</opis>
 <b2b>
 <kod>781113</kod>
 <nazwa>AKUKU A0100 Zestaw sztućców metalowych grey</nazwa>
-<cena>9.32</cena>
+<cena>9.98</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5907644001002</EAN>
@@ -4458,7 +4458,7 @@ W zestawie:
 <nazwa>AKUKU A0101 Zestaw sztućców metalowych pink</nazwa>
 <cena>9.98</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644001019</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
 <opis>Sztućce dla dzieci ze stali szlachetnej
@@ -4530,9 +4530,9 @@ Pojemność 250 ml</opis>
 <b2b>
 <kod>5902724</kod>
 <nazwa>AKUKU A0107 Butelka szerokootworowa 240 ml</nazwa>
-<cena>6.77</cena>
+<cena>7.24</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5907644001071</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Butelka szerokootworowa ze smoczkiem antykolkowym stworzona została z myślą o najmłodszych dzieciach. Butelka posiada delikatny, wykonany z wysokiej jakości silikonu smoczek 0+. Smoczek wyposażony jest również w specjalny zaworek antykolkowy, który zapobiega powstawaniu pęcherzyków powietrza w pokarmie i tym samym redukuje ryzyko powstawania kolek, bólów brzucha nadmiernego odbijania i gromadzenia się gazów. Butelka szerokootworowa akuku jest lekka, wykonana z bezpiecznego, wolnego od BPA materiału. Czytelna skala, ułatwia precyzyjne odmierzenie pokarmu. Butelka jest kompatybilna z laktatorem A0306 akuku, dzięki temu odciągnięty pokarm możesz od razu podać maluszkowi.
@@ -4870,7 +4870,7 @@ Przeznaczony dla dzieci 9m+</opis>
 <nazwa>AKUKU A0204 Bidon z chowaną słomką SOWA</nazwa>
 <cena>9.32</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644002047</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon z chowaną słomką
@@ -5273,7 +5273,7 @@ Produkt nie zawiera bisfenolu A.</opis>
 <b2b>
 <kod>773848</kod>
 <nazwa>AKUKU A0358 Gryzak wodny Żyrafa</nazwa>
-<cena>4.13</cena>
+<cena>4.43</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5907644003587</EAN>
@@ -5301,7 +5301,7 @@ W celu regularnego utrzymania czystości, po każdym użyciu produkt myć ręczn
 <b2b>
 <kod>767732</kod>
 <nazwa>AKUKU A0363 Zabawki kąpielowe 5szt.</nazwa>
-<cena>10.05</cena>
+<cena>10.76</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5907644003631</EAN>
@@ -5457,7 +5457,7 @@ Pojemność 280 ml</opis>
 <nazwa>AKUKU A0430 Kubek do spłukiwania głowy white-mint</nazwa>
 <cena>9.98</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5907644004300</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Czy Twoje dziecko nie lubi mycia głowy? Mamy na to rozwiązanie!!!
@@ -5549,7 +5549,7 @@ Rozmiar grzechotki: 10 x 11,5 cm
 <nazwa>AKUKU A0452 Zestaw piłeczek sensorycznych</nazwa>
 <cena>27.73</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644004522</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Zestaw 8 miękkich gumowych piłeczek sensorycznych marki „akuku” wprowadzą Twojego maluszka w świat zmysłu dotyku, koloru i dźwięku.
@@ -5591,7 +5591,7 @@ W zestawie znajduje się sitko – kosz i 3 kulki zwierzątka.</opis>
 <nazwa>AKUKU A0458 Zestaw pielęgnacyjny pink</nazwa>
 <cena>18.85</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644004584</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Zestaw do pielęgnacji Twojego dziecka w wygodnej i praktycznej kosmetyczce. Nożyczki (o cienkich metalowych ostrzach i zaokrąglonych krawędziach) oraz cążki pomogą pewnie i bezpiecznie obciąć drobne paznokcie, a pilniczek z łatwością usunie nierówności paznokcia chroniąc dziecko przed zadrapaniem. Natomiast miękka szczotka oraz grzebyk z antypoślizgowym uchwytem pozwolą zatroszczyć się o główkę maleństwa. W celu zminimalizowania ryzyka niespodziewanego poruszenia się dziecka, zaleca się obcinanie paznokci podczas snu.
@@ -6096,7 +6096,7 @@ Rekomendowana dla dzieci 6m+</opis>
 <nazwa>AKUKU A0516 Siateczka do podawania pokarmów GWIAZDKA</nazwa>
 <cena>10.68</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644005161</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Siateczka do podawania pokarmu
@@ -7534,9 +7534,9 @@ W opakowaniu 1 szt.</opis>
 <b2b>
 <kod>5911656</kod>
 <nazwa>AKUKU A0680 Grzechotka Klucze jasne</nazwa>
-<cena>2.99</cena>
+<cena>6.80</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644006809</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
 <opis>Nasza grzechotka znakomicie sprawdzi się jako pierwsza zabawka dla maluszka, ponieważ jest lekka i poręczna. Dziecku łatwo jest ją chwycić i utrzymać w rączkach. Ma delikatnie zaokrąglone kształty. Zabawka zachęca dziecko do ćwiczeń i zabawy, stymulując jego rozwój psychomotoryczny.
@@ -7775,7 +7775,7 @@ W opakowaniu znajduje się 100 szt.</opis>
 <nazwa>AKUKU A0688 Pojemnik na smoczek Małpka</nazwa>
 <cena>5.05</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644006885</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Praktyczny pojemnik na smoczek jest bardzo przydatny w czasie podróży lub spacerów. Chroni smoczek przed zabrudzeniem i uszkodzeniem. Bardzo łatwy w użyciu i prosty w zamocowaniu do wózka, fotelika, torby lub poręczy łóżeczka. Pomieści nawet 2 smoczki. Neutralna i przyjemna kolorystyka pasuje do każdego wózka i torby. Pojemnik kształtem przypomina Małpkę.
@@ -8624,9 +8624,9 @@ Ostrzeżenie! Produkt nie jest zabawką! Zawsze używać pod nadzorem osoby doro
 <b2b>
 <kod>59114515</kod>
 <nazwa>AKUKU A0718 Uchwyty do butelek A0004/A0005</nazwa>
-<cena>0.00</cena>
+<cena>1.04</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644007189</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis/>
@@ -8931,9 +8931,9 @@ Wymiary okrycia: 80 cm x 80 cm</opis>
 <b2b>
 <kod>772990</kod>
 <nazwa>AKUKU A1241 Okrycie kąpielowe 100x100 cm 100% bawełna ecru</nazwa>
-<cena>26.52</cena>
+<cena>28.35</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907644012411</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Praktyczne i delikatne okrycie z kapturkiem jest niezastąpione już od pierwszej kąpieli. Wykonane z wysokiej jakości miękkiej 100% bawełny typu frotte. Znakomicie wchłania wodę i stanowi skuteczną ochronę przed zimnem dla delikatnej skóry dziecka. Luźny fason nie ogranicza i nie krępuje ruchów wykąpanego maluszka, a wszyty kapturek chroni mokrą głowę dziecka przed oziębieniem. Dostępne w sześciu kolorach: turkusowy, ecru, żółty, zielony, niebieski i różowy.
@@ -9034,7 +9034,7 @@ Szerokość 22,5 cm, długość od szyi 19,5 cm</opis>
 <nazwa>AKUKU A1502 Apaszka Koty</nazwa>
 <cena>6.10</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907644015023</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Apaszka dziecięca, dwuwarstwowa, która poprzez swój kształt i sposób wykonania spełnia 2 funkcje: można ją traktować zarówno jako śliniaczek – osłania bowiem ubranie dziecka podczas karmienia; a także jako apaszka dla dziecka, osłaniająca szyję i stanowiąca element ubioru. Posiada regulowane zapięcie na napy, co daje możliwość skrócenia lub wydłużenia długości, dzięki czemu może być używana zarówno przez niemowlaka, jak i przedszkolaka. Produkt jest wykonany z dwóch warstw materiału – 100% bawełna, wierzchnia miękka warstwa ozdobiona jest kolorowymi dziecięcymi nadrukami.
@@ -11064,7 +11064,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka CP2 Gąska Gaja</nazwa>
 <cena>51.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685889</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania miękka MM70
@@ -13481,7 +13481,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Pieluszki muślinowe 2-pak CC2 beż</nazwa>
 <cena>38.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165688804</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PIELUSZKI</grupa>
 <opis>Pieluszki muślinowe 2-pak to niezbędny element każdej wyprawki niemowlęcej. Idealne do codziennego użytku dla niemowląt i małych dzieci. Wykonane z naturalnego  i delikatnego dla skóry muślinu - 100%  bawełna. Nasze pieluszki zapewniają komfort oraz wszechstronność zastosowania. Zestaw składa się z dwóch sztuk pieluszek, w dwóch kolorach. Nasze pieluszki są wyjątkowo miękkie i delikatne, idealne dla wrażliwej skóry niemowląt. Bawełna muślinowa zapewnia odpowiednią cyrkulację powietrza, co minimalizuje ryzyko podrażnień i odparzeń. Pieluszki mogą być używane na wiele sposobów: jako pieluchy, lekkie kocyki, okrycia do wózka, śliniaczki, chusty do karmienia, podkłady do przewijania oraz odbijaki.
@@ -15847,7 +15847,7 @@ Rozmiar: 80x47 (+/-0,5). Skład: folia PVC bez zawartości ftalanów (100% polie
 <nazwa>ALBERO MIO Przewijak twardy długi CP6 Lot balonem</nazwa>
 <cena>58.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165687500</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis> Rozmiar / size: 80x47 (+/-2 cm) do montowania na łóżeczku 140x70cm, posiada stópki zabezpieczające przed zsunięciem się z ramy łóżka / 80x47 (+/- 2 cm) for mounting on a cot in size 140x70 cm, it has feet to prevent it from sliding off the bed frame
@@ -27147,7 +27147,7 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.<
 <nazwa>AVENT SCF091/15 Smoczek Ultra Soft 6-18m gałązka/ptaszek</nazwa>
 <cena>25.62</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689016889</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Nasz najbardziej miękki smoczek dla wrażliwej skóry dziecka
@@ -28904,7 +28904,7 @@ Zawartość zestawu - smoczki uspokajające Ultra Air Nighttime, 2 szt.
 <nazwa>AVENT SCF376/32 Smoczek Ultra Air Night 18m+ kotek /małpka</nazwa>
 <cena>23.57</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689042864</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultra air na noc – pozwala skórze dziecka oddychać
@@ -30321,7 +30321,7 @@ Smoczek z regulacją przepływu (5 prędkości):
 <nazwa>AVENT SCY966/02 Smoczek Responsywny Natural 6m kaszka Thick feed</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>8710103985174</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
 <opis>Wsparcie naturalnego rytmu ssania niemowlęcia
@@ -34261,7 +34261,7 @@ Kolory przedstawione na zdjęciach ze względu na przekaz elektroniczny mogą ni
 <nazwa>B.BOX BB00519 Bidon ze słomką 240 ml Bubblegum</nazwa>
 <cena>44.48</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965005193</EAN>
 <grupa>B.BOX</grupa>
 <opis>Bubblegum. Oto wyjątkowa, niesłychanie apetyczna, słodka i pastelowa jak wata cukrowa lub najsmaczniejsze włoskie lody, odsłona innowacyjnego bidonu b.box. Całym sobą zachęca by po niego sięgnąć i pić. Uroczy design oczywiście idzie w parze z wyjątkowym rozwiązaniem, które umożliwia dziecku wypicie ulubionego napoju aż do ostatniej kropli i to trzymając kubek w dowolnej pozycji. Maluch może dokonać tej sztuki dzięki specjalnie zaprojektowanej słomce z obciążeniem, które wykorzystując grawitację, pozwala jej „podążać za płynem”. Dzięki temu z bidonu da się pić nawet wtedy, gdy odwrócony jest do góry dnem. Co więcej słomkę wyposażono w dwukierunkowy zawór, który wraz z uszczelką i wzmocnioną pokrywką zapewnia szczelność kubeczka.
@@ -35058,7 +35058,7 @@ Każda z pozycji/części zamiennych do dokupienia osobno.
 <nazwa>B.BOX BB00679 Snackbox pojemnik na przekąski Spearmint</nazwa>
 <cena>38.18</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965006794</EAN>
 <grupa>B.BOX</grupa>
 <opis>Uniwersalny pojemnik na przekąski z elastyczną uszczelką umożliwiającą schowanie do niego całego owocu takiego jak jabłko. Przegrody są szczelne i można ich używać do przecierów, jogurtów i dipów.
@@ -35593,7 +35593,7 @@ Kolory przedstawione na zdjęciach ze względu na przekaz elektroniczny mogą ni
 <nazwa>B.BOX BB00708 Mini Lunchbox Spearmint</nazwa>
 <cena>49.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007081</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -65894,7 +65894,7 @@ Cechy zabawki:
 <nazwa>BALIBAZOO BB 80235 Zawieszka truskawka</nazwa>
 <cena>18.18</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783802358</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Do rodzinki Pluszaków Luzaków dołączyły owoce i warzywa! Czerwoniutka Truskawka wesoło dzwoni przy potrząsaniu. Posiada szeleszczącą szypułkę, zieloną piszczałkę i miękki gryzaczek. Praktyczny uchwyt umożliwia przymocowanie zawieszki w dowolnym miejscu.
@@ -65914,7 +65914,7 @@ Cechy zabawki:
 <nazwa>BALIBAZOO BB 80238 Zawieszka marchewka</nazwa>
 <cena>18.18</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783802389</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis/>
@@ -66589,7 +66589,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 81589 Zawieszka piesek Paul</nazwa>
 <cena>30.79</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783815891</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Łasuch Paul gustuje w psich przysmakach. Nic więc dziwnego, że nigdzie się nie rusza bez swojej apetycznej kości, która świetnie sprawdzi się też w roli gryzaczka. Jego czerwony nosek zawsze wywęszy dobrą zabawę, a do niej na pewno przydadzą się kółeczko i gwiazdka, które psiak nosi przy łapce.
@@ -67030,7 +67030,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82314 Zawieszka Miś z pozytywką</nazwa>
 <cena>32.99</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783823148</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Alek to łoś do zadań specjalnych. Zabawia malucha, wesoło „majtając” nogami, dostarcza bodźców dotykowych, rozwijając tym samym zdolności poznawcze dziecka, a nawet wibruje! Zwierzak został uszyty z materiałów różniących się kolorem, wzorem i fakturą, a przy jego ogonku znajdują się dwa kolorowe kółeczka. Aby uruchomić wibrację, wystarczy pociągnąć łosia w dół, a ten podciągnie się na materiałowej harmonijce z powrotem w górę, zabawnie przy tym wibrując. Zwierzak wyposażony jest w praktyczną zawieszkę, dzięki czemu bez trudu przymocujesz go wybranym miejscu.
@@ -67100,7 +67100,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82321 Zawieszka zwariowany Felek żaba</nazwa>
 <cena>24.70</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783823216</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Ten uśmiechnięty wesołek potrafi wprawić bobaska w wyśmienity nastrój, bawiąc na wiele różnych sposobów! Zabaweczka została uszyta z materiałów o zróżnicowanych kolorach, wzorach i fakturach, dzięki czemu będzie stymulować zmysły malucha i pozwoli rozwijać jego zdolności poznawcze. Na brzuchu Felka znajduje się okrągłe, bezpieczne lusterko do samopoznania dziecka. Zabawka wyposażona została w miękki gryzak, który z pewnością przyniesie ulgę ząbkującym maluchom. Znajdziemy tu także doczepione, kolorowe kształty (gwiazdkę i kwadracik) oraz kilka materiałowych metek. Praktyczna zawieszka pozwoli przyczepić zabawkę w dowolnym miejscu, aby wszędzie mogła towarzyszyć dzidziusiowi.
@@ -67299,7 +67299,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82398 Zawieszka słoń Elvis</nazwa>
 <cena>28.92</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>6925783823964</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Elvis to estradowy słoń, który uwielbia publiczność i czuje się przed nią jak ryba w wodzie. Jego imię i kolorowy strój świetnie pasują do barwnej osobowości! Elvis lubi dobrze wyglądać, więc stale przegląda się w lustereczku schowanym w jego uchu. Ten król zabawy z radością rozweseli każdego malucha kółeczkami i gryzaczkiem, które wciąż nosi przy sobie.
@@ -67793,7 +67793,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82624 Zestaw skarpetki i grzechotka na rączkę łąka</nazwa>
 <cena>24.94</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>6925783826248</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Łąka bawi dźwiękiem i kolorem! Z zestawem uroczych grzechotek, każdemu ruchowi malucha towarzyszyć będzie wesoły odgłos. Zarówno skarpetki, jak i bransoletka ozdobione są grzechoczącym owadem, a skrzydełka motylków zabawnie szeleszczą, podczas dotykania. Zróżnicowane faktury materiałów, z których uszyty został zestaw, wspierają rozwój zdolności poznawczych najmłodszych, dostarczając im rozmaitych bodźców dotykowych.
@@ -76633,7 +76633,7 @@ W opakowaniu: 1 szt.
 <nazwa>CANPOL 2/919 Śliniak plastikowy miękki - turquoise bird</nazwa>
 <cena>5.70</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691854352</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Twarzowy śliniaczek skutecznie chroni ubranie dziecka przed zabrudzeniem. Wyposażony w dużą kieszeń, która zatrzymuje resztki pokarmu. Łatwy do utrzymania w czystości. Wystarczy zaraz po jedzeniu umyć śliniaczek w ciepłej wodzie z mydłem dla dzieci.
@@ -80177,7 +80177,7 @@ Do kupienia osobno smoczki – 2 szt.: ?
 <nazwa>CANPOL 4/401 Plastikowy zestaw stołowy Cute Animals ptaszek czerwony</nazwa>
 <cena>15.69</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691812673</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Plastikowy zestaw naczyń jest polecany dla dzieci powyżej 1 roku życia i zawiera: talerzyk, miseczkę, kubeczek i sztućce. Kolorowe nadruki zachęcą dziecko do jedzenia, a  zaokrąglone kształty sztućców nie podrażniają delikatnych dziąseł małego dziecka. Idealny do nauki samodzielnego jedzenia.
@@ -81934,7 +81934,7 @@ Transparentny - pozwala na kontrolowanie ilości płynów w bidonie.</opis>
 <nazwa>CANPOL 56/523 Zestaw naczyń 2 elem. Exotic Animals żółty</nazwa>
 <cena>17.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407565163</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Idealnie sprawdzi się w czasie nauki samodzielnego jedzenia i poznawania nowych smaków. Jest lekki i poręczny, a szersze brzegi umożliwiają wygodne trzymanie naczyń podczas karmienia. Wesołe nadruki w modnych pastelowych kolorach i matowym wykończeniu z pewnością zaciekawią i zachęcą malucha do jedzenia. Zestaw składa się z talerzyka i miseczki, ale możesz rozbudować go o inne akcesoria z kolekcji EXOTIC ANIMALS. Wykonany jest z bezpiecznego, wolnego od BPA materiału. Przeznaczony dla dzieci w wieku 4m+.</opis>
@@ -82870,7 +82870,7 @@ Kształt spirali - pozwala zamontowac zabawkę w zależności od potrzeb (wózek
 <nazwa>CANPOL 68/071 Zawieszka do wózka /fotelika SENSORY TOYS czerwona</nazwa>
 <cena>28.06</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407680712</EAN>
 <grupa>CANPOL/SPACERY I PODRÓŻE</grupa>
 <opis>Kontrastowa zawieszka w mocnych kolorach z kolekcji SENSORY TOYS pasuje do dziecięcego wózka, fotelika i łóżeczka. Dwa sposoby montażu ułatwią zawieszenie zabawki. Została wykonana z miłego w dotyku materiału o różnorodnej teksturze. Doskonale stymuluje rozwój koordynacji wzrokowo-słuchowej i motorycznej dziecka. Zabawka kryje wiele niespodzianek, które zajmą malca na długi czas. Posiada dzwoneczek, grzechotkę oraz elementy szeleszczące, bezpieczne lusterko i gryzaki elastyczne.Zabawka przeznaczona dla dzieci w wieku 0m+.</opis>
@@ -85171,7 +85171,7 @@ Waga:
 <b2b>
 <kod>5906503</kod>
 <nazwa>CEBA 102-000-727 Przewijak miękki profilowany krótki 50x70 Basic Mouse</nazwa>
-<cena>34.00</cena>
+<cena>40.60</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
 <EAN>5907672342283</EAN>
@@ -85204,7 +85204,7 @@ Waga:
 <b2b>
 <kod>5906515</kod>
 <nazwa>CEBA 102-000-734 Przewijak miękki profilowany krótki 50x70 Basic Balloons</nazwa>
-<cena>40.59</cena>
+<cena>40.60</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5907672342344</EAN>
@@ -85215,7 +85215,7 @@ Waga:
 <b2b>
 <kod>5910239</kod>
 <nazwa>CEBA 102-000-782 Przewijak miękki profilowany krótki 50x70 Basic Crazy Lama</nazwa>
-<cena>40.59</cena>
+<cena>40.60</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5907672345307</EAN>
@@ -85237,7 +85237,7 @@ Waga:
 <b2b>
 <kod>5910241</kod>
 <nazwa>CEBA 102-000-784 Przewijak miękki profilowany krótki 50x70 Basic Glamour Style</nazwa>
-<cena>40.59</cena>
+<cena>40.60</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5907672345321</EAN>
@@ -85259,7 +85259,7 @@ Waga:
 <b2b>
 <kod>5910238</kod>
 <nazwa>CEBA 102-000-786 Przewijak miękki profilowany krótki 50x70 Basic Clever Otter</nazwa>
-<cena>40.59</cena>
+<cena>40.60</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5907672345345</EAN>
@@ -85292,7 +85292,7 @@ Waga:
 <b2b>
 <kod>5913024</kod>
 <nazwa>CEBA 102-000-811 Przewijak miękki profilowany krótki 50x70 Basic Hedgehog JEŻ</nazwa>
-<cena>40.59</cena>
+<cena>40.60</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5907672346441</EAN>
@@ -85967,7 +85967,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-732 Przewijak twardy krótki 50x70 Basic Garden</nazwa>
 <cena>43.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672341804</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -86777,7 +86777,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 744-000-635 Koło poporodowe Milky Way</nazwa>
 <cena>33.80</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5907672335728</EAN>
 <grupa>CEBA</grupa>
 <opis>Koło poporodowe to niezbędny artykuł dla każdej mamy rodzącej siłami natury. Koło przynosi ogromną ulgę po porodzie, ukojenie i upragniony komfort. Poduszka poporodowa jest niezbędna, aby mama mogła bez bólu siedzieć, nie narażając podrażnionego krocza na dodatkowe otarcia i uciski, a także aby mogła bezboleśnie karmić w pozycji siedzącej. Koło chroni obolałe krocze. Poduszka wypełniona jest drobnymi kuleczkami - antyalergiczną mikroperłą styropianową, która idealnie dopasowuje się do ciała i stosowana jest w poduszkach medycznych. Wycięcie w samym środku koła umożliwia kobiecie siedzenie bez uciskania na szwy. Koła poporodowe Ceba Baby dodatkowo wyposażone są w materiałowy dozownik, który pozwala na regulację objętości koła. Mama ma możliwość przesypania mikroperły do dozownika zmniejszając tym samym objętość koła, dopasowując je do własnych indywidualnych potrzeb. Materiały, z których wykonane jest koło poporodowe, gwarantują wysoką jakość produktu oraz długotrwałe użytkowanie.</opis>
@@ -86908,7 +86908,7 @@ Głębokość w opakowaniu mm
 <nazwa>CEBA 880-000-739 Wielofunkcyjna poduszka Cebuszka Multi Jersey Grey Stars</nazwa>
 <cena>98.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907672347813</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Wielofunkcyjna poduszka physio - Cebuszka® Multi to poduszka relaksacyjna marki Ceba Baby. Multifunkcyjna poduszka do spania i karmienia przydatna jest zarówno dla mamy, taty, jak i maluszka. Poduszkę wypełniają drobne kuleczki - mikroperła styropianowa, która używana jest w poduszkach rehabilitacyjnych. Mikroperła, dzięki swoim właściwościom, pozwala przyjąć wygodną pozycję ciała i odciążyć kręgosłup. Cebuszka® Multi sprawdza się idealnie pod koniec ciąży, podczas karmienia maluszka, jak i późniejszej nauki siadania tworząc stabilne podparcie. Wymiary: 190 x 35 cm. Produkt posiada certyfikat Oeko – Tex Standard 100. Wielofunkcyjna poduszka Cebuszka physio jest wyrobem medycznym.</opis>
@@ -87012,7 +87012,7 @@ E-mail: support@ceba.com.pl</opis>
 <b2b>
 <kod>5914295</kod>
 <nazwa>CEBA 880-000-827 Wielofunkcyjna poduszka PHYSIO Multi Jersey Abstraction 190 cm</nazwa>
-<cena>98.01</cena>
+<cena>98.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5907672347899</EAN>
@@ -88571,7 +88571,7 @@ Wymiary produktu: 10,5 x 14 x 9 cm</opis>
 <nazwa>CHICCO 00009863000000 Projektor na łóżeczko SPECIAL EDITION</nazwa>
 <cena>91.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8058664112463</EAN>
 <grupa>CHICCO/ZABAWKI Z PROJEKTOREM</grupa>
 <opis>Projektor Next2Stars
@@ -94220,7 +94220,7 @@ Wymiary: wysokość: 60 cm, szerokość: 44 cm głębokość (długość): 66 cm
 <nazwa>COLIBRO Fotelik samochodowy PETIT PINE</nazwa>
 <cena>266.67</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739981</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Montaż na praktycznie każdym wózku dziecięcym
@@ -95154,7 +95154,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <nazwa>COLIBRO Krzesełko do karmienia SCANDI AGAVA</nazwa>
 <cena>204.76</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739677</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Krzesełko do karmienia 3w1 SCANDI marki COLIBRO – skandynawski styl
@@ -95247,7 +95247,7 @@ Waga: 5,70 kg</opis>
 <nazwa>COLIBRO Krzesełko do karmienia SCANDI ALMOND</nazwa>
 <cena>204.76</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214739684</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Krzesełko do karmienia 3w1 SCANDI marki COLIBRO – skandynawski styl
@@ -95340,7 +95340,7 @@ Waga: 5,70 kg</opis>
 <nazwa>COLIBRO Krzesełko do karmienia SCANDI DOVE</nazwa>
 <cena>204.76</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214739691</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Krzesełko do karmienia 3w1 SCANDI marki COLIBRO – skandynawski styl
@@ -96058,7 +96058,7 @@ Waga: 1 kg
 <nazwa>COLIBRO Nocnik dziecięcy NUKI OCEAN</nazwa>
 <cena>63.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5908214738229</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Króliczek NUKI – nocnik dziecięcy marki COLIBRO
@@ -96409,7 +96409,7 @@ Waga: 0,4 kg
 <nazwa>COLIBRO Nosidełko HONEY DOVE</nazwa>
 <cena>107.14</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN> 5908214734368</EAN>
 <grupa>COLIBRO</grupa>
 <opis>Nosidełko ergonomiczne z siodełkiem biodrowym COLIBRO HONEY (12 w 1)
@@ -101578,7 +101578,7 @@ skład	poliester 100%</opis>
 <nazwa>DUET BABY 659 Kokon niemowlęcy 3 cz.</nazwa>
 <cena>99.88</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907180606594</EAN>
 <grupa> DUET BABY- MARINI/KOKONY</grupa>
 <opis>rozmiar:	80 x 50 cm
@@ -101776,7 +101776,7 @@ bawełna 30%
 <nazwa>DUET BABY 710 Myjka kąpielowa BABY BAMBOO</nazwa>
 <cena>4.94</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908268747109</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
 <opis/>
@@ -101787,7 +101787,7 @@ bawełna 30%
 <nazwa>DUET BABY 711 Kocyk MUŚLIN bawełna 95x90 cm, różowy lub niebieski</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908268747116</EAN>
 <grupa> DUET BABY- MARINI/DO WÓZKA</grupa>
 <opis>kod	711
@@ -101990,9 +101990,9 @@ Cechy produktu:
 <b2b>
 <kod>5904739</kod>
 <nazwa>DUMEL DB 50587 Giga bańki</nazwa>
-<cena>16.98</cena>
+<cena>17.82</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904316150587</EAN>
 <grupa>DUMEL/BUBBLES</grupa>
 <opis/>
@@ -102113,7 +102113,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 24752 Traktor Farmer</nazwa>
 <cena>94.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>661148247520</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Traktor samodzielnie jeździ, wydając realistyczny odgłos, zapalają się w nim światełka, a farmer śpiewa wesołą piosenkę. Na przyczepce znajduje się 5 zwierzątek, które nagrodzą dzieci realistycznymi odgłosami bądź zabawną rymowanką za każdym razem, gdy odgadną prawidłowy kształt i umieszczą je w odpowiednim miejscu.
@@ -102221,7 +102221,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30033 Żabki wodna orkiestra</nazwa>
 <cena>80.67</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692300337</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Zostań dyrygentem uroczej, żabiej orkiestry! Naciskaj żabki, aby bawić się razem z nimi, przy wesołych dźwiękach, kolorowych światełkach i zróżnicowanych strumieniach tryskającej wody! Zapomnij o nudzie, każda z żabek zna inną melodię, dzięki czemu zabawa z nimi to prawdziwa frajda. Aby uruchomić zabawkę, należy długo przytrzymać okrągły przycisk, znajdujący się na środku. Po uruchomieniu, każde kolejne, pojedyncze naciśnięcie guziczka spowoduje zmianę sposobu wytryskiwania wody. W zestawie poza fontanną, przypominającą staw, wypełniony żabkami, znajdziesz także przyssawki do przymocowania zabawki do gładkiej, czystej powierzchni.
@@ -102240,7 +102240,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30047 Uciekająca piłka</nazwa>
 <cena>37.05</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692300474</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Hop, hop, pora na wesołą gimnastykę! Kolorowa, materiałowa piłeczka ucieka w podskokach, zachęcając maluchy do ruchu. Zabawka ozdobiona jest obrazkami sześciu zwierzątek i materiałowymi metkami, co pozwoli rozwijać zdolności poznawcze dziecka i zachęci je do odkrywania świata za pomocą zmysłów. Naciśnij przycisk w ukrytym we wnętrzu piłki mechanizmie i rzuć piłeczkę na podłogę, a zacznie się przemieszczać, odtwarzając przy tym wesołe melodie oraz zabawne odgłosy.
@@ -103253,7 +103253,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30838 Kolorowa przeplatanka</nazwa>
 <cena>25.12</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692308388</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Piłeczka i 20 kolorowych linek to przepis na kreatywną zabawę! Twórz wężykowe labirynty, przeplatając linki pomiędzy wypustkami, ucząc się przy tym zręczności i rozwijając wyobraźnię! Baza do zaplatania ma kształt kuli, którą można rozłożyć na dwie odrębne półkule, dzięki czemu z zabawki może równocześnie korzystać dwoje dzieci.
@@ -103596,7 +103596,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 42307 Roler</nazwa>
 <cena>40.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>672552423073</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Zakręcony Roler z mnóstwem niespodzianek z każdej strony. Kolorowe koraliki do przesuwania, zabawne klepsydry z przesypującymi się kuleczkami zajmą niejednego Maluszka mnóstwem zabawy. Dodatkowo Roler tocząc się po podłodze zachęci dziecko do nauki raczkowania.
@@ -103745,7 +103745,7 @@ Baterie – 2xAAA(w zestawie)</opis>
 <nazwa>DUMEL DD 42820 Kula sensoryczna</nazwa>
 <cena>25.86</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>672552428207</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Zabawka wspierająca rozwój sensoryczny malucha. Kula składa się z kolorowych linek oraz koralików o zróżnicowanej fakturze, stymulujących zmysł dotyku i wzroku. Na szczycie kuli znajduje się element, który przy przekręcaniu wydaje zabawny, terkoczący dźwięk.
@@ -104463,7 +104463,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 51161 Tańcząca Żyrafa Alek</nazwa>
 <cena>46.31</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4897126751161</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Poznaj Alka, żyrafę, która potrafi mówić i tańczyć! Ten rozrywkowy zwierzak zna aż 12 różnych melodii, do których tańczy, zabawnie kręcąc szyją. Żyrafka posiada świecący przycisk z gwiazdką, uruchamiający dźwięk i taniec. Oczy Alka zdobi stylowy dodatek, okulary, które można odchylać do góry. Praktyczny przełącznik, w który została wyposażona zabawka, umożliwia wyłączenie jej po zakończonej zabawie
@@ -104483,7 +104483,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 51178 Tańcząca Żyrafa Ola</nazwa>
 <cena>46.31</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4897126751178</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>DD 51178 TAŃCZĄCA ŻYRAFA OLA
@@ -106760,7 +106760,7 @@ Waga : 1,50 kg</opis>
 <nazwa>EASY GO Gondola miękka do wózka ECHO EBONY BLACK</nazwa>
 <cena>129.65</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214739899</EAN>
 <grupa>EURO CART/EASY GO/AKCESORIA</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) do wózka dla dwójki dzieci ECHO marki EASYGO
@@ -107254,7 +107254,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy FARO SAGE GREEN</nazwa>
 <cena>322.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214730773</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy z automatycznym systemem składania FARO marki EASYGO – super jakość w niskiej cenie
@@ -107344,7 +107344,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy FARO SAVANNA BEIGE</nazwa>
 <cena>322.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5908214730766</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy z automatycznym systemem składania FARO marki EASYGO – super jakość w niskiej cenie
@@ -107630,7 +107630,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy HERO GOLDEN BEIGE</nazwa>
 <cena>470.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5908214730414</EAN>
 <grupa>EURO CART/EASY GO</grupa>
 <opis>Wózek dziecięcy spacerowy HERO marki EASYGO – automatycznie składany, lekki, stylowy
@@ -108478,7 +108478,7 @@ www.euro-cart.pl</opis>
 <nazwa>EASY GO Wózek dziecięcy TRIX SAVANA BEIGE</nazwa>
 <cena>429.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907573550114</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy TRIX marki EASYGO spacerówka składana automatycznie
@@ -108682,8 +108682,8 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <nazwa>EASY GO Wózek dziecięcy Zoya ebony black</nazwa>
 <cena>519.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
+<stan>mała ilość</stan>
+<EAN>5908214730353</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek dziecięcy ZOYA marki EASYGO – automatycznie składana spacerówka z możliwością zamontowania gondoli lub fotelika samochodowego
 
@@ -110804,63 +110804,6 @@ W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, kt
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5905056</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 219 chic brown gel</nazwa>
-<cena>1677.35</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5906724206542</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -110911,6 +110854,63 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5905056</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 219 chic brown gel</nazwa>
+<cena>1677.35</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724206542</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -110997,7 +110997,7 @@ Producent wprowadzający: BDG PRODUKCJA Sp. z o.o. ul. Warszawska 8 42-262 Pocze
 <cena>133.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5908214739752</EAN>
 <grupa>EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
 
@@ -111027,8 +111027,8 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Iron</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
-<EAN/>
+<stan>duża ilość</stan>
+<EAN>5908214739769</EAN>
 <grupa>EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
 
@@ -111058,8 +111058,8 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Jungle</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
-<EAN/>
+<stan>duża ilość</stan>
+<EAN>5908214739776</EAN>
 <grupa>EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
 
@@ -111089,8 +111089,8 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Taupe</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
-<EAN/>
+<stan>duża ilość</stan>
+<EAN>5908214739783</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
 
@@ -112092,8 +112092,8 @@ Siedzisko: 3,9</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO CAMEL</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
+<stan>mała ilość</stan>
+<EAN>5908214739714</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
 
@@ -112160,8 +112160,8 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO IRON</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
-<EAN/>
+<stan>duża ilość</stan>
+<EAN>5908214739721</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
 
@@ -112228,8 +112228,8 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO JUNGLE</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
-<EAN/>
+<stan>duża ilość</stan>
+<EAN>5908214739738</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
 
@@ -112297,7 +112297,7 @@ Szerokość opakowania 75 cm</opis>
 <cena>900.00</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
-<EAN/>
+<EAN>5908214739745</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
 
@@ -121690,7 +121690,7 @@ Zabawka rozwija:
 <nazwa>FIKI MIKI Materac do ćwiczeń ruchowych biały MRR1</nazwa>
 <cena>80.73</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902686306146</EAN>
 <grupa>FIKI MIKI/MATERACE</grupa>
 <opis>Materac do ćwiczeń ruchowych (Model: MRR1)
@@ -123710,7 +123710,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30053 Radosny kwiatek kolorowy</nazwa>
 <cena>14.33</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692300535</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Stojący kwiatek z gryzaczkowymi płatkami wygląda wspaniale, a do tego posiada kilka bardzo przydatnych funkcji! Każdy z płatków ozdobiony jest wypustkami w innym kształcie, które podczas gryzienia będą delikatnie masować obolałe dziąsełka ząbkującego maluszka. Jego długa łodyga, z wypustkami imitującymi listki, ułatwi bobasowi chwytanie zabawki. A to jeszcze nie wszystko! W środku, pomiędzy płatkami, kwiatek kryje niespodziankę w formie grzechotki, więc za każdym razem, gdy maluch nim potrząśnie, usłyszy wesoły odgłos.
@@ -123744,7 +123744,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30056 Podwójna grzechotka miętowa</nazwa>
 <cena>14.50</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692300566</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Stylowa grzechotka w pięknym, miętowym kolorze posiada aż dwie kule wypełnione kolorowymi koralikami, które przy potrząsaniu wydają wesoły dźwięk. Otaczają je miękkie obręcze ze zróżnicowanymi wypustkami, połączone ze sobą na wzór sztangi. Ten pomysłowy kształt ułatwi maluszkom chwytanie zabawki, a wypustki przyniosą ulgę obolałym ząbkowaniem dziąsełkom.
@@ -123831,7 +123831,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30062 Zestaw grzechoczący czerwony</nazwa>
 <cena>17.94</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692300627</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Grzechocz do woli z zestawem dwóch zabawek wypełnionych kolorowymi koralikami! Każda z grzechotek posiada miękki, silikonowy uchwyt, dostosowany do małych rączek. Za sprawą eleganckiego opakowania, zestaw sprawdzi się idealnie na prezent dla malucha.
@@ -123940,7 +123940,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30070 Zestaw startowy fioletowy</nazwa>
 <cena>22.52</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692300702</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Pastelowo i uroczo witamy na świecie! Pierwszy zestaw dla maluszka składa się z dwóch praktycznych zabawek: gryzaka Ósemki oraz Radosnego Kwiatka w kolorze fioletowym. Zabawki posiadają wypustki, które podczas gryzienia będą delikatnie masować dziąsła bobasa, przynosząc mu tym samym ulgę w ząbkowaniu. Kształt gryzaka i grzechotki ułatwia małym rączkom chwytanie zabawek. Zestaw sprawdzi się świetnie w charakterze prezentu.
@@ -123978,7 +123978,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30072 Gryzak Aksolotl różowy</nazwa>
 <cena>13.31</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5905692300726</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Silikonowy zwierzaczek w wesołym, różowym kolorze pomoże maluchom przejść przez trudny okres ząbkowania. Ten uroczy gryzaczek posiada specjalną konstrukcję, pozwalającą na włożenie rączki do środka i złapanie go za poprzeczny, fakturowany uchwyt. Ta nieregularna powierzchnia zapobiega niekontrolowanemu wyślizgiwaniu się produktu z rączki dziecka. Gryzak posiada wypustki, które podczas gryzienia będą delikatnie masować podrażnione dziąsła maluszka, przynosząc mu ulgę w ząbkowaniu. Dzięki temu, iż zabawka wykonana jest z silikonu, bez trudu ją wyczyścisz.
@@ -124203,7 +124203,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 45551 Gryzak truskawka blister</nazwa>
 <cena>8.07</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8711427045551</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis/>
@@ -124595,7 +124595,7 @@ wymiary: 6,8cm x 6,5 cm</opis>
 <nazwa>GILIGUMS GG 58374 Szczoteczka ślimak</nazwa>
 <cena>15.56</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>8711423958374</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Silikonowa szczoteczka, którą pokocha Twój malec! Jej powierzchnię zdobią zróżnicowane wypustki, które delikatnie czyszczą pierwsze ząbki i masują obolałe dziąsła ząbkującego maluszka, przynosząc mu ulgę. Kształt ślimaka umili najmłodszym korzystanie ze szczoteczki.
@@ -124732,7 +124732,7 @@ wymiary: 8,4 cm x 6,5 cm</opis>
 <nazwa>GILIGUMS GG 64231 Piłka grzechotka szara</nazwa>
 <cena>18.38</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>650311064231</EAN>
 <grupa>DUMEL</grupa>
 <opis/>
@@ -127929,7 +127929,7 @@ Wszystkie materiały wykorzystane w przytulance są przyjazne Twojemu dziecku.
 <nazwa>HENCZ 984 Książeczka Lusterko</nazwa>
 <cena>39.54</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907784469847</EAN>
 <grupa>MOM'S CARE</grupa>
 <opis>Mięciutka książeczka Mom’s Careto jednocześnie zabawka i osłona głowy dziecka w łóżeczku.
@@ -133862,7 +133862,7 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM FUNNY FARM Nocnik z funkcją antypoślizgową nordic green (nordycka zieleń)</nazwa>
 <cena>11.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396083200</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Nocnik z funkcją antypoślizgową: Tutaj możesz bezpiecznie posiedzieć! adam nie ruszy się z miejsca, dzięki swojej funkcji antypoślizgowej – niech się tam dzieje, co chce…
@@ -134183,7 +134183,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA MINNIE Nakładka sedesowa z funkcją antypoślizgową nordic pink</nazwa>
 <cena>11.22</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396080803</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>informacje o produkcie
@@ -134229,7 +134229,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA PEPPA PIG Nakładka sedesowa antypoślizgowa nordic white</nazwa>
 <cena>11.22</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396080551</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -134359,7 +134359,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR LION KING Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>28.94</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396117431</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podest dziecięcy dwustopniowy, pomaga dzieciom sięgać wyżej.</opis>
@@ -134370,7 +134370,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR MINNIE MOUSE Podest dziecięcy dwustopniowy antypoślizgowy nordic pink</nazwa>
 <cena>28.94</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396080827</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -134762,7 +134762,7 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <nazwa>KEEEPER TOMEK FUNNY FARM Podest z funkcją antypoślizgową nordic green</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396083279</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis/>
@@ -135380,7 +135380,7 @@ UWAGA! Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd
 <nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% beż</nazwa>
 <cena>44.51</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907501483859</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>MimiNu Soft to Luksus, Wygoda i Przyjemność Dotyku.
@@ -138809,7 +138809,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY.</opis>
 <nazwa>KIECZMERSKI Pościel C-2 100x135 cm KOLEKCJA Dino granat</nazwa>
 <cena>40.24</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis>Komplet pościeli 2 - elementowej 135x100 cm do łóżeczka dziecięcego z tkaniny bawełnianej, wyprodukowanej w polskich fabrykach. 
@@ -144270,7 +144270,7 @@ Regulacja pochylenia: 5 pozycji (tyłem i przodem do kierunku jazdy).</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-360 2 PLUS i-Size green</nazwa>
 <cena>522.86</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902533929818</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>Kinderkraft I-360 2 PLUS – fotelik 4w1 i-Size 40–150 cm
@@ -151413,7 +151413,7 @@ Wymiary pudełka głównego: 52,5x35x61 cm</opis>
 <b2b>
 <kod>5914669</kod>
 <nazwa>KINDERKRAFT Mata edukacyjna COZYPLAY Nordic Breeze</nazwa>
-<cena>137.50</cena>
+<cena>133.78</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5902533929726</EAN>
@@ -157650,7 +157650,7 @@ Kod EAN: 5901912245877</opis>
 <nazwa>KLUPŚ Komoda PAULINE grafit-dąb</nazwa>
 <cena>546.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245327</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Komoda PAULINE to przede wszystkim nowoczesność. Głębię grafitu przełamuje drewno sosnowe, które uzupełnia zestaw o ciepły akcent kolorystyczny.
@@ -157666,7 +157666,7 @@ opcjonalna nakładka do przewijania, prowadnice kulkowe
 <nazwa>KLUPŚ Komoda PAULINE grafit-sosna</nazwa>
 <cena>525.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912244993</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda Pauline
@@ -157839,7 +157839,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko AMELIA II biel 120x60</nazwa>
 <cena>375.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912245303</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Szerokie szczeble w łóżeczku AMELIA II to odejście od szablonowych rozwiązań. Po wymianie jednego z dłuższych boków na niską barierkę ochronną będziesz mógł cieszyć się tym pięknym designem na dłużej.
@@ -158214,7 +158214,7 @@ Kod EAN: 5901912245464</opis>
 <nazwa>KLUPŚ Łóżeczko OLIVIA buk 120x60</nazwa>
 <cena>320.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912245433</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Ideał wykonany z dbałością o najmniejsze szczegóły. Szlachetny buk doda każdemu wnętrzu ciepła i nuty przytulności.
@@ -158563,7 +158563,7 @@ funkcje
 <nazwa>KLUPŚ Łóżko PAULINE z barierką grafit-sosna 120x60</nazwa>
 <cena>352.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245150</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>wymiar wewnętrzny: 120x60 cm.
@@ -166539,7 +166539,7 @@ Torba transportowa
 <nazwa>LIONELO Składany kojec Florence Grey Graphite</nazwa>
 <cena>260.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903771724302</EAN>
 <grupa>LIONELO/POKÓJ DZIECIĘCY/KOJCE DLA DZIECI</grupa>
 <opis>Florence Easy Fold
@@ -170117,7 +170117,7 @@ Butelka do podawania odciągniętego mleka mamy. Bezpieczna dla dziecka karmione
 <nazwa>LOVI 21/595 Butelka Mammafeel 150 ml</nazwa>
 <cena>37.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691880221</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis>Informacje o produkcie:
@@ -174919,7 +174919,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Nakladka Jeżyk Leśna Ferajna zielony</nazwa>
 <cena>7.57</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067007584</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis>wyjątkowa stabilność przemyślanej konstrukcji
@@ -178013,7 +178013,7 @@ Globalne badanie śladu węglowego produktu, Austria 2017, przeprowadzone przez 
 <nazwa>MAM 850998 Smoczek uspokajający Perfect Night 16+ Planet Love boy</nazwa>
 <cena>34.35</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9001616850998</EAN>
 <grupa>MAM/SMOCZKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Innowacyjny smoczek MAM Perfect Night z opatentowaną, wyjątkowo cienką szyjką, która pozwala dziecku na bardziej naturalne zamykanie ust.
@@ -179319,7 +179319,7 @@ Zabawka nieodpowiednia dla dzieci poniżej 36 miesięcy. Zawiera małe elementy,
 <nazwa>MARIOINEX 903162 Klocki waffle mini - sekretna jaskinia 148 el.</nazwa>
 <cena>63.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903033903162</EAN>
 <grupa>MARIOINEX</grupa>
 <opis>Mini Waffle City Adventure: Sekretna Jaskinia
@@ -180928,7 +180928,7 @@ montowane na taśmie dwustronnej</opis>
 <nazwa>MARKO SRPP-004 Dekoracja ścienna mała PSI PATROL CHASE</nazwa>
 <cena>5.15</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901885736631</EAN>
 <grupa>DEKORACJE</grupa>
 <opis>Piękne, kolorowe dekoracje z wizerunkami głównych bohaterów bajki Psi Patrol, dzięki którym pokój dziecka stanie się przytulny i wyjątkowy, a dziecko chętnie będzie spędzało w nim czas.
@@ -196853,7 +196853,7 @@ Waga z opakowaniem: 8,7 kg
 <nazwa>MILLY MALLY 4533 Qplay Rowerek trójkołowy Nova Niello pink</nazwa>
 <cena>330.43</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5061047480472</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Składany rowerek trójkołowy NOVA NIELLO został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -204233,7 +204233,7 @@ Waga z opakowaniem: 3,5 kg
 <b2b>
 <kod>5909163</kod>
 <nazwa>MILLY MALLY 5719 Gokart na pedały Rider Red</nazwa>
-<cena>133.54</cena>
+<cena>130.28</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5901761129540</EAN>
@@ -204289,7 +204289,7 @@ Waga brutto: 5,9 kg
 <b2b>
 <kod>5909161</kod>
 <nazwa>MILLY MALLY 5720 Gokart na pedały Rider Green</nazwa>
-<cena>136.28</cena>
+<cena>134.62</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5901761129533</EAN>
@@ -204345,7 +204345,7 @@ Waga brutto: 5,9 kg
 <b2b>
 <kod>5909162</kod>
 <nazwa>MILLY MALLY 5721 Gokart na pedały Rider Orange</nazwa>
-<cena>133.54</cena>
+<cena>130.28</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5901761129557</EAN>
@@ -208627,7 +208627,7 @@ Waga brutto: 15,7 kg</opis>
 <b2b>
 <kod>5912326</kod>
 <nazwa>MILLY MALLY 5913 Pojazd na akumulator Mercedes-Benz SLC White</nazwa>
-<cena>468.90</cena>
+<cena>457.46</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5901761129731</EAN>
@@ -220537,123 +220537,6 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912504-1.jpg https://marini.pl/b2b/pictures/5912504-2.jpg https://marini.pl/b2b/pictures/5912504-3.jpg https://marini.pl/b2b/pictures/5912504-4.jpg https://marini.pl/b2b/pictures/5912504-5.jpg https://marini.pl/b2b/pictures/5912504-6.jpg https://marini.pl/b2b/pictures/5912504-7.jpg https://marini.pl/b2b/pictures/5912504-8.jpg https://marini.pl/b2b/pictures/5912504-9.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5912480</kod>
-<nazwa>MILLY MALLY 6341 Jeździk Grawitacyjny Gravity Beige Brown</nazwa>
-<cena>92.73</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5907090700382</EAN>
-<grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
-<opis>Pojazd grawitacyjny GRAVITY to innowacyjny jeździk, który działa wykorzystując siłę grawitacji oraz ruchów ciała dziecka. Nie wymaga baterii ani pedałów. Wystarczy, że dziecko manewruje kierownicą w prawo i w lewo, aby pojazd zaczął poruszać się do przodu.
-
-Jeździk GRAVITY wykonany jest z wysokiej jakości tworzywa dzięki czemu jest on lekki i wytrzymały. Ergonomiczny design i wyprofilowane siedzisko zapewnią komfort podczas jazdy. Stabilna i szeroka podstawa oraz nisko położony środek ciężkości gwarantuje bezpieczeństwo podczas użytkowania. Kierownica jest łatwa do uchwycenia i manewrowania przez małe dzieci. Pojazd wyposażony został dodatkowo w świecące podczas jazdy kółka LED, co zwiększa jego atrakcyjność.
-
-GRAVITY to świetny sposób na doskonałą zabawę wspierającą rozwój motoryki i kondycji fizycznej. Zapewni dzieciom wiele radości i korzyści także zdrowotnych zachęcając do aktywności w domu i na świeżym powietrzu.
-
-Pojazd jest łatwy w montażu, stabilny i bezpieczny. Jest rekomendowany dla dzieci od 3 roku.
- 
-
-
-CHARAKTERYSTYKA:
- 
-
-Solidna konstrukcja
-
-Kauczukowe świecące kółka
-
-Wygodna kierownica
-
-Wyprofilowane siedzisko
-
-Piankowa osłona kolumny kierowniczej
-
-Przedział wiekowy 3+
-
-Maksymalne obciążenie: 50 kg
-
-Spełnia europejskie normy bezpieczeństwa
-
-Gwarancja rok
-
-
-
-DANE TECHNICZNE:
- 
-
-Wysokość: 41,5 cm
-
-Szerokość: 35 cm
-
-Długość: 80 cm
-
-Wysokość do siedziska: 22 cm
-
-Szerokość siedziska: 26 cm
-
-Długość siedziska: 20 cm
-
-Szerokość kierownicy: 25 cm
-
-Średnica kół: 9 cm
-
-
-
-WYMIARY OPAKOWANIA:
- 
-
-Długość: 80 cm
-
-Szerokość: 30 cm
-
-Wysokość: 30 cm
-
-Waga netto: 3,2 kg
-
-Waga brutto: 4,2 kg
-
-
-
-Opisy są własnością firmy PM Investment Group Napert, Soszyński Spółka k. Firma nie zezwala na ich kopiowanie lub powielanie - w całości lub części bez zgody.
-
-
-INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
-
-Jeździk grawitacyjny Gravity                                                 
-Produkt przeznaczony jest dla dzieci w wieku od 3 do 8 lat, chyba, że wzrost i waga dziecka umożliwiają dalsze korzystanie. Maksymalne obciążenie produktu 55kg.
-
-OSTRZEŻENIE! Nie nadaje się dla dzieci poniżej 3 roku życia ze względu na osiąganą maksymalną prędkość.
-OSTRZEŻENIE! Konieczność stosowania środków ochronnych. Nie używać w ruchu ulicznym.
-OSTRZEŻENIA!
-Zawsze używaj sportowego obuwia oraz sprzętu ochronnego (kask, rękawiczki, ochraniacze na łokcie i kolana) podczas jazdy na zabawce.
-Zabawka musi być przechowywana w miejscu niedostępnym dla dzieci w wieku poniżej 3 roku życia.
-Należy zapoznać swoje dziecko z zasadami bezpieczeństwa i ostrzeżeniami związanymi z jazdą na zabawce, które znajdują się w instrukcji obsługi.
-Podczas jazdy na zabawce dziecko powinno przebywać pod opieką osoby dorosłej i przez cały czas znajdować się w zasięgu jej wzroku.
-Korzystanie z zabawki wymaga umiejętności orientacji przestrzennej i sterowania, których brak grozi upadkiem lub zderzeniem, co może skutkować obrażeniami u użytkownika lub osób trzecich.
-Zabawka nie posiada hamulca.
-
-
-
-Jazda i hamowanie:
-1. Usiądź na siedzeniu, umieść obie stopy na podnóżkach, pochyl się lekko do przodu oburącz trzymając kierownicę.
-2. Skręcaj kierownicą na przemian w prawo i w lewo. Jeździk za pomocą grawitacji i siły odśrodkowej powinien poruszać się do przodu.
-3. Aby zatrzymać pojazd, zaprzestań ruchów skrętnych kierownicy, zaczekaj aż pojazd zwolni, a następnie postaw obie stopy na ziemi. Jeśli chcesz zahamować nagle – połóż obie stopy na ziemi, hamując pojazd.
-
-Z produktu należy korzystać w bezpiecznych miejscach – takich jak np. wnętrze domu, ogrodzone podwórko, plac zabaw etc. Nie korzystaj z produktu na piachu i innej sypkiej nawierzchni. Nie korzystaj z zabawki na nierównej, wyboistej, stromej nawierzchni i w pobliżu otwartych zbiorników wodnych.
-
-Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
-
-Producent:
-PM INVESTMENT GROUP Napert, Soszyński Sp.k.
-Podkowy 18
-04-937 Warszawa, Polska
-email: info@pminvestment.pl
-
-
-Link do instrukcji:
-http://www.pminvestment.pl/manual/gravity_manual.pdf</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912480-1.jpg https://marini.pl/b2b/pictures/5912480-2.jpg https://marini.pl/b2b/pictures/5912480-3.jpg https://marini.pl/b2b/pictures/5912480-4.jpg https://marini.pl/b2b/pictures/5912480-5.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912016</kod>
 <nazwa>MILLY MALLY 6342 Rowerek 5w1 OPTIMUS MAX green</nazwa>
 <cena>156.26</cena>
@@ -223927,7 +223810,7 @@ www.pminvestment.pl/manual/play.jpg</opis>
 <nazwa>MILLY MALLY 6435 Mata piankowa składana play Colourful Animals T1</nazwa>
 <cena>49.34</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907090700641</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Dwustronna, składana mata piankowa od Milly Mally to komfort i bezpieczeństwo dla Twojego dziecka. Mata posiada właściwości antypoślizgowe oraz antyalergiczne. Gwarantuje to bezpieczeństwo podczas zabawy oraz nauki raczkowania i chodzenia. Dzięki ciekawym nadrukom pasuje ona do każdego pomieszczenia zarówno dla chłopca jak i dziewczynki. Produkt doskonale izoluje od chłodnej podłogi, a dzięki wodoodpornej powierzchni jest łatwy w czyszczeniu oraz idealnie nadaje się jako element wystroju pokoju. Duża elastyczność sprawia, że świetnie amortyzuje w razie upadku. Można jej używać także na zewnątrz na gładkich powierzchniach. Naszą matę można zabrać również ze sobą w podróż, wystarczy spakować ją do torby na zamek z wygodnymi rączkami.
@@ -229639,11 +229522,128 @@ Gwarancja: 1 rok</opis>
 <zdjecia>https://marini.pl/b2b/pictures/782647-1.jpg https://marini.pl/b2b/pictures/782647-2.jpg https://marini.pl/b2b/pictures/782647-3.jpg https://marini.pl/b2b/pictures/782647-4.jpg https://marini.pl/b2b/pictures/782647-5.jpg https://marini.pl/b2b/pictures/782647-6.jpg https://marini.pl/b2b/pictures/782647-7.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>59114516</kod>
-<nazwa>MILLY MALLY Jeździk grawitacyjny Gravity cream pink</nazwa>
-<cena>0.00</cena>
+<kod>5912480</kod>
+<nazwa>MILLY MALLY Jeździk Grawitacyjny Gravity Beige Brown</nazwa>
+<cena>92.73</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
+<EAN>5907090700382</EAN>
+<grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
+<opis>Pojazd grawitacyjny GRAVITY to innowacyjny jeździk, który działa wykorzystując siłę grawitacji oraz ruchów ciała dziecka. Nie wymaga baterii ani pedałów. Wystarczy, że dziecko manewruje kierownicą w prawo i w lewo, aby pojazd zaczął poruszać się do przodu.
+
+Jeździk GRAVITY wykonany jest z wysokiej jakości tworzywa dzięki czemu jest on lekki i wytrzymały. Ergonomiczny design i wyprofilowane siedzisko zapewnią komfort podczas jazdy. Stabilna i szeroka podstawa oraz nisko położony środek ciężkości gwarantuje bezpieczeństwo podczas użytkowania. Kierownica jest łatwa do uchwycenia i manewrowania przez małe dzieci. Pojazd wyposażony został dodatkowo w świecące podczas jazdy kółka LED, co zwiększa jego atrakcyjność.
+
+GRAVITY to świetny sposób na doskonałą zabawę wspierającą rozwój motoryki i kondycji fizycznej. Zapewni dzieciom wiele radości i korzyści także zdrowotnych zachęcając do aktywności w domu i na świeżym powietrzu.
+
+Pojazd jest łatwy w montażu, stabilny i bezpieczny. Jest rekomendowany dla dzieci od 3 roku.
+ 
+
+
+CHARAKTERYSTYKA:
+ 
+
+Solidna konstrukcja
+
+Kauczukowe świecące kółka
+
+Wygodna kierownica
+
+Wyprofilowane siedzisko
+
+Piankowa osłona kolumny kierowniczej
+
+Przedział wiekowy 3+
+
+Maksymalne obciążenie: 50 kg
+
+Spełnia europejskie normy bezpieczeństwa
+
+Gwarancja rok
+
+
+
+DANE TECHNICZNE:
+ 
+
+Wysokość: 41,5 cm
+
+Szerokość: 35 cm
+
+Długość: 80 cm
+
+Wysokość do siedziska: 22 cm
+
+Szerokość siedziska: 26 cm
+
+Długość siedziska: 20 cm
+
+Szerokość kierownicy: 25 cm
+
+Średnica kół: 9 cm
+
+
+
+WYMIARY OPAKOWANIA:
+ 
+
+Długość: 80 cm
+
+Szerokość: 30 cm
+
+Wysokość: 30 cm
+
+Waga netto: 3,2 kg
+
+Waga brutto: 4,2 kg
+
+
+
+Opisy są własnością firmy PM Investment Group Napert, Soszyński Spółka k. Firma nie zezwala na ich kopiowanie lub powielanie - w całości lub części bez zgody.
+
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Jeździk grawitacyjny Gravity                                                 
+Produkt przeznaczony jest dla dzieci w wieku od 3 do 8 lat, chyba, że wzrost i waga dziecka umożliwiają dalsze korzystanie. Maksymalne obciążenie produktu 55kg.
+
+OSTRZEŻENIE! Nie nadaje się dla dzieci poniżej 3 roku życia ze względu na osiąganą maksymalną prędkość.
+OSTRZEŻENIE! Konieczność stosowania środków ochronnych. Nie używać w ruchu ulicznym.
+OSTRZEŻENIA!
+Zawsze używaj sportowego obuwia oraz sprzętu ochronnego (kask, rękawiczki, ochraniacze na łokcie i kolana) podczas jazdy na zabawce.
+Zabawka musi być przechowywana w miejscu niedostępnym dla dzieci w wieku poniżej 3 roku życia.
+Należy zapoznać swoje dziecko z zasadami bezpieczeństwa i ostrzeżeniami związanymi z jazdą na zabawce, które znajdują się w instrukcji obsługi.
+Podczas jazdy na zabawce dziecko powinno przebywać pod opieką osoby dorosłej i przez cały czas znajdować się w zasięgu jej wzroku.
+Korzystanie z zabawki wymaga umiejętności orientacji przestrzennej i sterowania, których brak grozi upadkiem lub zderzeniem, co może skutkować obrażeniami u użytkownika lub osób trzecich.
+Zabawka nie posiada hamulca.
+
+
+
+Jazda i hamowanie:
+1. Usiądź na siedzeniu, umieść obie stopy na podnóżkach, pochyl się lekko do przodu oburącz trzymając kierownicę.
+2. Skręcaj kierownicą na przemian w prawo i w lewo. Jeździk za pomocą grawitacji i siły odśrodkowej powinien poruszać się do przodu.
+3. Aby zatrzymać pojazd, zaprzestań ruchów skrętnych kierownicy, zaczekaj aż pojazd zwolni, a następnie postaw obie stopy na ziemi. Jeśli chcesz zahamować nagle – połóż obie stopy na ziemi, hamując pojazd.
+
+Z produktu należy korzystać w bezpiecznych miejscach – takich jak np. wnętrze domu, ogrodzone podwórko, plac zabaw etc. Nie korzystaj z produktu na piachu i innej sypkiej nawierzchni. Nie korzystaj z zabawki na nierównej, wyboistej, stromej nawierzchni i w pobliżu otwartych zbiorników wodnych.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+http://www.pminvestment.pl/manual/gravity_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5912480-1.jpg https://marini.pl/b2b/pictures/5912480-2.jpg https://marini.pl/b2b/pictures/5912480-3.jpg https://marini.pl/b2b/pictures/5912480-4.jpg https://marini.pl/b2b/pictures/5912480-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114516</kod>
+<nazwa>MILLY MALLY Jeździk Grawitacyjny Gravity cream pink</nazwa>
+<cena>92.73</cena>
+<VAT>23</VAT>
+<stan>średnia ilość</stan>
 <EAN>5907090701136</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -229653,7 +229653,7 @@ Gwarancja: 1 rok</opis>
 <nazwa>MILLY MALLY Jeździk Grawitacyjny Gravity Green Yellow</nazwa>
 <cena>92.73</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761129892</EAN>
 <grupa>MILLY MALLY</grupa>
 <opis>Pojazd grawitacyjny GRAVITY to innowacyjny jeździk, który działa wykorzystując siłę grawitacji oraz ruchów ciała dziecka. Nie wymaga baterii ani pedałów. Wystarczy, że dziecko manewruje kierownicą w prawo i w lewo, aby pojazd zaczął poruszać się do przodu.
@@ -229809,9 +229809,9 @@ Waga brutto: 4,2 kg</opis>
 <b2b>
 <kod>5909934</kod>
 <nazwa>MILLY MALLY Jeździk Grawitacyjny Gravity Navy Pink</nazwa>
-<cena>93.07</cena>
+<cena>92.73</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901761129915</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Pojazd grawitacyjny GRAVITY to innowacyjny jeździk, który działa wykorzystując siłę grawitacji oraz ruchów ciała dziecka. Nie wymaga baterii ani pedałów. Wystarczy, że dziecko manewruje kierownicą w prawo i w lewo, aby pojazd zaczął poruszać się do przodu.
@@ -232140,7 +232140,7 @@ Waga z opakowaniem-1,7 kg
 <nazwa>MILLY MALLY Mata piankowa zwijana Kinder Sea and Africa</nazwa>
 <cena>49.34</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761128109</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Dwustronna mata piankowa zwijana KINDER od Milly Mally to komfort i bezpieczeństwo dla Twojego dziecka. Mata posiada właściwości antypoślizgowe oraz antyalergiczne. Gwarantuje to bezpieczeństwo podczas zabawy oraz nauki raczkowania i chodzenia. Dzięki ciekawym nadrukom pasuje ona do każdego pomieszczenia zarówno dla chłopca jak i dziewczynki. 
@@ -238624,7 +238624,7 @@ Waga brutto: 0,6 kg
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Unicorn</nazwa>
 <cena>61.84</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761128918</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Nasz pluszak to połączenie zabawki z projektorem. Projektory przedstawiają dobrze znane postacie zwierząt: mięciutkiego misia, liska, misia koalę, pandę, słonia, przytulaną owcę, jednorożca i uroczą żyrafę. Wspaniała zabawka, która przekształci pokój Twojego dziecka w rozgwieżdżone niebo z mnóstwem gwiazd. Maluszek może przy nich zasypiać słuchając wyciszających dźwięków.                                                                                                                                                 
@@ -244629,7 +244629,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM005-G-02 Rajstopy micro 100 den czarne 3D 140/146</nazwa>
 <cena>9.75</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204300824</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -248534,7 +248534,7 @@ Prosimy o ponowne sprawdzenie temperatury bezpośrednio przed podaniem dziecku b
 <nazwa>NUK 750408 FC ustnik niekapek silikon (n.nr 750000)</nazwa>
 <cena>9.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4008600115915</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/USTNIKI I SŁOMKI</grupa>
 <opis>Silikonowy ustnik "niekapek" NUK First Choice
@@ -260075,7 +260075,7 @@ Cechy produktu:
 <nazwa>SILVERLIT SI 88652 Pingwin niebieski</nazwa>
 <cena>81.79</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4891813886525</EAN>
 <grupa>DUMEL/SILVERLIT</grupa>
 <opis>Zaopiekuj się tym uroczym ptaszkiem i spraw, aby jego serduszko zaczerwieniło się radością! Pingwinek zna emocje i wyraża je, zmieniając przy tym kolor serca oraz wydając różne dźwięki. Zwierzak potrafi się cieszyć, być głodny, szczęśliwy, zmarznięty, smutny i śpiący. Twoim zadaniem jest poznać jego potrzeby i spełnij je, wykorzystując do tego znajdujące się w zestawie akcesoria: szmatkę, zabawkową rybkę oraz ubranko.
@@ -268504,7 +268504,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-005-103 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem biały</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008084</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>• Fukcjonalna i wygodna wanienka o anatomicznym kształcie.
@@ -268732,7 +268732,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963071019</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -270043,7 +270043,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-058-103 Nocnik antypoślizgowy z pozytywką KRÓLICZKI biały</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963010254</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis/>
@@ -271270,7 +271270,7 @@ Produkt zgodny z normą EN 71-3:2019.</opis>
 <nazwa>TEGA TG-206-121 Huśtawka kubełkowa czerwona</nazwa>
 <cena>30.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963001955</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis/>
@@ -271300,7 +271300,7 @@ Produkt zgodny z normą EN 71-3:2019.</opis>
 <nazwa>TEGA TG-206-125 Huśtawka kubełkowa zielona</nazwa>
 <cena>30.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963001986</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
 <opis/>
@@ -271438,7 +271438,7 @@ Cechy produktu:
 <nazwa>TEGA TI-001-165/103 Nocnik teggi turkusowy/biały</nazwa>
 <cena>19.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905489408000</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Specjalnie zaprojektowany symetryczny i ergonomiczny kształt nocnika Teggi jest wynikiem współpracy fizjoterapeutów, rodziców i projektantów wzornictwa. Jego anatomiczny kształt i rozmiar są idealnie dopasowane do budowy ciała dziecka. Dzięki wysokości siedziska dzieciom łatwiej siadać i wstawać z nocnika. Zdejmowana wewnętrzna część nocnika ułatwia czyszczenie. Dolna krawędź posiada wykończenie antypoślizgowe, co zapewnia stabilność nocnika na podłodze.
@@ -275447,7 +275447,7 @@ Gwarancja akceptacji: Akceptowany przez 97 procent niemowląt, w 100 procentach 
 <nazwa>TOMMEE TIPPEE TTP44671894 Miska z pokrywką i łyżeczką EASISCOOP</nazwa>
 <cena>23.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5010415467188</EAN>
 <grupa>TOMMEE TIPPEE/NACZYNIA I SZTUĆCE</grupa>
 <opis>Zestaw dwóch miseczek Easy Scoop od Tommee Tippee został zaprojektowany, by ułatwić karmienie i maksymalizować wygodę zarówno dla dziecka, jak i rodzica. Miseczki posiadają trójkątną podstawę, która ułatwia nabieranie jedzenia, co jest szczególnie pomocne podczas nauki samodzielnego jedzenia przez malucha. Szczelna pokrywka i higieniczna osłonka na łyżeczkę czynią ten zestaw idealnym towarzyszem podróży. Miseczki są kompatybilne z Magiczną Matą Tommee Tippee, co zapewnia dodatkową stabilność podczas posiłków.
@@ -275574,7 +275574,7 @@ Kubki ze słomką są doskonałą alternatywą dla kubków niekapków. Miękka, 
 <nazwa>TOMMEE TIPPEE TTP447827 Kubek treningowy Superstar 190ml żółty</nazwa>
 <cena>20.24</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5010415478276</EAN>
 <grupa>TOMMEE TIPPEE/KUBKI I BIDONY</grupa>
 <opis>Nasz treningowy kubek Sippee, dostępny w wielu wesołych kolorach i z pociesznymi leśnymi motywami, został zaprojektowany tak, aby ułatwić naukę samodzielnego picia. Ma też dwie ergonomiczne rączki.
@@ -286572,7 +286572,7 @@ Wszystkie nasze produkty są wolne od BPA, BPS, PVC, ftalanów i nitrozoaminy.</
 <nazwa>TULI FUN  TF 30135 Ziemia kolorowe linki</nazwa>
 <cena>26.31</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692301358</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis>Małe co niego dla miłośników przyrody! Ta stylowa zabawka w pięknych kolorach ziemi zapewni moc sensorycznej zabawy. Znajdziemy tu kilka kuleczek do wciskania i wyciskania z powrotem na górę oraz pięć kolorowych linek do przeciągania. Każdą z nich zdobią wypustki i urocze kształty.
@@ -287507,7 +287507,7 @@ nie zawierają ftalanów, BPA, metali ciężkich</opis>
 <nazwa>TULLO 416 Piłka rehabilitacyjna 5,4cm.żółta</nazwa>
 <cena>6.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094774163</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Piłka z kolcami przeznaczona do masażu ciała, rehabilitacji, ćwiczeń fitness, jogi oraz do terapii integracji sensorycznej. Bardzo dobrze sprawdza się podczas zabawy z dziećmi, jest uatrakcyjnieniem zajęć grupowych. Specjalne stożkowe kolce pobudzają receptory czuciowe i poprawiają ukrwienie.
@@ -287581,7 +287581,7 @@ Rozmiar: 9cm</opis>
 <nazwa>TULLO 449 Wałek do masażu i rehabilitacji 15,5cm.czarny</nazwa>
 <cena>14.81</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094774491</EAN>
 <grupa>TULLO</grupa>
 <opis>Wałek z kolcami przeznaczony do masażu ciała, rehabilitacji, ćwiczeń fitness, jogi oraz do terapii integracji sensorycznej. Bardzo dobrze sprawdza się podczas zabawy z dziećmi, jest uatrakcyjnieniem zajęć grupowych. Specjalne stożkowe kolce pobudzają receptory czuciowe i poprawiają ukrwienie.
@@ -287678,7 +287678,7 @@ nie zawierają ftalanów, BPA, metali ciężkich</opis>
 <nazwa>TULLO 472 Półkula sensoryczna czerwona</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905094774729</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Półkula sensoryczna przeznaczona do ćwiczeń równowagi, korekcji wad postawy oraz masażu stóp. Bardzo dobrze sprawdza się podczas zabawy z dziećmi, jest uatrakcyjnieniem zajęć grupowych. Specjalne stożkowe kolce pobudzają receptory czuciowe i poprawiają ukrwienie.
@@ -295967,22 +295967,6 @@ przeznaczony dla dzieci 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/782290-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>767953</kod>
-<nazwa>WADER 32103 Middle Truck - Śmieciarka zielona</nazwa>
-<cena>51.46</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694321038</EAN>
-<grupa>WADER</grupa>
-<opis>Middle Truck śmieciarka w kartonie - zielono-czarna, solidnie wykonana, 42-centymetrowa śmieciarka, wyposażoną w kontener na śmieci, ruchomy podnośnik umożliwiający opróżnianie kontenera oraz otwieraną tylną klapę. Śmieciarka ma z przodu zaczep, zapakowana jest w ozdobny kartonik.
-
-Wymiary artykułu: 42 cm x 22 cm x 18 cm
-Wymiar w kartonie: 43 x 26,5 x 19 cm
-
-Zabawka z serii Middle Truck przeznaczona jest dla dzieci w wieku 1+.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/767953-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>767954</kod>
 <nazwa>WADER 32104 Middle Truck - Betoniarka zielona</nazwa>
 <cena>47.01</cena>
@@ -296733,29 +296717,6 @@ Opis techniczny
 <zdjecia>https://marini.pl/b2b/pictures/5911213-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5905079</kod>
-<nazwa>WADER 41101 Różana Wata Cukrowa Misiowa piramidka</nazwa>
-<cena>21.32</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694411012</EAN>
-<grupa>WADER</grupa>
-<opis>Nowa seria Toys in Trends to niecodzienna oferta zabawek w oryginalnych wersjach kolorystycznych dostosowanych do najnowszych obowiązujących trendów aranżacji wnętrz. Stworzyliśmy cztery niepowtarzalne kolekcje zabawek dopasowane kolorystycznie do czterech magicznych pokojów dziecięcych o bajecznych nazwach: Różana Wata Cukrowa, Słoneczny Poranek, Szmaragdowa Komnata oraz Biszkoptowa Chmurka. Różana Wata Cukrowa to połączenie pastelowych odcieni brudnego i mlecznego różu, beżu i bieli, z którymi doskonale komponują się nasze zabawki: Gigant wywrotka, Kid Cars trio, Misiowa Piramidka, Kręgle, Serwis kawowy oraz Zamek zestaw do piasku.
-
-Piramidki to jedne z pierwszych i podstawowych zabawek edukacyjnych małych dzieci.
-
-Misiowa Piramidka w kolorze różowo- biało- beżowym składa się z podstawy ze słupkiem, na który dziecko nakłada różnej wielkości kółka, w kolejności od największego do najmniejszego, na końcu nakłada ostatni element, główkę misia, która wieńczy całą budowlę. Dziecko podczas zabawy ćwiczy precyzyjne ruchy dłoni, koordynację ręka-oko niezbędną do wykonywania podstawowych czynności oraz do nauki pisania i rozwija zmysł logicznego myślenia. W trakcie zabawy piramidką dziecko uczy się rozpoznawania kolorów i rozróżniania wielkości (małe, mniejsze, najmniejsze). Na kolorowych kółkach wchodzących w skład zestawu maluch będzie mógł potrenować umiejętność chwytania, tę bardzo podstawową, ale arcyważną umiejętność, dzięki której będzie mógł samodzielnie wykonywać wiele czynności takich jak np. picie czy jedzenie. Zestaw wyróżnia się jakością wykonania, oryginalną kolorystyką oraz estetycznym wyglądem.
-
-Opis techniczny
-Oryginalna kolorystyka różowa-biało-beżowa idealnie pasująca do pokoju dziecięcego w tej samej kolorystyce
-Pełni funkcję zabawki oraz ozdoby pokoju jednocześnie.
-Zabawka składająca się z 11 elementów: podstawki ze słupkiem, 8 kolorowych kółek i wierzchołka w kształcie głowy misia
-Produkt dedykowany dzieciom 1+
-Jedna z najbardziej popularnych i najbardziej znanych zabawek-pomocy edukacyjnych, która polecają i z której korzystają w swojej pracy pedagodzy i nauczyciele w żłobkach i przedszkolach
-Rozwija wiele podstawowych umiejętności dzieci 1+ takich jak motorykę małą, sprawność ruchową, zręczność i precyzję ruchów. Wpływa również na rozwój logicznego myślenia i koncentracji.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905079-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5905081</kod>
 <nazwa>WADER 41102 Różana Wata Cukrowa Zestaw do gry w kręgle</nazwa>
 <cena>22.61</cena>
@@ -296775,28 +296736,6 @@ zestaw starannie wykonany, lekki i wytrzymały, z materiałów bezpiecznych dla 
 gra w kręgle pobudzi wyobraźnię najmłodszych, rozwinie ich umiejętności motoryczne i manualne, precyzję ruchów, koordynację wzrokowo-ruchową, równowagę oraz myślenie przestrzenne i umiejętność oceny odległości, uczy dyscypliny i koncentracji
 przeznaczone dla dzieci 1+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905081-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905082</kod>
-<nazwa>WADER 41103 Różana Wata Cukrowa Serwis kawowy</nazwa>
-<cena>13.27</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694411036</EAN>
-<grupa>WADER</grupa>
-<opis>Nowa seria Toys in Trends to niecodzienna oferta zabawek w oryginalnych wersjach kolorystycznych dostosowanych do najnowszych obowiązujących trendów aranżacji wnętrz. Stworzyliśmy cztery niepowtarzalne kolekcje zabawek dopasowane kolorystycznie do czterech magicznych pokojów dziecięcych o bajecznych nazwach: Różana Wata Cukrowa, Słoneczny Poranek, Szmaragdowa Komnata oraz Biszkoptowa Chmurka. Różana Wata Cukrowa to połączenie pastelowych odcieni brudnego i mlecznego różu, beżu i bieli, z którymi doskonale komponują się nasze zabawki: Gigant wywrotka, Kid Cars trio, Misiowa Piramidka, Kręgle, Serwis kawowy oraz Zamek zestaw do piasku.
-
-Serwis kawowy z serii Toys in Trends w kolorach Różowej Waty Cukrowej czyli połączeniem pastelowych odcieni brudnego i mlecznego różu, to niezastąpiona zabawka dla każdego dziecka, które lubi bawić się w odgrywanie ról. Idealnie nadaje się na kameralne spotkanie na herbatkę dla 6 osób, a mała gospodyni będzie mogła w zabawny sposób nauczyć się zasad etykiety i nakrycia stołu. Zestaw składa się z 19 elementów: dzbanka, 6 filiżanek, 6 talerzyków, 6 łyżeczek. Zestaw jest starannie wykończony i bezpieczny w użytkowaniu – naczynia są dopuszczone do kontaktu z żywnością, można używać ich w kuchence mikrofalowej i myć w zmywarce.
-
-Opis techniczny
-oryginalna kolorystyka różowo-biało-beżowa idealnie pasująca do pokoju dziecięcego w tej samej kolorystyce
-pełni funkcję zabawki oraz ozdoby pokoju jednocześnie.
-w skład zestawu wchodzi 19 elementów: dzbanek, 6 filiżanek, 6 talerzyków, 6 łyżeczek.
-wszystkie elementy wykonane są z certyfikowanych, trwałych i bezpiecznych elementów wyprodukowanych zgodnie z normami unijnymi dzięki czemu są bezpieczne i nadają się do kontaktu z żywnością można używać ich w kuchence mikrofalowej i myć w zmywarce.
-zestaw daje możliwość zabawy w grupie rówieśników, w rodzinie czy też w pojedynkę
-zabawa z wykorzystaniem serwisu kawowego z serii Toys in Trends pobudza wyobraźnię i twórcze myślenie dziecka, wspiera umiejętności społeczne, integrację z rówieśnikami oraz poprawia koordynację wzrokowo-ruchową, motorykę, umiejętności manualne i precyzję ruchów.
-przeznaczone dla dzieci 1+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905082-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5905083</kod>
@@ -296870,32 +296809,6 @@ wykonana z najwyższej jakości, trwałego i wytrzymałego na warunki atmosferyc
 zabawa z wykorzystaniem Gigant Truck Wywrotka pobudza wyobraźnię dziecka, wspiera rozwój jego umiejętności manualnych i koordynacji ruchowej
 odpowiednia dla dzieci 1+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905085-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905100</kod>
-<nazwa>WADER 41121 Słoneczny Poranek Misiowa piramidka</nazwa>
-<cena>19.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694411210</EAN>
-<grupa>WADER</grupa>
-<opis>Nowa seria Toys in Trends to niecodzienna oferta zabawek w oryginalnych wersjach kolorystycznych dostosowanych do najnowszych obowiązujących trendów aranżacji wnętrz. Stworzyliśmy cztery niepowtarzalne kolekcje zabawek dopasowane kolorystycznie do czterech magicznych pokojów dziecięcych o bajecznych nazwach: Różana Wata Cukrowa, Słoneczny Poranek, Szmaragdowa Komnata oraz Biszkoptowa Chmurka.
-
-Słoneczny Poranek to połączenie pastelowych odcieni słonecznej żółci, szarości, bieli i delikatnego seledynu, z którymi doskonale komponują się nasze zabawki: Gigant wywrotka, Kid Cars trio, Misiowa Piramidka, Kręgle, Serwis kawowy oraz Zamek zestaw do piasku.
-
-Piramidki to jedne z pierwszych i podstawowych zabawek edukacyjnych małych dzieci.
-
-Misiowa Piramidka w kolorze żółto-biało-szarym składa się z podstawy ze słupkiem, na który dziecko nakłada różnej wielkości kółka, w kolejności od największego do najmniejszego, na końcu nakłada ostatni element, główkę misia, która wieńczy całą budowlę. Dziecko podczas zabawy ćwiczy precyzyjne ruchy dłoni, koordynację ręka-oko niezbędną do wykonywania podstawowych czynności oraz do nauki pisania i rozwija zmysł logicznego myślenia. W trakcie zabawy piramidką dziecko uczy się rozpoznawania kolorów i rozróżniania wielkości (małe, mniejsze, najmniejsze). Na kolorowych kółkach wchodzących w skład zestawu maluch będzie mógł potrenować umiejętność chwytania, tę bardzo podstawową, ale arcyważną umiejętność, dzięki której będzie mógł samodzielnie wykonywać wiele czynności takich jak np. picie czy jedzenie. Zestaw wyróżnia się jakością wykonania, oryginalną kolorystyką oraz estetycznym wyglądem.
-
-Opis techniczny
-oryginalna kolorystyka żółto-biało-szara idealnie pasująca do pokoju dziecięcego w tej samej kolorystyce
-pełni funkcję zabawki oraz ozdoby pokoju jednocześnie.
-zabawka składająca się z 11 elementów: podstawki ze słupkiem, 8 kolorowych kółek i wierzchołka w kształcie głowy misia
-produkt dedykowany dzieciom 1+
-jedna z najbardziej popularnych i najbardziej znanych zabawek-pomocy edukacyjnych, która polecają i z której korzystają w swojej pracy pedagodzy i nauczyciele w żłobkach i przedszkolach
-rozwija wiele podstawowych umiejętności dzieci 1+ takich jak motorykę małą, sprawność ruchową, zręczność i precyzję ruchów. Wpływa również na rozwój logicznego myślenia i koncentracji.
-Zwiń</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905100-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5905101</kod>
@@ -297059,28 +296972,6 @@ zestaw starannie wykonany, lekki i wytrzymały, z materiałów bezpiecznych dla 
 gra w kręgle pobudzi wyobraźnię najmłodszych, rozwinie ich umiejętności motoryczne i manualne, precyzję ruchów, koordynację wzrokowo-ruchową, równowagę oraz myślenie przestrzenne i umiejętność oceny odległości, uczy dyscypliny i koncentracji
 przeznaczone dla dzieci 1+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905107-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905108</kod>
-<nazwa>WADER 41133 Szmaragdowa Komnata Serwis kawowy</nazwa>
-<cena>13.81</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694411333</EAN>
-<grupa>WADER</grupa>
-<opis>Nowa seria Toys in Trends to niecodzienna oferta zabawek w oryginalnych wersjach kolorystycznych dostosowanych do najnowszych obowiązujących trendów aranżacji wnętrz. Stworzyliśmy cztery niepowtarzalne kolekcje zabawek dopasowane kolorystycznie do czterech magicznych pokojów dziecięcych o bajecznych nazwach: Różana Wata Cukrowa, Słoneczny Poranek, Szmaragdowa Komnata oraz Biszkoptowa Chmurka. Szmaragdowa Komnata to połączenie pastelowych odcieni nasyconego turkusu, mlecznej mięty oraz bieli, z którymi doskonale komponują się nasze zabawki: Gigant wywrotka, Kid Cars trio, Misiowa Piramidka, Kręgle, Serwis kawowy oraz Zamek zestaw do piasku.
-
-Serwis kawowy z serii Toys in Trends w kolorze nasyconego turkusu, mlecznej mięty oraz bieli to niezastąpiona zabawka dla każdego dziecka, które lubi bawić się w odgrywanie ról. Idealnie nadaje się na kameralne spotkanie na herbatkę dla 6 osób, a mała gospodyni będzie mogła w zabawny sposób nauczyć się zasad etykiety i nakrycia stołu. Zestaw składa się z 19 elementów: dzbanka, 6 filiżanek, 6 talerzyków, 6 łyżeczek. Zestaw jest starannie wykończony i bezpieczny w użytkowaniu – naczynia są dopuszczone do kontaktu z żywnością, można używać ich w kuchence mikrofalowej i myć w zmywarce.
-
-Opis techniczny
-oryginalna kolorystyka turkusowo-miętowo-biała idealnie pasująca do pokoju dziecięcego w tej samej kolorystyce
-pełni funkcję zabawki oraz ozdoby pokoju jednocześnie
-w skład zestawu wchodzi 19 elementów: dzbanek, 6 filiżanek, 6 talerzyków, 6 łyżeczek
-wszystkie elementy wykonane są z certyfikowanych, trwałych i bezpiecznych elementów wyprodukowanych zgodnie z normami unijnymi dzięki czemu są bezpieczne i nadają się do kontaktu z żywnością można używać ich w kuchence mikrofalowej i myć w zmywarce
-zestaw daje możliwość zabawy w grupie rówieśników, w rodzinie czy też w pojedynkę
-zabawa z wykorzystaniem serwisu kawowego z serii Toys in Trends pobudza wyobraźnię i twórcze myślenie dziecka, wspiera umiejętności społeczne, integrację z rówieśnikami oraz poprawia koordynację wzrokowo-ruchową, motorykę, umiejętności manualne i precyzję ruchów.
-przeznaczone dla dzieci 1+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905108-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5905109</kod>
@@ -302429,7 +302320,7 @@ Waga:	0.2 kg</opis>
 <nazwa>WOOPIE 47054 Zestaw figurek 15 szt Dzikie Zwierzęta</nazwa>
 <cena>15.11</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5904326947054</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Zestaw Figurek od marki WOOPIE to idealny zestaw dla każdego fana zwierząt. W zestawie znajduje się 12 dzikich zwierząt oraz drzewo i 2 szt. skała.  Realistycznie wyglądające figurki powiększą zbiory małego kolekcjonera, spełnią funkcję edukacyjną oraz zapewnią dobrą zabawę dzięki której maluch poszerzy zakres swojej wyobraźni i kreatywności.
@@ -310726,7 +310617,7 @@ uchwyt z przyssawką.
 <nazwa>YOOKIDOO 40303 Transparentne labaratorium wodne</nazwa>
 <cena>43.98</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>7290107723039</EAN>
 <grupa>YOOKIDOO</grupa>
 <opis>Yookidoo to marka oferująca innowacyjne zabawki pobudzające wyobraźnię dziecka, rozwijają jego zmysły, uczą związku przyczynowo-skutkowego oraz logicznego myślenia. Wszystko to w połączeniu z najlepszą jakością oraz niebanalnym designem.  
