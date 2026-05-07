@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-05-06T19:55:05.340">
+<MARINI timestamp="2026-05-07T19:55:05.170">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -4259,7 +4259,7 @@ Opakowanie zawiera 70 szt. chusteczek.</opis>
 <nazwa>AKUKU A0033 Bidon ze słomką z odważnikiem MIĘTOWY</nazwa>
 <cena>18.15</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644000333</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon ze słomką z odważnikiem.
@@ -4273,7 +4273,7 @@ WAŻNE: Aby bidon NIE ZAMYKAŁ się podczas picia, należy go otworzyć maksymal
 <nazwa>AKUKU A0034 Bidon ze słomką z odważnikiem SZARY</nazwa>
 <cena>18.15</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644000340</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon ze słomką z odważnikiem.
@@ -4922,7 +4922,7 @@ Produkt całkowicie wolny od bisfenolu A (0% BPA).</opis>
 <nazwa>AKUKU A0203 Bidon z chowaną słomką MIŚ</nazwa>
 <cena>9.32</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644002030</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon z chowaną słomką
@@ -6876,7 +6876,7 @@ Waga lusterka z opakowaniem: 440 g</opis>
 <nazwa>AKUKU A0647 Poduszka ortopedyczna dla niemowląt</nazwa>
 <cena>17.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644006472</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Nasza ortopedyczna poduszka dla niemowląt to idealne rozwiązanie w walce z deformacjami główki dziecka. Dzięki wyprofilowanemu kształtowi i użytym materiałom poduszka redukuje nacisk główki dziecka na podłoże, co sprawia, że zapobiega spłaszczaniu się główki oraz leczy już powstałe zniekształcenia. Jest ona niezwykle wygodna i mięciutka. Przydaje się nie tylko w łóżku, ale także w wózku. Można ją zabrać wszędzie, zapewniając dziecku optymalną pozycję głowy podczas snu i relaks w dowolnym miejscu i czasie.
@@ -10019,7 +10019,7 @@ Zdejmowany pokrowiec pikowany: velvet (100% poliester)</opis>
 <nazwa>ALBERO MIO Fotelik Velvet róż V101</nazwa>
 <cena>139.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902605473133</EAN>
 <grupa>ALBERO MIO/AKCESORIA</grupa>
 <opis>Fotelik Velvet Kids 
@@ -15812,7 +15812,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam, MDF</opis>
 <nazwa>ALBERO MIO Przewijak twardy długi CP1 Retro kwiatki</nazwa>
 <cena>58.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685957</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy PT80
@@ -15980,7 +15980,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam, MDF</opis>
 <nazwa>ALBERO MIO Przewijak twardy krotki 445 Abi</nazwa>
 <cena>57.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165689337</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak twardy (PT70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczony jest do montowania na większości rodzai łóżeczek o wymiarach 120×60 cm.  
@@ -16313,7 +16313,7 @@ Rozmiar: 70x47 (+/-0,5). Skład: folia PVC bez zawartości ftalanów (100% polie
 <nazwa>ALBERO MIO Przewijak twardy krótki 431 WESOŁE GWIAZDKI</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165685292</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak twardy (PT70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczony jest do montowania na większości rodzajów łóżeczek o wymiarach 120×60 cm, posiada stópki zabezpieczające przed zsunięciem się z ramy łóżka.
@@ -23581,7 +23581,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 177354 Tańcząca kałamarnica mix kolorów 3+</nazwa>
 <cena>23.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901811177354</EAN>
 <grupa>ARTYK</grupa>
 <opis>W zestawie:
@@ -25646,9 +25646,9 @@ Smoczki Philips Avent Ultra Start są dostarczane w etui wielokrotnego użytku, 
 <b2b>
 <kod>5910274</kod>
 <nazwa>AVENT SCF075/03 Smoczek Ultra Start Day 0-2m</nazwa>
-<cena>22.16</cena>
+<cena>20.76</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689028059</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Uspokaja noworodki od pierwszego dnia
@@ -26026,7 +26026,7 @@ Kolekcja Ultra Air jest zawsze modna. Jasne i kolorowe wzornictwo sprawia, że T
 <nazwa>AVENT SCF080/06 Smoczek Ultra Air Animals 0-6M dziewczynka ptaszek/pingwin</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8710103949374</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Lekki, przepuszczający powietrze smoczek
@@ -26534,7 +26534,7 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.
 <nazwa>AVENT SCF085/59 Smoczek Ultra Air 0-6m słońce/tęcza girl</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8720689017527</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Pozwala skórze Twojego dziecka oddychać
@@ -27310,7 +27310,7 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.<
 <b2b>
 <kod>5906240</kod>
 <nazwa>AVENT SCF091/18 Smoczek Ultra Soft 6-18m kwiatek/piesek</nazwa>
-<cena>24.95</cena>
+<cena>23.55</cena>
 <VAT>5</VAT>
 <stan>brak</stan>
 <EAN>8720689016735</EAN>
@@ -27634,7 +27634,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <nazwa>AVENT SCF091/43 Smoczek Ultra Soft 6-18m 2 szt. fioletowy/różowy</nazwa>
 <cena>24.95</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689041300</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultrasoft – wyjątkowo delikatny dla skóry wrażliwej
@@ -27812,7 +27812,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <nazwa>AVENT SCF093/06 Smoczek Ultra Soft 18+ gęś / sarenka</nazwa>
 <cena>24.95</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689041584</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultrasoft – wyjątkowo delikatny dla skóry wrażliwej
@@ -27853,7 +27853,7 @@ Zawartość zestawu - 2 smoczki ultramiękkie
 <nazwa>AVENT SCF094/01 Smoczek uspokajający SOOTHER SOFT 0-6 NIGHT&amp;DAY jeż/lew</nazwa>
 <cena>26.32</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689049610</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI</grupa>
 <opis/>
@@ -28082,7 +28082,7 @@ Uchwyt do zawieszania szczotki zapewnia wygodne przechowywanieUchwyt do zawiesza
 <b2b>
 <kod>777931</kod>
 <nazwa>AVENT SCF153/01 Osłonki na piersi małe</nazwa>
-<cena>33.14</cena>
+<cena>30.49</cena>
 <VAT>8</VAT>
 <stan>średnia ilość</stan>
 <EAN>8710103907640</EAN>
@@ -28261,7 +28261,7 @@ Dokładne czyszczenie sterylizatora bez użycia środków chemicznych pozwoli Ci
 <nazwa>AVENT SCF349/01 Smoczek STHR AIR 18+ szaro/niebieski</nazwa>
 <cena>19.95</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103982678</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Ukołysz dziecko dzięki smoczkowi, który pozwala skórze oddychać. Smoczek Philips Avent Ultra Air ma bardzo duże otwory, które zapewniają suchość skóry. Lekka osłonka zapewnia maksymalny przepływ powietrza. Dostępny w różnych kolorach i wzorach.
@@ -28279,7 +28279,7 @@ Zadbaj o rozwój uzębienia dziecka z symetrycznym smoczkiem, który dostosowuje
 <b2b>
 <kod>5906243</kod>
 <nazwa>AVENT SCF349/18 Smoczek Ultra Air 18m+ słoń/hello</nazwa>
-<cena>22.16</cena>
+<cena>20.76</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
 <EAN>8720689017091</EAN>
@@ -28866,7 +28866,7 @@ Zawartość zestawu - Smoczek ultra air Nighttime 2 szt.
 <nazwa>AVENT SCF376/28 Smoczek Ultra nighttime Air 6-18m 2 szt. kameleon/małpka</nazwa>
 <cena>23.57</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689042512</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultra air na noc – pozwala skórze dziecka oddychać
@@ -28954,7 +28954,7 @@ Zawartość zestawu - smoczki uspokajające Ultra Start Nighttime (2 szt.)
 <nazwa>AVENT SCF376/31 Smoczek Ultra Air Night 6-18m oliwka / liście</nazwa>
 <cena>23.57</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689042857</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Smoczek Philips Avent ultra air na noc – pozwala skórze dziecka oddychać
@@ -29452,7 +29452,7 @@ Zgodność ze wszystkimi butelkami i kubkami Philips Avent</opis>
 <b2b>
 <kod>780941</kod>
 <nazwa>AVENT SCF553/03 Kubek CLASSIC SPOUT CUP</nazwa>
-<cena>25.92</cena>
+<cena>21.23</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>8710103667056</EAN>
@@ -29483,7 +29483,7 @@ Wszystkie butelki i kubki Philips Avent są ze sobą zgodne z wyjątkiem butelek
 <nazwa>AVENT SCF553/05 Kubek CLASSIC SPOUT CUP</nazwa>
 <cena>21.23</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8710103667063</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Ten kubek z ustnikiem Philips Avent to wspaniały produkt zarówno dla dzieci, jak i ich rodziców. Miękki, silikonowy ustnik ułatwia picie, a niewielka liczba części umożliwia łatwe czyszczenie kubka.
@@ -29571,7 +29571,7 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <nazwa>AVENT SCF796/02 Kubek ze słomką 200 ml girl</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103781912</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Kubek ze słomką Avent
@@ -29591,7 +29591,7 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <nazwa>AVENT SCF798/01 Kubek ze słomką 300 ml boy</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>8710103781974</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
 <opis>Kubek ze słomką Avent
@@ -29629,7 +29629,7 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <b2b>
 <kod>771359</kod>
 <nazwa>AVENT SCF802/01 Kubek miękki z odpornym na gryzienie ustnikiem 300ml  9m+</nazwa>
-<cena>28.61</cena>
+<cena>26.32</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>8710103826286</EAN>
@@ -29647,7 +29647,7 @@ Kubek My Grippy z ustnikiem
 <b2b>
 <kod>771360</kod>
 <nazwa>AVENT SCF802/02 Kubek miękki z odpornym na gryzienie ustnikiem</nazwa>
-<cena>28.62</cena>
+<cena>26.32</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>8710103826316</EAN>
@@ -29761,7 +29761,7 @@ Zawartość zestawu
 <b2b>
 <kod>5903676</kod>
 <nazwa>AVENT SCY673/01 Butelka Natural Responsywna 260 ml</nazwa>
-<cena>35.17</cena>
+<cena>33.28</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>8710103990383</EAN>
@@ -29796,7 +29796,7 @@ Zawartość zestawu
 <b2b>
 <kod>5903672</kod>
 <nazwa>AVENT SCY673/81 Butelka Natural Responsywna dekor 260 ml</nazwa>
-<cena>39.20</cena>
+<cena>36.06</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>8710103990406</EAN>
@@ -41637,7 +41637,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB201008 Kubek treningowy 240 ml błękitny</nazwa>
 <cena>29.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007746</EAN>
 <grupa>B.BOX</grupa>
 <opis>Ten kubek treningowy, to nowy członek rodziny innowacyjnych akcesoriów b.box. Zaprojektowany po to by ułatwić twojemu dziecku przejście od niekapka do zwykłego kubka. Umożliwi zdobycie nowej umiejętności bez wywoływania potopu przy każdej próbie. Pokrywka pozwala pić jak ze szklanki jednocześnie zapobiegając nadmiernemu rozlewaniu płynu przy przechyleniu kubeczka. Dzięki temu, że jest przezroczysta dziecko widzi napój i może oceniać jak bardzo nachylić kubeczek.
@@ -47871,7 +47871,7 @@ czas pracy na w pełni nakładowej baterii: do 90 min.</opis>
 <nazwa>B.O.1476/01 Śliniak z długim rękawem GARDEN</nazwa>
 <cena>15.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435414972</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak z długim rękawem to praktyczny fartuszek, który ochroni ubranie Twojego dziecka. W trakcie jedzenia zabezpieczy nie tylko przód ubranka, ale również rękawy, które „lubią się” brudzić. Dzięki elastycznym gumkom będzie dobrze przylegał nawet do małych dziecięcych rączek. Śliniak z rękawkami ma też praktyczną kieszonkę na okruszki, do której wpadają resztki posiłku.
@@ -48259,7 +48259,7 @@ Talerzyk z silikonu jest łatwy do czyszczenia. Można go bezpiecznie myć w zmy
 <nazwa>B.O.1482/04 Silikonowy talerzyk z przyssawką beżowy</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435417072</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu. Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -48795,7 +48795,7 @@ W komplecie znajdziesz 3 urocze zwierzątka sensoryczne, które są doskonałym 
 <nazwa>B.O.1531 Książeczka sensoryczna NATURE</nazwa>
 <cena>31.93</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435415528</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Książeczka sensoryczna Nature na długo przyciągnie uwagę dziecka. Zawiera wiele ukrytych elementów – zaciekawia i pobudza koncentrację. Uczy logicznego myślenia. Pomaga rozwijać różne zmysły dziecka już od pierwszych dni życia. Atrakcyjna estetyka książeczki przyciąga wzrok malucha. Elementy wydające dźwięki rozwijają słuch. Różne faktury, wystające i odczepiane części pobudzają zmysł dotyku. Malucha zaciekawi też lusterko. Pokazuje otoczenie z nowej dla niego strony i zachęca do odkrywania świata.
@@ -49242,7 +49242,7 @@ Wymiar opakowania: 12,5 x 11 x 10 cm</opis>
 <nazwa>B.O.1544/02 Przenośny pojemnik na mleko w proszku beżowy</nazwa>
 <cena>10.71</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901435417218</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Przenośny pojemnik na mleko w proszku - idealny do stosowania domu i w czasie podróży. Dzięki hermetycznemu zamknięciu, mleko pozostanie zawsze świeże i suche. W zestawie znajduje się łyżeczka, która umożliwia odmierzanie porcji. Wbudowana poprzeczka pozwala na precyzyjne nabieranie mleka. Pojemnik posiada wygodny, silikonowy uchwyt do przenoszenia. Może również służyć do przechowywania innych drobnych przekąsek i smakołyków.
@@ -50301,7 +50301,7 @@ Składana
 <nazwa>B.O.1578 Zabawka edukacyjna - zawieszka do wózka i fotelika NATURE</nazwa>
 <cena>25.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901435416587</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Zawieszka do wózka i fotelika NATURE to sensoryczna zabawka, która pomaga w stymulowaniu zmysłów dotyku i wzroku oraz rozwoju umiejętności motorycznych dziecka. Zamocuj ją na wózku, kołysce lub foteliku, aby dostarczyć maluszkowi rozrywki podczas spacerów i podróży. Na pokrytej przyjemnym w dotyku materiałem zawieszce umieściliśmy grzechoczącego ptaszka, bezpieczne lusterko z wystającymi sznureczkami, szeleszczącego króliczka oraz kółko i gwiazdkę. Ciekawie dobrane elementy zachęcają do ich poznawania i przyciągają uwagę dziecka. Twój maluch jednocześnie bawi się, odkrywa świat i rozwija koordynację wzrokowo-słuchową.
@@ -53623,7 +53623,7 @@ Zapakowany w sztywny kartonik z okienkiem - doskonały pomysł na prezent</opis>
 <nazwa>B.O.1673/03 Kocyk bambusowy beżowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418062</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Bambusowy kocyk niemowlęcy to funkcjonalne rozwiązanie do użytku w domu i podczas spacerów. Naturalny, przewiewny materiał o delikatnym splocie gwarantuje komfort wrażliwej skórze dziecka. Jest odpowiedni dla alergików. Bambusowa dzianina zapewnia świeżość i higienę dzięki właściwościom antygrzybicznym, antystatycznym i antybakteryjnym. Materiał wchłania wilgoć i dba o termoregulację. Praktyczny rozmiar 75x100 cm pozwala sprawnie otulić dziecko w łóżeczku lub w wózku.
@@ -53997,7 +53997,7 @@ Wspiera naukę koncentracji</opis>
 <nazwa>B.O.1680 Kostka sensoryczna NATURE</nazwa>
 <cena>38.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435418345</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Kostka sensoryczna Nature na długo przyciągnie uwagę dziecka. Zawiera wiele ukrytych elementów – zaciekawia i pobudza koncentrację. Uczy logicznego myślenia. Pomaga rozwijać różne zmysły dziecka już od pierwszych dni życia. Atrakcyjna estetyka kostki przyciąga wzrok malucha. Elementy wydające dźwięki rozwijają słuch. Różne faktury, wystające i odczepiane części pobudzają zmysł dotyku. Malucha zaciekawi też lusterko. Pokazuje otoczenie z nowej dla niego strony i zachęca do odkrywania świata.
@@ -54489,7 +54489,7 @@ Stymuluje zmysły – wzroku, dotyku, słuchu
 <nazwa>B.O.1901 Termometr elektroniczny elastyczna końcówka DMT-4336</nazwa>
 <cena>10.80</cena>
 <VAT>8</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416457</EAN>
 <grupa>BABYONO/ELEKTRONIKA/TERMOMETRY</grupa>
 <opis>1901 Nasz termometr elektroniczny z miękką końcówką to wyrób medyczny przeznaczony do łatwego i dokładnego mierzenia temperatury ciała. Zaprojektowaliśmy go z myślą o Twoim maluszku – jego elastyczna, delikatna końcówka zapewnia bezpieczeństwo i komfort w trakcie pomiaru.
@@ -54604,7 +54604,7 @@ Właściwości:
 <nazwa>B.O.297/01 Wkładki laktacyjne NIGHT &amp; DAY 40 szt</nazwa>
 <cena>9.60</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435415016</EAN>
 <grupa>BABYONO/DLA MAMY/WKŁADKI LAKTACYJNE</grupa>
 <opis>Wkładki laktacyjne Night &amp; Day – wyprofilowany kształt zapewni komfort podczas noszenia w ciągu dnia i w nocy, a dwa samoprzylepne paski pozwolą utrzymać wkładkę we właściwym położeniu. Dla zachowania właściwej higieny każda wkładka pakowana jest w osobny woreczek.
@@ -62018,7 +62018,7 @@ PRODUKT NIE STANOWI ZABAWKI</opis>
 <nazwa>BABY 01432 Zawieszka do smoczka silikonowa BLUE</nazwa>
 <cena>24.27</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905274850281</EAN>
 <grupa>BABY IN WORLD</grupa>
 <opis>Zawieszka do smoczka i gryzaczka jest przyjazną dla maluszka alternatywą dla plastikowych  zawieszek.
@@ -65766,7 +65766,7 @@ Cechy zabawki:
 <nazwa>BALIBAZOO BB 80234 Aktywna spirala figury geometryczne</nazwa>
 <cena>45.85</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6925783802341</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Kontrastowa spirala w magiczny sposób łączy walory rozrywkowe i edukacyjne, zapewniając Pluszakom Luzakom wspaniałą zabawę! Aż roi się tu od niespodzianek. Kontrastowe kolory pobudzają zmysł wzroku malucha, a zróżnicowane faktury materiałów, zmysł dotyku. W pluszakowych kształtach, piłce, kostce i piramidce, kryją się dzwoneczki, a piłkę dodatkowo zdobi bezpieczne lustereczko do samopoznania bobaska. Doczepiane do spirali gryzaczki przyniosą ulgę ząbkującym dzieciom. Spiralę bez trudu można owinąć wokół szczebelka łóżeczka.
@@ -65821,7 +65821,7 @@ Cechy zabawki:
 <nazwa>BALIBAZOO BB 80244 Zawieszka banan</nazwa>
 <cena>18.18</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6925783802440</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Do rodzinki Pluszaków Luzaków dołączyły owoce i warzywa! Sprytny Banan posiada szeleszczące elementy, a zdobią go dwa kolorowe gryzaczki, które przyniosą ulgę ząbkującym maluchom. Zabawka posiada praktyczny uchwyt, który umożliwia przymocowanie jej w wybranym miejscu.
@@ -66996,7 +66996,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82321 Zawieszka zwariowany Felek żaba</nazwa>
 <cena>24.70</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783823216</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Ten uśmiechnięty wesołek potrafi wprawić bobaska w wyśmienity nastrój, bawiąc na wiele różnych sposobów! Zabaweczka została uszyta z materiałów o zróżnicowanych kolorach, wzorach i fakturach, dzięki czemu będzie stymulować zmysły malucha i pozwoli rozwijać jego zdolności poznawcze. Na brzuchu Felka znajduje się okrągłe, bezpieczne lusterko do samopoznania dziecka. Zabawka wyposażona została w miękki gryzak, który z pewnością przyniesie ulgę ząbkującym maluchom. Znajdziemy tu także doczepione, kolorowe kształty (gwiazdkę i kwadracik) oraz kilka materiałowych metek. Praktyczna zawieszka pozwoli przyczepić zabawkę w dowolnym miejscu, aby wszędzie mogła towarzyszyć dzidziusiowi.
@@ -67050,7 +67050,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82387 Wałek Piesek Pedro</nazwa>
 <cena>64.27</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6925783823872</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Piesio Pedro najlepszym przyjacielem każdego malucha! Ten wielofunkcyjny wałek stanowić będzie wsparcie dla dziecka leżącego na brzuszku. Zdobią go przeróżne ozdoby i zabaweczki, których zadaniem jest pobudzić zmysły bobasa i zapewnić mu rozwojową zabawę. Znajdziemy tu grzechoczące kółeczko, piszczałkę, kolorowe elementy, a także tasiemkę do przeciągania, którą z jednej strony zdobi materiałowy ślimaczek, a z drugiej strony, miękki gryzak z wypustkami, który przyniesie ulgę podczas ząbkowania. Uszy psiaka wesoło szeleszczą. Wałek wykonany został z materiałów o zróżnicowanych fakturach i kontrastowych kolorach, co pomoże maluchowi rozwijać zdolności poznawcze.
@@ -67077,7 +67077,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82390 Zawieszka Małpka Marciś z pozytywką</nazwa>
 <cena>34.57</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783823902</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Wesoły małpiszonek rozbawi bobasa, a gdy przyjdzie pora drzemki, zagra do snu uroczą kołysankę. Zabawkę zdobi miękki gryzaczek w kształcie kiści bananów, który z pewnością przyda się każdemu ząbkującemu maluchowi. Małpka uszyta została z materiałów o zróżnicowanych kolorach, wzorach i fakturach, dzięki czemu stymuluje zmysły dziecka, inspirując go do sensorycznego odkrywania świata. Aby uruchomić pozytywkę, wystarczy pociągnąć kółeczka, znajdujące się w miejscu małpiego ogonka. Zabawka wyposażona jest w praktyczną zawieszkę, dzięki której przymocujesz małpkę w dowolnym miejscu, aby wszędzie mogła towarzyszyć dzidziusiowi.
@@ -67575,7 +67575,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82586 Zawieszka Pszczółka na łące</nazwa>
 <cena>31.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783825869</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Wesoła zawieszka bawi, kryjąc w sobie wiele niespodzianek! Na plastrze miodu, wyposażonym w kryty dzwoneczek, buja się, zabawnie popiskując, uśmiechnięta pszczółka. Towarzyszy jej szeleszcząca beczułka miodu i piszczący kwiatek. Zabawka posiada praktyczną zawieszkę w kształcie gwiazdki, która umożliwia przymocowanie jej w dowolnym miejscu.
@@ -68230,6 +68230,19 @@ Zabawka w formie trąbki pozwala na odgrywanie ról przez dziecko i przeistoczen
 <grupa>BAM BAM</grupa>
 <opis>GRYZAK SENSPRYCZNY  to idealna zabawka doskonale sprawdzajaca się  w okresie ząbkowania. Kolorowe i miękkie wypustki o zróżnicowawnych kształtach z nałozonymi okręgami,  doskonale nadają sie tak do manewrowania, przesuwania jak i do gryzienia, przynosząc ulgę obolałym dziąsłom dziecka. Różnorodna  kolorystyka pobudza percepcję i  zmysł wzroku dziecka. Nieregularne kształty niewątpliwie wpływają  na rozwój zdolności manualnych. Wyważony kształt idealnie pasuje do małych rączek. Zabawka przeznaczona dla dzieci od 3 m-ca</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5906508-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5911367</kod>
+<nazwa>BAM BAM 428973 Grzechotka miękka żółwik</nazwa>
+<cena>18.44</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5903246408829</EAN>
+<grupa>BAM BAM</grupa>
+<opis>Miękka, Gumowa GRZECHOTKA ZÓŁW zachęci malucha do energicznej zabawy. Potrząsanie zabawki wyzwala  charakterystyczne dżwięki towarzyszące odbijaniu się kuli o wnętrze zabawki. Poprzez pchanie, potrząsanie czy turlanie grzechotki dziecko rozwija motorykę i zdolności manualne. Uchwyty z pierścieniami i niezwykle barwnymi koralikami o zróżnicowanej teksturze są doskonałe do nauki chwytania i ćwiczenia zdolności manualnych  małych rączek. Umożliwiają ćwiczenie koordynacji i przenoszenia przedmiotu z rączki do rączki.  Miekki materiał, z jakiego wykonana jest zabawka, z licznymi otworami ułatwia utrzymanie zabawki w małych rączkach. Chroni przed obtarciami paluszki oraz wrażliwe dziąsła. Grzechotka stymuluje rozwój słuchu. Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.) [cm]: 12x9x12, wymiary opakowania (dł. x wys. x gł.) [cm]: 15x16x14, waga produktu w opakowaniu [kg]: 0,18 kg, wymaga zasilania bateriami 2 x AAALR03- załączono do zestawu. Zabawka przeznaczona od 3 m-ca. Pakowana w kartonik z okienkiem.   
+
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5911367-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5909291</kod>
@@ -70070,19 +70083,6 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <zdjecia>https://marini.pl/b2b/pictures/5911366-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5911367</kod>
-<nazwa>BAM BAM Grzechotka miękka żółwik</nazwa>
-<cena>18.44</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903246408829</EAN>
-<grupa>BAM BAM</grupa>
-<opis>Miękka, Gumowa GRZECHOTKA ZÓŁW zachęci malucha do energicznej zabawy. Potrząsanie zabawki wyzwala  charakterystyczne dżwięki towarzyszące odbijaniu się kuli o wnętrze zabawki. Poprzez pchanie, potrząsanie czy turlanie grzechotki dziecko rozwija motorykę i zdolności manualne. Uchwyty z pierścieniami i niezwykle barwnymi koralikami o zróżnicowanej teksturze są doskonałe do nauki chwytania i ćwiczenia zdolności manualnych  małych rączek. Umożliwiają ćwiczenie koordynacji i przenoszenia przedmiotu z rączki do rączki.  Miekki materiał, z jakiego wykonana jest zabawka, z licznymi otworami ułatwia utrzymanie zabawki w małych rączkach. Chroni przed obtarciami paluszki oraz wrażliwe dziąsła. Grzechotka stymuluje rozwój słuchu. Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.) [cm]: 12x9x12, wymiary opakowania (dł. x wys. x gł.) [cm]: 15x16x14, waga produktu w opakowaniu [kg]: 0,18 kg, wymaga zasilania bateriami 2 x AAALR03- załączono do zestawu. Zabawka przeznaczona od 3 m-ca. Pakowana w kartonik z okienkiem.   
-
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911367-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911365</kod>
 <nazwa>BAM BAM Zabawka sensoryczna tablica Jeżyk</nazwa>
 <cena>27.22</cena>
@@ -70188,17 +70188,6 @@ Wlej kilka kropel płynu do kąpieli dziecka do wanienki z wodą o temperaturze 
 <EAN/>
 <grupa>PIELUSZKI</grupa>
 <opis/>
-</b2b>
-<b2b>
-<kod>787976</kod>
-<nazwa>BE SNAZZY CZD-0122 Czapka BEAR 48CM.</nazwa>
-<cena>12.99</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900672395822</EAN>
-<grupa>BE SNAZZY- OP. HURTOWE</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/787976-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>787981</kod>
@@ -75539,7 +75528,7 @@ Zestaw zawiera pojemnik do przechowywania pokarmu oraz kompletną butelkę szero
 <nazwa>CANPOL 12/204 Pojemniki do przechowywania mleka / pokarmu 4szt 180ml</nazwa>
 <cena>13.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407122045</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Pojemniki do przechowywania pokarmu pomogą Ci uporządkować zapasy mleka oraz zaoszczędzić miejsce zarówno w lodówce, jak i w zamrażarce. Umożliwiają długotrwałe utrzymanie najwyższej jakości przechowywanych pokarmów. Wykonane zostały z materiału przeznaczonego do kontaktu z żywnością.
@@ -76587,7 +76576,7 @@ Wyjątkowo lekki i cichy, zdecydowanie jeden z najlżejszych laktatorów tego ty
 <nazwa>CANPOL 20/121 Elektryczny aspirator do nosa dla niemowląt i dzieci</nazwa>
 <cena>105.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407180472</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Elektryczny aspirator do nosa Noseo szybko i skutecznie oczyszcza nosek, zapewniając poczucie bezpieczeństwa i wygodę użytkowania, już od pierwszych dni życia Maluszka. Funkcjonalny dzięki dużej mocy ssania – 65 kPa oraz szerokiej regulacji siły ssania – aż 9 poziomów, które można dostosować w zależności od gęstości wydzieliny. Posiada 3 wymienne końcówki, aby lepiej dopasować się do dziecięcego noska i efektywnie usunąć zalegający katar, umożliwiając swobodne oddychanie. Miękki silikon, z którego zostały wykonane końcówki, chroni błonę śluzową noska, zapobiegając jej uszkodzeniu. Cicha praca urządzenia oraz delikatne światło lampki nocnej z 3 poziomami świecenia, zapewniają komfortowe użycie podczas snu dziecka. ?
@@ -76779,7 +76768,7 @@ W opakowaniu 1 szt.</opis>
 <nazwa>CANPOL 22/418 Smoczek uspokajający silikonowy symetryczny 18+ Pastelove</nazwa>
 <cena>6.38</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407224183</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Nowy smoczek do uspokajania z kolekcji "Pastelove". Smoczki charakteryzują się unikalnym, autorskim wzornictwem oraz wykonaniem z bezpiecznych materiałów. Wyposażone są w silikonową gumkę o symetrycznym kształcie. Smoczek posiada wentylowaną tarczkę.
@@ -77739,7 +77728,7 @@ Canpol smoczek silikonowy Light touch jest łatwy do czyszczenia, dzięki etui, 
 <nazwa>CANPOL 23/273 Smoczek uspokajający silikonowy anatomiczny 18m-c BUNNY COMPANY</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407232737</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający BUNNY&amp;COMPANY zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies BUNNY&amp;COMPANY jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny BUNNY&amp;COMPANY jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek symetryczny Canpol babies BUNNY&amp;COMPANY jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -77755,7 +77744,7 @@ Nie można używać w sterylizatorze parowym</opis>
 <nazwa>CANPOL 23/288 Smoczek uspokajający silikonowy 0-6m symetryczny Wild coral</nazwa>
 <cena>6.40</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407902524</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Canpol Smoczek silikonowy symetryczny "Wild Nature"0-6mcy
@@ -78366,7 +78355,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/922 Smoczek silikonowy 18+m symetryczny EXOTIC Leniwiec</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691870239</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 18m+ EXOTIC (koala) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 18 miesięcy. Smoczek symetryczny Canpol babies 18m+ EXOTIC (koala) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -80359,7 +80348,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 4/413 Kubek plastikowy z uchem dla dziecka 170ml Cute Animals orange</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691885851</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek z wesołym wzorem będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Jest lekki i poręczny, idealnie pasuje do dziecięcych dłoni. Dzieci podpatrując dorosłych chcą korzystać z podobnych naczyń, dlatego kubeczek dla niemowląt z uchem jest idealnym rozwiązaniem i bezpieczniejszym w użyciu. Kubek jest wytrzymały, odporny na uszkodzenia i nie tłucze się jak szkło czy ceramika. Kubek o pojemności 170 ml jest przeznaczony dla dzieci powyżej 12 miesiąca życia, które potrafią już samodzielnie pić. Uniwersalny kubeczek dla niemowląt z uchem doskonale nadaje się do codziennego użytku. Jest bardzo praktyczny i wygodny w użytkowaniu – można myć w zmywarce i podgrzewać w mikrofalówce. Kubek dla niemowląt może być używany do gorących i zimnych napojów. Wesołe zwierzaki w kolekcji Cute Animals umilą każdy posiłek Twojemu dziecku – sprawdź inne wzory dostępne w kolekcji.
@@ -80381,7 +80370,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 4/413 Kubek plastikowy z uchem dla dziecka 170ml Cute Animals pink 2</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691885868</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek z wesołym wzorem będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Jest lekki i poręczny, idealnie pasuje do dziecięcych dłoni. Dzieci podpatrując dorosłych chcą korzystać z podobnych naczyń, dlatego kubeczek dla niemowląt z uchem jest idealnym rozwiązaniem i bezpieczniejszym w użyciu. Kubek jest wytrzymały, odporny na uszkodzenia i nie tłucze się jak szkło czy ceramika. Kubek o pojemności 170 ml jest przeznaczony dla dzieci powyżej 12 miesiąca życia, które potrafią już samodzielnie pić. Uniwersalny kubeczek dla niemowląt z uchem doskonale nadaje się do codziennego użytku. Jest bardzo praktyczny i wygodny w użytkowaniu – można myć w zmywarce i podgrzewać w mikrofalówce. Kubek dla niemowląt może być używany do gorących i zimnych napojów. Wesołe zwierzaki w kolekcji Cute Animals umilą każdy posiłek Twojemu dziecku – sprawdź inne wzory dostępne w kolekcji.
@@ -80957,7 +80946,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 51/400 Silikonowa miseczka z przyssawką 330 ml kremowa</nazwa>
 <cena>15.20</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691879447</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Silikonowa miseczka z przyssawką jest idealna do pierwszych posiłków Maluszka na początku jego przygody z rozszerzaniem diety, także metodą BLW. Miseczka Canpol babies ma antypoślizgową przyssawkę, która zapobiega niekontrolowanemu przemieszczaniu się naczynia po powierzchni stołu lub blatu krzesełka do karmienia, uniemożliwia wywrócenie naczynia lub zrzucenie w całości na podłogę. Zaokrąglone kształty oraz podwyższona wyprofilowana krawędź miski ułatwiają dziecku nabieranie jedzenia. Została wykonana w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością. Naczynia silikonowe są elastyczne i trwałe, odporne na uderzenia i upadki oraz nie pochłaniają zapachów. Doskonale sprawdza się do podawania zupy, makaronu, jogurtu z owocami czy mleka z płatkami. Miseczka Canpol babies jest łatwa do czyszczenia i odporna na wysokie temperatury – można podgrzewać w mikrofalówce oraz myć w zmywarce.
@@ -81065,7 +81054,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 51/402 Silikonowe etui na smoczek beżowe</nazwa>
 <cena>13.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5901691879355</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Silikonowe etui na smoczki zabezpieczy ulubiony smoczek Twojego Maluszka podczas spacerów, podróży oraz w domu. Piękne i praktyczne etui do przechowywania smoczków pomieści dwa standardowej wielkości smoczki, które będą zawsze czyste i gotowe do użycia. Etui ma kompaktowy kształt i wygodny praktyczny uchwyt, przy pomocy którego z łatwością można je przypiąć do wózka, łóżeczka czy torby, tak by smoczki były zawsze pod ręką. Etui na smoczki Canpol babies zostało wykonane z elastycznego i miękkiego silikonu dzięki czemu jest wygodne w użytkowaniu i łatwe do czyszczenia. Minimalistyczny wygląd pasuje do każdej torby dla mamy.
@@ -81091,7 +81080,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 51/402 Silikonowe etui na smoczek szare</nazwa>
 <cena>13.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691879331</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Silikonowe etui na smoczki zabezpieczy ulubiony smoczek Twojego Maluszka podczas spacerów, podróży oraz w domu. Piękne i praktyczne etui do przechowywania smoczków pomieści dwa standardowej wielkości smoczki, które będą zawsze czyste i gotowe do użycia. Etui ma kompaktowy kształt i wygodny praktyczny uchwyt, przy pomocy którego z łatwością można je przypiąć do wózka, łóżeczka czy torby, tak by smoczki były zawsze pod ręką. Etui na smoczki Canpol babies zostało wykonane z elastycznego i miękkiego silikonu dzięki czemu jest wygodne w użytkowaniu i łatwe do czyszczenia. Minimalistyczny wygląd pasuje do każdej torby dla mamy.
@@ -81589,7 +81578,7 @@ Produkt nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga turkus</nazwa>
 <cena>6.66</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691839663</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Grzechotka z obrotowymi elementami idealnie sprawdzi się jako pierwsza zabawka dla najmłodszych dzieci. Jest lekka i poręczna, wygodna do trzymanie w malutkich rączkach. Jej ruchome elementy, które obracają się i grzechoczą, z pewnością zaciekawią każdego maluszka. Kontrastowe kolory wzbudzają zainteresowanie, rozwijają zmysł wzroku i zajmą uwagę maluszka na długi czas. Zabawka przeznaczona dla dzieci w wieku 0m+.</opis>
@@ -82065,7 +82054,7 @@ W opakowaniu znajduje się 1 sztuka. Aby rozłożyć łyżeczkę należy nacisn�
 <nazwa>CANPOL 56/612 Kubek z silikonowym ustnikiem FirstCup 150ml BONJOUR blue</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691869950</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka. Kubek jest lekki o ergonomicznej, profilowanej budowie. Wygodne uchwyty ułatwiają dziecku trzymanie go w malutkich rączkach. Niewielka ilość elementów sprawia, że jest łatwy do składania i mycia – kubek nie ma zbędnych zakamarków, dzięki czemu można szybko umyć wszystkie części, a ustnik wyparzyć. Canpol kubek niekapek 150ml z silikonowym ustnikiem jest transparentny, co pozwala kontrolować ilości przyjmowanych płynów przez dziecko. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS posiada szczelną osłonkę, która chroni ustnik przed zabrudzeniem. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS z silikonowym ustnikiem jest idealny dla najmłodszych dzieci już od 6 miesiąca życia. W ofercie jest dostępny wymienny silikonowy ustnik. 
@@ -82080,7 +82069,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/612 Kubek z silikonowym ustnikiem FirstCup 150ml BONJOUR pink</nazwa>
 <cena>16.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691869967</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka. Kubek jest lekki o ergonomicznej, profilowanej budowie. Wygodne uchwyty ułatwiają dziecku trzymanie go w malutkich rączkach. Niewielka ilość elementów sprawia, że jest łatwy do składania i mycia – kubek nie ma zbędnych zakamarków, dzięki czemu można szybko umyć wszystkie części, a ustnik wyparzyć. Canpol kubek niekapek 150ml z silikonowym ustnikiem jest transparentny, co pozwala kontrolować ilości przyjmowanych płynów przez dziecko. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS posiada szczelną osłonkę, która chroni ustnik przed zabrudzeniem. Kubek niekapek Canpol babies 150ml FirstCup BONJOUR PARIS z silikonowym ustnikiem jest idealny dla najmłodszych dzieci już od 6 miesiąca życia. W ofercie jest dostępny wymienny silikonowy ustnik. 
@@ -82095,7 +82084,7 @@ Proponowany wiek: od 6. miesiąca</opis>
 <nazwa>CANPOL 56/613 Kubek z silikonowym ustnikiem FirstCup 250ml BONJOUR blue</nazwa>
 <cena>17.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691869998</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Doskonały do nauki samodzielnego picia po 6 miesiącu życia, dzięki niekapiącemu ustnikowi, który zapobiega rozlaniu. Niekapiący ustnik nie przecieka nawet, gdy dziecko przechyli czy upuści kubek. Kubek jest intuicyjny, przypomina picie z butelki, umożliwiając szybkie i łatwe przejście z butelki do kubka. Wyjątkowo miękki ustnik jest wykonany z delikatnego silikonu, bezpiecznego dla wrażliwych dziąseł dziecka.
@@ -82676,7 +82665,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 68/055 Pluszowa zabawka z piszczkiem i gryzakiem 0+ Bears szara</nazwa>
 <cena>14.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691816527</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Pluszowy piszczyk przeznaczony jest dla najmłodszych dzieci. Jest bardzo lekki, dzięki czemu utrzyma ją w rączkach nawet najmłodsze dziecko - po ściśnięciu wydaje zabawny dźwięk.
@@ -83035,7 +83024,7 @@ Matę z wyjątkiem lusterka oraz pałąków upierz w pralce, maksymalnie w tempe
 <nazwa>CANPOL 68/093 Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo</nazwa>
 <cena>149.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691870703</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Wyjątkowa i nowoczesna sensoryczna karuzela do łóżeczka zainteresuje Maluszka w ciągu dnia oraz stworzy przytulną i spokojną atmosferę do snu. Karuzela gra 60 minut nieprzerwanej melodii i po tym czasie automatycznie się wyłącza – 11 melodii: biały szum, dźwięki fal morskich i latających mew, deszcz, szum lasu i śpiew ptaków, 6 kołysanek i muzyka klasyczna Mozarta. Urządzenie z funkcją Bluetooth umożliwia włączanie ulubionych melodii i bajek z aplikacji w telefonie komórkowym. Karuzela posiada 3 tryby pracy: ruch, ruch i muzyka lub tylko muzyka oraz szeroki zakres regulacji głośności – z łatwością dostosujesz do preferencji swojego Maluszka. Karuzela sensoryczna Canpol babies posiada specjalnie wyprofilowany pałąk, dzięki któremu można ją łatwo i stabilnie przymocować do ramy dziecięcego łóżeczka. Na karuzeli znajduje się 6 różnych zabawek, z czego 3 urocze zwierzaki są skierowane buzią w stronę dziecka. Kontrastowe kolory – biały i czarny, w połączeniu z żółtymi i czerwonymi akcentami kolorystycznymi przyciągają uwagę dziecka i pobudzają wyobraźnię. Na całej powierzchni dolnej średnicy jest lusterko, w którym dziecko widzi swoją twarz, wzbudzając jego ciekawość i zainteresowanie. Zawieszki zamontowane na karuzeli i duże lusterko zachęcają dziecko do wyciągania ku nim rączek, co wspiera rozwój jego mięśni oraz angażuje zmysł wzroku i ćwiczy koordynację oko-ręka. Karuzela sensoryczna Canpol babies z pozytywką i Bluetooth BabiesBoo to idealny pomysł na prezent dla noworodka lub na Baby Shower.
@@ -83080,7 +83069,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo panda</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407167503</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Urocza sensoryczna zabawka z piszczkiem Canpol babies z kolekcji BabiesBoo będzie doskonałym pierwszym towarzyszem spacerów i zabaw Maluszka. Zabawka jest lekka i poręczna, idealna do treningu chwytania. Potrząsana wydaje delikatne i przyjemne dla ucha dźwięki, a po naciśnięciu wydaje ciekawy dźwięk. Miły w dotyku materiał oraz przyjazna buzia pandy w kontrastowych kolorach przyciąga uwagę dziecka, pobudzając zmysły i wspomagając ich rozwój – wzrok, słuch i dotyk. Doszyte kolorowe metki i różnorodne materiały dodatkowo stymulują sensorycznie dziecko. Zabawka sensoryczna z piszczkiem Canpol rozwija małą motorykę poprzez chwytanie i potrząsanie oraz aktywizuje zmysł słuchu, wzroku i dotyku – to doskonały wybór dla najmłodszych dzieci.</opis>
@@ -83343,33 +83332,6 @@ Talerzyk jest szczególnie przydatny w okresie rozszerzania diety i modyfikowani
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Rondo ułatwia pielęgnację skóry głowy oraz włosów wiercącego się i nielubiącego mycia główki malucha. Jest ono także łatwe do utrzymania w czystości.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/777896-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>777917</kod>
-<nazwa>CANPOL 74/010 Wielofunkcyjne zabezpieczenie 2szt krótkie</nazwa>
-<cena>5.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903407740102</EAN>
-<grupa>CANPOL/BEZPIECZEŃSTWO</grupa>
-<opis>Skutecznie ochroni zawartość szafek i szuflad przed ciekawskimi maluchami.
-Jest łatwe w montażu i szybkie do otwarcia przez osobę dorosłą. Zabezpieczenie zakładamy bezpośrednio na drzwiczki szafki, nie zaś na jej uchwyty. Dzięki temu rodzaj uchwytów nie ma wpływu na możliwość montażu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/777917-1.jpg https://marini.pl/b2b/pictures/777917-2.jpg https://marini.pl/b2b/pictures/777917-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>774256</kod>
-<nazwa>CANPOL 74/011 Wielofunkcyjne zabezpieczenie 2szt długie</nazwa>
-<cena>5.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903407740119</EAN>
-<grupa>CANPOL/BEZPIECZEŃSTWO</grupa>
-<opis>Skutecznie ochroni zawartość szafek i szuflad przed ciekawskimi maluchami. Doskonale sprawdzi się także jako zabezpieczenie lodówki czy toalety.
-Łatwe w montażu i szybkie do otwarcia przez osobę dorosłą. Zabezpieczenie zakładamy bezpośrednio na drzwiczki szafki, nie zaś na jej uchwyty. Dzięki temu rodzaj uchwytów nie ma wpływu na możliwość montażu.
-Produkt dostępny w trzech wersjach kolorystycznych: białej, zielonej
-i niebieskiej.
-
-W opakowaniu 2 sztuki.</opis>
 </b2b>
 <b2b>
 <kod>5910381</kod>
@@ -83661,7 +83623,7 @@ W opakowaniu znajduje się 12 sztuk w rozmiarze: 90x60 cm. Niebielone chlorem.
 <nazwa>CANPOL 78/006 Wielofunkcyjne podklady higieniczne 60x60 cm</nazwa>
 <cena>11.70</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691879041</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Wielofunkcyjne podkłady higieniczne Canpol babies z wodoodporną warstwą ochronną na spodzie podkładu doskonale sprawdzają się w wielu sytuacjach. Superchłonny wkład szybko wchłania płyny i zatrzymuje wilgoć wewnątrz podkładu. Podkłady higieniczne są niezbędne dla kobiet w okresie połogu. Przydają się podczas przewijania Maluszka, w podróży, podczas wizyty w przychodni czy jako zabezpieczenie materaca (przeciekająca pieluszka, ulewanie itd.) oraz w nauce odpieluchowania.
@@ -83736,7 +83698,7 @@ Majtki 2w1 stanowią niezastąpione wsparcie dla każdej kobiety po porodzie, of
 <nazwa>CANPOL 78/012 Oddychające majtki poporodowe 2w1z podkładem L/XL</nazwa>
 <cena>11.90</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407174952</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Majtki jednorazowe 2w1 Canpol babies to rewolucyjne połączenie ultrachłonnego podkładu poporodowego i oddychających majtek, które zapewniają najwyższą ochronę i komfort w pierwszych dniach po porodzie kiedy krwawienie jest najintensywniejsze. ?
@@ -84011,7 +83973,7 @@ XL – 78/016?
 <nazwa>CANPOL 78/021 Jednorazowa podpaska chłodząca po porodzie 1 szt</nazwa>
 <cena>7.60</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407172606</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Chłodząca podpaska poporodowa to innowacyjne i niezwykle skuteczne rozwiązanie dla kobiet, które potrzebują ulgi w dyskomforcie po porodzie. Dzięki wbudowanemu aktywatorowi zimna przynosi natychmiastowe uczucie chłodu bez konieczności wcześniejszego chłodzenia. Świetnie sprawdzi się również po zabiegach ginekologicznych czy w przypadku hemoroidów. Terapia zimnem łagodzi dyskomfort, zmniejsza obrzęk i wspomaga naturalny proces regeneracji.
@@ -84082,27 +84044,6 @@ Opakowanie zawiera dwa jednorazowe ręczniki w rozmiarach 70 × 30 cm oraz 140 �
 <EAN>5903407367286</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis/>
-</b2b>
-<b2b>
-<kod>774063</kod>
-<nazwa>CANPOL 78/500 Torba dla mamy z funkcją przypięcia do wózka czerwona</nazwa>
-<cena>35.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903407785004</EAN>
-<grupa>CANPOL/SPACERY I PODRÓŻE</grupa>
-<opis>Linia toreb "Lady Mum" została zaprojektowana z myślą o kobietach, które cenią sobie styl i funkcjonalność. Torba idealna na spacer, spotkanie lub wyjazd z dzieckiem. Łączy w sobie ciekawy design, elegancję i dużą praktyczność. Pomieści wszystkie niezbędne akcesoria i ulubione zabawki maluszka.
-Zewnętrzna kieszeń łatwo dostępna, zapinana na magnes, wygodne sięganiejedną ręką przy jednoczesnym automatycznym zamykaniu się kieszeni
-Karabińczyk na klucze, breloczek czy ulubioną zabawkę maluszka
-Kosmetyczka na suwak, pomieści niezbędne kosmetyki potrzebne do pielęgnacji maluszka lub drobiazgi dla mamy
-Uchwyty mocujące do wózka
-Kieszeń termoizolacyjna zastosowana w torbie, spowalnia proces stygnięcia lub nagrzewania się pokarmu lub napoju
-Mniejsze kieszenie z gumką pomieszczą bidony, kubki, butelkiczy słoiczki
-Większe kieszenie z gumką pomieszczą pieluszki lub dodatkowe ubranko
-Wewnętrzna kieszeń zapinana na suwak do przechowywania dokumentów, telefonu itp.
-Mata do przewijania idealna podczas spacerów i podróży
-Możliwośc stworzenia zestawu z termoopakowaniem.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/774063-1.jpg https://marini.pl/b2b/pictures/774063-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>774060</kod>
@@ -84187,17 +84128,6 @@ Proponowany wiek 6+</opis>
 <opis>Kreatywna zabawka do zabawy w wodzie gwarantuje mnóstwo radości podczas kąpieli. Elementy obrotowe, młynki wodne, deszczownica oraz łopatka dają możliwość zabawy na wiele sposobów. Za pomocą łopatki nalej wodę do otworów zlokalizowanych w górnej części zabawki i obserwuj jak pod wpływem wody poruszają się jej ruchome elementy. Różnorodne kształty oraz intensywne kolory bawią i uczą, stymulując rozwój psycho-motoryczny malca. Zabawka wyposażona jest w praktyczne przyssawki umożliwiające montaż na ścianie lub na brzegu wanny. Przeznaczona dla dzieci w wieku 18m+. 
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/780746-1.jpg https://marini.pl/b2b/pictures/780746-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>781868</kod>
-<nazwa>CANPOL 79/106 Zestaw kreatywnych zabawek do kąpieli z deszczownicą 4 szt</nazwa>
-<cena>18.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903407791067</EAN>
-<grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
-<opis>Zestaw kreatywnych zabawek do kąpieli z deszczownicą OCEAN gwarantuje mnóstwo radości i ocean wrażeń podczas codziennych kąpieli maluszka. Różnorodne kształty oraz ich intensywne kolory zachęcają do zabawy, wspierają rozwój wyobraźni i kreatywności. Każdą zabawkę dziecko może napełnić wodą i bawić się różnymi formami deszczownicy, które powstają dzięki różnorodnym otworom. W ten sposób maluch ćwiczy wykonywanie ruchów precyzyjnych i rozwija zdolności poznawcze. Zestaw idealnie sprawdzi się podczas kąpieli w domu, ale też z łatwości zabierzesz go w podróż, dzięki możliwości złożenia wszystkich zabawek w jeden element. Zabawka przeznaczona jest dla dzieci w wieku 12m+.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/781868-1.jpg https://marini.pl/b2b/pictures/781868-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>786396</kod>
@@ -84421,23 +84351,6 @@ Nie można używać w sterylizatorze parowym</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905011-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5905652</kod>
-<nazwa>CANPOL 81/100 Edukacyjna mata do zabawy kojec dla dzieci 0m+ SAFARI</nazwa>
-<cena>154.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901691872653</EAN>
-<grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
-<opis>Edukacyjna mata do zabawy SAFARI to rozwiązanie 3w1, które rośnie razem z dzieckiem i może służyć jako kojec, mata edukacyjna z zabawkami na pałąkach lub po prostu mata bez dodatkowych akcesoriów. Tak wiele możliwości sprawia, że mata zachęci dziecko do zabawy na długi czas.
-
-Zebra, lew i miś, książeczka oraz lusterko to przyjazne zawieszki, które zachęcają dziecko do aktywności i wyciągania do nich rączek, pomagając rozwijać sprawność ruchową, wzmacniać mięśnie i ćwiczyć zdolności manualne, a także wspomagając rozwój zmysłów poprzez zabawę – wzroku, słuchu i dotyku. Różne tekstury materiałów, kontrastowe kolory i łagodne dźwięki to świetna rozrywka dla rozwijających się zmysłów maluszka już od pierwszych chwil życia.
-
-Funkcja kojca, dzięki podnoszonym brzegom maty stwarza bezpieczną przestrzeń do zabawy dla dziecka, a rodzicowi pozwoli na chwilę dla siebie lub domowe obowiązki. Matę można prać w pralce.
-
-Produkt można stosować od momentu narodzin</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905652-1.jpg https://marini.pl/b2b/pictures/5905652-2.jpg https://marini.pl/b2b/pictures/5905652-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>782481</kod>
 <nazwa>CANPOL 9/115 Myjka silikonowa do kąpieli niebieska</nazwa>
 <cena>18.50</cena>
@@ -84479,30 +84392,6 @@ W opakowaniu 1 sztuka.
 <opis>Aspirator w postaci gruszki, dzięki nowemu kształtowi dokładniej usunie wydzielinę z nosa u niemowląt i małych dzieci. Jest higieniczny i bezpieczny. Został wyposażony w dwie końcówki: miękką ułatwiającą bezpieczne oczyszczenie noska oraz sztywną, której kształt zabezpiecza przed zbyt głębokim włożeniem do nosa dziecka.
 Przed przystawieniem do noska, aspirator należy opróżnić z powietrza. Podczas oczyszczania jednej dziurki, drugą należy dziecku zablokować.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/777918-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5904069</kod>
-<nazwa>CANPOL 9/227 Zestaw naczyń 5 elem. Bonjour Paris bordowy</nazwa>
-<cena>37.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901691852570</EAN>
-<grupa>CANPOL/KARMIENIE</grupa>
-<opis>Zestaw zastawy stołowej BONJOUR PARIS to ekologiczna alternatywa dla klasycznych plastikowych talerzy i miseczek. Zestaw zastawy stołowej wykonany jest z mocnego, trwałego, nietłukącego się materiału odpowiedniego do kontaktu z żywnością, z wykorzystaniem naturalnych surowców. Zestaw składa się z 5 elementów.
-Pojemność: kubek 250ml, miska 300ml, talerz 250ml.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5904069-1.jpg https://marini.pl/b2b/pictures/5904069-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5904068</kod>
-<nazwa>CANPOL 9/227 Zestaw naczyń 5 elem. Bonjour Paris granatowy</nazwa>
-<cena>37.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901691852563</EAN>
-<grupa>CANPOL/KARMIENIE</grupa>
-<opis>Zestaw zastawy stołowej BONJOUR PARIS to ekologiczna alternatywa dla klasycznych plastikowych talerzy i miseczek. Zestaw zastawy stołowej wykonany jest z mocnego, trwałego, nietłukącego się materiału odpowiedniego do kontaktu z żywnością, z wykorzystaniem naturalnych surowców. Zestaw składa się z 5 elementów.
-Pojemność: kubek 250ml, miska 300ml, talerz 250ml.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5904068-1.jpg https://marini.pl/b2b/pictures/5904068-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910891</kod>
@@ -85355,7 +85244,7 @@ Waga:
 <nazwa>CEBA 143-000-785 Przewijak miękki mały 50x70 Basic Pierrot</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672345260</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI</grupa>
 <opis/>
@@ -85698,7 +85587,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-782 Przewijak twardy krótki 50x70 Ultra Light Crazy Lama</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672345185</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Ultra Light od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -86370,7 +86259,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 307-000-782 Składana mata do przewijania duża 50x80 Basic Crazy Lama</nazwa>
 <cena>21.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672345550</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Pielęgnuj swoje dziecko bezpiecznie i komfortowo w każdych okolicznościach. Decydując się na zakup naszej składanej maty masz pewność, że wybierasz produkt najwyższej jakości, który został przetestowany i jest wyrobem certyfikowanym. Mata do przewijania to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej i wysokiej jakości certyfikowanej folii PCV, która jest nie tylko trwała i wytrzymała, ale także w pełni bezpieczna w kontakcie z delikatną skórą dziecka. Środek maty to miękkie wypełnienie, które zapewni komfort maluszkowi podczas pielęgnacji poza domem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 50x80 cm, po złożeniu 16,5x40 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -89836,7 +89725,7 @@ Okres letni to wspaniała okazja na rodzinne wypady na łono natury. Warto zadba
 <nazwa>CHICCO 00011629000000 Grzebyk na ciemieniuchę</nazwa>
 <cena>9.28</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8058664167456</EAN>
 <grupa>CHICCO/AKCESORIA/AKCESORIA DO HIGIENY NIEMOWLĄT</grupa>
 <opis>Ciemieniucha to wysypka skórna typowa dla noworodków, która pojawia się w pierwszych miesiącach życia i zwykle ustępuje samoistnie.
@@ -91625,7 +91514,7 @@ Smoczek Physio Micro jest dostępny w jednym rozmiarze 0-2m, w późniejszym okr
 <nazwa>CHICCO 00081011100000 Smoczek na butelkę NF silikon 0m+ normalny</nazwa>
 <cena>11.89</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8058664010424</EAN>
 <grupa>CHICCO/AKCESORIA/SMOCZKI DO BUTELEK</grupa>
 <opis>Smoczek NaturalFeeling 0m+
@@ -101848,7 +101737,7 @@ rozmiar 80x80 cm</opis>
 <nazwa>DUMEL 30031 Żółwik wodna karuzela</nazwa>
 <cena>22.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692300313</EAN>
 <grupa>DUMEL</grupa>
 <opis>Kąpiel i zabawa to super sprawa! A gdyby połączyć jedno z drugim? Wesoły żółwik i jego zakręcona ekipa rozweselą maluszka, umilając przy tym czas kąpieli! Zabawka wyposażona została w aż 3 przyssawki, dzięki czemu bez trudu można ją przymocować do ścianki wanny. W zabawce ukryły się niespodzianki. Nabierz wody do kubeczka w kształcie mini żółwika, a następnie wlej ją do kapelusza na głowie dużego żółwia, aby zakręcił oczami! Wlanie wody w otwór na grzbiecie żółwia, wprawi w ruch karuzelkę. Gwiazdka znajdująca się na środku karuzeli jest piszczałką – naciskaj ją, a wyda wesoły odgłos. To jeszcze nie wszystko! Żółwik zmieni się raz-dwa z wodnego w lądowego, gdy tylko wyjmiesz go z kąpieli, dobrze osuszysz i postawisz na podłodze. Za sprawą swobodnego ruchu kół, gdy go popchniesz, posłusznie pojedzie przed siebie.
@@ -106945,7 +106834,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <nazwa>EASY GO Wózek dziecięcy ECHO SAGE GREEN</nazwa>
 <cena>960.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739431</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Ultra lekki i zwrotny wózek dla dwójki dzieci ECHO marki EASYGO – dla bliźniąt i dzieci rok po roku
@@ -110565,6 +110454,63 @@ Instrukcja</opis>
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5902863</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
+<cena>1548.32</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724206559</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -110615,63 +110561,6 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902863</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
-<cena>1548.32</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5906724206559</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -110721,63 +110610,6 @@ W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, kt
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5905056</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 219 chic brown gel</nazwa>
-<cena>1677.35</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5906724206542</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -110828,6 +110660,63 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5905056</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 219 chic brown gel</nazwa>
+<cena>1677.35</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5906724206542</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905056-1.jpg https://marini.pl/b2b/pictures/5905056-2.jpg https://marini.pl/b2b/pictures/5905056-3.jpg https://marini.pl/b2b/pictures/5905056-4.jpg https://marini.pl/b2b/pictures/5905056-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -122859,7 +122748,7 @@ Zestaw maskotek GAGAGU jest doskonałym prezentem na narodziny, roczek lub inną
 <nazwa>GAGAGU GGG0832 Zawieszka Panda Małpka piłka</nazwa>
 <cena>20.29</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904754608329</EAN>
 <grupa>GAGAGU</grupa>
 <opis>Zestaw maskotek GAGAGU to uroczy i kreatywny komplet zabawek stworzony z myślą o najmłodszych dzieciach. W skład zestawu wchodzą dwie sympatyczne maskotki: panda oraz małpka, które wykonane są z wysokiej jakości, bezpiecznych dla dzieci materiałów, co sprawia, że są odpowiednie już dla maluszków od 0+.
@@ -125394,7 +125283,7 @@ Wózek wyposażony został również w niezwykle pojemny oraz łatwo dostępny k
 <nazwa>GRACO Wózek MYAVO Midnight</nazwa>
 <cena>346.03</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5060624773877</EAN>
 <grupa>GRACO</grupa>
 <opis>MYAVO- poczuj komfort jazdy gdziekolwiek się wybierasz. Wózek Myavo Graco to jeden z najlżejszych wózków na rynku – tylko 5,8 kg . Lekki i kompaktowy, z możliwością błyskawicznego składania jedną ręką,  czyni go idealnym towarzyszem na bliskie i dalekie wyprawy. Niewielkie rozmiary po złożeniu doskonale się sprawdzą w transporcie zarówno w samochodzie, autobusie, pociągu czy w samolocie.  Rozłoż i jedź z Myavo. Tak po prostu.
@@ -128700,36 +128589,6 @@ Opakowanie 2 szt.</opis>
 <opis>Czapka dla dziewczynki z dzianiny bawełnianej. Podwójna, od środka wykończona bawełną. Z kolekcji ILTOM Jesień 2020
 Opakowanie 2 szt.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/780188-1.jpg https://marini.pl/b2b/pictures/780188-2.jpg https://marini.pl/b2b/pictures/780188-3.jpg https://marini.pl/b2b/pictures/780188-4.jpg https://marini.pl/b2b/pictures/780188-5.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5907088</kod>
-<nazwa>INGENUITY 10525 Leżaczek hybrydowy Savanna</nazwa>
-<cena>231.95</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>074451105256</EAN>
-<grupa>TO-MA/NA BIEGUNACH</grupa>
-<opis>Leżaczek Hybrydowy SAVANNA posiada:
-
-dwie prędkości bujania, które naśladują naturalny ruch rodzica podczas noszenia na rękach (po 30 minutach automatycznie się wyłącza)
-Regulowane są również pasy bezpieczeństwa (3-punktowe)
-dodatkowe zabezpieczenie - antypoślizgowe nóżki
-11 łagodnych melodii i dźwięków natury ukołyszą dziecko do snu.
-Aktywne dziecko zabawią dwie pluszowe zawieszki przyczepione na łatwo zdejmującym się pałąku. Na siedzisku umieszczono wkładkę redukcyjną, którą można w każdej chwili wyjąć. Całość utrzymana jest w stonowanych odcieniach szarego, beżu i morskiej zieleni.
-
-Produkt przeznaczony dla dzieci o wadze od 3 do 9 kg.
-
-Wymaga baterii typu LR14 - 3 sztuki.
-
-SPECYFIKACJA:
-
-Wymiary opakowania ok.: 57 x 13 x 46 cm
-Zasilanie: 3 baterie C LR14 1,5V (brak w zestawie)
-Wiek dziecka: 0 m+
-Gwarancja: 2 lata
-Przeznaczony dla dzieci: od 3 do 9 kg
-Produkt zapakowany w oryginalne opakowanie, przeznaczony do samodzielnego złożenia!</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907088-1.jpg https://marini.pl/b2b/pictures/5907088-2.jpg https://marini.pl/b2b/pictures/5907088-3.jpg https://marini.pl/b2b/pictures/5907088-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5907087</kod>
@@ -132559,7 +132418,7 @@ Cechy produktu:
 <nazwa>JOLLYBABY JB 82603 Kotek z lusterkiem</nazwa>
 <cena>43.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783826033</EAN>
 <grupa>DUMEL/JOLLYBABY</grupa>
 <opis>Ten śliczny kotek zapozna dzidziusia z własnym odbiciem, a wszystko za sprawą bezpiecznego lusterka, zdobiącego jego brzuszek. Zabawka wyposażona została w dodatkowe niespodzianki, a są nimi grzechotka, gryzak oraz szeleszcząca pszczółka. Materiały, z których wykonany został kotek i przyczepione do niego elementy odznaczają się zróżnicowanymi fakturami, przez co eksplorujący je maluch może rozwijać zdolności poznawcze, ucząc się odkrywać świat za pomocą zmysłów. Zabawkę można postawić, za pomocą zapinanej na rzep podstawki, lub powiesić na szczebelkach łóżeczka czy uchwycie wózka, na doszytych do zabawki zawieszkach i troczkach.
@@ -134309,7 +134168,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER IGOR PANDA Podest dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396072839</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -144220,7 +144079,7 @@ Regulacja pochylenia: 5 pozycji (tyłem i przodem do kierunku jazdy).</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-360 2 PLUS i-Size grey</nazwa>
 <cena>522.86</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929801</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
 <opis>Kinderkraft I-360 2 PLUS – fotelik 4w1 i-Size 40–150 cm
@@ -156980,7 +156839,7 @@ Opcjonalna nakładka do przewijania.</opis>
 <nazwa>KLUPŚ Komoda z przewijakiem KAROLINA biel-sosna</nazwa>
 <cena>427.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912244948</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda z przewijakiem KAROLINA 
@@ -168499,7 +168358,7 @@ Aby jeszcze bardziej wspierać dzieci w nauce samodzielności, zaprojektowany pr
 <nazwa>LOVI 1/618 Uszczelki do kubków 360 2szt</nazwa>
 <cena>3.96</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407016184</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
 <opis>Uszczelki LOVI pasują do kubków 360°: mini i junior. Umożliwiają picie jak ze szklanki, ale bez rozlewania.</opis>
@@ -171990,48 +171849,6 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 
 *pod warunkiem przestrzegania zaleceń ortodontycznych i neurologopedycznych</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5911083-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5911084</kod>
-<nazwa>LOVI 34/415 Smoczek silikonowy dynamiczny Prime 18m+ 2 szt Pistachio/Green</nazwa>
-<cena>29.00</cena>
-<VAT>5</VAT>
-<stan>brak</stan>
-<EAN>5901691890466</EAN>
-<grupa>LOVI/USPOKAJANIE</grupa>
-<opis>Informacje o produkcie:
-rozmiary gumek w smoczkach Prime różnią się w małym stopniu od rozmiarów gumek w standardowych smoczkach LOVI. 
-
-Jeśli Twoje dziecko jest: 
-
-- w wieku 0-3 miesiące i do tej pory używało smoczka standardowego LOVI 0-3, to najlepiej zakupić LOVI Prime 0-6 
-
-- w wieku 3-6 miesiący i do tej pory używał smoczka standardowego LOVI 3-6, to można zakupić LOVI Prime 6-18 (ten sam rozmiar gumki) 
-
-chroni odruch ssania
-
-bezpieczny dla karmienia piersią
-
-nie zaburza prawidłowego rozwoju mowy i zgryzu pod warunkiem przestrzegania zaleceń ortodontycznych i neurologopedycznych
-
-jest bardzo lekki, dzięki czemu nie obciąża zgryzu dziecka
-
-profilowana tarczka zapewnia swobodne oddychanie przez nosek
-
-silikonowa gumka nie zniekształca się w buzi
-
-praktyczne opakowanie, służy jako etui do sterylizacji
-
-Dynamiczny smoczek uspokajający LOVI Prime jest bezpieczny dla odruchu ssania oraz nie zaburza rozwoju mowy i zgryzu*.?
-
-Dynamiczny smoczek, dzięki unikalnej budowie z silikonu o różnej grubości, rozciąga się i kurczy zgodnie z rytmem ssania dziecka. Dzięki temu chroni jego odruch ssania i nie ma niekorzystnego wpływu na karmienie piersią. Kształt gumki jest symetryczny i inspirowany kształtem brodawki sutkowej, by zapewnić dziecku znajome odczucia. Tarczka smoczka ma specjalne wycięcie, by ułatwić oddychanie noskiem i przełykanie śliny podobnie jak przy piersi. Wyprofilowana tarczka jak najmniej przylega do skóry dziecka, co ułatwia swobodny przepływ powietrza i zmniejsza ryzyko podrażnień skóry. ?
-
-Dodatkowo smoczek dynamiczny LOVI Prime nie zaburza rozwoju mowy i zgryzu*. Gumka smoczka jest spłaszczona, a szyjka gumki cienka, by dziecko podczas ssania smoczka miało odpowiednią ilość miejsca w buzi na pracę języka i mogło jak najbardziej domknąć usta. Smoczek jest lekki, by nie obciążał buzi dziecka, a gumka została wykonana z silikonu, dzięki czemu nie odkształca się w buzi dziecka w trakcie użytkowania. ?
-
-Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodatek do stroju dziecka, gdyż ma odpowiednio dobrane kolory zgodne z najnowszymi trendami. ?
-
-*pod warunkiem przestrzegania zaleceń ortodontycznych i neurologopedycznych</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911084-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5911086</kod>
@@ -175658,7 +175475,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm z korkiem i matą Zebra  niebieska</nazwa>
 <cena>40.06</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067009694</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 100 cm z najnowszej kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt.
@@ -177505,7 +177322,7 @@ Swobodny przepływ chroni niemowlę przed połykaniem powietrza; Mniejsza iloś�
 <nazwa>MAM 851117 Butelka antykolkowa Perfect Start Planet Love 160ml boy</nazwa>
 <cena>39.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>9001616851117</EAN>
 <grupa>MAM/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>Butelka Antykolkowa MAM Perfect Start™ to idealna butelka do karmienia noworodków: niemowlęta mogą pić z niej swobodnie i w swoim własnym tempie.
@@ -177537,7 +177354,7 @@ Swobodny przepływ chroni niemowlę przed połykaniem powietrza; Mniejsza iloś�
 <nazwa>MAM 851124 Butelka antykolkowa Perfect Start Planet Love 160ml girl</nazwa>
 <cena>43.39</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>9001616851124</EAN>
 <grupa>MAM/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>MAM Anti-Colic to idealna butelka do karmienia noworodków: niemowlęta mogą pić z niej swobodnie i w swoim własnym tempie
@@ -177553,7 +177370,7 @@ Z wyjątkową funkcją samosterylizacji – łatwo i szybko w zaledwie 3 minuty
 <nazwa>MAM 851131 Butelka antykolkowa Perfect Start Planet Love 160ml unisex</nazwa>
 <cena>39.99</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9001616851131</EAN>
 <grupa>MAM/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>MAM Anti-Colic to idealna butelka do karmienia noworodków: niemowlęta mogą pić z niej swobodnie i w swoim własnym tempie
@@ -178075,7 +177892,7 @@ Pasuje do wszystkich kubków MAM</opis>
 <nazwa>MAM 875861 Butelka antykolkowa Perfect Start 130ml Grounding in Nature unisex beżowa</nazwa>
 <cena>35.55</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>9001616875861</EAN>
 <grupa>MAM/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis/>
@@ -197395,7 +197212,7 @@ Opakowanie kartonowe</opis>
 <nazwa>MILLY MALLY 5069 Rowerek biegowy RANGER black</nazwa>
 <cena>136.79</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761128390</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek Biegowy Ranger
@@ -226803,9 +226620,9 @@ www.pminvestment.pl/manual/ROLLY_manual.pdf</opis>
 <b2b>
 <kod>5914981</kod>
 <nazwa>MILLY MALLY 6838 Pojazd na akumulator Gokart Bolt White (akumulator 6)</nazwa>
-<cena>198.00</cena>
+<cena>198.52</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907090700993</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Gokart na akumulator BOLT Milly Mally – elektryczny gokart dla dzieci 3+
@@ -227057,9 +226874,9 @@ www.pminvestment.pl/manual/BOLT_manual.pdf</opis>
 <b2b>
 <kod>5914982</kod>
 <nazwa>MILLY MALLY 6839 Pojazd na akumulator Gokart Bolt Red (akumulator 6)</nazwa>
-<cena>198.00</cena>
+<cena>198.52</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907090701006</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Gokart na akumulator BOLT Milly Mally – elektryczny gokart dla dzieci 3+
@@ -227311,9 +227128,9 @@ www.pminvestment.pl/manual/BOLT_manual.pdf</opis>
 <b2b>
 <kod>5914983</kod>
 <nazwa>MILLY MALLY 6840 Pojazd na akumulator Gokart Bolt Black (akumulator 6)</nazwa>
-<cena>198.00</cena>
+<cena>198.52</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5907090701013</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Gokart na akumulator BOLT Milly Mally – elektryczny gokart dla dzieci 3+
@@ -227565,7 +227382,7 @@ www.pminvestment.pl/manual/BOLT_manual.pdf</opis>
 <b2b>
 <kod>5914984</kod>
 <nazwa>MILLY MALLY 6841 Pojazd na akumulator Gokart Bolt Yellow (akumulator 6)</nazwa>
-<cena>198.00</cena>
+<cena>198.52</cena>
 <VAT>23</VAT>
 <stan>średnia ilość</stan>
 <EAN>5907090701020</EAN>
@@ -230091,9 +229908,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114554</kod>
 <nazwa>MILLY MALLY 6966 Pojazd na akumulator Star ATV Pink</nazwa>
-<cena>0.00</cena>
+<cena>186.07</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701280</EAN>
 <grupa>MILLY MALLY</grupa>
 <opis/>
@@ -230101,9 +229918,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114555</kod>
 <nazwa>MILLY MALLY 6967 Pojazd na akumulator Start ATV Red</nazwa>
-<cena>0.00</cena>
+<cena>186.07</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701297</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -230111,9 +229928,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114556</kod>
 <nazwa>MILLY MALLY 6968 Pojazd na akumulator Star ATV Blue</nazwa>
-<cena>0.00</cena>
+<cena>186.07</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701303</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -230121,9 +229938,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114550</kod>
 <nazwa>MILLY MALLY 6972 Pojazd na akumulator Prime 2w1 Blue</nazwa>
-<cena>0.00</cena>
+<cena>372.75</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701334</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -230131,9 +229948,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114553</kod>
 <nazwa>MILLY MALLY 6973 Pojazd na akumulator Prime 2w1 Red</nazwa>
-<cena>0.00</cena>
+<cena>372.75</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701365</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -230141,9 +229958,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114552</kod>
 <nazwa>MILLY MALLY 6974 Pojazd na akumulator Prime 2w1 Pink</nazwa>
-<cena>0.00</cena>
+<cena>372.75</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701358</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -230151,9 +229968,9 @@ www.pminvestment.pl/manual/Lexus_GX550_manual.pdf</opis>
 <b2b>
 <kod>59114551</kod>
 <nazwa>MILLY MALLY 6975 Pojazd na akumulator Prime 2w1 Green</nazwa>
-<cena>0.00</cena>
+<cena>372.75</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5907090701341</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis/>
@@ -233962,7 +233779,7 @@ Waga z opakowaniem-1,4 kg</opis>
 <nazwa>MILLY MALLY Mata piankowa zwijana Kinder Bear and Whales</nazwa>
 <cena>49.34</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761128130</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Dwustronna mata piankowa zwijana KINDER od Milly Mally to komfort i bezpieczeństwo dla Twojego dziecka. Mata posiada właściwości antypoślizgowe oraz antyalergiczne. Gwarantuje to bezpieczeństwo podczas zabawy oraz nauki raczkowania i chodzenia. Dzięki ciekawym nadrukom pasuje ona do każdego pomieszczenia zarówno dla chłopca jak i dziewczynki. 
@@ -249720,7 +249537,7 @@ Smoczek lateksowy NUK Star:
 </b2b>
 <b2b>
 <kod>5909646</kod>
-<nazwa>NUK 736952 Smoczek uspokajający 6-18 NATURE 2 szt</nazwa>
+<nazwa>NUK 736952 Smoczek uspokajający 6-18m NATURE 2 szt.</nazwa>
 <cena>21.50</cena>
 <VAT>5</VAT>
 <stan>brak</stan>
@@ -250566,27 +250383,6 @@ Cechy produktu:
 <opis/>
 </b2b>
 <b2b>
-<kod>5913711</kod>
-<nazwa>OBALL 11483-12DP Piłka z grzechotką 10 cm różowa 0+</nazwa>
-<cena>20.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>8595640912780</EAN>
-<grupa>OBALL</grupa>
-<opis>Dzięki grzechotce Oball Twój maluch będzie się bawił jak nigdy dotąd! Ta wielokrotnie nagradzana piłeczka z grzechotką to gwarancja uśmiechu na twarzy Twojego dziecka. Prosta i genialna konstrukcja Oball sprawia, że nawet najmniejsze rączki łatwo ją chwycą. Z 29 otworami piłeczka jest wyjątkowo poręczna, a lekki materiał zapewnia komfort zabawy. Trzy grzechotki wypełnione kolorowymi koralikami wydają przyjemne dźwięki przy najmniejszym ruchu, zachęcając malucha do aktywności.
-
-Cechy:
-• Prosta konstrukcja Oball pozwala łatwo uchwycić zabawkę nawet najmniejszym rączkom,
-• 3 grzechotki z kolorowymi koralikami wydają dźwięki, gdy dziecko potrząsa piłeczką,
-• Gładki, elastyczny plastik zapobiega skaleczeniu się dziecka, materiał jest praktycznie niezniszczalny,
-• Zabawka idealna dla dzieci w każdym wieku,
-• Nie zawiera BPA, PVC, lateksu ani ftalanów,
-• Wymiary produktu: 10 cm x 10 cm x 10 cm.
-
-Oball to doskonały sposób na zapewnienie Twojemu dziecku radości i rozwój umiejętności manualnych. Dzięki tej grzechotce Twoje dziecko będzie rozwijać się w atmosferze zabawy i bezpieczeństwa.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913711-1.jpg https://marini.pl/b2b/pictures/5913711-2.jpg https://marini.pl/b2b/pictures/5913711-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5914677</kod>
 <nazwa>OBALL 11483-12DT Piłka z grzechotką 10 cm miętowa 0m+</nazwa>
 <cena>19.98</cena>
@@ -250696,7 +250492,7 @@ Wybierając kulę Oball, wybierasz radość, rozwój i bezpieczeństwo dla swoje
 <nazwa>OBALL 16759-6 Zabawka gryzak Hold My Own ananas 0+</nazwa>
 <cena>19.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>074451167599</EAN>
 <grupa>OBALL</grupa>
 <opis>Gryzak Hold My Own™ – Ananas! Ząbkowanie to wyjątkowy okres w rozwoju Twojego dziecka, dlatego stworzyliśmy ten gryzak, aby uczynić ten czas łatwiejszym i bardziej przyjemnym.
@@ -256457,7 +256253,7 @@ Wyjątkowe komplety dla niemowląt i małych dzieci z pokryciem z bawełny z bam
 <nazwa>POLDAUN Wypełnienie VITAMED 100x135+40x60 całoroczny</nazwa>
 <cena>40.28</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903753003326</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
@@ -257572,19 +257368,6 @@ Produkt przeznaczony jest dla dzieci od 3 roku życia.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/783631-1.jpg https://marini.pl/b2b/pictures/783631-2.jpg https://marini.pl/b2b/pictures/783631-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>783638</kod>
-<nazwa>SCORPIO BMC-0025C Slipy chłopięce pudełko model 8 122-128</nazwa>
-<cena>9.64</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>YO CLUB- SCORPIO- OP. HURTOWE/MAJTKI</grupa>
-<opis>100% Bawełna, Beż: 60% Bawełna, 40% Poliester
-1 Opak.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/783638-1.jpg https://marini.pl/b2b/pictures/783638-2.jpg https://marini.pl/b2b/pictures/783638-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>783640</kod>
 <nazwa>SCORPIO BMC-0025C Slipy chłopięce pudełko model 8 146-152</nazwa>
 <cena>9.64</cena>
@@ -258554,7 +258337,7 @@ Opakowanie zbiorcze: 2 pary</opis>
 <b2b>
 <kod>787320</kod>
 <nazwa>SCORPIO OBO-166G Buciki granatowe dzi.r.3-9m</nazwa>
-<cena>15.40</cena>
+<cena>15.05</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5903999447755</EAN>
@@ -259823,17 +259606,6 @@ WIERZCH: 20% POLIESTER, 80% BAWEŁNA, WEWNĄTRZ: 70% POLIESTER, 30% BAWEŁNA, PO
 <zdjecia>https://marini.pl/b2b/pictures/13110-1.jpg https://marini.pl/b2b/pictures/13110-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>24299</kod>
-<nazwa>SCORPIO RA-06H Rajstopy żakardowe mix 150/154 II GATUNEK</nazwa>
-<cena>2.44</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>YO CLUB- SCORPIO- OP. HURTOWE/RAJSTOPY I LEGGINSY</grupa>
-<opis>II GATUNEK produkt posiada przebarwienia lub zabrudzenia</opis>
-<zdjecia>https://marini.pl/b2b/pictures/24299-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>775686</kod>
 <nazwa>SCORPIO RA-09 Rajstopy mikrofibra 40den różowe 104-110</nazwa>
 <cena>6.00</cena>
@@ -260865,16 +260637,6 @@ Skład: 89% Poliamid, 11% Elastan</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>5910500</kod>
-<nazwa>SCORPIO RAM-0110 Rajstopy mikrofibra 3D 100DEN gładkie pudrowy róż 116-122</nazwa>
-<cena>10.21</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>YO CLUB- SCORPIO- OP. HURTOWE/RAJSTOPY I LEGGINSY</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5910501</kod>
 <nazwa>SCORPIO RAM-0110 Rajstopy mikrofibra 3D 100DEN gładkie pudrowy róż 128-134</nazwa>
 <cena>10.21</cena>
@@ -261306,19 +261068,6 @@ Opakowanie zbiorcze</opis>
 <EAN/>
 <grupa>YO CLUB- SCORPIO- OP. HURTOWE/SKARPETKI</grupa>
 <opis/>
-</b2b>
-<b2b>
-<kod>777092</kod>
-<nazwa>SCORPIO SK-37 Skarpety młodzieżowe SCHOOL girl 31-34</nazwa>
-<cena>2.54</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5907617908536</EAN>
-<grupa>YO CLUB- SCORPIO- OP. HURTOWE/SKARPETKI</grupa>
-<opis>Opakowanie zbiorcze: 6 par
-Zdjęcie poglądowe
-Podana cena za 1 parę</opis>
-<zdjecia>https://marini.pl/b2b/pictures/777092-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>777093</kod>
@@ -269952,7 +269701,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-007-109 Nocnik krzesełko LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>21.05</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963071873</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -270505,7 +270254,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-026-103 Leżaczek kąpielowy z wizerunkiem Króliczki biały</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963070999</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -270531,7 +270280,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071019</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -271490,7 +271239,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-017-119 Podnóżek antypoślizgowy MIŚ beżowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008992</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis>• Wytrzymały i praktyczny dwukomponentowy podnóżek.
@@ -272859,7 +272608,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-005-106 Wanna dziecięca 102 cm SOWA szary</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963011404</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>Wanienka duża 102cm  SOWA szary
@@ -272978,7 +272727,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-026-106 Leżaczek kąpielowy z wizerunkiem Sowa szary</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071095</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -273119,7 +272868,7 @@ Produkt zgodny z normą EN 71-3:2019.</opis>
 <nazwa>TEGA TI-001-103/123 Nocnik teggi biały/różowy</nazwa>
 <cena>19.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905489408055</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Specjalnie zaprojektowany symetryczny i ergonomiczny kształt nocnika Teggi jest wynikiem współpracy fizjoterapeutów, rodziców i projektantów wzornictwa. Jego anatomiczny kształt i rozmiar są idealnie dopasowane do budowy ciała dziecka. Dzięki wysokości siedziska dzieciom łatwiej siadać i wstawać z nocnika. Zdejmowana wewnętrzna część nocnika ułatwia czyszczenie. Dolna krawędź posiada wykończenie antypoślizgowe, co zapewnia stabilność nocnika na podłodze.
@@ -273852,16 +273601,6 @@ Instrukcja</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>59114557</kod>
-<nazwa>TINY LOVE TL Mata interaktywna Gigant - Garden</nazwa>
-<cena>0.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>7290108863130</EAN>
-<grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>761902</kod>
 <nazwa>TINY LOVE TL11099004 Karuzela Pack&amp;Go podróżna Mała Księżniczka</nazwa>
 <cena>44.03</cena>
@@ -274520,7 +274259,7 @@ wymiary (cm): szer. 150 x wys. 1 x dł/gł. 100</opis>
 <nazwa>TINY LOVE TL120680 Gimnastyka dla Bobasa ze stojakiem BOHO szare opakowanie</nazwa>
 <cena>309.27</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108862676</EAN>
 <grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
 <opis/>
@@ -274839,11 +274578,21 @@ Wymiary maty: 140 cm x 113 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907611-1.jpg https://marini.pl/b2b/pictures/5907611-2.jpg https://marini.pl/b2b/pictures/5907611-3.jpg https://marini.pl/b2b/pictures/5907611-4.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114557</kod>
+<nazwa>TINY LOVE TL120870 Mata interaktywna Gigant - Garden</nazwa>
+<cena>196.56</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>7290108863130</EAN>
+<grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5907612</kod>
 <nazwa>TINY LOVE TL12092068 Gimnastyka z pałąkiem i karuzelą 2w1 DECOR  czarno/biały</nazwa>
 <cena>196.17</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108863239</EAN>
 <grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
 <opis>Marka Tiny Love stworzyła stylową matę do zabawy, która podsyci
@@ -285767,17 +285516,6 @@ Stwórz świat według własnej koncepcji.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907368-1.png https://marini.pl/b2b/pictures/5907368-2.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5908995</kod>
-<nazwa>TREFL 61573 Zabawka drewniana klocki Peppa Pig</nazwa>
-<cena>54.66</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900511615739</EAN>
-<grupa>TREFL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5908995-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>789081</kod>
 <nazwa>TREFL 61591 Triceratops PROMOCJA 2+1 GRATIS</nazwa>
 <cena>28.31</cena>
@@ -286854,21 +286592,6 @@ To kreatywny zestaw do zabawy magnesami dla najmłodszych dzieci. Możliwość a
 
 W zestawie znajdują się również karty z inspiracjami do odtworzenia scenek.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5902796-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902795</kod>
-<nazwa>TREFL 93165 Puzzle magnetyczne - Zabawny świat Binga</nazwa>
-<cena>37.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900511931655</EAN>
-<grupa>TREFL</grupa>
-<opis>Puzzle z serii Trefl Primo przedstawiają Zabawny świat Binga. Układanka ćwiczy koncentrację
-doskonali umiejętności manualne i percepcje wzrokową. Wspiera też poszerzanie wiedzy o otaczającym świecie.
-To kreatywny zestaw do zabawy magnesami dla najmłodszych dzieci. Możliwość aranżacji scenek rozwija kreatywność, samodzielność i wyobraźnię dziecka.
-
-W zestawie znajdują się również karty z inspiracjami do odtworzenia scenek.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902795-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5902794</kod>
@@ -288532,7 +288255,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30100 Ośmiornica z gryzakami</nazwa>
 <cena>28.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692301006</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis>Ośmiornica pomoże ząbkującemu maluchowi, przynosząc ulgę obolałym dziąsełkom. Wszystko za sprawą kolorowych, odczepianych gryzaków w kształcie zwierzątek, których w zestawie znajduje się aż 5! Każdy z nich odznacza się innym kolorem, kształtem oraz zróżnicowanymi wypustkami, które podczas gryzienia masują podrażnione ząbkowaniem dziąsła bobasa. Zabawka posiada praktyczny uchwyt, który powala na jej wygodne przenoszenie z miejsca na miejsce.
@@ -288711,7 +288434,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30113 Kostka pełna kształtów</nazwa>
 <cena>21.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692301136</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis/>
@@ -294642,7 +294365,7 @@ Waga:	0.87 kg</opis>
 <nazwa>VIGA 44283 Drewniany labirynt magnetyczny</nazwa>
 <cena>24.02</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608442834</EAN>
 <grupa>VIGA</grupa>
 <opis>Labirynt magnetyczny od marki VIGA Wykonany z solidnego drewna i ozdobiony uroczymi ilustracjami przedstawiającymi 4 pory roku, zapewnia nie tylko świetną zabawę, ale również wspiera rozwój zdolności manualnych i logicznego myślenia. Dzięki magnetycznemu rysikowi dziecko może przesuwać kolorowe kulki przez labirynt, ćwicząc koordynację ręka-oko.
@@ -298156,7 +297879,7 @@ Długość 42 cm.</opis>
 <nazwa>WADER 32390 Middle Truck - Betoniarka</nazwa>
 <cena>42.20</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694323902</EAN>
 <grupa>WADER</grupa>
 <opis>wykonana z najwyższej jakości, nietoksycznego, lekkiego, ale wytrzymałego tworzywa sztucznego odpornego na warunki atmosferyczne
@@ -299491,7 +299214,7 @@ przeznaczony dla dzieci 1+</opis>
 <nazwa>WADER 50300 Garaż z windą - 2 poziomy</nazwa>
 <cena>52.26</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694503007</EAN>
 <grupa>WADER</grupa>
 <opis>2-poziomowy garaż z windą to zabawka, która posłuży dziecku przez dłuższy czas, zapewniając mu wiele możliwości zabawy.
@@ -299506,7 +299229,7 @@ Zabawka pobudza do kreatywnego myślenia i angażuje dziecko do ciekawej i twór
 <nazwa>WADER 50310 Garaż z windą - 3 poziomy</nazwa>
 <cena>69.62</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694503106</EAN>
 <grupa>WADER</grupa>
 <opis>3–poziomowy garaż jest jedną z tych zabawek do których maluch chętnie powraca, bo daje ona wiele możliwości kreatywnej zabawy. Zestaw wyposażony jest w elementy dróg o długości 2,3 metra oraz windę, która przewiezie samochodziki na drugi i trzeci poziom.
@@ -299521,7 +299244,7 @@ Zabawkę można łączyć z pozostałymi zestawami z serii Garage (oprócz artyk
 <nazwa>WADER 50461 Garaż Serwis</nazwa>
 <cena>64.64</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694504615</EAN>
 <grupa>WADER</grupa>
 <opis>Garaż Serwis z serii Garage to wymarzona zabawka dla każdego fana motoryzacji. Nowoczesny, realistycznie zaprojektowany garaż wyposażony jest w windę transportującą samochody jeden z trzech poziomów, rampę, myjnię samochodową, dystrybutor paliwa, serwis samochodowy, liczne dekoracje i 2 autka. Wielką zaletą jest kolorowa, lekka i prosta w montażu konstrukcja. 
@@ -299578,7 +299301,7 @@ komplet zapakowany w estetyczne pudełko, idealne na prezent</opis>
 <nazwa>WADER 53010 Play Tracks Garage garaż 2-poziomowy</nazwa>
 <cena>58.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694530102</EAN>
 <grupa>WADER</grupa>
 <opis>Parking 2-poziomowy z serii Play Tracks Garage to fantastyczna zabawka dla najmłodszych wielbicieli motoryzacji. Nowoczesna, lekka i prosta w montażu konstrukcja pozwala na ułożenie tras w różne kształty i zapewni Twojemu dziecku wiele godzin wspaniałej zabawy. Z różnokolorowych elementów powstaje system dróg o łącznej długości 3,4 m i dwupoziomowy garaż. Do zestawu dołączone jest autko Kid Cars Sport z przyczepką, na której jest dodatkowy pojazd, dekoracje i komplet 96 naklejek. Zestaw pozwala na tworzenie wielu scenariuszy zabaw, pobudza wyobraźnię naszych pociech i inspiruje do kreatywnego myślenia. Zabawa z wykorzystaniem zestawu z serii Play Tracks Garage wspiera rozwój ruchowy najmłodszych, zwłaszcza małej motoryki, ich umiejętności manualne, precyzję ruchów i koordynację wzrokowo-ruchową, uczy logicznego myślenia i orientacji przestrzennej. Różnobarwne elementy pozwalają na poznanie i utrwalenie nazw podstawowych kolorów. Podczas zabawy nasza pociecha poznaje zasady ruchu drogowego oraz uczy się bezpiecznego przechodzenia przez jezdnię. Wszystkie elementy wykonane są z wysokiej jakości bezpiecznego dla dzieci i trwałego tworzywa, dzięki czemu wszystkie części trasy zachowują kształt i kolor przez wiele lat. Komplet zapakowany jest w estetyczne pudełko, idealne na prezent.
@@ -299796,7 +299519,7 @@ Estetyka i detale</opis>
 <nazwa>WADER 64050 Maximus wywrotka kolorowa</nazwa>
 <cena>73.01</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900694640504</EAN>
 <grupa>WADER</grupa>
 <opis>Maximus Wywrotka w nowej, energetycznej kolorystyce czerwono–granatowo–żółtej to pojazd, który natychmiast przyciąga uwagę dzieci. Ten zestaw kolorów został zaprojektowany tak, aby był jak najbardziej atrakcyjny i czytelny dla najmłodszych – to właśnie te kontrastowe, żywe kolory najczęściej wybierają i uwielbiają małe dzieci. To duża, solidna wywrotka o nowoczesnym designie – charakterystycznym dla serii Maximus – zaprojektowana tak, by wytrzymać codzienne wyzwania stawiane jej przez małych budowniczych. Efektowna kolorystyka, połączona z masywną konstrukcją i realistyczną funkcją podnoszenia skrzyni ładunkowej, sprawia, że jest to pojazd, który natychmiast przyciąga uwagę.
@@ -300608,7 +300331,7 @@ Produkt dostępny w 9 wersjach graficznych.</opis>
 <nazwa>WADER 80020 Kręgle w kartonie</nazwa>
 <cena>20.02</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900694800205</EAN>
 <grupa>WADER</grupa>
 <opis>Zestaw do gry w kręgle (9 kręgli + 2 bile) w kolorowym kartoniku o długości 30 cm z rączką.
