@@ -7709,7 +7709,7 @@
     <ean>5903753003029</ean>
     <price_lt>30</price_lt>
     <price_after_discount_lt>30</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -9437,7 +9437,7 @@
     <ean>6925338200714</ean>
     <price_lt>15.59</price_lt>
     <price_after_discount_lt>15.59</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -10997,7 +10997,7 @@
     <ean>5907090700054</ean>
     <price_lt>72.29</price_lt>
     <price_after_discount_lt>72.29</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -11173,7 +11173,7 @@
     <ean>5901761129953</ean>
     <price_lt>42.29</price_lt>
     <price_after_discount_lt>42.29</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -12821,7 +12821,7 @@
     <ean>5902675040570</ean>
     <price_lt>24.28</price_lt>
     <price_after_discount_lt>24.28</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -12829,7 +12829,7 @@
     <ean>5902675050296</ean>
     <price_lt>13.48</price_lt>
     <price_after_discount_lt>13.48</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -12917,7 +12917,7 @@
     <ean>5902675003551</ean>
     <price_lt>25.08</price_lt>
     <price_after_discount_lt>25.08</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13101,7 +13101,7 @@
     <ean>5902675062602</ean>
     <price_lt>22.28</price_lt>
     <price_after_discount_lt>22.28</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13565,7 +13565,7 @@
     <ean>5902675060424</ean>
     <price_lt>12.78</price_lt>
     <price_after_discount_lt>12.78</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13613,7 +13613,7 @@
     <ean>5902675039505</ean>
     <price_lt>24.74</price_lt>
     <price_after_discount_lt>24.74</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13637,7 +13637,7 @@
     <ean>5902675061896</ean>
     <price_lt>55.78</price_lt>
     <price_after_discount_lt>55.78</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13645,7 +13645,7 @@
     <ean>5902675061889</ean>
     <price_lt>56.68</price_lt>
     <price_after_discount_lt>56.68</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13653,7 +13653,7 @@
     <ean>5902675061865</ean>
     <price_lt>49.99</price_lt>
     <price_after_discount_lt>49.99</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13661,7 +13661,7 @@
     <ean>5902675066815</ean>
     <price_lt>49.89</price_lt>
     <price_after_discount_lt>49.89</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13669,7 +13669,7 @@
     <ean>5902675061858</ean>
     <price_lt>50.18</price_lt>
     <price_after_discount_lt>50.18</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13733,7 +13733,7 @@
     <ean>5902675001311</ean>
     <price_lt>19.19</price_lt>
     <price_after_discount_lt>19.19</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13765,7 +13765,7 @@
     <ean>5902675067393</ean>
     <price_lt>21.98</price_lt>
     <price_after_discount_lt>21.98</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -13789,7 +13789,7 @@
     <ean>5902675040648</ean>
     <price_lt>11.88</price_lt>
     <price_after_discount_lt>11.88</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -14069,7 +14069,7 @@
     <ean>5902675050449</ean>
     <price_lt>74.09</price_lt>
     <price_after_discount_lt>74.09</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -14077,7 +14077,7 @@
     <ean>5902675041881</ean>
     <price_lt>35.89</price_lt>
     <price_after_discount_lt>35.89</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -14109,7 +14109,7 @@
     <ean>5902675000536</ean>
     <price_lt>74.38</price_lt>
     <price_after_discount_lt>74.38</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -14813,7 +14813,7 @@
     <ean>5904165680334</ean>
     <price_lt>32.38</price_lt>
     <price_after_discount_lt>32.38</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -15101,7 +15101,7 @@
     <ean>5904165685926</ean>
     <price_lt>25.98</price_lt>
     <price_after_discount_lt>25.98</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -15285,7 +15285,7 @@
     <ean>5907180601155</ean>
     <price_lt>11.68</price_lt>
     <price_after_discount_lt>11.68</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -15493,7 +15493,7 @@
     <ean>5904165685308</ean>
     <price_lt>24.98</price_lt>
     <price_after_discount_lt>24.98</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -16661,7 +16661,7 @@
     <ean>5904165684417</ean>
     <price_lt>32.48</price_lt>
     <price_after_discount_lt>32.48</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19701,7 +19701,7 @@
     <ean>5901912244597</ean>
     <price_lt>357.99</price_lt>
     <price_after_discount_lt>357.99</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19733,7 +19733,7 @@
     <ean>5901912245839</ean>
     <price_lt>353.69</price_lt>
     <price_after_discount_lt>353.69</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19837,7 +19837,7 @@
     <ean>5901912241114</ean>
     <price_lt>51.29</price_lt>
     <price_after_discount_lt>51.29</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19845,7 +19845,7 @@
     <ean>5901912245167</ean>
     <price_lt>54.69</price_lt>
     <price_after_discount_lt>54.69</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19853,7 +19853,7 @@
     <ean>5901912241084</ean>
     <price_lt>51.99</price_lt>
     <price_after_discount_lt>51.99</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19917,7 +19917,7 @@
     <ean>5901912244795</ean>
     <price_lt>152.99</price_lt>
     <price_after_discount_lt>152.99</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -19981,7 +19981,7 @@
     <ean>5901912244320</ean>
     <price_lt>388.99</price_lt>
     <price_after_discount_lt>388.99</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20037,7 +20037,7 @@
     <ean>5901912245464</ean>
     <price_lt>165.38</price_lt>
     <price_after_discount_lt>165.38</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20053,7 +20053,7 @@
     <ean>5901912244924</ean>
     <price_lt>170.99</price_lt>
     <price_after_discount_lt>170.99</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20109,7 +20109,7 @@
     <ean>5901912245693</ean>
     <price_lt>256.09</price_lt>
     <price_after_discount_lt>256.09</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20157,7 +20157,7 @@
     <ean>5901912244788</ean>
     <price_lt>156.49</price_lt>
     <price_after_discount_lt>156.49</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20237,7 +20237,7 @@
     <ean>5901912244948</ean>
     <price_lt>152.99</price_lt>
     <price_after_discount_lt>152.99</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20245,7 +20245,7 @@
     <ean>5901912244214</ean>
     <price_lt>298.99</price_lt>
     <price_after_discount_lt>298.99</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20261,7 +20261,7 @@
     <ean>5901912245327</ean>
     <price_lt>271.59</price_lt>
     <price_after_discount_lt>271.59</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20421,7 +20421,7 @@
     <ean>5902533924868</ean>
     <price_lt>141.99</price_lt>
     <price_after_discount_lt>141.99</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -20429,7 +20429,7 @@
     <ean>5902533924844</ean>
     <price_lt>177.69</price_lt>
     <price_after_discount_lt>177.69</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -21589,7 +21589,7 @@
     <ean>5902533928347</ean>
     <price_lt>100.78</price_lt>
     <price_after_discount_lt>100.78</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -22093,7 +22093,7 @@
     <ean>4052396092882</ean>
     <price_lt>8.78</price_lt>
     <price_after_discount_lt>8.78</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -25213,7 +25213,7 @@
     <ean>5904356852571</ean>
     <price_lt>23.68</price_lt>
     <price_after_discount_lt>23.68</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -25253,7 +25253,7 @@
     <ean>5904356852243</ean>
     <price_lt>16.79</price_lt>
     <price_after_discount_lt>16.79</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -25261,7 +25261,7 @@
     <ean>5904356852229</ean>
     <price_lt>16.79</price_lt>
     <price_after_discount_lt>16.79</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -26629,7 +26629,7 @@
     <ean>5907645897024</ean>
     <price_lt>34.94</price_lt>
     <price_after_discount_lt>34.94</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -27501,7 +27501,7 @@
     <ean>5907644016402</ean>
     <price_lt>5.89</price_lt>
     <price_after_discount_lt>5.89</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -27845,7 +27845,7 @@
     <ean>8058664175550</ean>
     <price_lt>10.09</price_lt>
     <price_after_discount_lt>10.09</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -28037,7 +28037,7 @@
     <ean>5907644013203</ean>
     <price_lt>9.08</price_lt>
     <price_after_discount_lt>9.08</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -31133,7 +31133,7 @@
     <ean>5903407510101</ean>
     <price_lt>4.18</price_lt>
     <price_after_discount_lt>4.18</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -31477,7 +31477,7 @@
     <ean>5901691844414</ean>
     <price_lt>8.37</price_lt>
     <price_after_discount_lt>8.37</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -31597,7 +31597,7 @@
     <ean>5907644006472</ean>
     <price_lt>12.28</price_lt>
     <price_after_discount_lt>12.28</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -32021,7 +32021,7 @@
     <ean>5907644006403</ean>
     <price_lt>10.98</price_lt>
     <price_after_discount_lt>10.98</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -32389,7 +32389,7 @@
     <ean>5901691849723</ean>
     <price_lt>10.99</price_lt>
     <price_after_discount_lt>10.99</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -32405,7 +32405,7 @@
     <ean>5901691849709</ean>
     <price_lt>10.98</price_lt>
     <price_after_discount_lt>10.98</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -32421,7 +32421,7 @@
     <ean>5901691849679</ean>
     <price_lt>5.5</price_lt>
     <price_after_discount_lt>5.5</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -32485,7 +32485,7 @@
     <ean>5903407993508</ean>
     <price_lt>5.5</price_lt>
     <price_after_discount_lt>5.5</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -33853,7 +33853,7 @@
     <ean>5713795010363</ean>
     <price_lt>14.19</price_lt>
     <price_after_discount_lt>14.19</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34197,7 +34197,7 @@
     <ean>5903246408829</ean>
     <price_lt>13.09</price_lt>
     <price_after_discount_lt>13.09</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34221,7 +34221,7 @@
     <ean>5904335876567</ean>
     <price_lt>8.69</price_lt>
     <price_after_discount_lt>8.69</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34285,7 +34285,7 @@
     <ean>5904335876109</ean>
     <price_lt>4.95</price_lt>
     <price_after_discount_lt>4.95</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34333,7 +34333,7 @@
     <ean>5904335829358</ean>
     <price_lt>11.32</price_lt>
     <price_after_discount_lt>11.32</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34493,7 +34493,7 @@
     <ean>5902012789070</ean>
     <price_lt>10.19</price_lt>
     <price_after_discount_lt>10.19</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34565,7 +34565,7 @@
     <ean>6925783826231</ean>
     <price_lt>13.69</price_lt>
     <price_after_discount_lt>13.69</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -34797,7 +34797,7 @@
     <ean>5907644004102</ean>
     <price_lt>10.59</price_lt>
     <price_after_discount_lt>10.59</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -35189,7 +35189,7 @@
     <ean>6925783802358</ean>
     <price_lt>7.89</price_lt>
     <price_after_discount_lt>7.89</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -35213,7 +35213,7 @@
     <ean>6925783801832</ean>
     <price_lt>21.39</price_lt>
     <price_after_discount_lt>21.39</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -35245,7 +35245,7 @@
     <ean>6925783801382</ean>
     <price_lt>10.83</price_lt>
     <price_after_discount_lt>10.83</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -35253,7 +35253,7 @@
     <ean>6925783801375</ean>
     <price_lt>15.39</price_lt>
     <price_after_discount_lt>15.39</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -35317,7 +35317,7 @@
     <ean>5902216916999</ean>
     <price_lt>124.49</price_lt>
     <price_after_discount_lt>124.49</price_after_discount_lt>
-    <stock>15</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -37605,7 +37605,7 @@
     <ean>5901435414590</ean>
     <price_lt>6.89</price_lt>
     <price_after_discount_lt>6.89</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -41709,7 +41709,7 @@
     <ean>6934510516123</ean>
     <price_lt>21.39</price_lt>
     <price_after_discount_lt>21.39</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -44877,7 +44877,7 @@
     <ean>5900511346145</ean>
     <price_lt>6.21</price_lt>
     <price_after_discount_lt>6.21</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -46941,7 +46941,7 @@
     <ean>7290108863208</ean>
     <price_lt>29.88</price_lt>
     <price_after_discount_lt>29.88</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -46965,7 +46965,7 @@
     <ean>7290108862232</ean>
     <price_lt>54.89</price_lt>
     <price_after_discount_lt>54.89</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -46973,7 +46973,7 @@
     <ean>7290108861822</ean>
     <price_lt>32.89</price_lt>
     <price_after_discount_lt>32.89</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>15</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -46989,7 +46989,7 @@
     <ean>7290108861365</ean>
     <price_lt>75.29</price_lt>
     <price_after_discount_lt>75.29</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -47005,7 +47005,7 @@
     <ean>7290108861044</ean>
     <price_lt>71.89</price_lt>
     <price_after_discount_lt>71.89</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -47053,7 +47053,7 @@
     <ean>7290108861808</ean>
     <price_lt>113.59</price_lt>
     <price_after_discount_lt>113.59</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -47109,7 +47109,7 @@
     <ean>7290108863253</ean>
     <price_lt>14.68</price_lt>
     <price_after_discount_lt>14.68</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>5</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -47365,7 +47365,7 @@
     <ean>5902963011251</ean>
     <price_lt>8.88</price_lt>
     <price_after_discount_lt>8.88</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -47389,7 +47389,7 @@
     <ean>5902963011220</ean>
     <price_lt>6.49</price_lt>
     <price_after_discount_lt>6.49</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -47669,7 +47669,7 @@
     <ean>5902963010001</ean>
     <price_lt>11.68</price_lt>
     <price_after_discount_lt>11.68</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -48133,7 +48133,7 @@
     <ean>5902963008022</ean>
     <price_lt>11.58</price_lt>
     <price_after_discount_lt>11.58</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -48565,7 +48565,7 @@
     <ean>5902963015334</ean>
     <price_lt>6.94</price_lt>
     <price_after_discount_lt>6.94</price_after_discount_lt>
-    <stock>5</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -49101,7 +49101,7 @@
     <ean>5905375839734</ean>
     <price_lt>7.59</price_lt>
     <price_after_discount_lt>7.59</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
@@ -49581,7 +49581,7 @@
     <ean>6944167102709</ean>
     <price_lt>17.29</price_lt>
     <price_after_discount_lt>17.29</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>2</stock>
     <collection_hours_lt>216</collection_hours_lt>
   </product>
   <product>
