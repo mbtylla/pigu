@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-05-20T20:55:05.617">
+<MARINI timestamp="2026-05-21T19:55:05.770">
 <b2b>
 <kod>25129</kod>
 <nazwa>..B.O.509 Podkład do przewijania 60x90 10 szt.</nazwa>
@@ -442,7 +442,7 @@ System ISOFIX zastosowany w foteliku App-fix świetnie stabilizuje siedzisko i u
 <nazwa>4 BABY Fotelik APP-FIX XXIV 100-150 cm Graphit I-Size</nazwa>
 <cena>307.00</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959620</EAN>
 <grupa>4BABY/FOTELIKI/APP-FIX</grupa>
 <opis>App-Fix to doskonały model dla dzieci o wzroście od 100 do 150 cm. Produkt spełnia restrykcyjną normę I-Size, gwarantując najwyższy poziom bezpieczeństwa i wygody małym pasażerom w grupie wagowej II i III (15-25 kg i 22-36 kg). Z powodzeniem będzie towarzyszył dziecku w podróży aż do 12 roku życia.
@@ -775,7 +775,7 @@ Charakterystyka produktu:
 <nazwa>4 BABY Fotelik GO-FIX 76-150cm GRAPHITE I-SIZE</nazwa>
 <cena>298.57</cena>
 <VAT>5</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959699</EAN>
 <grupa>4BABY/FOTELIKI</grupa>
 <opis>Go-fix to fotelik przeznaczony dla dzieci o wzroście od 76 do 150 cm. Certyfikowany zgodnie z rygorystyczną normą I-Size. Gwarantuje to najwyższy poziom bezpieczeństwa i komfortu małym pasażerom, aż do 12 roku życia.
@@ -972,7 +972,7 @@ CECHY:
 <nazwa>4 BABY Fotelik MATT-FIX 40-150cm GRAPHITE I-SIZE</nazwa>
 <cena>381.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691959842</EAN>
 <grupa>4BABY/FOTELIKI</grupa>
 <opis>Fotelik Matt-fix  to obrotowy fotelik wykonany zgodnie z najbardziej restrykcyjną homologacją R129. Gwarantuje to najwyższą ochronę dziecku o wzroście od 40 do 150 cm.
@@ -2292,36 +2292,6 @@ Wymiary (szerokość / wysokość / głębokość cm):
 <stan>mała ilość</stan>
 <EAN>5901691958029</EAN>
 <grupa>4BABY/WÓZKI</grupa>
-<opis>Everso is a perfect pram for every  urban sidewalk or light terrain trail. Front and rear susspenssion will work every bump on your way. Comfortable rubber wheels helps with stability and ease of control. Front wheels are 360° swivel/locking.
-Durable alloy frame. Stroller folds together with seat. Compact folding size and carry handle makes it easy to store and move around.
-Everso will serve your child up to 4 years old (22kg weight limit). 5-point, padded safety harness and removable front bar. Reversible seat can be set to desired position with just one hand.
-Extended canopy protcets your baby from sun, wind and rain. Clear window on the back of canopy allows to watch the baby while on the walk.
-3 point backrest recline, and 4 positions for the foot rest can be adjusted exactlly the way your child needs. Handle height adjustment and leather handle wrap will help with seting the pram comfortably for everyday use.
-Quilted footcover will keep baby's feet warm during cold weather.
-
-Features
-Reversible seat (forward facing, rear facing)
-Backrest recline with lying position
-4 position foot rest adjustment
-Easy folding mechanism
-Rubber wheels
-Multipurpose canopy
-Cary handle 
-Canopy window
-Handle height adjustment
-5-point safety harness
-Quilted foot cover included
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/789375-1.jpg https://marini.pl/b2b/pictures/789375-2.jpg https://marini.pl/b2b/pictures/789375-3.jpg https://marini.pl/b2b/pictures/789375-4.jpg https://marini.pl/b2b/pictures/789375-5.jpg https://marini.pl/b2b/pictures/789375-6.jpg https://marini.pl/b2b/pictures/789375-7.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>789375</kod>
-<nazwa>4 BABY Wózek spacerowy EVERSO BLACK</nazwa>
-<cena>679.00</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5901691958029</EAN>
-<grupa>4BABY/WÓZKI</grupa>
 <opis>Everso to doskonały wózek zarówno do użytku w mieście jak i w terenie. Amortyzacja na przód i tył, zniweluje wstrząsy wywołane nierównościami na drodze. Z kolei duże, bezobsługowe koła z gumową powłoką zapewniają stabilność i pełną zwrotność podczas jazdy. Przednie koła obracają się o 360° z możliwością ich zablokowania.
 
 Stelaż z aluminium jest lekki a zarazem odporny na uszkodzenia. Możliwość złożenia spacerówki razem z siedziskiem i jego kompaktowy rozmiar po złożeniu podnosi jego funkcjonalność. Natomiast rączka do przenoszenia złożonej spacerówki ułatwia przetransportowanie wózka w wygodny sposób.
@@ -2343,6 +2313,36 @@ Okienko z podglądem na dziecko
 Teleskopowa regulacja wysokości rączki
 5-cio punktowe pasy bezpieczeństwa
 Ocieplana osłona na nogi w zestawie
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/789375-1.jpg https://marini.pl/b2b/pictures/789375-2.jpg https://marini.pl/b2b/pictures/789375-3.jpg https://marini.pl/b2b/pictures/789375-4.jpg https://marini.pl/b2b/pictures/789375-5.jpg https://marini.pl/b2b/pictures/789375-6.jpg https://marini.pl/b2b/pictures/789375-7.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>789375</kod>
+<nazwa>4 BABY Wózek spacerowy EVERSO BLACK</nazwa>
+<cena>679.00</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5901691958029</EAN>
+<grupa>4BABY/WÓZKI</grupa>
+<opis>Everso is a perfect pram for every  urban sidewalk or light terrain trail. Front and rear susspenssion will work every bump on your way. Comfortable rubber wheels helps with stability and ease of control. Front wheels are 360° swivel/locking.
+Durable alloy frame. Stroller folds together with seat. Compact folding size and carry handle makes it easy to store and move around.
+Everso will serve your child up to 4 years old (22kg weight limit). 5-point, padded safety harness and removable front bar. Reversible seat can be set to desired position with just one hand.
+Extended canopy protcets your baby from sun, wind and rain. Clear window on the back of canopy allows to watch the baby while on the walk.
+3 point backrest recline, and 4 positions for the foot rest can be adjusted exactlly the way your child needs. Handle height adjustment and leather handle wrap will help with seting the pram comfortably for everyday use.
+Quilted footcover will keep baby's feet warm during cold weather.
+
+Features
+Reversible seat (forward facing, rear facing)
+Backrest recline with lying position
+4 position foot rest adjustment
+Easy folding mechanism
+Rubber wheels
+Multipurpose canopy
+Cary handle 
+Canopy window
+Handle height adjustment
+5-point safety harness
+Quilted foot cover included
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/789375-1.jpg https://marini.pl/b2b/pictures/789375-2.jpg https://marini.pl/b2b/pictures/789375-3.jpg https://marini.pl/b2b/pictures/789375-4.jpg https://marini.pl/b2b/pictures/789375-5.jpg https://marini.pl/b2b/pictures/789375-6.jpg https://marini.pl/b2b/pictures/789375-7.jpg</zdjecia>
 </b2b>
@@ -4083,7 +4083,7 @@ Opakowanie zawiera 30 szt. woreczków.</opis>
 <nazwa>AKUKU A0014 Suszarka na butelki i akcesoria Drzewko</nazwa>
 <cena>15.23</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644000142</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Uniwersalna suszarka na butelki i akcesoria to idealny produkt zarówno w domu jak i w podróży. Jest funkcjonalna, pasuje do wszystkich typów butelek, łatwa do złożenia oraz czyszczenia. Została zaprojektowana tak, by mogła łatwo zbierać wodę bez konieczności stawiania jej na zlewie.</opis>
@@ -4719,7 +4719,7 @@ W opakowaniu 3 szt.</opis>
 <nazwa>AKUKU A0164 Bidon ze słomką z odważnikiem blue/red</nazwa>
 <cena>13.61</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644001644</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon ze słomką z odważnikiem.
@@ -5689,7 +5689,7 @@ Rozmiar: 6,7 cm; 6,3 cm; 6,0 cm; 6,0 cm</opis>
 <nazwa>AKUKU A0470 Pluszowa zawieszka Miś czarno-biały</nazwa>
 <cena>12.91</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644004706</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
 <opis>Pluszowa zawieszka Miś bez wątpienia przykuje uwagę Twojego dziecka. Maskotka wyposażona jest w uniwersalny, łatwy do zaczepienia na wszelkich powierzchniach plastikowy uchwyt-haczyk, dzięki czemu można ją zamocować w dowolnym miejscu w domu oraz w podróży. Czarno-białe kolory stymulują zmysł wzroku u niemowlaka, który jeszcze nie rozróżnia barw. Produkt wykonany z delikatnego materiału, który powoduje, że dziecko nie chce się z nimi rozstać. Rozwija koordynacje wzrokowo-słuchową i motoryczną malucha.
@@ -6000,7 +6000,7 @@ Rozmiar 60 × 90 cm.</opis>
 <nazwa>AKUKU A0503 Miseczka na przyssawce white/navy blue</nazwa>
 <cena>9.85</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907644005031</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
 <opis>Miseczka na przyssawce z łyżeczką to idealny produkt do karmienia dziecka. Pokrywka szczelnie chroni pokarm, specjalna komora przeznaczona jest do przechowywania łyżeczki, dzięki czemu jej nie zgubimy oraz zachowamy ją w czystości. Gumowa przyssawka uniemożliwia przesuwanie się miseczki po stole chroniąc jednocześnie pokarm przed rozlaniem. Wykonana w całości z bezpiecznych materiałów przeznaczonych do kontaktu z żywnością, nie zawiera bisfenolu A (0% BPA).
@@ -6715,7 +6715,7 @@ Wymiary zabawki: 15 cm x 6 cm
 <nazwa>AKUKU A0645 Zawieszka/przyssawka BABY ON BOARD</nazwa>
 <cena>2.78</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907644006458</EAN>
 <grupa>AKUKU/POZYTYWKI I ZAWIESZKI</grupa>
 <opis>Tabliczka ostrzegawcza marki „akuku” z informacją dla kierowców, że w samochodzie mogą znajdować się dzieci.
@@ -7194,7 +7194,7 @@ Pojemność 240 ml
 <nazwa>AKUKU A0671 Bidon 360 ciemny</nazwa>
 <cena>10.35</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644006717</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Kubek niekapek 360°
@@ -7719,7 +7719,7 @@ W opakowaniu znajduje się 100 szt.</opis>
 <nazwa>AKUKU A0688 Pojemnik na smoczek Małpka</nazwa>
 <cena>5.05</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644006885</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Praktyczny pojemnik na smoczek jest bardzo przydatny w czasie podróży lub spacerów. Chroni smoczek przed zabrudzeniem i uszkodzeniem. Bardzo łatwy w użyciu i prosty w zamocowaniu do wózka, fotelika, torby lub poręczy łóżeczka. Pomieści nawet 2 smoczki. Neutralna i przyjemna kolorystyka pasuje do każdego wózka i torby. Pojemnik kształtem przypomina Małpkę.
@@ -8323,7 +8323,7 @@ zabawa i edukacja &gt; zabawki pluszowe
 <nazwa>AKUKU A0706 Piszczek Panda</nazwa>
 <cena>6.55</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644007066</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Piszczek Panda
@@ -9030,7 +9030,7 @@ Specyfikacja techniczna:
 <nazwa>AKUKU A1505 Apaszka Serduszka</nazwa>
 <cena>5.71</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644015054</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Apaszka dziecięca, dwuwarstwowa, która poprzez swój kształt i sposób wykonania spełnia 2 funkcje: można ją traktować zarówno jako śliniaczek – osłania bowiem ubranie dziecka podczas karmienia; a także jako apaszka dla dziecka, osłaniająca szyję i stanowiąca element ubioru. Posiada regulowane zapięcie na napy, co daje możliwość skrócenia lub wydłużenia długości, dzięki czemu może być używana zarówno przez niemowlaka, jak i przedszkolaka. Produkt jest wykonany z dwóch warstw materiału – 100% bawełna, wierzchnia miękka warstwa ozdobiona jest kolorowymi dziecięcymi nadrukami.
@@ -11553,7 +11553,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 440 Baletnica</nazwa>
 <cena>36.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165687753</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania (MP) o długości 70 cm i szerokości 50 cm (+/- 1 cm) przeznaczona jest do nałożenia na komodę lub meble do przewijania.   
@@ -11682,7 +11682,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 446 Koala w podróży</nazwa>
 <cena>36.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907001940074</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania niemowląt MP70
@@ -12379,7 +12379,7 @@ Pokrowiec pikowany zamykany na zamek wykonany z dzianiny materacykowej poliester
 <nazwa>ALBERO MIO Materac LUX Kompakt</nazwa>
 <cena>295.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904165685148</EAN>
 <grupa>ALBERO MIO/MATERACE</grupa>
 <opis>Materac LUX do łóżeczka kompakt / Compact LUX cot mattress
@@ -14165,7 +14165,7 @@ Stosować wyłącznie na wypełnieniach o tym samym rozmiarze (135x100 i 60x40 c
 <nazwa>ALBERO MIO Pościel C-2 C001 Forest World</nazwa>
 <cena>42.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165680013</EAN>
 <grupa>ALBERO MIO/POŚCIELE/DO ŁÓŻECZEK</grupa>
 <opis>Pościel 2- elementowa z kolekcji Colorful World
@@ -14883,7 +14883,7 @@ Tkanina 1: satyna bawełniana - 100% bawełna, tkanina 2: double gauze - 100% ba
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak WM440 Lukrowy</nazwa>
 <cena>41.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907001940173</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
 <opis>Przedstawiamy Prześcieradła do gondoli muślinowe 2-pak od Albero mio – niezbędny element wyprawki każdego noworodka. Wykonane z najwyższej jakości bawełny muślinowej, te miękkie i przewiewne prześcieradła zapewniają komfortowy sen i delikatną pielęgnację wrażliwej skóry dziecka. Zestaw zawiera dwa prześcieradła w naturalnych, stonowanych kolorach – które idealnie wpasują się w każdą gondolę.
@@ -17912,7 +17912,7 @@ Tkanina 1: satyna bawełniana - 100% bawełna, Tkanina 2: jednobarna welur - 100
 <nazwa>ALBERO MIO Rożek niemowlęcy CP3 Księżycowy jeżyk</nazwa>
 <cena>49.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001940616</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis>Rożek niemowlęcy Księżycowy jeżyk to niezwykle uroczy i funkcjonalny produkt, stworzony z myślą o noworodkach i ich rodzicach. Wykonany z wysokiej jakości satyny bawełnianej oraz weluru bawełnianego, zapewnia nie tylko miękkość i delikatność dotyku, ale także bezpieczeństwo i komfort podczas codziennego użytkowania.
@@ -24921,7 +24921,7 @@ Materiał : 100 % BAWEŁNA</opis>
 <nazwa>ATK Rożek bawełna standard 75/75</nazwa>
 <cena>20.12</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5906269344273</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
@@ -25026,7 +25026,7 @@ Elektroniczna niania z funkcją audio SCD502/26</opis>
 <nazwa>AVENT SCD657/11 Zestaw startowy antykolkowy</nazwa>
 <cena>106.55</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8710103990666</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>Mleko płynie tak jak z piersi, ograniczając problemy z karmieniem
@@ -28176,7 +28176,7 @@ Zawartość zestawu - Smoczek Ultra Air 2  szt.
 <nazwa>AVENT SCF349/50 Smoczek Ultra Air 18+ oliwka / żółty</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>8720689042499</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -30406,7 +30406,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9302 Kot Emil pręgowany 20 cm</nazwa>
 <cena>27.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209893027</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30492,7 +30492,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9364 Zabawka z dźwiękiem Osiołek 17 cm</nazwa>
 <cena>12.43</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209893645</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30667,7 +30667,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9443 Zabawka z dźwiękiem Miś 17 cm</nazwa>
 <cena>12.43</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209894437</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -31006,7 +31006,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9524 Lalka Alicja 38 cm</nazwa>
 <cena>38.91</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209895243</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -31017,7 +31017,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9525 Lalka Laura 38 cm</nazwa>
 <cena>38.91</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209895250</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -31028,7 +31028,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9527 Lalka Ania 32 cm</nazwa>
 <cena>29.91</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209895274</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -47877,9 +47877,9 @@ Składana
 <b2b>
 <kod>5909044</kod>
 <nazwa>B.O.1481/01 Silikonowa miseczka z przyssawką niebieska</nazwa>
-<cena>10.00</cena>
+<cena>11.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435415801</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Silikonowa miseczka z przyssawką pomaga rozszerzyć dietę dziecka. Nadaje się do podawania zup, makaronów, nabiału, owoców i warzyw. Zaokrąglone krawędzie oraz wysoki profil ułatwiają naukę samodzielnego jedzenia.
@@ -47917,9 +47917,9 @@ Wymiar opakowania: 12,5 x 8 x 12 cm</opis>
 <b2b>
 <kod>5909045</kod>
 <nazwa>B.O.1481/02 Silikonowa miseczka z przyssawką różowa</nazwa>
-<cena>10.00</cena>
+<cena>11.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435415818</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Silikonowa miseczka z przyssawką pomaga rozszerzyć dietę dziecka. Nadaje się do podawania zup, makaronów, nabiału, owoców i warzyw. Zaokrąglone krawędzie oraz wysoki profil ułatwiają naukę samodzielnego jedzenia.
@@ -47957,9 +47957,9 @@ Wymiar opakowania: 12,5 x 8 x 12 cm</opis>
 <b2b>
 <kod>5911224</kod>
 <nazwa>B.O.1481/03 Silikonowa miseczka z przyssawką miętowa</nazwa>
-<cena>10.00</cena>
+<cena>11.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417041</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Silikonowa miseczka z przyssawką pomaga rozszerzyć dietę dziecka. Nadaje się do podawania zup, makaronów, nabiału, owoców i warzyw. Zaokrąglone krawędzie oraz wysoki profil ułatwiają naukę samodzielnego jedzenie.
@@ -47982,7 +47982,7 @@ Silikonowy materiał ułatwia utrzymanie czystości. Miseczkę można bezpieczni
 <nazwa>B.O.1481/04 Silikonowa miseczka z przyssawką beżowa</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417058</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Silikonowa miseczka z przyssawką pomaga rozszerzyć dietę dziecka. Nadaje się do podawania zup, makaronów, nabiału, owoców i warzyw. Zaokrąglone krawędzie oraz wysoki profil ułatwiają naukę samodzielnego jedzenie.
@@ -48005,7 +48005,7 @@ Silikonowy materiał ułatwia utrzymanie czystości. Miseczkę można bezpieczni
 <nazwa>B.O.1482/01 Silikonowy talerzyk z przyssawką niebieski</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435415825</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu.Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -48047,7 +48047,7 @@ Wymiar opakowania: 20 x 3 x 23 cm</opis>
 <nazwa>B.O.1482/02 Silikonowy talerzyk z przyssawką różowy</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435415832</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu.Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -48090,7 +48090,7 @@ Wymiar opakowania: 20 x 3 x 23 cm
 <nazwa>B.O.1482/03 Silikonowy talerzyk z przyssawką zielony</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417065</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu. Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -48114,7 +48114,7 @@ Talerzyk z silikonu jest łatwy do czyszczenia. Można go bezpiecznie myć w zmy
 <nazwa>B.O.1482/04 Silikonowy talerzyk z przyssawką beżowy</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435417072</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
 <opis>Talerzyk z przyssawką to idealne rozwiązanie podczas nauki samodzielnego jedzenia. Przyssawka minimalizuje ryzyko rozlania lub przewrócenia jedzenia. Ergonomiczny kształt ułatwia samodzielne nabieranie pokarmu. Trzy praktyczne przegródki zachęcają do zróżnicowanego jedzenia. Wykonany z wysokiej jakości silikonu, talerzyk jest bezpieczny dla zdrowia i łatwy w czyszczeniu. Można go myć w zmywarce i podgrzewać w mikrofalówce.
@@ -48352,7 +48352,7 @@ Wiek dziecka
 <b2b>
 <kod>5906716</kod>
 <nazwa>B.O.1513 Książeczka sensoryczna FOREST</nazwa>
-<cena>20.20</cena>
+<cena>19.03</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5901435414675</EAN>
@@ -49794,9 +49794,9 @@ Nie zaleca się używania w kuchence mikrofalowej</opis>
 <b2b>
 <kod>59114625</kod>
 <nazwa>B.O.1566/01 Kocyk muślinowy różowy</nazwa>
-<cena>0.00</cena>
+<cena>37.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418680</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis/>
@@ -49804,9 +49804,9 @@ Nie zaleca się używania w kuchence mikrofalowej</opis>
 <b2b>
 <kod>59114626</kod>
 <nazwa>B.O.1566/02 Kocyk muślinowy beżowy</nazwa>
-<cena>0.00</cena>
+<cena>37.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418697</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis/>
@@ -49814,9 +49814,9 @@ Nie zaleca się używania w kuchence mikrofalowej</opis>
 <b2b>
 <kod>59114627</kod>
 <nazwa>B.O.1567/01 Kocyk z przytulanką śmietankowy</nazwa>
-<cena>0.00</cena>
+<cena>37.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418703</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis/>
@@ -49824,9 +49824,9 @@ Nie zaleca się używania w kuchence mikrofalowej</opis>
 <b2b>
 <kod>59114628</kod>
 <nazwa>B.O.1567/02 Kocyk z przytulanką beżowy</nazwa>
-<cena>0.00</cena>
+<cena>37.00</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418710</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis/>
@@ -49836,7 +49836,7 @@ Nie zaleca się używania w kuchence mikrofalowej</opis>
 <nazwa>B.O.1568 Silikonowa zabawka kąpielowa KACZUSZKI 3szt.</nazwa>
 <cena>22.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416204</EAN>
 <grupa>BABYONO/ZABAWKI/DO KĄPIELI</grupa>
 <opis>Nasze zabawki do kąpieli z pewnością umilą Twojemu dziecku pobyt w wanience. Dzięki nim kąpiel będzie niesamowitą przygodą i przyjemnością. Tworzenie wieżczek, przelewanie wody do kubeczków będzie doskonałą zabawą.
@@ -50995,7 +50995,7 @@ Wymiar: 18 x 20 cm</opis>
 <nazwa>B.O.1632 Pozytywka KOALA COCO</nazwa>
 <cena>32.64</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416877</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Maskotka koala z pozytywką to uśmiechnięty towarzysz codziennych zabaw. Stymuluje rozwój Twojego malucha.
@@ -51284,7 +51284,7 @@ Pod wpływem wody zwiększa swój rozmiar, dzięki czemu z łatwością umyjesz 
 <nazwa>B.O.1641/02 Fartuszek FARMER</nazwa>
 <cena>10.51</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416952</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Fartuszek dla dzieci to praktyczne i wielofunkcyjne rozwiązanie, które chroni ubrania malucha podczas posiłków, zabaw plastycznych i innych kreatywnych aktywności.
@@ -51333,7 +51333,7 @@ Fartuszek jest dostępny w dwóch rozmiarach: dla dzieci od 6 miesięcy do 2 lat
 <nazwa>B.O.1642/01 Fartuszek RACCOON</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416976</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Fartuszek dla dzieci to praktyczne i wielofunkcyjne rozwiązanie, które chroni ubrania malucha podczas posiłków, zabaw plastycznych i innych kreatywnych aktywności.
@@ -51382,7 +51382,7 @@ Fartuszek jest dostępny w dwóch rozmiarach: dla dzieci od 6 miesięcy do 2 lat
 <nazwa>B.O.1642/02 Fartuszek FOREST</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416983</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Fartuszek dla dzieci to praktyczne i wielofunkcyjne rozwiązanie, które chroni ubrania malucha podczas posiłków, zabaw plastycznych i innych kreatywnych aktywności.
@@ -51431,7 +51431,7 @@ Fartuszek jest dostępny w dwóch rozmiarach: dla dzieci od 6 miesięcy do 2 lat
 <nazwa>B.O.1642/03 Fartuszek RAINBOW</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435416990</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Fartuszek dla dzieci to praktyczne i wielofunkcyjne rozwiązanie, które chroni ubrania malucha podczas posiłków, zabaw plastycznych i innych kreatywnych aktywności.
@@ -53781,7 +53781,7 @@ Wspiera naukę koncentracji</opis>
 <nazwa>B.O.1680 Kostka sensoryczna NATURE</nazwa>
 <cena>38.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435418345</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Kostka sensoryczna Nature na długo przyciągnie uwagę dziecka. Zawiera wiele ukrytych elementów – zaciekawia i pobudza koncentrację. Uczy logicznego myślenia. Pomaga rozwijać różne zmysły dziecka już od pierwszych dni życia. Atrakcyjna estetyka kostki przyciąga wzrok malucha. Elementy wydające dźwięki rozwijają słuch. Różne faktury, wystające i odczepiane części pobudzają zmysł dotyku. Malucha zaciekawi też lusterko. Pokazuje otoczenie z nowej dla niego strony i zachęca do odkrywania świata.
@@ -54149,7 +54149,7 @@ Rozwija percepcję wzrokową – uczy rozróżniania kolorów i kształtów</opi
 <nazwa>B.O.1690 Książeczka sensoryczna Cow Bingo</nazwa>
 <cena>36.75</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418444</EAN>
 <grupa>BABYONO/ZABAWKI</grupa>
 <opis>Miękka książeczka sensoryczna Cow Bingo przeniesie Twojego maluszka na kolorową farmę, gdzie czeka na niego wiele niespodzianek. To wspaniała interaktywna zabawka dla niemowląt, która rozwija zmysły i motorykę małą.
@@ -54239,7 +54239,7 @@ Doskonali koordynację wzrokowo-ruchową
 <nazwa>B.O.1692 Pozytywka Cow Bingo</nazwa>
 <cena>36.75</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435418468</EAN>
 <grupa>BABYONO/ZABAWKI/POZYTYWKI</grupa>
 <opis>Nasza radosna, miękka krówka to wielozadaniowa maskotka z pozytywką dla niemowląt i dzieci. Wzbudza zainteresowanie, a jeśli potrzeba – uspokaja i usypia maluszka. Wystarczy pociągnąć za kółeczko, a z pluszowej pozytywki popłynie piękna, kojąca melodia. Spokojne dźwięki pomogą Twojemu dziecku wyciszyć się i zasnąć po dniu pełnym wrażeń. Różne tkaniny i kolory pobudzają zmysły, a miękkie uszy i nogi zachęcają do chwytania. Naszą zabawkę-pozytywkę wyposażyliśmy w prosty uchwyt, dzięki któremu zawiesisz ją na łóżeczku, wózku lub foteliku. Stanie się uśmiechniętym towarzyszem codziennych zabaw.
@@ -55279,7 +55279,7 @@ Waga: 0,043 KG</opis>
 <nazwa>B.O.499/02 Edukacyjny gryzak z grzechotką TASTY WATERMELON</nazwa>
 <cena>14.51</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435410868</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
 <opis>Oryginalny gryzaczek z grzechotką Babyono został zaprojektowany z myślą o potrzebach najmłodszych. Kształt zapewnia wygodne trzymanie przez drobne rączki niemowląt. Gryzienie koi w czasie ząbkowania,  elastyczny materiał o pofałdowanej strukturze idealnie masuje dziąsła dziecka. We wnętrzu znajdują się kulki grzechoczące przy każdym ruchu, zachęcają do ćwiczeń i zabawy, stymulując rozwój dziecka.
@@ -55634,7 +55634,7 @@ Właściwości:
 <nazwa>B.O.511/S Poporodowy pas brzuszny S- profilowany</nazwa>
 <cena>53.00</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5906699072944</EAN>
 <grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
 <opis>Poporodowy pas brzuszny profilowany przeznaczony jest dla kobiet po porodach operacyjnych (tzw: cesarskie cięcie) w celu wzmocnienia nadmiernie rozciągniętych powłok brzusznych oraz zmniejszenia ryzyka występowania przepukliny. Pas łagodzi bóle rany pooperacyjnej, daje poczucie bezpieczeństwa i komfort oraz ułatwia wcześniejsze wykonywanie ćwiczeń gimnastycznych wzmacniających mięśnie brzucha. W celu prawidłowego dopasowania rozmiaru należy zmierzyć obwód brzucha i wybrać rozmiar z tabeli.
@@ -56414,7 +56414,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/04 Biustonosz do karmienia E80-85 czarny</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435415085</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -57197,7 +57197,7 @@ Dane techniczne:
 <b2b>
 <kod>783184</kod>
 <nazwa>B.O.599 Podkłady poporodowe NIGHT &amp; DAY</nazwa>
-<cena>7.96</cena>
+<cena>7.97</cena>
 <VAT>5</VAT>
 <stan>duża ilość</stan>
 <EAN>5901435412251</EAN>
@@ -57471,7 +57471,7 @@ Właściwości:
 <nazwa>B.O.723/02 Szczoteczka do zębów dla niemowląt na palec niebieska</nazwa>
 <cena>3.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901435412886</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Szczoteczka na palec została zaprojektowana z myślą o delikatnym czyszczeniu i masażu niemowlęcych dziąseł i pierwszych ząbków. Wykonana z miękkiego i higienicznego silikonu jest niezbędna w codziennej pielęgnacji. Dodatkowo podczas ząbkowania przynosi ulgę obolałym dziąsłom niemowląt. Nie zawiera Bisfenolu A.
@@ -58884,7 +58884,7 @@ Wymiary opakowania: 24 × 34 cm</opis>
 <nazwa>B.O.878 Śliniaki jednorazowe</nazwa>
 <cena>5.30</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435405659</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Przygotuj się na jedzenie bez zabrudzeń dzięki śliniakom jednorazowym i uniknij stresu karmiąc swoje dziecko gdziekolwiek jesteś. Śliniaki są miękkie, mocne i mają nieprzemakalny podkład, który chroni ubranka dziecka przed zaplamieniem. Mają także kieszonkę na okruchy i resztki jedzenia. Śliniaki jednorazowe są świetne zarówno do użytku domowego, jak i podczas spacerów czy podróży. To doskonała alternatywa dla tradycyjnych śliniaków, która pomoże chronić ubranko Twojego dziecka podczas próbowania nowych smaków.
@@ -68780,7 +68780,7 @@ Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.)[cm]: 14x12x5, wymiar
 <nazwa>BAM BAM 482505 Grzechotka kula 16x20x6</nazwa>
 <cena>9.27</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5908275183587</EAN>
 <grupa>BAM BAM</grupa>
 <opis>Zalety produktu: Grzechotka Kula BAM BAM przeznaczona dla niemowląt od urodzenia. Grzechotka o fakturze materiałów jak i różnorodnej formie, posiada elementy interaktywne zachęcające malucha do zabawy, a jednocześnie stymulujące rozwój jego zmysłów wzroku, słuchu oraz zdolności motorycznych. Stabilny uchwyt gwarantuje bezproblemowe utrzymanie grzechotki w małych rączkach. Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.)[cm]: 6x12x6, wymiary opakowania (dł. x wys. x gł.)[cm]: 16x20x6 waga produktu bez opakowania [kg]: 0,05 kg, waga produktu w opakowaniu [kg]: 0,09 kg, nie wymaga zasilania bateriami. Zabawka przeznaczona dla dzieci w wieku: 0m+.Pakowana na blistrze.</opis>
@@ -69220,7 +69220,7 @@ Zabawa tamburynkiem to dostarczanie  dziecku wielorakich bodźców aktywizujący
 <nazwa>BAM BAM 515013 Grzechotka Żółwik</nazwa>
 <cena>8.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904335876154</EAN>
 <grupa>BAM BAM</grupa>
 <opis>Kolorowa Grzechotka Żółwik BAM BAM przeznaczona dla niemowląt od 3 miesiąca życia. W intensywnej kolorystyce, o zróżnicowanej fakturze materiałów i róznorodnej formie wypustek na płetwach zachęcająca malucha do zabawy,  jednocześnie stymulując rozwój zdolności manualnych oraz  zmysłów dotyku, wzroku, słuchu oraz zdolności motorycznych. INteraktywny przycisk, wyzwalajacy dzwięk, stanowis dodatkową atrakcjję aktywizującą zmysł słuchu. Grzechotka, dzieki miękkim silikonowym płetwom, może być takze doskonałym remedium w okresie ząbkowania, przynosząc ulgę obolałym dziąsłom maluszka. Wymiary/waga/baterie: wymiary produktu (dł. x wys. gł.)[cm]: 12x5x12, wymiary opakowania (dł. x wys. x gł.)[cm]: 15x21x5, waga produktu bez opakowania [kg]: 0,07 kg, waga produktu w opakowaniu [kg]: 0,09 kg, nie wymaga zasilania bateriami. Zabawka pakowana na blistrze.</opis>
@@ -74098,7 +74098,7 @@ Bardzo niewiele dzieci jest uczulonych na naturalny kauczuk hevea, jakkolwiek pr
 <nazwa>BIBS 210267 Smoczek uspokajający BOHEME DUSKY LILAC S</nazwa>
 <cena>19.38</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5713795229048</EAN>
 <grupa>BIBS</grupa>
 <opis>Ten przepiękny smoczek uspokajający z lateksową końcówką to najnowsza propozycja duńskiej marki BIBS.
@@ -74694,7 +74694,7 @@ Waga opakowania zbiorczego (kg): 2.364000</opis>
 <nazwa>CANPOL 0295 Zestaw Royal Baby set boy</nazwa>
 <cena>68.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691857919</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Zestaw akcesoriów niemowlęcych , niezbędnych „na start”. Stanowi idealną wyprawkę dla noworodka. W jego skład wchodzą butelki do karmienia w dwóch rozmiarach oraz smoczek usp. dla noworodka z tasiemką. Zapakowany w eleganckie opakowanie może posłużyć jako prezent powitalny dla Malucha. 0m+
@@ -80390,7 +80390,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 51/401 Silikonowy trójdzielny talerzyk z przyssawką MIŚ kremowy</nazwa>
 <cena>42.40</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691879379</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>To wyjątkowy moment, kiedy Twoje dziecko zaczyna samodzielnie jeść. Silikonowy talerz z przyssawką MIŚ jest idealny do pierwszych posiłków Maluszka na początku jego przygody z rozszerzaniem diety, także metodą BLW (Bobas Lubi Wybór). Cztery przegródki ułatwiają porcjowanie i sortowanie różnych smakołyków, co zachęca do próbowania nowych smaków i samodzielnego jedzenia. Talerz ma antypoślizgową przyssawkę, która zapobiega niekontrolowanemu przemieszczaniu się naczynia po powierzchni stołu lub blatu krzesełka do karmienia, uniemożliwia wywrócenie naczynia lub zrzucenie w całości na podłogę. Talerzyk trójdzielny z przyssawką został wykonany w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością. Talerz silikonowy jest elastyczny, wytrzymały i nietłukący się, co jest bardzo istotne w przypadku małych dzieci. Można myć w zmywarce i podgrzewać w mikrofalówce.
@@ -81236,7 +81236,7 @@ Produkt wolny od BPA. Przeznaczony dla dzieci powyżej 4. miesiąca życia.</opi
 <nazwa>CANPOL 56/606 Kubek niekapek z rurką i odważnikiem 270 ml Exotic pink</nazwa>
 <cena>20.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691852754</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Nowy kubek z silikonową niekapiącą rurką i odważnikiem Canpol babies wspiera prawidłowy rozwój jamy ustnej, mowy i zgryzu u 99% dzieci*. To doskonały wybór dla maluchów, które rozpoczynają przygodę z nauką samodzielnego picia. Odpowiedni dla dzieci już od 6. miesiąca życia! Unikalna silikonowa rurka z odważnikiem podąża za płynem, dzięki czemu Maluch wypije swój ulubiony napój do ostatniej kropli, niezależnie od tego pod jakim kątem przechyli kubeczek. Specjalna membrana umieszczona w rurce kubeczka sprawia, że płyn trafia do rurki wyłącznie podczas picia, zapobiega rozlewaniu, a nowoczesna pokrywka pozwala w łatwy i wygodny sposób schować rurkę i gwarantuje 100% szczelności, bez przeciekania!
@@ -82557,7 +82557,7 @@ W opakowaniu znajdują się:
 <nazwa>CANPOL 73/001 Wielorazowe majtki poporodowe siateczkowe 2szt S/M</nazwa>
 <cena>7.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407730011</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Siateczkowe majtki poporodowe wielorazowego użytku Canpol babies przeznaczone są do stosowania w okresie połogu:
@@ -82620,7 +82620,7 @@ grubość podkładu: 5 mm.</opis>
 <nazwa>CANPOL 74/016 Gryzak wodny Sowa</nazwa>
 <cena>4.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5903407740164</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny SOWA idealnie sprawdzi się w okresie ząbkowania, gdy dziąsła są rozpulchnione, bardzo swędzą i dziecko ma silną potrzebę gryzienia. Wykonany z miękkiego tworzywa, które dopasowuje się do dziąseł malucha. Różnorodne kształty i kolory stymulują rozwój koordynacji wzrokowo ruchowej dziecka. Gryzak jest lekki i poręczny, dzięki czemu maluchowi jest łatwiej go złapać i utrzymać w małych rączkach. Przeznaczony dla dzieci w wieku 0m+. Przed podaniem dziecku gryzak należy schłodzić w lodówce.</opis>
@@ -82631,7 +82631,7 @@ grubość podkładu: 5 mm.</opis>
 <nazwa>CANPOL 74/018 Gryzak wodny z grzechotką Konik</nazwa>
 <cena>5.76</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407740188</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny KONIK idealnie sprawdzi się w okresie ząbkowania, gdy dziąsła swędzą i dziecko ma silną potrzebę gryzienia. Wykonany z miękkiego tworzywa, które dopasowuje się do dziąseł malucha. Różnorodne kształty i kolory stymulują rozwój koordynacji wzrokowo ruchowej dziecka. Ma wbudowaną grzechotkę, która z pewnością przykuje jego uwagę. Gryzak jest lekki i poręczny, dzięki czemu maluchowi jest łatwiej go złapać i utrzymać w małych rączkach. Przeznaczony dla dzieci w wieku 3m+. Przed podaniem dziecku gryzak należy schłodzić w lodówce.</opis>
@@ -83019,7 +83019,7 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/014 Mum fit biustonosz do karmienia i odciągania M</nazwa>
 <cena>48.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407172538</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Komfort noszenia poprzez 360° dopasowania i uniesienia biustu.?
@@ -83182,7 +83182,7 @@ XL – 78/016?
 <nazwa>CANPOL 78/019 Mum fit majtki ciążowe pod brzuch rozmiar L 2 szt.</nazwa>
 <cena>19.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407172583</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Wygodna bielizna dla kobiet w ciąży – 2 sztuki w 2 uniwersalnych kolorach: beżowe oraz czarne majtki ciążowe Canpol babies MumFit. Zaprojektowane specjalnie dla przyszłych mam poszukujących wygodnej, bawełnianej bielizny ciążowej. ?Miękkie i elastyczne z szeroką gumką i wycięciem na brzuszek. Nie uciskają, idealnie dopasowują się do brzuszka, dlatego świetnie sprawdzą się przez cały okres ciąży. Figi ciążowe Canpol babies dopasowują się z każdej strony, dając uczucie drugiej skóry dla całodziennego komfortu i swobody w ruchu. 100% bawełniana biała wkładka umożliwia obserwację wydzieliny. Starannie wykonane majtki zachowują kształt, nie odkształcają się po praniu oraz nie strzępią. ?
@@ -83732,7 +83732,7 @@ Aspirator jest łatwy do utrzymania w czystości – zbiorniczek na wydzielinę 
 <nazwa>CANPOL 9/320 Końcówki do elektrycznego aspirtora do nosa 9/319</nazwa>
 <cena>19.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>0259016918977316</EAN>
 <grupa>CANPOL</grupa>
 <opis>Zapasowe końcówki do naszego elektrycznego aspiratora do nosa EasyNatural (nr kat. 9/319) są dopasowane do potrzeb Maluszka – z wąską końcówką stosowana przy płynnej wydzielinie i szersza przeznaczona do używania przy gęstej wydzielinie. Wykonane z miękkiego i bezpiecznego silikonu chronią błonę śluzową nosa, zapobiegając jej uszkodzeniu przy nagłych ruchach dziecka podczas usuwania wydzieliny. W przypadku gęstej i/lub suchej wydzieliny polecamy użyć soli fizjologicznej lub wody morskiej przeznaczonej do oczyszczania i nawilżania nosa, co ułatwi usunąć wydzielinę.</opis>
@@ -84241,7 +84241,7 @@ Waga:
 <nazwa>CEBA 102-000-731 Przewijak miękki profilowany krótki 50x70 Basic Goose</nazwa>
 <cena>40.59</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342320</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -84252,7 +84252,7 @@ Waga:
 <nazwa>CEBA 102-000-734 Przewijak miękki profilowany krótki 50x70 Basic Balloons</nazwa>
 <cena>40.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342344</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -84274,7 +84274,7 @@ Waga:
 <nazwa>CEBA 102-000-783 Przewijak miękki profilowany krótki 50x70 Basic Forest Friends</nazwa>
 <cena>40.60</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672345314</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI PROFILOWANY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -84439,7 +84439,7 @@ Waga:
 <nazwa>CEBA 143-000-734 Przewijak miękki mały 50x70 Basic Balloons</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672342566</EAN>
 <grupa>CEBA/PRZEWIJAKI</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -85487,7 +85487,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 307-000-734 Skladana mata do przewijania duża 50x80 Basic Balloons</nazwa>
 <cena>21.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672342429</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Pielęgnuj swoje dziecko bezpiecznie i komfortowo w każdych okolicznościach. Decydując się na zakup naszej składanej maty masz pewność, że wybierasz produkt najwyższej jakości, który został przetestowany i jest wyrobem certyfikowanym. Mata do przewijania to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej i wysokiej jakości certyfikowanej folii PCV, która jest nie tylko trwała i wytrzymała, ale także w pełni bezpieczna w kontakcie z delikatną skórą dziecka. Środek maty to miękkie wypełnienie, które zapewni komfort maluszkowi podczas pielęgnacji poza domem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 50x80 cm, po złożeniu 16,5x40 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -85845,7 +85845,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 744-000-671 Koło poporodowe Szare gwiazdki na białym</nazwa>
 <cena>33.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907672335759</EAN>
 <grupa>CEBA</grupa>
 <opis>Koło poporodowe to niezbędny artykuł dla każdej mamy rodzącej siłami natury. Koło przynosi ogromną ulgę po porodzie, ukojenie i upragniony komfort. Poduszka poporodowa jest niezbędna, aby mama mogła bez bólu siedzieć, nie narażając podrażnionego krocza na dodatkowe otarcia i uciski, a także aby mogła bezboleśnie karmić w pozycji siedzącej. Koło chroni obolałe krocze. Poduszka wypełniona jest drobnymi kuleczkami - antyalergiczną mikroperłą styropianową, która idealnie dopasowuje się do ciała i stosowana jest w poduszkach medycznych. Wycięcie w samym środku koła umożliwia kobiecie siedzenie bez uciskania na szwy. Koła poporodowe Ceba Baby dodatkowo wyposażone są w materiałowy dozownik, który pozwala na regulację objętości koła. Mama ma możliwość przesypania mikroperły do dozownika zmniejszając tym samym objętość koła, dopasowując je do własnych indywidualnych potrzeb. Materiały, z których wykonane jest koło poporodowe, gwarantują wysoką jakość produktu oraz długotrwałe użytkowanie.</opis>
@@ -86722,7 +86722,7 @@ Materiał: silikon
 <nazwa>CHICCO 00006910100000 Kubek z twardym ustnikiem 2Y+ GIRL</nazwa>
 <cena>26.18</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8058664144778</EAN>
 <grupa>CHICCO/AKCESORIA/KUBKI, SZTUĆCE I TALERZYKI, ŚLINIAKI</grupa>
 <opis/>
@@ -97067,7 +97067,7 @@ stosowany w rehabilitacji leczniczej</opis>
 <nazwa>DANPOL Materac gryko-sen 140x70x7 T18B</nazwa>
 <cena>98.70</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907645897031</EAN>
 <grupa>DANPOL</grupa>
 <opis>Jednostronny materac GRYKO-SEN wykorzystuje właściwości łuski gryczanej, która jest jedynym 100% naturalnym podkładem do spania dostępnym na rynku. Zawarte w łusce taniny uniemożliwiają rozwój roztoczy i bakterii w materacu i na powierzchni skóry. Dzięki układowi łusek przepływ powietrza jest łatwiejszy, przez co wykazuje zdolności wentylacyjne i kontroluje wilgotność ciała. Łuski gryki podczas poruszania się na materacu powodują delikatny masaż skóry i tkanki podskórnej. Wkład materaca został wykonany z odpowiednio dobranej pianki, która zapewnia prawidłowy rozwój kostny dziecka.</opis>
@@ -99307,7 +99307,7 @@ Niektórzy rodzice uważają, że gdy dziecko jest starsze i bardziej rozwinięt
 <nazwa>Dr.Browns WB91604 Butelka szeroka szyjka 270ml Options + dekorowana ze smoczkiem 6+ i ustnikiem niekapkiem różowa</nazwa>
 <cena>47.32</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>072239317273</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/ZESTAWY</grupa>
 <opis>Zestaw "Od butelki do kubka" różowy szeroka szyjka
@@ -102296,7 +102296,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30840 Kaczka Monika z maluchami</nazwa>
 <cena>114.46</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905692308401</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Kwa-kwa, a któż to nadciąga? To kacza rodzinka, mamusia i jej dwa urocze maluchy! Ta zgrana ekipa wesoło podąża przed siebie, przy dźwiękach miłych dla ucha piosenek. Kaczuszki łączą się ze sobą, jeżdżąc jedna za drugą „gęsiego”, ale potrafią poruszać się także w pojedynkę. Dodatkowo, małe kaczuszki można połączyć ze sobą skrzydełkami, aby tańczyły, kręcąc się naokoło lub grzecznie spacerowały w parze. Kacza mama wyposażona została w świecącą gwiazdkę na brzuszku oraz dwa przyciski, aktywujące melodie oraz trzeci, środkowy, służący regulacji głośności. Duża kaczka działa w trybie dynamicznym, opisanym wyżej, oraz w trybie statycznym, który przekształca ją w „lampkę” nocną, odtwarzającą kołysanki.
@@ -106289,7 +106289,7 @@ Waga: 7,9 kg</opis>
 <nazwa>EASY GO Wózek dziecięcy FARO SAGE GREEN</nazwa>
 <cena>322.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214730773</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
 <opis>Wózek spacerowy z automatycznym systemem składania FARO marki EASYGO – super jakość w niskiej cenie
@@ -110104,7 +110104,7 @@ Waga: 1,70 kg</opis>
 <nazwa>EURO-CART Gondola miękka do wózka Doblo Iron</nazwa>
 <cena>133.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5908214739769</EAN>
 <grupa>EURO CART</grupa>
 <opis>Miękka gondola (wkład niemowlęcy) przeznaczona jest do zastosowania w wózku dla bliźniąt lub dzieci rok po roku DOBLO marki EURO-CART. Gondola wykonana jest z tych samych tkanin w tych samych kolorach co wózek, więc idealnie się z nim komponuje.
@@ -111373,7 +111373,7 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO TAUPE</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5908214739745</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
@@ -112966,7 +112966,7 @@ PRODUKT 100% POLSKI
 <nazwa>EWA 731142 MELLOW Półśpioch biały 56</nazwa>
 <cena>18.33</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356731142</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
 <opis/>
@@ -113120,7 +113120,7 @@ PRODUKT 100% POLSKI
 <nazwa>EWA 731487 MELLOW Śpioch biały 50</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356731487</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114173,7 +114173,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852199 NEWBORN Śpioch niebieski 50</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852199</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114184,7 +114184,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852205 NEWBORN Śpioch niebieski 56</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852205</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114195,7 +114195,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852212 NEWBORN Śpioch niebieski 62</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852212</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114206,7 +114206,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852229 NEWBORN Śpioch ecru 50</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852229</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114217,7 +114217,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852236 NEWBORN Śpioch ecru 56</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852236</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114239,7 +114239,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852250 NEWBORN Śpioch biały 50</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852250</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114250,7 +114250,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852267 NEWBORN Śpioch biały 56</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852267</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114272,7 +114272,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852281 NEWBORN Śpioch róż 50</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852281</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114283,7 +114283,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852298 NEWBORN Śpioch róż 56</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852298</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114294,7 +114294,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852304 NEWBORN Śpioch róż 62</nazwa>
 <cena>25.96</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852304</EAN>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
@@ -114437,7 +114437,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852434 NEWBORN Półśpioch róż 50</nazwa>
 <cena>17.05</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852434</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
 <opis/>
@@ -114602,7 +114602,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852588 NEWBORN Pajac róż 50</nazwa>
 <cena>36.66</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852588</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -114668,7 +114668,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852649 NEWBORN Body REGL DŁ niebieski 50</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852649</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -114679,7 +114679,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852656 NEWBORN Body REGL DŁ niebieski 56</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852656</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -114701,7 +114701,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852670 NEWBORN Body REGL DŁ ecru 50</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852670</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -114734,7 +114734,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852700 NEWBORN Body REGL DŁ biały 50</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852700</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -114745,7 +114745,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852717 NEWBORN Body REGL DŁ biały 56</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852717</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -114767,7 +114767,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852731 NEWBORN Body REGL DŁ róż 50</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852731</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -114778,7 +114778,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852748 NEWBORN Body REGL DŁ róż 56</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356852748</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -115005,7 +115005,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 884718 Prześcieradło nieprz. bawełna jersey 120x60 ekri 27</nazwa>
 <cena>33.32</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356884718</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Prześcieradło nieprzemakalne 120x60 uszyte z miękkiej i przyjemnej w dotyku bawełny podgumowanej. Prześcieradło posiada gumkę dzięki, której nie ześlizguje się. Prześcieradło ma uniwersalny krój i wymiary. Podgumowanie zapobiega pobrudzeniom i przemakaniu prześcieradła. Prześcieradełko jest elementem, którego nie może zabraknąć w wyprawce dla maluszka. Prześcieradło wyprodukowane w Polsce.
@@ -116244,7 +116244,7 @@ Produkt: 100% POLSKI
 <nazwa>EWA 931023 NEWBORN Pajac welur róż 68</nazwa>
 <cena>42.76</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356931023</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -117046,7 +117046,7 @@ Certyfikaty:
 <nazwa>EWA 956808 Czapka Run&amp;Fun prążek jasny róż XS</nazwa>
 <cena>17.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905359956808</EAN>
 <grupa> UBRANKA/CZAPKI</grupa>
 <opis/>
@@ -122225,7 +122225,7 @@ Książeczka sensoryczna „Gagagu” to doskonała propozycja dla rodziców, kt
 <nazwa>GAGAGU GGG9788 Książeczka szelest</nazwa>
 <cena>23.42</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5908273097886</EAN>
 <grupa>GAGAGU</grupa>
 <opis>Książeczka Sensoryczna Szelest. Jest to książeczka sensoryczna, zaprojektowana z myślą o najmłodszych dzieciach, wspomagająca ich rozwój sensoryczny. Produkt ten charakteryzuje się różnorodnymi teksturami, dźwiękami oraz kolorami, które stymulują zmysły dziecka, takie jak dotyk, wzrok i słuch. Książeczka jest wykonana z miękkich, bezpiecznych materiałów, które są łatwe do chwytania przez małe rączki. Szelest, który wydaje książeczka, przyciąga uwagę dzieci i zachęca je do eksploracji. Dzięki różnorodnym elementom, takim jak lusterko, gryzak czy elementy do ściskania, dziecko może rozwijać swoje zdolności motoryczne i koordynację ręka-oko. Produkt ten jest idealny dla niemowląt od pierwszych miesięcy życia, wspierając ich rozwój poprzez zabawę</opis>
@@ -122978,7 +122978,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30056 Podwójna grzechotka miętowa</nazwa>
 <cena>14.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692300566</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Stylowa grzechotka w pięknym, miętowym kolorze posiada aż dwie kule wypełnione kolorowymi koralikami, które przy potrząsaniu wydają wesoły dźwięk. Otaczają je miękkie obręcze ze zróżnicowanymi wypustkami, połączone ze sobą na wzór sztangi. Ten pomysłowy kształt ułatwi maluszkom chwytanie zabawki, a wypustki przyniosą ulgę obolałym ząbkowaniem dziąsełkom.
@@ -123360,7 +123360,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 45476 Grzechotka kosmos kontrastowa</nazwa>
 <cena>26.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8711427045476</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis/>
@@ -123426,7 +123426,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 45544 Gryzak kaktus żółty</nazwa>
 <cena>14.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8711427045544</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis/>
@@ -124115,7 +124115,7 @@ Wymiary: 44,30x23,50x40,50 cm</opis>
 <nazwa>GRACO Fotelik BOOSTER MAX R129 Iron</nazwa>
 <cena>128.69</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5060624773433</EAN>
 <grupa>GRACO</grupa>
 <opis>Fotelik samochodowy BOOSTER MAX i-Size 135 - 150cm (ok. 7 do ok. 12 lat)
@@ -127901,7 +127901,7 @@ Interaktywna zabawka - rozwój dotyku i słuchu, zdolności poznawczych/ charakt
 <nazwa>ICOM 7159758 Gryzaczek grzechotka promocja!</nazwa>
 <cena>9.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6927159758085</EAN>
 <grupa>ICOM</grupa>
 <opis>Wymiary: 3.5 cm x 15 cm x 11 cm</opis>
@@ -128386,7 +128386,7 @@ Po pełnym naładowaniu działa około 10 godzin</opis>
 <b2b>
 <kod>785820</kod>
 <nazwa>INNOGIO GIO-137 Lampka silikonowa nocna GIOrabbit Maxi 30 cm</nazwa>
-<cena>151.00</cena>
+<cena>137.00</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>5904405021163</EAN>
@@ -128462,9 +128462,9 @@ W zestawie znajduje się:
 <b2b>
 <kod>59114618</kod>
 <nazwa>INNOGIO GIO-143 Silikonowa lampka nocna GIOsleepy Panda</nazwa>
-<cena>0.00</cena>
+<cena>59.93</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN/>
 <grupa>INNOGIO</grupa>
 <opis/>
@@ -129980,7 +129980,7 @@ Zakres temperatur urządzenia to przedział 37°C - 90°C w zależności od uży
 <nazwa>INNOGIO GIO-450BH Wymienne główki do szczoteczki GIOgiraffe &amp; GIOrabbit</nazwa>
 <cena>29.60</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5904405021293</EAN>
 <grupa>INNOGIO</grupa>
 <opis>Razem z Tobą dbamy o zdrowe zęby Twojego dziecka. Właśnie dlatego przygotowaliśmy w swojej ofercie wymienne główki do szczoteczki GIOgiraffe InnoGIO.
@@ -130667,9 +130667,9 @@ Instrukcja</opis>
 <b2b>
 <kod>5914676</kod>
 <nazwa>INNOGIO GIO-460CAPYBARA Soniczna szczoteczka</nazwa>
-<cena>0.00</cena>
+<cena>52.37</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5901803993719</EAN>
 <grupa>INNOGIO</grupa>
 <opis>GIOsonic Coco the Capybara soniczna szczoteczka dla dzieci
@@ -130714,7 +130714,7 @@ InnoGIO Global sp. z o. o.</opis>
 <nazwa>INNOGIO GIO-460CROCODILE Soniczna szczoteczka</nazwa>
 <cena>52.37</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5904405021781</EAN>
 <grupa>INNOGIO</grupa>
 <opis>GIOsonic Crocodile soniczna szczoteczka dla dzieci
@@ -130764,7 +130764,7 @@ Zasilanie: kabel USB, Napięcie/moc znamionowa DC 3,7 V–0,5 W?</opis>
 <nazwa>INNOGIO GIO-460GIRAFFE Soniczna szczoteczka</nazwa>
 <cena>52.37</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904405021798</EAN>
 <grupa>INNOGIO</grupa>
 <opis>GIOsonic Giraffe soniczna szczoteczka dla dzieci
@@ -131001,9 +131001,9 @@ Rodzaj baterii: Bateria 3 x AAA (nie dołączone do zestawu)</opis>
 <b2b>
 <kod>59114616</kod>
 <nazwa>INNOGIO GIO-759BN Lusterko kosmetyczne z neonowym podświetleniem LED</nazwa>
-<cena>0.00</cena>
+<cena>113.03</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN/>
 <grupa>INNOGIO</grupa>
 <opis/>
@@ -131011,9 +131011,9 @@ Rodzaj baterii: Bateria 3 x AAA (nie dołączone do zestawu)</opis>
 <b2b>
 <kod>59114615</kod>
 <nazwa>INNOGIO GIO-759BY Lusterko kosmetyczne z neonowym podświetleniem LED</nazwa>
-<cena>0.00</cena>
+<cena>113.03</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN/>
 <grupa>INNOGIO</grupa>
 <opis/>
@@ -131021,9 +131021,9 @@ Rodzaj baterii: Bateria 3 x AAA (nie dołączone do zestawu)</opis>
 <b2b>
 <kod>59114617</kod>
 <nazwa>INNOGIO GIO-759C Lusterko kosmetyczne z neonowym podświetleniem LED</nazwa>
-<cena>0.00</cena>
+<cena>97.83</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN/>
 <grupa>INNOGIO</grupa>
 <opis/>
@@ -131573,7 +131573,7 @@ Cechy produktu:
 <nazwa>JOLLYBABY JB 82575 Tajemnice oceanu-ogonki</nazwa>
 <cena>26.52</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783825753</EAN>
 <grupa>DUMEL/JOLLYBABY</grupa>
 <opis>Gotowi na sensoryczną podróż, pełną koloru i oceanicznych zwierzątek? W materiałowej książeczce znajdziemy szeleszczącą okładkę oraz barwne strony, ozdobione obrazkami ze zwierzakami, krótkimi zdaniami w języku polskim oraz wystającymi, materiałowymi elementami o zróżnicowanych fakturach. Książeczka wyposażona jest w praktyczną zawieszkę, zapinaną na rzep, która pozwala przymocować ją w wybranym miejscu, aby mogła towarzyszyć maluchowi w domu i na spacerze.
@@ -132671,9 +132671,9 @@ Wymiary: 40 x 37 x 21</opis>
 <b2b>
 <kod>22177</kod>
 <nazwa>KEEEPER 10032 IGOR WINNIE Dwustopniowy podest antypoślizgowy biały</nazwa>
-<cena>28.94</cena>
+<cena>30.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396071764</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -132685,7 +132685,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER 10819 EWA PEPPA PIG Nakładka sedesowa antypoślizgowa lekki popiel</nazwa>
 <cena>11.22</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>4052396044393</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Nakładka sedesowa
@@ -132779,9 +132779,9 @@ Wymiary: 40 x 37 x 21</opis>
 <b2b>
 <kod>774316</kod>
 <nazwa>KEEEPER 18642 TOMEK STARS Podest antypoślizgowy kosmiczny biały</nazwa>
-<cena>12.80</cena>
+<cena>13.40</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396045017</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -132793,7 +132793,7 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER 18642 TOMEK STARS Podest antypoślizgowy kosmiczny szary</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>4052396045000</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -132862,9 +132862,9 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <b2b>
 <kod>22321</kod>
 <nazwa>KEEEPER 1950 IGOR MICKEY Podest dwustopniowy antypoślizgowy cloudy blue</nazwa>
-<cena>28.94</cena>
+<cena>30.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396073393</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -132876,7 +132876,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER 8436 WIKTORIA HIPPO Wanna 84 cm biała</nazwa>
 <cena>23.40</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396059021</EAN>
 <grupa>KEEEPER/WANNY</grupa>
 <opis>Ahoj marynarzu! Przyjemnego rejsu! W dużej wanience dla niemowląt, każde dziecko czuje się jak mały kapitan.
@@ -132969,6 +132969,16 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/17739-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114657</kod>
+<nazwa>KEEEPER ADAM FUNNY FARM Nocnik</nazwa>
+<cena>11.74</cena>
+<VAT>23</VAT>
+<stan>duża ilość</stan>
+<EAN>4052396134650</EAN>
+<grupa>KEEEPER/NOCNIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>790021</kod>
 <nazwa>KEEEPER ADAM FUNNY FARM Nocnik z funkcją antypoślizgową nordic green (nordycka zieleń)</nazwa>
 <cena>11.74</cena>
@@ -132996,9 +133006,9 @@ PP/TPE</opis>
 <b2b>
 <kod>5911517</kod>
 <nazwa>KEEEPER ADAM LION KING Nocnik z funkcją antypoślizgową biały</nazwa>
-<cena>15.11</cena>
+<cena>15.72</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>4052396117400</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Produkt jest wykonany z bezpiecznego tworzywa PP/TPE, które nie zawiera BPA, dzięki czemu jest przyjazny dla zdrowia dziecka.</opis>
@@ -133119,9 +133129,9 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <b2b>
 <kod>5910863</kod>
 <nazwa>KEEEPER ADAM STITCH Nocnik z funkcją antypoślizgową biały</nazwa>
-<cena>15.11</cena>
+<cena>15.72</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396112634</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis/>
@@ -133237,7 +133247,7 @@ Produkt pasuje na wszystkie standardowe toalety.</opis>
 <nazwa>KEEEPER EWA FROZEN Nakładka sedesowa antypoślizgowa</nazwa>
 <cena>7.94</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>4052396058383</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -133267,11 +133277,21 @@ PP/TPE</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790022-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114658</kod>
+<nazwa>KEEEPER EWA FUNNY FARM Nakładka toaletowa</nazwa>
+<cena>8.82</cena>
+<VAT>23</VAT>
+<stan>duża ilość</stan>
+<EAN>4052396134667</EAN>
+<grupa>KEEEPER/NAKŁADKI NA WC</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5911518</kod>
 <nazwa>KEEEPER EWA LION KING Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
-<cena>11.22</cena>
+<cena>11.70</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>4052396117417</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Produkt wyposażony jest w wygodne uchwyty, które zapewniają dziecku dodatkowe wsparcie i stabilność.</opis>
@@ -133280,9 +133300,9 @@ PP/TPE</opis>
 <b2b>
 <kod>779937</kod>
 <nazwa>KEEEPER EWA MICKEY MOUSE Nakładka sedesowa antypoślizgowa cloudy blue (pochmurny błękit)</nazwa>
-<cena>19.46</cena>
+<cena>11.70</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>4052396073355</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -133294,7 +133314,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA MINNIE Nakładka sedesowa z funkcją antypoślizgową nordic pink</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396080803</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>informacje o produkcie
@@ -133328,7 +133348,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA PAW PATROL Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396092899</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -133388,7 +133408,7 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER IGOR BAMBI Podest dziecięcy dwustopniowy z funkcją antypoślizgową nordic white</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>4052396092998</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podnóżek dla dziecka zapewni maluchowi wygodę i ułatwi mu korzystanie z umywalki lub toalety. Doskonale sprawdzi się również w codziennym użytkowaniu, gdzie dziecko potrzebuje bezpiecznego podwyższenia.
@@ -133409,9 +133429,9 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <b2b>
 <kod>5914623</kod>
 <nazwa>KEEEPER IGOR CUTE CAPYBARA Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
-<cena>23.13</cena>
+<cena>24.38</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396136197</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Wykonane z mocnego tworzywa sztucznego – Materiał wykazuje odporność na zarysowania oraz uszkodzenia
@@ -133428,6 +133448,16 @@ Kolorowe motywy z bajek – Kolorowe motywy z bajek przyczynią się do chętnie
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>4052396134896</EAN>
+<grupa>KEEEPER/STOPNIE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>59114660</kod>
+<nazwa>KEEEPER IGOR FUNNY FARM Podest dwustopniowy</nazwa>
+<cena>24.38</cena>
+<VAT>23</VAT>
+<stan>duża ilość</stan>
+<EAN>4052396134681</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis/>
 </b2b>
@@ -133481,7 +133511,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR MINNIE MOUSE Podest dziecięcy dwustopniowy antypoślizgowy nordic pink</nazwa>
 <cena>30.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396080827</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -133503,7 +133533,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER IGOR PANDA Podest dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396072839</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -133569,7 +133599,7 @@ Zakres dostawy: 1 taboret Igor, dwupoziomowy, tęczowy dekor, wymiary (dł. x sz
 <nazwa>KEEEPER IGOR STARS Podest dwustopniowy antypoślizgowy kosmiczny szary</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>4052396044867</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -133579,9 +133609,9 @@ Wymiary: 40 x 37 x 21</opis>
 <b2b>
 <kod>5913423</kod>
 <nazwa>KEEEPER IGOR STITCH Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
-<cena>28.94</cena>
+<cena>30.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>4052396117394</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Dwupoziomowy taboret ze ściegiem Disney's Stitch dla dzieci w wieku od ok. 3 do ok. 14 lat, zapewnia bezpieczne wchodzenie i siedzenie – idealnie nadaje się do dotarcia do umywalki lub toalety
@@ -133594,7 +133624,7 @@ Zakres dostawy: 1 stołek Igor, dwupoziomowy, ścieg dekoracyjny, art. 10032, wy
 <b2b>
 <kod>775244</kod>
 <nazwa>KEEEPER IWONA Siatka do wanienki lekki popiel</nazwa>
-<cena>19.54</cena>
+<cena>23.27</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN>4052396045741</EAN>
@@ -133869,6 +133899,16 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <opis/>
 </b2b>
 <b2b>
+<kod>59114659</kod>
+<nazwa>KEEEPER TOMEK FUNNY FARM Podest jednostopniowy</nazwa>
+<cena>13.40</cena>
+<VAT>23</VAT>
+<stan>duża ilość</stan>
+<EAN>4052396134674</EAN>
+<grupa>KEEEPER/STOPNIE</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5902866</kod>
 <nazwa>KEEEPER TOMEK FUNNY FARM Podest z funkcją antypoślizgową nordic green</nazwa>
 <cena>12.80</cena>
@@ -133927,9 +133967,9 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <b2b>
 <kod>790831</kod>
 <nazwa>KEEEPER TOMEK MINNIE MOUSE Podest  antypoślizgowy nordic pink</nazwa>
-<cena>16.04</cena>
+<cena>16.70</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>4052396080810</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -133962,9 +134002,9 @@ Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć 
 <b2b>
 <kod>21141</kod>
 <nazwa>KEEEPER TOMEK PAW PATROL Podest antypoślizgowy biały</nazwa>
-<cena>16.04</cena>
+<cena>16.70</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396093100</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -133976,7 +134016,7 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER TOMEK PEPPA PIG Podest dziecięcy z funkcją antypoślizgową nordic white</nazwa>
 <cena>16.04</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396080568</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -134013,7 +134053,7 @@ Zakres dostawy: 1 taboret Tomek, jednopoziomowy, dekoracja Peppa, wymiary (dł. 
 <nazwa>KEEEPER TOMEK RAINBOW Podest antypoślizgowy biały</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396093155</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis/>
@@ -134050,6 +134090,16 @@ wskazówki pielęgnacyjne
 materiał
 PP</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790020-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114656</kod>
+<nazwa>KEEEPER WIKTORIA FUNNY FARM Wanna 100x51x31</nazwa>
+<cena>42.95</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>4052396134698</EAN>
+<grupa>KEEEPER/WANNY</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5914934</kod>
@@ -137861,7 +137911,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 <nazwa>KIECZMERSKI Pieluszka 30x30 cm MUŚLIN bawełna 100% pudrowy róż 2-pak</nazwa>
 <cena>9.15</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907378101641</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>Pieluszka z muślinu bawełnianego (podwójna gaza) 30x30 cm MUŚLIN BAWEŁNIANY CIEPŁY BEŻ BAWEŁNA 100%
@@ -137954,9 +138004,9 @@ Polski produkt antyalergiczny, bezpieczny dla niemowląt.</opis>
 <kod>59114619</kod>
 <nazwa>KIECZMERSKI Pieluszki 80x80 + / -3 cm MUŚLIN bawełna 100% śmietanka / listki 2-pak</nazwa>
 <cena>0.00</cena>
-<VAT>23</VAT>
+<VAT>5</VAT>
 <stan>brak</stan>
-<EAN/>
+<EAN>5907378108800</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis/>
 </b2b>
@@ -138737,7 +138787,7 @@ WZÓR - MISIE BEŻ</opis>
 <nazwa>KIECZMERSKI Pościel C-2 100x135 cm MIMINU DESIGN Misie błękit bawełna 100%</nazwa>
 <cena>41.46</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis>Komplet pościeli 2 elementowej 120x90 cm BAWEŁNA 100%
@@ -140180,7 +140230,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <nazwa>KIECZMERSKI Rożek standard 75x75 cm MIMINU DESIGN Samochodziki niebieskie bawełna 100%</nazwa>
 <cena>28.66</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis>Rożek niemowlęcy z  tkaniny bawełnianej, wyprodukowanej w polskich fabrykach. Idealny do przenoszenia dziecka, ułatwia karmienie i usypianie niemowlęcia. Dopasowuje się do kształtu ciała, zachowując odpowiednią twardość. Niezwykle miękka i przyjemna w dotyku tkanina bawełniana zapewnia komfort użytkowania, stwarza bezpieczną i przyjazną dziecku atmosferę.
@@ -143320,7 +143370,7 @@ Dla dzieci: od narodzin do 9 kg (lub momentu, w którym dziecko zacznie siadać)
 <nazwa>KINDERKRAFT Bujaczek MIMI grey</nazwa>
 <cena>184.25</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533918355</EAN>
 <grupa>KINDERKRAFT/BUJACZKI</grupa>
 <opis>Lekki leżaczek MIMI
@@ -149164,7 +149214,7 @@ Wymiary i waga kartonu: 62,5 x 54 x 35 (cm) / 9,6 kg</opis>
 <nazwa>KINDERKRAFT Krzesełko TINO beige do 110kg</nazwa>
 <cena>408.38</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902533929771</EAN>
 <grupa>KINDERKRAFT/KRZESEŁKA</grupa>
 <opis>Kinderkraft TINO – krzesełko do karmienia 3w1 | do 110 kg
@@ -156569,7 +156619,7 @@ opcja dołączenia pojemnika na pościel, 2 wyjmowane szczeble, 3 poziomy matera
 <nazwa>KLUPŚ Łóżeczko AMELIA II dąb 120x60</nazwa>
 <cena>375.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245273</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko dziecięce Amelia II dąb 120×60 posiada 2 wyjmowane szczeble, 3 poziomy regulacji wysokości dna oraz możliwość zamontowania niskiej barierki ochronnej. Szczebelki, które znajdują się zarówno w bokach łóżeczka, jak i jego szczycie pozwalą na obserwowanie śpiącego niemowlaka z każdej strony. Kolorystyka łóżeczka Amelia II ociepli wnętrze dziecięcego pokoiku – świetnie skomponuje się z pastelowymi odcieniami różu oraz zieleni. To łóżeczko niemowlęce sprawdzi się idealnie zarówno w pokoju chłopca, jak i dziewczynki. Kiedy już Wasze Maleństwo nieco podrośnie do łóżeczka dokupić można niską barierkę ochronną, dzięki której możecie cieszyć się łóżeczkiem 120×60 do około 3 roku życia dziecka.
@@ -157271,7 +157321,7 @@ funkcje
 <nazwa>KLUPŚ Łóżko PAULINE z barierką grafit-sosna 120x60</nazwa>
 <cena>352.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912245150</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>wymiar wewnętrzny: 120x60 cm.
@@ -157810,7 +157860,7 @@ Kod EAN: 5901912245419</opis>
 <nazwa>KLUPŚ Szafa 3-segmentowa LAURA szampan - buk</nazwa>
 <cena>920.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245839</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Przedstawiamy szafę 3-segmentową LAURA w eleganckim kolorze szampańskim, która wprowadzi do każdego wnętrza ciepło i styl. Jej wyjątkowy design łączy w sobie funkcjonalność i estetykę, dzięki czemu doskonale sprawdzi się zarówno w pokoju niemowlaka, jak i starszego dziecka. Szafa wykonana jest z najwyższej jakości materiałów, a uchwyty i wysokie nóżki z drewna bukowego dodają jej klasycznego uroku. Wnętrze szafy jest niezwykle pojemne i przemyślane – znajdziesz tam 3 funkcjonalne szuflady, drążek na ubrania oraz liczne półki, które pomieszczą wszystkie niezbędne rzeczy. Praktycznym rozwiązaniem jest możliwość zdjęcia półki pod drążkiem, co pozwala dostosować przestrzeń do rosnących potrzeb dziecka. Szafa LAURA to doskonały wybór dla rodziców ceniących sobie jakość, wygodę i piękno w jednym.
@@ -168594,7 +168644,7 @@ prawidłowa koordynacja ssania, połykania i oddychania*</opis>
 <nazwa>LOVI 21/573 Butelka samosterylizująca 150ml</nazwa>
 <cena>22.86</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407215730</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis>Specjalnie zaprojektowany kapsel pozwala, przy użyciu kuchenki mikrofalowej, wysterylizować butelkę i wszystkie jej części składowe w zaledwie 90 sekund. Wystarczy wlać do kapsla odpowiednią ilość wody, włożyć do niego nakrętkę i smoczek z założonym uchwytem, połączyć z butelką (poprzez zakliknięcie) i wstawić do odpowiednio nastawionej kuchenki mikrofalowej. Po chwili butelka jest gotowa do karmienia. Wyposażona w smoczek dynamiczny do podawania mleka mamy, nie kolidujący z karmieniem piersią - nie zaburza odruchu ssania*, nie zniechęca do ssania piersi, które jest najlepszą formą żywienia niemowlęcia. Kompatybilna z laktatorami Prolactis i Protect. Teraz z nowym systemem odpowietrzania SUPER vent. 
@@ -171307,7 +171357,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/416 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Baby Blue</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691890473</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -174875,7 +174925,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm Wieloryb satynowy błękit</nazwa>
 <cena>24.55</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067015909</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis/>
@@ -183910,7 +183960,7 @@ Wkład: pianka termoplastyczna</opis>
 <nazwa>MATEX Ochraniacz do łóżeczka BUMP AIR 180x30 [TB0238_01]</nazwa>
 <cena>59.91</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902675040501</EAN>
 <grupa>BABYMATEX/POZOSTAŁE</grupa>
 <opis>Ochraniacz Bump AIR®
@@ -185127,7 +185177,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło FROTTE PREMIUM z gumką 60x120 [TB0025_01] białe</nazwa>
 <cena>22.18</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902675000314</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
 <opis>Wykonane z najwyższej jakości dzianiny frotte. Ciepłe, przewiewne i miłe w dotyku. Posiada gumkę wszytą w tunel co uniemożliwia zsunięcie się z materaca podczas snu. Po praniu nie zmienia swoich wymiarów i kolorów. Nie wymaga prasowania. Dostępne w wielu kolorach.
@@ -198359,7 +198409,7 @@ Waga z opakowaniem - 9,8 kg</opis>
 <nazwa>MILLY MALLY 5429 Kołyska Dream On - STAR</nazwa>
 <cena>206.73</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761128611</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Nowoczesne a przede wszystkim wielozadaniowa Kołyska Dream On 2in1 od Milly Mally. Najnowszy designe Kołyski Dream On oraz zastosowane rozwiązania technologiczne z pewnością przypadną do gustu rodziców. Łóżeczko- kołyska ta łączy w sobie 2 funkcje – jako łóżeczko dla dzieci od pierwszych dni życia oraz kołyska.
@@ -201854,7 +201904,7 @@ Waga brutto: 5,3 kg
 <nazwa>MILLY MALLY 5703 Gokard na pedały Thor White</nazwa>
 <cena>260.74</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761129342</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Twoje dziecko chce poczuć się jak prawdziwy kierowca rajdowy? Mamy dla Was świetna wiadomość – w naszej ofercie pojawił się gokart THOR.
@@ -208581,7 +208631,7 @@ www.pminvestment.pl/manual/ tinymini_manual.pdf
 <nazwa>MILLY MALLY 6097 TinyMini 382-1B Mata edukacyjna Koala</nazwa>
 <cena>55.38</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901761129977</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini 3821B Koala to urocze i funkcjonalne miejsce do zabawy dla najmłodszych dzieci. Zaprojektowana z myślą o rozwoju sensorycznym i motorycznym, przyciąga wzrok maluszka dzięki pastelowym kolorom, kontrastowym wzorom i przyjaznym motywom zwierzątek z dżungli. Idealna od pierwszych dni życia.
@@ -225621,7 +225671,7 @@ www.pminvestment.pl/manual/tinymini_manual.pdf</opis>
 <nazwa>MILLY MALLY 6831 TinyMini 8771 Mata edukacyjna Czuczuś</nazwa>
 <cena>84.75</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907090700948</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini Czuczuś to wielofunkcyjna mata edukacyjna dla niemowląt, która wspiera rozwój dziecka już od pierwszych dni życia (0+). Łączy w sobie zabawę, bezpieczeństwo i stymulację sensoryczną, dopasowując się do kolejnych etapów rozwoju malucha.
@@ -247497,7 +247547,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM002-G-01 Rajstopy lycra 20 den białe 104/110</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905204300411</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -247563,7 +247613,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM002-G-01 Rajstopy lycra 20 den białe 80/86</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905204348277</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -247852,7 +247902,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM008-G-01 Rajstopy 20 den białe w serca 104/110</nazwa>
 <cena>6.09</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204312667</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis>92% polymide, 8% elastane</opis>
@@ -248855,7 +248905,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB116-G-01 Skarpety niemowlęce żakardowe za kostki mix 0-6m</nazwa>
 <cena>3.04</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204390603</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -248888,7 +248938,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB116-G-01 Skarpety żakardowe za kostki mix 19/22</nazwa>
 <cena>2.96</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5905204390634</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -248921,7 +248971,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB173-B-01 Skarpety bawełniane chłopięce 3D Dino mix 15/18</nazwa>
 <cena>3.04</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907220848809</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -248943,7 +248993,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB174-B-01 Skarpety niemowlęce bawełniane autka mix 12-18m</nazwa>
 <cena>2.67</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5907220849394</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -249284,7 +249334,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI ST079-B-01 Stopki bawełniane chłopięce z misiem 15/18</nazwa>
 <cena>2.67</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907220839371</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -250609,7 +250659,6 @@ Smoczek lateksowy NUK Star:
 • nie zawiera BPA
 • opakowanie może służyć również jako pudełko do przechowywania smoczków oraz do higienicznego czyszczenia w kuchence mikrofalowej
 • 2 szt./pudełko, dostępny w 3 rozmiarach</opis>
-<zdjecia>https://marini.pl/b2b/pictures/782493-1.jpg https://marini.pl/b2b/pictures/782493-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914489</kod>
@@ -251230,7 +251279,7 @@ Butelka NUK First Choice+ ze wskaźnikiem temperatury Disney Król Lew:
 <nazwa>NUK 741926 Butelka FC+ PP 300 ml z wskaźnikiem temperatury smoczek silikonowy 0-6 m-cy M</nazwa>
 <cena>25.70</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4008600360070</EAN>
 <grupa>NUK/BUTELKI I KUBKI/BUTELKI</grupa>
 <opis>Pierwszy wybór niemowląt, rodziców oraz ekspertów!
@@ -253299,7 +253348,7 @@ Oprócz uroczego króliczka Hugo, w kolekcji z bambusowego muślinu dostępne s�
 <nazwa>PETITE&amp;MARS 416820 Bambusowa muślinowa przytulanka Hugo Dusty Rose</nazwa>
 <cena>20.38</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8596202005919</EAN>
 <grupa>PETITE&amp;MARS/ZABAWKI</grupa>
 <opis>Najlepszy kompan na drzemkę
@@ -254329,7 +254378,7 @@ Produkt nie jest zabawką. Dla bezpieczeństwa i zdrowia Twojego dziecka przed p
 <nazwa>PETITE&amp;MARS 581799 Silikonowy gryzak do podawania owoców dla niemowląt Fruzi Green Ochre 6 m+</nazwa>
 <cena>12.78</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8596202015857</EAN>
 <grupa>PETITE&amp;MARS/PIELĘGNACJA I KARMIENIE</grupa>
 <opis>Stałe pokarmy bezpiecznie podane
@@ -254558,7 +254607,7 @@ Cechy:
 <nazwa>PETITE&amp;MARS 601819 Silikonowa zabawka sensoryczna Crazy Planet Intense Ochre 10 m+</nazwa>
 <cena>23.77</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8596202009474</EAN>
 <grupa>PETITE&amp;MARS/ZABAWKI</grupa>
 <opis>Niekończąca się kosmiczna zabawa
@@ -259285,7 +259334,7 @@ Cechy produktu:
 <nazwa>SCENTOS ST 40369 Pachnący piasek kinetyczny 2 szt mix kolorów</nazwa>
 <cena>9.40</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>DUMEL/SCENTOS</grupa>
 <opis>Cechy produktu:
@@ -259365,7 +259414,7 @@ Cechy produktu:
 <nazwa>SCENTOS ST 45473 Pachnący piasek kinetyczny - zestaw z akcesoriami</nazwa>
 <cena>40.05</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>194689454732</EAN>
 <grupa>DUMEL/SCENTOS</grupa>
 <opis>Cechy produktu:
@@ -259378,7 +259427,7 @@ Cechy produktu:
 <nazwa>SCENTOS ST 45479 Pachnący piasek kinetyczny 2 szt mix kolorów</nazwa>
 <cena>10.22</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>8463760454797</EAN>
 <grupa>DUMEL/SCENTOS</grupa>
 <opis>Cechy produktu:
@@ -261443,7 +261492,7 @@ Wierzch: 100% Pvc, Wewnątrz: 100% Pvc, Podeszwa: 100% Pvc</opis>
 <nazwa>SCORPIO OKL-0061 Klapek dziewczęcy jasno różowy z kotkiem r.34</nazwa>
 <cena>15.05</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903999451424</EAN>
 <grupa>YO CLUB- SCORPIO- OP. HURTOWE/BUCIKI</grupa>
 <opis>Skład
@@ -266085,7 +266134,7 @@ Plastikowy dinozaur na kółkach to idealna zabawka dla najmłodszych, łącząc
 <nazwa>SMILY PLAY E8996 Auto z kluczykami światło dźwięk</nazwa>
 <cena>19.44</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6944167100330</EAN>
 <grupa>SMILY PLAY/ZABAWKI MUZYCZNE</grupa>
 <opis>Zabawka Auto z Kluczykami - Grzechotka Hola z funkcjami światła i dźwięku to interaktywna i edukacyjna zabawka stworzona z myślą o najmłodszych.
@@ -271723,7 +271772,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-007-108 Nocnik krzesełko LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>21.05</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963071880</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -271906,7 +271955,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA JD-001-104 Nocnik ECO JEDNOROŻEC j.różowy</nazwa>
 <cena>9.21</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963007759</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Ergonomiczny nocnik ECO wykonany z wysokiej jakości plastiku, całkowicie bezpiecznego dla dzieci.
@@ -272106,7 +272155,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-005-104 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.różowy</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963008091</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>Fukcjonalna i wygodna wanienka o anatomicznym kształcie.
@@ -272318,7 +272367,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony</nazwa>
 <cena>16.58</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071019</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.
@@ -273411,7 +273460,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA PO-026-127 Nocnik antypoślizgowy Pozytywka Monsters c.różowy</nazwa>
 <cena>16.45</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963004765</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis/>
@@ -273679,7 +273728,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-059-104 Nocnik z pozytywką ECO KRÓLICZKI j.różowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963010292</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Ergonomiczny nocnik ECO wykonany z wysokiej jakości plastiku, całkowicie bezpiecznego dla dzieci.
@@ -273809,7 +273858,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-069-108 Nocnik z pozytywką antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963015600</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -274906,7 +274955,7 @@ Produkt zgodny z normą EN 71-3:2019.</opis>
 <nazwa>TEGA TI-001-103/123 Nocnik teggi biały/różowy</nazwa>
 <cena>19.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905489408055</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Specjalnie zaprojektowany symetryczny i ergonomiczny kształt nocnika Teggi jest wynikiem współpracy fizjoterapeutów, rodziców i projektantów wzornictwa. Jego anatomiczny kształt i rozmiar są idealnie dopasowane do budowy ciała dziecka. Dzięki wysokości siedziska dzieciom łatwiej siadać i wstawać z nocnika. Zdejmowana wewnętrzna część nocnika ułatwia czyszczenie. Dolna krawędź posiada wykończenie antypoślizgowe, co zapewnia stabilność nocnika na podłodze.
@@ -275001,7 +275050,7 @@ Cechy produktu:
 <nazwa>TEGA TI-001-164/103 Nocnik teggi granatowy/biały</nazwa>
 <cena>19.74</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905489408017</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Specjalnie zaprojektowany symetryczny i ergonomiczny kształt nocnika Teggi jest wynikiem współpracy fizjoterapeutów, rodziców i projektantów wzornictwa. Jego anatomiczny kształt i rozmiar są idealnie dopasowane do budowy ciała dziecka. Dzięki wysokości siedziska dzieciom łatwiej siadać i wstawać z nocnika. Zdejmowana wewnętrzna część nocnika ułatwia czyszczenie. Dolna krawędź posiada wykończenie antypoślizgowe, co zapewnia stabilność nocnika na podłodze.
@@ -277027,7 +277076,7 @@ zabawka "rośnie" razem z dzieckiem - można ją zamienić w przenośną pozytyw
 <nazwa>TINY LOVE TL1305906830R Karuzela podróżna - Magiczna Kraina - czarno-biała</nazwa>
 <cena>83.49</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>7290108861822</EAN>
 <grupa>TINY LOVE/KARUZELKI</grupa>
 <opis>Design "3 w 1" wykorzystuje kontrastujące czarno-białe kolory, aby stymulować wzrok dziecka już od narodzin
@@ -280979,7 +281028,7 @@ Wykonana jest z poliestru i posiada gumkę ułatwiającą zamontowanie</opis>
 <nazwa>TOPGAL 234219 Siatka łazienkowa</nazwa>
 <cena>6.46</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905121234219</EAN>
 <grupa>TOPGAL BAMBINO</grupa>
 <opis/>
@@ -281057,7 +281106,7 @@ Wzory i kolory wysyłane losowo.</opis>
 <nazwa>TOPGAL 563422 Śliniak</nazwa>
 <cena>3.66</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5905124563422</EAN>
 <grupa>TOPGAL BAMBINO</grupa>
 <opis/>
@@ -284559,7 +284608,7 @@ Waga opakowania zbiorczego (kg): 0.31</opis>
 <nazwa>TREFL 16563 Puzzle 100 Karmiąc kapibary / Rodzina Treflików</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511165630</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle 100 el. Inspired by Art Karmiąc kapibary przenoszą treflikowych bohaterów do uroczej, artystycznej scenerii z przyjaznymi zwierzątkami. Po ułożeniu powstaje obrazek o wymiarach 410 × 275 mm.
@@ -287929,7 +287978,7 @@ Doskonałe rozwiązanie dla dzieci od 3 roku życia, które dzięki zabawce pozn
 <nazwa>TREFL 61445 Zabawka drewniana Kotek z Myszką na kółkach</nazwa>
 <cena>24.29</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511614459</EAN>
 <grupa>TREFL</grupa>
 <opis>Kotek i Myszka z bajki Bobaski i Miś to zabawki wykonane z naturalnego drewna!
@@ -297287,6 +297336,48 @@ Zabawka rozwija:
 <zdjecia>https://marini.pl/b2b/pictures/5914531-1.jpg https://marini.pl/b2b/pictures/5914531-2.jpg https://marini.pl/b2b/pictures/5914531-3.jpg https://marini.pl/b2b/pictures/5914531-4.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114655</kod>
+<nazwa>VIGA 44301 Trójkąt aktywności - drewniana zabawka edukacyjna</nazwa>
+<cena>45.90</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>6971608443015</EAN>
+<grupa>VIGA</grupa>
+<opis>Trójkąt Aktywności to wszechstronna drewniana zabawka edukacyjna od marki Viga , która zapewnia dziecku długie godziny kreatywnej i rozwijającej zabawy. Dzięki pięciu stabilnym bokom oraz sześciu różnorodnym aktywnościom, maluch może odkrywać świat kształtów, kolorów i dźwięków z każdej strony. Zabawka została zaprojektowana tak, aby wspierać rozwój motoryki małej oraz koordynacji wzrokowo-ruchowej. Solidna konstrukcja umożliwia bezpieczną zabawę na każdej płaskiej powierzchni. Dodatkowym atutem jest wygodny uchwyt w postaci liczydła, który ułatwia przenoszenie.
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 18 mies. życia
+- Drewniany trójkąt aktywności z 5 stabilnymi bokami
+- Aż 6 różnych aktywności edukacyjnych
+- Możliwość ustawienia w stabilnej pozycji na płaskiej powierzchni
+- Liczydło pełniące funkcję wygodnego uchwytu
+- Elementy ruchome, obrotowe i przesuwane
+- Bezpieczna, trwała konstrukcja
+- Pastelowa kolorystyka przyjazna dla dziecka
+- Produkt zapakowany w estetyczne pudełko z okienkiem
+Zawartość zestawu:
+
+Drewniany trójkąt, który posiada 5 boków z aktywnościami takimi jak:
+
+- Liczydło z kolorowymi koralikami
+- Przesuwane tory i elementy manipulacyjne
+- Obracające się koła zębate
+- Lusterko
+- Elementy dźwiękowe (szeleszczące po obróceniu)
+- Sorter kształtów z dopasowywanymi elementami (3 szt)
+Zabawka rozwija:
+
+- Motorykę małą (chwytanie, przesuwanie, obracanie)
+- Koordynację wzrokowo-ruchową
+- Logiczne myślenie i koncentrację
+- Rozpoznawanie kształtów i kolorów
+- Wyobraźnię oraz ciekawość poznawczą
+- Samodzielność i kreatywność dziecka
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114655-1.jpg https://marini.pl/b2b/pictures/59114655-2.jpg https://marini.pl/b2b/pictures/59114655-3.jpg https://marini.pl/b2b/pictures/59114655-4.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5913326</kod>
 <nazwa>VIGA 44326 Drewniany jeździk Miś brunatny</nazwa>
 <cena>135.06</cena>
@@ -297805,7 +297896,7 @@ Wymiary opakowania	21x19x4,5 (cm)</opis>
 <nazwa>Viga 44677 Zestaw Tacos</nazwa>
 <cena>34.53</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>6971608446771</EAN>
 <grupa>VIGA</grupa>
 <opis>Zestaw do krojenia na desce- warzywa od firmy Viga to idealna zabawka, która pobudzi wyobraźnię Waszego dziecka. Drewniane zabawki w formie produktów spożywczych mogą być również wykorzystane jako materiał wizualny na zajęciach z dziećmi w grupie i w domu.
@@ -298658,6 +298749,16 @@ OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Nie używać zabawki jeś
 <zdjecia>https://marini.pl/b2b/pictures/5914866-1.jpg https://marini.pl/b2b/pictures/5914866-2.jpg https://marini.pl/b2b/pictures/5914866-3.jpg https://marini.pl/b2b/pictures/5914866-4.jpg https://marini.pl/b2b/pictures/5914866-5.jpg https://marini.pl/b2b/pictures/5914866-6.jpg https://marini.pl/b2b/pictures/5914866-7.jpg https://marini.pl/b2b/pictures/5914866-8.jpg https://marini.pl/b2b/pictures/5914866-9.jpg https://marini.pl/b2b/pictures/5914866-10.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114662</kod>
+<nazwa>VIGA 44815 Panel ścienny z cekinami</nazwa>
+<cena>70.09</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>6971608448157</EAN>
+<grupa>VIGA</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5913886</kod>
 <nazwa>VIGA 44818 Klocki Nature Treasures Układanka</nazwa>
 <cena>84.30</cena>
@@ -298754,6 +298855,16 @@ Zabawka rozwija:
 - Zdolności manualne i sortowanie
 - Wiedzę o zwierzętach egzotycznych i ich środowisku</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913883-1.jpg https://marini.pl/b2b/pictures/5913883-2.jpg https://marini.pl/b2b/pictures/5913883-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114664</kod>
+<nazwa>VIGA 44834 Tablica dwustronna z akcesoriami</nazwa>
+<cena>120.50</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>6971608448348</EAN>
+<grupa>VIGA</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>785957</kod>
@@ -301596,28 +301707,6 @@ Zabawkę można łączyć z zestawami z Mini Blocks.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/24963-1.jpg https://marini.pl/b2b/pictures/24963-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>786996</kod>
-<nazwa>WADER 41494 Baby Blocks Dino klocki triceratops*</nazwa>
-<cena>15.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>WADER</grupa>
-<opis>Klocki Baby Blocks Dino to doskonała propozycja na pierwsze klocki dla dziecka. Różnorodne kolory i kształty, rozmiar odpowiedni i bezpieczny dla najmłodszych oraz bardzo łatwy system montażu sprawią, że początek przygody z budowaniem będzie prosty i ciekawy. Przy pomocy Klocków Baby Blocks Dino dzieci zadebiutują tworząc rozmaite dinozaury. Klocki Dino występują w 4 modelach, a triceratops to wersja, w której 23 elementy pozwalają zbudować dwukolorowego dinozaura: jego prawdziwy odpowiednik osiągał długość aż 8 metrów!
-
-Zabawa Klockami Baby Blocks Dino firmy Wader pobudza wyobraźnię i kreatywność dzieci, rozwija ich umiejętności manualne, precyzję ruchów i koordynację wzrokowo-ruchową. Różnobarwne elementy świetnie się sprawdzą jako narzędzie do nauki podstawowych kolorów i pierwszych lekcji liczenia. Oprócz budowania, ciekawym zajęciem dla malucha może być sortowanie klocków wg kolorów czy kształtów, wrzucanie ich i wyjmowanie z pudełka. To również dobry sposób na wspólne spędzanie czasu, co dodatkowo pozytywnie wpłynie na rozwój społeczny i umiejętności komunikacyjne najmłodszych.
-
-Produkt wykonany jest z wysokiej jakości, trwałych, certyfikowanych materiałów, bezpiecznych dla najmłodszych.
-
-klocki występują w 4 wersjach: diplodok (17 elementów), triceratops (23 elementy), t-rex (24 elementów), stegosaurus (14 elementów)
-dołączone naklejki oraz instrukcja złożenia
-bardzo łatwy system montażu
-produkt wykonany z wysokiej jakości, trwałych, bezpiecznych, certyfikowanych materiałów
-przeznaczone dla dzieci 1+
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/786996-1.jpg https://marini.pl/b2b/pictures/786996-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>786997</kod>
 <nazwa>WADER 41495 Baby Blocks Dino klocki stegosaur*</nazwa>
 <cena>15.11</cena>
@@ -303154,24 +303243,6 @@ przeznaczone dla dzieci 1+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/779236-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>779233</kod>
-<nazwa>WADER 81816 Paw Patrol wiadro okrągłe 3.4 l</nazwa>
-<cena>7.12</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900694818163</EAN>
-<grupa>WADER</grupa>
-<opis>Okrągłe Wiaderko do zabawy na plaży, w ogródku lub w piaskownicy. Kolorowe, wykonane z grubego, wysokiej jakości tworzywa, odpornego na warunki atmosferyczne. Rączka wiaderka jest ergonomiczna, dzięki czemu ułatwia chwyt najmłodszym. Na zewnętrznej ściance znajduje się kolorowa grafika wykonana przy użyciu technologii IML (wtopiona bezpośrednio w plastik). Dzięki temu ciekawe, wesołe obrazki nie niszczą się pod wpływem temperatury, piasku czy słonej wody.
-
-Opis techniczny
-okrągłe wiadro o pojemności 3,4 l i wysokości 17 cm
-ergonomiczna rączka wiaderka ułatwiająca chwytanie
-kolorowa grafika na zewnętrznej ściance wiadra wykonana przy użyciu technologii IML
-produkt wykonany z wysokiej jakości, grubego, wytrzymałego tworzywa odpornego na różne warunki atmosferyczne i bezpiecznego dla dzieci
-przeznaczone dla dzieci 1+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/779233-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912294</kod>
 <nazwa>WADER 82123 Gabby's Dollhouse łopata długa</nazwa>
 <cena>10.60</cena>
@@ -304308,9 +304379,9 @@ Waga:	7.5 kg</opis>
 <b2b>
 <kod>5908885</kod>
 <nazwa>WOOPIE 31453 Piaskownica muszelka niebieska</nazwa>
-<cena>44.18</cena>
+<cena>52.51</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Piaskownica MUSZELKA marki Woopie to idealna zabawka do zastosowania w domu oraz na wolnym powietrzu. Jest wykonana z materiału odpornego na warunki atmosferyczne, kolor nie blaknie na słońcu. Nie posiada ostrych krawędzi, przez co zabawa Twojej pociechy jest bezpieczna. Jest to idealne rozwiązanie na wielogodzinną zabawę na świeżym powietrzu. Zabawka sprawdzi się jako piaskownica oraz basen w upalne dni. Po nalaniu wody jedna muszelka może służyć jako basenik, druga jako piaskownica. Poza sezonem piaskownicę można wykorzystać w domu jako duży pojemnik na zabawki lub jako suchy basen na piłki. Muszelka jest wygodna w transporcie i łatwa w czyszczeniu. Poprzez zaokrąglone krawędzie zabawka jest bezpieczna dla dziecka.
@@ -304332,9 +304403,9 @@ Waga:	4.5 kg</opis>
 <b2b>
 <kod>5908692</kod>
 <nazwa>WOOPIE 31460 Piaskownica muszelka różowa</nazwa>
-<cena>54.48</cena>
+<cena>52.50</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Piaskownica MUSZELKA marki Woopie to idealna zabawka do zastosowania w domu oraz na wolnym powietrzu. Jest wykonana z materiału odpornego na warunki atmosferyczne, kolor nie blaknie na słońcu. Nie posiada ostrych krawędzi, przez co zabawa Twojej pociechy jest bezpieczna. Jest to idealne rozwiązanie na wielogodzinną zabawę na świeżym powietrzu. Zabawka sprawdzi się jako piaskownica oraz basen w upalne dni. Po nalaniu wody jedna muszelka może służyć jako basenik, druga jako piaskownica. Poza sezonem piaskownicę można wykorzystać w domu jako duży pojemnik na zabawki lub jako suchy basen na piłki. Muszelka jest wygodna w transporcie i łatwa w czyszczeniu. Poprzez zaokrąglone krawędzie zabawka jest bezpieczna dla dziecka.
@@ -304380,9 +304451,9 @@ Waga:	4.5 kg</opis>
 <b2b>
 <kod>5908691</kod>
 <nazwa>WOOPIE 31484 Piaskownica muszelka czerwona</nazwa>
-<cena>44.18</cena>
+<cena>52.51</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Piaskownica MUSZELKA marki Woopie to idealna zabawka do zastosowania w domu oraz na wolnym powietrzu. Jest wykonana z materiału odpornego na warunki atmosferyczne, kolor nie blaknie na słońcu. Nie posiada ostrych krawędzi, przez co zabawa Twojej pociechy jest bezpieczna. Jest to idealne rozwiązanie na wielogodzinną zabawę na świeżym powietrzu. Zabawka sprawdzi się jako piaskownica oraz basen w upalne dni. Po nalaniu wody jedna muszelka może służyć jako basenik, druga jako piaskownica. Poza sezonem piaskownicę można wykorzystać w domu jako duży pojemnik na zabawki lub jako suchy basen na piłki. Muszelka jest wygodna w transporcie i łatwa w czyszczeniu. Poprzez zaokrąglone krawędzie zabawka jest bezpieczna dla dziecka.
@@ -304404,9 +304475,9 @@ Waga:	4.5 kg</opis>
 <b2b>
 <kod>5908689</kod>
 <nazwa>WOOPIE 31491 Piaskownica muszelka zielona</nazwa>
-<cena>44.18</cena>
+<cena>52.51</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Piaskownica MUSZELKA marki Woopie to idealna zabawka do zastosowania w domu oraz na wolnym powietrzu. Jest wykonana z materiału odpornego na warunki atmosferyczne, kolor nie blaknie na słońcu. Nie posiada ostrych krawędzi, przez co zabawa Twojej pociechy jest bezpieczna. Jest to idealne rozwiązanie na wielogodzinną zabawę na świeżym powietrzu. Zabawka sprawdzi się jako piaskownica oraz basen w upalne dni. Po nalaniu wody jedna muszelka może służyć jako basenik, druga jako piaskownica. Poza sezonem piaskownicę można wykorzystać w domu jako duży pojemnik na zabawki lub jako suchy basen na piłki. Muszelka jest wygodna w transporcie i łatwa w czyszczeniu. Poprzez zaokrąglone krawędzie zabawka jest bezpieczna dla dziecka.
@@ -306724,7 +306795,7 @@ Waga:	0.08 kg</opis>
 <nazwa>WOOPIE 48327 Gra zręcznościowa Swinging  Ball</nazwa>
 <cena>35.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Gra Zręcznościowa Swinging Ball od marki WOOPIE, to zabawna gra towarzyska, która rozkręci niejeden wieczór z rodziną czy znajomymi. Wspaniała propozycja zabawy ruchowej.Zmierz się ze swoimi bliskimi, kto pierwszy wytrzęsie wszystkie piłeczki z pasa zamontowanego na waszych biodrach wygrywa.
@@ -306919,6 +306990,39 @@ Zawartość pudełka:
 Wymiary opakowania	18 x 7 x 21 (cm)
 Waga:	0.72 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907437-1.jpg https://marini.pl/b2b/pictures/5907437-2.jpg https://marini.pl/b2b/pictures/5907437-3.jpg https://marini.pl/b2b/pictures/5907437-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5907853</kod>
+<nazwa>WOOPIE 48877 Czerwony samochód terenowy</nazwa>
+<cena>24.87</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5904326948877</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Czerwony Samochód Terenowy Jeep od marki WOOPIE sprawi frajdę każdemu małemu kierowcy. Autko wykonane z plastiku z gumowym bieżnikiem na kołach. Samochód wyposażony jest w efekty dźwiękowe i świetlne, dzięki czemu zabawa będzie jeszcze bardziej realistyczna. Auto z napędem friction, wystarczy pchnąć je do przodu, aby samo pojechało.
+
+Charakterystyka:
+
+- zabawka dla dzieci od 3 roku życia,
+- model w skali 1:16,
+- napęd friction - wystarczy pchnąć zabawkę do przodu i jedzie,
+- świecące przednie światła - migają w momencie naciśnięcia któregoś z 4 przycisków,
+- po naciśnięciu któregoś z 4 przycisków słychać odgłos charakterystyczne dla pojazdu,
+- posiada otwierane drzwi,
+- zabawka w całości wykonana jest z plastiku,
+- koła obtoczone z gumowym bieżnikiem,
+- wymaga baterii 3 x AG13/LR44.
+Efekty:
+
+- guzik niebieski - dźwięk odpalania pojazdu,
+- guzik żółty - odpowiada ze dźwięk pracy silnika,
+- guzik zielony - klakson,
+- guzik pomarańczowy - sygnał cofania.
+
+Wymiary produktu	24 x 13 x 12 (cm)
+Wymiary opakowania	27 x 15,5 x 14 (cm)
+Waga:	0.1 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5907853-1.jpg https://marini.pl/b2b/pictures/5907853-2.jpg https://marini.pl/b2b/pictures/5907853-3.jpg https://marini.pl/b2b/pictures/5907853-4.jpg https://marini.pl/b2b/pictures/5907853-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5908665</kod>
@@ -307656,6 +307760,58 @@ Wymiary opakowania	16,5 x 18,5 x 23 (cm)</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908684-1.jpg https://marini.pl/b2b/pictures/5908684-2.jpg https://marini.pl/b2b/pictures/5908684-3.jpg https://marini.pl/b2b/pictures/5908684-4.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114641</kod>
+<nazwa>WOOPIE 49973 Magnetyczne klocki konstrukcyjne Montessori</nazwa>
+<cena>49.29</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5904326949973</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Przenieś swoje konstrukcje na wyższy poziom z zestawem Magnetycznych klocków od marki WOOPIE. To dobrej jakości, kolorowe produkty, które zapewnią twojemu dziecku długie godziny zabawy!Wystarczy, że młody konstruktor połączy ze sobą elementy i zacznie tworzyć wymyślne budowle oraz wiele innych układów. Ograniczeniem jest tylko wyobraźnia. Układanie konstrukcji z klocków rozwija u dziecka kreatywność, zdolności manualne ("małą motorykę"), wyobraźnie przestrzenną oraz koncentrację. BUDOWANIE BEZ OGRANICZEŃ – Dzięki tym kolorowym, trójwymiarowym klockom magnetycznym osiągnięcia inżynieryjne Twojego dziecka są nieograniczone! Czerp inspirację z książki pomysłów lub zbuduj coś zupełnie wyjątkowego, korzystając z dziesiątek różnych magnetycznych klocków do wyboru! Klocki charakteryzują się łatwością łączenia poszczególnych elementów w dowolny sposób oraz pod różnymi kątami. Na bokach każdej figurki są wbudowane mocne magnesy , którą z dużą siłą łączą ze sobą kolejne klocki tworząc przeróżne figury. Klocki można układać płasko tworząc tory, wężyki itp oraz przestrzennie budując przeróżne figury trójwymiarowe. W ten sposób dzieci będą mogły nie tylko pobudzać swoją wyobraźnię przestrzenną.
+
+Charakterystyka:
+
+- Zabawka od 3 roku życia
+- Zawiera 28 klocków, pojemny woreczek zamykany ściągaczem oraz instrukcję z przykładowymi budowlami
+- Nieograniczona możliwość budowania różnych konstrukcji
+- Magnesy łatwo przyciągają się nawzajem, budując mocne budowle
+- Zestaw jest prosty w montażu i demontażu
+- Wygodne wytrzymałe pudełko
+Zabawka rozwija:
+
+- Wspiera rozwój manualny: Manipulowanie klockami wymaga precyzyjnych ruchów palców, co pomaga w rozwoju małej motoryki.
+- Rozwija wyobraźnię i kreatywność: Dzieci mogą tworzyć różnorodne konstrukcje, łącząc magnetyczne elementy. To zachęca do myślenia przestrzennego i eksperymentowania.
+- Rozwój sensoryczny
+- Stymuluje koncentrację: Skupienie się na budowaniu konstrukcji z magnesów pomaga w rozwijaniu umiejętności koncentracji.
+Uczy zasad fizyki: Dzieci mogą odkrywać, jak magnesy przyciągają się i odpychają. To świetny sposób na wprowadzenie podstaw fizyki.
+Zestaw zawiera 28 klocków:
+
+6 trójkątów
+12 kwadratów pełnych
+4 kwadraty bez wypełnionego środka
+2 wysokie trójkąty
+2 szerokie trójkąty
+2 prostokąty
+Instrukcję- zawarto w niej 16 przykładowych konstrukcji do zbudowania z jednego zestawu, oraz kilka propozycji z większą ilością klocków.
+Wymiary produktu:
+
+ kwadrat- 7,5 x 7,5 (cm)
+ prostokąt- 7,5 x 3,5 (cm)
+ trójkąt 1- 9,5 x 7 x 5 (cm)
+ trójkąt 2- 7 x 7 x 6 (cm)
+ trójkąt 3- 7 x 14 x 15,5 (cm)
+Wymiary opakowania: 30 x 21,5 x 5 (cm)
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+29.00 x 21.50 x 5.00 (cm)
+Waga
+0.80 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114641-1.jpg https://marini.pl/b2b/pictures/59114641-2.jpg https://marini.pl/b2b/pictures/59114641-3.jpg https://marini.pl/b2b/pictures/59114641-4.jpg https://marini.pl/b2b/pictures/59114641-5.jpg https://marini.pl/b2b/pictures/59114641-6.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5908666</kod>
 <nazwa>WOOPIE 49997 Piłka kosmiczna rakieta 6w1 Montesso</nazwa>
 <cena>17.06</cena>
@@ -307772,6 +307928,39 @@ Wysokość: 3 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908694-1.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5910844</kod>
+<nazwa>WOOPIE 50414 Ciężarówka Dinozaur Tor dla aut</nazwa>
+<cena>52.93</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280650414</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Zabawkowa Ciężarówka 4w1 od marki Woopie to zestaw do długiej i świetnej zabawy dla twojego dziecka. T-Rex zmienia się w powóz i tor wyścigowy. Zobacz które auto jest najszybsze! Ponad to po złożeniu toru, twoje dziecko zacznie zabawę ciężarówką- ilość sposobów zabawy, ogranicza tylko wyobraźnia! Złożony zajmuje mało miejsca i jest wygodny w przechowywaniu aut- po skończonej zabawie wystarczy złożyć tor i zapakować do pozostałe elementy. Podczas wyścigu, mogą jechać dwa auta, startując z głowy T-Rexa. Zabawka dostarcza dodatkowych atrakcji, dzięki zamontowanej wyrzutni aut. Wystarczy nacisnąć ruchomy element na głowie dinozaura, a auto niczym rakieta wystrzeli z jego buzi! Tor został tak sprytnie obmyślony, że pudełko, które służy do przechowywania jest równocześnie jednym z elementów toru.
+
+Głównym celem tego typu zabawki jest zapewnienie dzieciom zabawy i rozrywki, a także rozwijanie ich wyobraźni i zainteresowań. Tor wyścigowy z głowami dinozaura może być również używany do ćwiczenia umiejętności koordynacji ruchowej i koncentracji.
+
+Charakterystyka:
+
+- od 3 roku życia
+- DŁUGOŚĆ TORU AŻ 2,1 m!
+- Dobre wykonanie
+- 8 pięknych aut dołączonych do zestawu
+- W zestawie dodano rączka, dzięki której można łatwo przenosić swoją zabawkę
+- Zabawka łatwa do rozłożenia i złożenia
+- Idealna w podróż
+Funkcje zabawki:
+
+- Tor dla samochodzików o długości 2,1 metra
+- Ciężarówka dinozaur- Przyciąga uwagę wzrokiem i daje możliwości nieskończonej możliwości zabawy nią!
+- Wyrzutnia dla aut- wkładamy autko do wyrzutni, wciskamy przycisk i autko z niezawodną prędkością pędzi po torze, wyskakując z paszczy dinozaura!
+- Wygodne przechowywanie-Dzięki dobrze zaprojektowanej konstrukcji tor można złożyć w wygodny garaż z autkami w środku- dzięki temu będzie zajmował mało miejsca, a mniejsze elementy się nie zgubią!
+
+Wymiary produktu	Złożona ciężarówka- 210 x 9 x 15,5 (cm) / Dł. toru- 2,1 (metr)
+Wymiary opakowania	53 x 12 x 18 (cm)
+Waga:	1 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5910844-1.jpg https://marini.pl/b2b/pictures/5910844-2.jpg https://marini.pl/b2b/pictures/5910844-3.jpg https://marini.pl/b2b/pictures/5910844-4.jpg https://marini.pl/b2b/pictures/5910844-5.jpg https://marini.pl/b2b/pictures/5910844-6.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5908978</kod>
 <nazwa>WOOPIE 504380 Pistolet na wodę Plecakiem UFO MONSTER</nazwa>
 <cena>33.44</cena>
@@ -307848,6 +308037,45 @@ Sznurek
 Wymiary produktu	19 x 11 x 18 (cm)
 Wymiary opakowania	20 x 12 x 18 (cm)</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909091-1.jpg https://marini.pl/b2b/pictures/5909091-2.jpg https://marini.pl/b2b/pictures/5909091-3.jpg https://marini.pl/b2b/pictures/5909091-4.jpg https://marini.pl/b2b/pictures/5909091-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114635</kod>
+<nazwa>WOOPIE 506430 Kosiarka bańki mydlane dźwięki / płyn</nazwa>
+<cena>29.57</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280650643</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Rewelacyjna kosiarka puszczająca bańki mydlane od marki WOOPIE skradnie serce każdego malucha. Zabawka imituje odgłosy wydawane przez prawdziwą kosiarkę, a w tle leci wesoła melodia z bajki. Kosiarka zabawkowa nie tylko uczy dziecko, jak dbać o trawnik, ale przede wszystkim wywołuje szczery uśmiech dzięki funkcji automatycznego puszczania kolorowych baniek mydlanych oraz wspomaga naukę chodzenia i równowagi. Zabawka wyposażona jest w mały wiatraczek, który wytwarza strumień powietrza kierowany na 8 kręcących się pierścieni. Pierścienie zanurzają się w pojemniku z płynem, dzięki czemu bańki uwalniane są nieustannie i w dużej ilości. 
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- automatycznie wypuszcza bańki mydlane dzięki 8 pierścieniom
+- wydaje dźwięki pękających baniek oraz wesołą melodię
+- posiada terkoczące przy tylnych kołach elementy imitujące prawdziwą kosiarkę
+- szeroka i stabilna rączka umożliwia łatwe pchanie
+- wykonana z wytrzymałego tworzywa sztucznego w wielu kolorach
+- idealna propozycja do zabawy w ogrodzie dla chłopca i dziewczynki
+Zestaw zawiera:
+
+- kosiarkę puszczającą bańki mydlane
+- cztery buteleczki z płynem (łącznie 240 ml)
+Zabawka rozwija:
+
+- dużą motorykę podczas chodzenia i pchania zabawki
+- wyobraźnię oraz kreatywność poprzez naśladowanie dorosłych
+- zdolności manualne i koordynację ruchową
+
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+17.00 x 30.00 x 30.00 (cm)
+Waga
+1.15 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114635-1.jpg https://marini.pl/b2b/pictures/59114635-2.jpg https://marini.pl/b2b/pictures/59114635-3.jpg https://marini.pl/b2b/pictures/59114635-4.jpg https://marini.pl/b2b/pictures/59114635-5.jpg https://marini.pl/b2b/pictures/59114635-6.jpg https://marini.pl/b2b/pictures/59114635-7.jpg https://marini.pl/b2b/pictures/59114635-8.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5909090</kod>
@@ -308209,6 +308437,34 @@ Wymiary opakowania	23 x 11 x 36,5 (cm)
 Produkt wprowadzony do obrotu na terenie UE przed 13.12.2024	Tak
 Waga:	0.7 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914220-1.jpg https://marini.pl/b2b/pictures/5914220-2.jpg https://marini.pl/b2b/pictures/5914220-3.jpg https://marini.pl/b2b/pictures/5914220-4.jpg https://marini.pl/b2b/pictures/5914220-5.jpg https://marini.pl/b2b/pictures/5914220-6.jpg https://marini.pl/b2b/pictures/5914220-7.jpg https://marini.pl/b2b/pictures/5914220-8.jpg https://marini.pl/b2b/pictures/5914220-9.jpg https://marini.pl/b2b/pictures/5914220-10.jpg https://marini.pl/b2b/pictures/5914220-11.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114645</kod>
+<nazwa>WOOPIE 51053 Gra zręcznościowa rzut boomerangiem</nazwa>
+<cena>5.77</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280651053</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Powracający Boomerang od marki WOOPIE to niezwykle interesująca zabawka, mająca korzenie w starożytnych kulturach, która przynosi mnóstwo radości zarówno dzieciom, jak i dorosłym na całym świecie! Ten unikalny produkt nie tylko zapewnia rozrywkę, ale również wspomaga rozwój umiejętności manualnych. Rzucanie boomerangiem łączy zabawę z ruchem, pozytywnie wpływając na dużą motorykę i zachęcając do aktywności fizycznej na świeżym powietrzu. Dzieci doskonalą celność, planowanie ruchów oraz koordynację ruchową.
+
+Charakterystyka:
+
+- Zabawka od 3 roku życia
+- Zaokrąglone krawędzie i gładka powierzchnia, aby zapewnić bezpieczną zabawę.
+- Zabawka rozwija dużą motorykę
+- Zachęca do spędzania czasu na świeżym powietrzu, promując zdrowy tryb życia.
+- Pomaga w rozwijaniu zdolności manualnych i koordynacyjnych.
+- Zabawka dostępna w trzech kolorach (kolor wybierany losowo); oferta dotyczy jednej sztuki boomerangu.
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+20.00 x 42.00 x 3.00 (cm)
+Waga
+0.05 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114645-1.jpg https://marini.pl/b2b/pictures/59114645-2.jpg https://marini.pl/b2b/pictures/59114645-3.jpg https://marini.pl/b2b/pictures/59114645-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5909096</kod>
@@ -308987,7 +309243,7 @@ Zestaw zawiera:
 <cena>33.44</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN/>
+<EAN>5906280653385</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Wprowadź swoje dziecko w świat dźwięków z interaktywną matą muzyczną od marki WOOPIE! To świetna propozycja dla maluchów już od 1 roku życia. Mata rozwija zmysły, wspiera rozwój motoryczny, uczy rozpoznawania dźwięków i pobudza wyobraźnię – wszystko poprzez świetną zabawę
 
@@ -309015,6 +309271,43 @@ Wymiary produktu	52 x 86 (cm)
 Wymiary opakowania	25 x 88 x 15 (cm)
 Waga:	0.35 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912667-1.jpg https://marini.pl/b2b/pictures/5912667-2.jpg https://marini.pl/b2b/pictures/5912667-3.jpg https://marini.pl/b2b/pictures/5912667-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114642</kod>
+<nazwa>WOOPIE 53415 Mata muzyczna Syrenka</nazwa>
+<cena>33.32</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280653415</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Mata Muzyczna Syrenka od marki Woopie - Rozbudzi u dziecka kreatywność i poczucie rytmu!
+
+To wspaniały sposób na rozwijanie koordynacji ruchowej, słuchu i wyobraźni u dzieci od 1 roku życia
+
+Charakterystyka:
+
+? 2w1 Pianinko i Perkusja w jednym
+
+? Możliwość tworzenia własnych melodii
+
+? Łatwa w obsłudze i przechowywaniu
+
+? Różnorodne dźwięki instrumentów i gotowe melodyjki
+
+? Dwie pałeczki perkusyjne w zestawie
+
+? Duża mata 2w1
+
+? Wymaga 3 baterii AA (nie dołączone do zestawu)
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+26.00 x 29.00 x 5.00 (cm)
+Waga
+0.40 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114642-1.jpg https://marini.pl/b2b/pictures/59114642-2.jpg https://marini.pl/b2b/pictures/59114642-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912732</kod>
@@ -309311,6 +309604,45 @@ Zabawka rozwija:
 - Koordynacja oko-ręka
 - Logiczne myślenie i przyczynowość</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913417-1.jpg https://marini.pl/b2b/pictures/5913417-2.jpg https://marini.pl/b2b/pictures/5913417-3.jpg https://marini.pl/b2b/pictures/5913417-4.jpg https://marini.pl/b2b/pictures/5913417-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114636</kod>
+<nazwa>WOOPIE 53842 Interaktywna kosiarka</nazwa>
+<cena>49.25</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280653842</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Interaktywna kosiarka ogrodowa od renomowanej marki Woopie to doskonała propozycja dla małych pomocników domowych, którzy uwielbiają naśladować dorosłych podczas prac w ogrodzie. Ta kolorowa zabawka pełni funkcję pchacza, który nie tylko zapewnia stabilne wsparcie podczas stawiania kroków, ale również dostarcza mnóstwo sensorycznej frajdy dzięki wbudowanym efektom świetlnym oraz dźwiękowym. Solidne wykonanie i atrakcyjny design sprawiają, że każda chwila spędzona na świeżym powietrzu lub w domu zamieni się w niesamowitą przygodę pełną uśmiechuCharakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- wyposażona w realistyczne efekty dźwiękowe naśladujące pracę prawdziwej maszyny
+- posiada efekty świetlne, które przyciągają wzrok i urozmaicają zabawę
+- funkcja pchacza pomaga w doskonaleniu koordynacji ruchowej i stabilności
+- wykonana z wysokiej jakości, bezpiecznych materiałów odpornych na warunki atmosferyczne
+- wygodny uchwyt dostosowany do małych rączek dziecka
+- żywa, radosna kolorystyka zachęcająca do aktywności fizycznej
+Zestaw zawiera:
+
+- interaktywną kosiarkę z efektami świetlnymi i dźwiękowymi
+- wygodną rączkę do prowadzenia
+- cztery szerokie koła zapewniające stabilność na różnych powierzchniach
+Zabawka rozwija:
+
+- wyobraźnię i kreatywność poprzez odgrywanie ról
+- motorykę dużą oraz sprawność fizyczną
+- koordynację wzrokowo-ruchową
+- pewność siebie podczas samodzielnego przemieszczania się
+- umiejętności społeczne poprzez wspólną zabawę z rówieśnikami i rodzicami
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+33.50 x 19.00 x 19.00 (cm)
+Waga
+0.87 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114636-1.jpg https://marini.pl/b2b/pictures/59114636-2.jpg https://marini.pl/b2b/pictures/59114636-3.jpg https://marini.pl/b2b/pictures/59114636-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912722</kod>
@@ -310019,11 +310351,50 @@ Waga:	1.6 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913308-1.jpg https://marini.pl/b2b/pictures/5913308-2.jpg https://marini.pl/b2b/pictures/5913308-3.jpg https://marini.pl/b2b/pictures/5913308-4.jpg https://marini.pl/b2b/pictures/5913308-5.jpg https://marini.pl/b2b/pictures/5913308-6.jpg https://marini.pl/b2b/pictures/5913308-7.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114639</kod>
+<nazwa>WOOPIE 54368 Zestaw do pingponga</nazwa>
+<cena>10.54</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280654368</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Szukasz pomysłu na aktywną zabawę, która wciągnie dzieci, młodzież i dorosłych? Nasz zestaw do ping-ponga to strzał w dziesiątkę! W komplecie znajdziesz 2 klasyczne rakietki z czerwonymi gumami oraz 3 lekkie piłeczki, zapakowane w atrakcyjne, kolorowe pudełko, które od razu przyciąga wzrok!
+
+Charakterystyka: 
+
+- Dla dzieci, młodzieży i dorosłych – idealny do nauki gry lub aktywnej zabawy
+- Graj w domu, ogrodzie, szkole lub na świetlicy
+- Kompaktowy i lekki
+Zestaw zawiera:
+
+- 2 rakietki do tenisa stołowego
+- 3 żółte piłeczki pingpongowe
+Zabawka rozwija:
+
+- Koordynację ręka-oko
+- Refleks i szybkość reakcji
+- Motorykę dużą i małą
+- Koncentrację i skupienie
+- Równowagę i zwinność
+- Myślenie strategiczne
+- Sprawność fizyczną
+- Precyzję i kontrolę ruchów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+38.00 x 4.50 x 31.00 (cm)
+Waga
+0.45 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114639-1.jpg https://marini.pl/b2b/pictures/59114639-2.jpg https://marini.pl/b2b/pictures/59114639-3.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5913307</kod>
 <nazwa>WOOPIE 54429 Namiot Zamek ksieżniczki</nazwa>
-<cena>56.81</cena>
+<cena>59.90</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5906280654429</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Ten uroczy różowy namiot pałacowy to idealne miejsce, gdzie Twoje dziecko będzie mogło przenieść się do świata bajkowych przygód, snuć fantastyczne opowieści i bawić się w królewskim stylu! Stworzony z dbałością o detale, stanie się sercem każdego pokoju dziecięcego.
@@ -310305,6 +310676,43 @@ Wymiary opakowania: 20 x 15 x 20 (cm)
 <zdjecia>https://marini.pl/b2b/pictures/5914002-1.jpg https://marini.pl/b2b/pictures/5914002-2.jpg https://marini.pl/b2b/pictures/5914002-3.jpg https://marini.pl/b2b/pictures/5914002-4.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5913429</kod>
+<nazwa>WOOPIE 54764 Stolik z piaskiem kinetycznym 0,8kg</nazwa>
+<cena>32.79</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280654764</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Przenieś plażę do swojego domu, bez piasku roznoszącego się po całym mieszkaniu! Przedstawiamy Magiczny Piasek Kinetyczny w praktycznym koszyku od marki Woopie! Idealny zestaw do kreatywnej i sensorycznej zabawy dla dzieci. Ten niezwykły piasek nigdy nie wysycha, jest miękki w dotyku i łatwo się formuje, co pozwala na tworzenie niezliczonych kształtów i budowli. Dzięki bogactwu foremek i akcesoriów, Twoje dziecko będzie mogło rozwijać wyobraźnię i zdolności manualne, czerpiąc radość z czystej i bezpiecznej zabawy!
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia
+- Piasek zachowuje swoje właściwości, umożliwiając wielogodzinną zabawę bez konieczności nawilżania
+- Doskonale się ugniata i formuje, utrzymując nadany kształt
+- Nie przykleja się do rąk ani do podłogi, co minimalizuje bałagan
+- Zestaw zawiera szeroki wybór foremek o tematyce zwierzęcej i miejskiej, inspirujących do tworzenia
+- Praktyczne opakowanie w formie koszyka z uchwytem ułatwia przechowywanie i transport zestawu
+Zestaw zawiera:
+
+- Wielokolorowy magiczny piasek (4 kolory)
+- Duży wybór foremek (m.in. zwierzęta: słoń, delfin, aligator, ryba; pojazdy: samochód, pociąg; budynki: dom, grzyb)
+- Narzędzia do modelowania/rzeźbienia
+- Nadmuchiwana tacka/piaskownica do zabawy
+- Praktyczny koszyk do przechowywania z uchwytem i kluczykiem
+Zabawka rozwija:
+
+- Kreatywność i wyobraźnię przestrzenną
+- Zdolności manualne i precyzję ruchów
+- Koordynację ręka-oko
+- Zmysł dotyku i percepcję sensoryczną
+- Cierpliwość i koncentrację
+
+Wymiary produktu	Nadmuchiwana tacka: 40 x 25 x 5 (cm)
+Wymiary opakowania	24.3 x 18 x 16,5 (cm)</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5913429-1.jpg https://marini.pl/b2b/pictures/5913429-2.jpg https://marini.pl/b2b/pictures/5913429-3.jpg https://marini.pl/b2b/pictures/5913429-4.jpg https://marini.pl/b2b/pictures/5913429-5.jpg https://marini.pl/b2b/pictures/5913429-6.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5913427</kod>
 <nazwa>WOOPIE 54788 Stolik z piaskiem kinetycznym 0,6kg</nazwa>
 <cena>19.27</cena>
@@ -310342,38 +310750,254 @@ Waga:	0.85 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913427-1.jpg https://marini.pl/b2b/pictures/5913427-2.jpg https://marini.pl/b2b/pictures/5913427-3.jpg https://marini.pl/b2b/pictures/5913427-4.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5913426</kod>
-<nazwa>WOOPIE 548010 Stolik z piaskiem kinetycznym 0,5kg</nazwa>
-<cena>18.67</cena>
+<kod>59114630</kod>
+<nazwa>WOOPIE 54795 Stolik z piaskiem kinetycznym 1,2 kg</nazwa>
+<cena>49.29</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN>5906280654801</EAN>
+<EAN>5906280654795</EAN>
 <grupa>WOOPIE</grupa>
-<opis>Odkryj fascynujący świat kreatywnej zabawy z Magicznym Piaskiem Kinetycznym od marki Woopie! Ten wspaniały zestaw to idealny sposób na rozwijanie wyobraźni i zdolności manualnych u dzieci. Piasek, który "czuje się świetnie", jest niezwykle miękki i przyjemny w dotyku, a dzięki swoim unikalnym właściwościom nie rozsypuje się i nie brudzi, co gwarantuje godziny czystej rozrywki. Twórz niesamowite budowle, urocze zwierzątka morskie, pojazdy czy inne fantazyjne kształty – możliwości są nieograniczone! Poręczny pojemnik służy jednocześnie jako piaskownica, co czyni ten zestaw idealnym do zabawy w domu, bez względu na pogodę.
+<opis>Przenieś świat kreatywnych budowli i słodkich wypieków do swojego domu dzięki Magicznemu Piaskowi Kinetycznemu marki Woopie! Ten fantastyczny zestaw w poręcznej walizce to gwarancja godzin fascynującej zabawy bez bałaganu. Piasek, który "czuje się świetnie" jest niezwykle miękki i przyjemny w dotyku, idealnie nadaje się do formowania, ugniatania i tworzenia nieskończonej liczby kształtów. Stwórz pyszne lody, kolorowe ciastka, hot doga, czy inne pyszności  – ogranicza Cię tylko wyobraźnia! To idealny prezent, który rozwija zmysły i kreatywność każdego małego artysty.
+
+PRODUKT NIE NADAJE SIĘ DO SPOŻYCIA
 
 Charakterystyka:
 
-- Dla dzieci od 3 lat
-- Miękki i sensoryczny piasek przyjemny w dotyku, łatwy do formowania i nie wysycha
-- Piasek nie przykleja się do rąk ani powierzchni
-- Bogaty zestaw foremek, wiele kształtów, w tym pojazdy i zwierzęta morskie
-- Praktyczny pojemnik może służyć jako piaskownica do zabawy, a także ułatwia przechowywanie zestawu
+- Dla dzieci od 3 roku życia
+- Aż 6 kolorów piasku
+- Miękki i przyjemny w dotyku piasek łatwy do formowania i nie wysycha
+- Mnóstwo foremek i narzędzi do tworzenia różnorodnych kształtów
+- Praktyczna walizka ułatwia przechowywanie i transport zestawu, służy też jako stolik do zabawy
+- Piasek nie brudzi rąk ani powierzchni, łatwy do sprzątnięcia
 Zestaw zawiera:
 
-- Piasek kinetyczny: 500g
-- Pojemnik/tacka (służąca jako piaskownica lub stolik)
-- Łopatka, wałek i grabki
-- Różnorodne foremki 6szt. (np. samochód, delfin, statek, lokomotywa)
+- Walizka/pojemnik do przechowywania i zabawy
+- 6 opakowań piasku kinetycznego w sumie 1200g
+- Różnorodne foremki (m.in. lody, hot dog, ciastka, babeczki)
+- Narzędzia do modelowania (łopatki, nożyki, wałek)
+- Akcesoria do wyciskania wzorów
+- Talerze i sztućce 
 Zabawka rozwija:
 
 - Kreatywność i wyobraźnię
-- Zdolności manualne i precyzję ruchów
+- Małą motorykę i zdolności manualne
 - Koordynację wzrokowo-ruchową
-- Percepcję sensoryczną (dotyk)
+- Umiejętność logicznego myślenia
+Wymiary do wysyłki
+38.50 x 9.50 x 25.00 (cm)
+Waga
+2.00 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114630-1.jpg https://marini.pl/b2b/pictures/59114630-2.jpg https://marini.pl/b2b/pictures/59114630-3.jpg https://marini.pl/b2b/pictures/59114630-4.jpg https://marini.pl/b2b/pictures/59114630-5.jpg https://marini.pl/b2b/pictures/59114630-6.jpg https://marini.pl/b2b/pictures/59114630-7.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114633</kod>
+<nazwa>WOOPIE 54870 Klocki magnetyczne 71 el.</nazwa>
+<cena>62.32</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>590628065487</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Zestaw magnetycznych klocków konstrukcyjnych 3D to idealna propozycja dla każdego małego budowniczego. Zabawka pozwala na tworzenie różnorodnych konstrukcji płaskich i przestrzennych, od fantazyjnych zamków po dynamiczne pojazdy. Elementy łączą się ze sobą za pomocą silnych magnesów, co zapewnia stabilność budowli. W komplecie znajdują się również edukacyjne naklejki z motywami pojazdów (m.in. autobus, samochód, statek), które dodatkowo urozmaicają zabawę. Przejrzyste, kolorowe kształty i bezpieczne krawędzie gwarantują wciągającą rozrywkę, którą można wykorzystać nawet do prostej gry w domino.
 
-Wymiary opakowania	29.2 x 22 x 5.6 (cm)
-Waga:	0.7 kg</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913426-1.jpg https://marini.pl/b2b/pictures/5913426-2.jpg</zdjecia>
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- łączenie elementów za pomocą silnych i bezpiecznych magnesów
+- umożliwia budowanie konstrukcji płaskich (2D) oraz przestrzennych (3D)
+- klocki o gładkich i zaokrąglonych krawędziach dla pełnego bezpieczeństwa
+- edukacyjne naklejki z grafikami różnego rodzaju pojazdów
+- płaskie elementy mogą posłużyć jako klocki do gry w domino
+Zestaw zawiera:
+
+- 16 kwadratów z magnesami
+- 6 elementów w kształcie trójkąta
+- 8 klocków magnetycznych w kształcie litery L
+- 2 magnetyczne platformy na gumowych kołach do budowy pojazdów
+- 24 ozdobne elementy do wypełniania otworów w klockach
+- 2 klocki w kształcie schodków
+- 8 klocków w kształcie prostokąta
+- 4 elementy w kształcie litery E
+- 1 element pełniący funkcję dachu
+- 2 arkusze z tematycznymi naklejkami
+- instrukcję ze wzorami
+Zabawka rozwija:
+
+- wyobraźnię przestrzenną oraz zdolności konstrukcyjne
+- kreatywność podczas tworzenia własnych, unikalnych budowli
+- zdolności manualne i precyzyjną motorykę małą
+- logiczne myślenie oraz umiejętność rozwiązywania problemów
+- rozpoznawanie podstawowych kształtów geometrycznych i kolorów
+- umiejętność współpracy podczas zabawy w grupie
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+31.00 x 8.00 x 26.00 (cm)
+Waga
+1.35 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114633-1.jpg https://marini.pl/b2b/pictures/59114633-2.jpg https://marini.pl/b2b/pictures/59114633-3.jpg https://marini.pl/b2b/pictures/59114633-4.jpg https://marini.pl/b2b/pictures/59114633-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114632</kod>
+<nazwa>WOOPIE 54955 Klocki magnetyczne tor kulkowy 126 el.</nazwa>
+<cena>78.86</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280654955</EAN>
+<grupa>WOOPIE</grupa>
+<opis>WOOPIE Klocki Magnetyczne Konstrukcyjne 3D Tor Kulkowy Kulodrom to rewelacyjny zestaw edukacyjny, który wciągnie każde dziecko w fascynujący świat inżynierii i fizyki. Zestaw składa się z 126 elementów, które pozwalają na zbudowanie imponujących, trójwymiarowych torów dla kulek. Klocki łączą się ze sobą za pomocą silnych magnesów, co gwarantuje stabilność konstrukcji oraz łatwość w tworzeniu nawet najbardziej skomplikowanych budowli. Zabawa polega na konstruowaniu zjeżdżalni, mostów i tuneli w taki sposób, aby wprawiona w ruch kulka pokonała całą trasę bez przeszkód. To nie tylko doskonała rozrywka, ale również praktyczna nauka zasad fizyki, grawitacji i kinetyki. Transparentne, kolorowe panele magnetyczne oraz różnorodne elementy konstrukcyjne sprawiają, że budowanie staje się niezwykle satysfakcjonujące, a każda stworzona trasa jest unikalna.
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- zestaw zawiera aż 126 elementów do tworzenia własnych konstrukcji
+- klocki wyposażone w mocne magnesy zapewniające trwałość budowli
+- możliwość budowania różnorodnych torów kulkowych w 3D
+- nieograniczone możliwości konstrukcyjne
+Zestaw zawiera:
+
+- magnetyczne panele konstrukcyjne o różnych kształtach
+- elementy toru (zjeżdżalnie, rurki)
+- kulki do puszczania po zbudowanym torze
+Zabawka rozwija:
+
+- wyobraźnię przestrzenną i myślenie architektoniczne
+- kreatywność oraz zdolności do rozwiązywania problemów
+- koordynację wzrokowo-ruchową i motorykę małą
+- logiczne myślenie i zrozumienie podstawowych praw fizyki
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+20.00 x 16.00 x 27.00 (cm)
+Waga
+1.30 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114632-1.jpg https://marini.pl/b2b/pictures/59114632-2.jpg https://marini.pl/b2b/pictures/59114632-3.jpg https://marini.pl/b2b/pictures/59114632-4.jpg https://marini.pl/b2b/pictures/59114632-5.jpg https://marini.pl/b2b/pictures/59114632-6.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114631</kod>
+<nazwa>WOOPIE 54962 Klocki magnetyczne 30 el.</nazwa>
+<cena>16.43</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280654962</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Rozwiń wyobraźnię swojego dziecka z zestawem Magnetycznych Klocków Konstrukcyjnych 3D od marki Woopie! To doskonała zabawka, która łączy w sobie edukację i mnóstwo kreatywnej zabawy. Magnetyczne klocki umożliwiają łatwe łączenie i tworzenie różnorodnych konstrukcji, od prostych figur po fantazyjne zamki. Dzięki temu zestawowi Twoje dziecko spędzi godziny na twórczym budowaniu, rozwijając jednocześnie zdolności manualne i myślenie przestrzenne. To idealny prezent, który zachęci do nauki poprzez zabawę!
+
+Charakterystyka:
+- Wiek dziecka: 3+ lata
+- Klocki łączą się za pomocą magnesów, co ułatwia budowanie
+- W zestawie są klocki o różnych kształtach, co pozwala na tworzenie wielu konstrukcji
+Zestaw zawiera 30 klocków magnetycznych w losowych kolorach:
+- Kwadrat z okrągłym otworem x1
+- Kwadrat z narożnikiem x1
+- Kwadrat z łukiem x3
+- Kwadrat w kształcie litery E x2
+- Kwadrat z kratką x1
+- Ośmiokąt x5
+- Kwadrat z oknem i daszkiem x9
+- Trójkąt x7
+- Stożek (wieża) x1
+Zabawka rozwija:
+- Kreatywność i wyobraźnię
+- Myślenie logiczne i przestrzenne
+- Zdolności manualne
+- Nauka kolorów i kształtów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+16.00 x 20.00 x 5.00 (cm)
+Waga
+0.30 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114631-1.jpg https://marini.pl/b2b/pictures/59114631-2.jpg https://marini.pl/b2b/pictures/59114631-3.jpg https://marini.pl/b2b/pictures/59114631-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114634</kod>
+<nazwa>WOOPIE 54979 Klocki magnetyczne 110 el.</nazwa>
+<cena>80.40</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280654979</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Zestaw klocków magnetycznych od marki Woopie to idealna propozycja dla małych konstruktorów, która łączy naukę z kreatywną zabawą. Komplet składa się ze 110 elementów, które pozwalają na budowanie skomplikowanych struktur 3D, takich jak imponujące zamki czy różnorodne pojazdy. Dzięki silnym magnesom umieszczonym w krawędziach figur, konstrukcje są stabilne, co zachęca dziecko do tworzenia coraz bardziej zaawansowanych budowli. Klocki charakteryzują się żywą kolorystyką oraz różnorodnością kształtów, co stymuluje wzrok i wyobraźnię przestrzenną.
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- zestaw zawiera aż 110 elementów wykonanych z wysokiej jakości tworzywa
+- mocne magnesy ułatwiają łączenie części i zapewniają trwałość budowli
+- możliwość tworzenia konstrukcji płaskich (2D) oraz przestrzennych (3D)
+- klocki w nasyconych kolorach przyciągają uwagę i zachęcają do zabawy
+- bezpieczne, zaokrąglone krawędzie elementów
+- produkt zapakowany w estetyczne pudełko, idealne na prezent
+Zestaw zawiera:
+
+- różnokolorowe panele magnetyczne w różnych kształtach (kwadraty, trójkąty)
+- elementy konstrukcyjne do budowy zamku i wież
+- podwozia z kołami do tworzenia pojazdów
+- dodatkowe akcesoria wykończeniowe
+- instrukcję z przykładowymi wzorami budowli
+Zabawka rozwija:
+
+- wyobraźnię i kreatywność
+- zdolności manualne oraz motorykę małą
+- koordynację wzrokowo-ruchową
+- umiejętność logicznego myślenia
+- rozpoznawanie kolorów i podstawowych figur geometrycznych
+- koncentrację i cierpliwość
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+26.00 x 6.00 x 33.00 (cm)
+Waga
+1.50 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114634-1.jpg https://marini.pl/b2b/pictures/59114634-2.jpg https://marini.pl/b2b/pictures/59114634-3.jpg https://marini.pl/b2b/pictures/59114634-4.jpg https://marini.pl/b2b/pictures/59114634-5.jpg https://marini.pl/b2b/pictures/59114634-6.jpg https://marini.pl/b2b/pictures/59114634-7.jpg https://marini.pl/b2b/pictures/59114634-8.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114646</kod>
+<nazwa>WOOPIE 55006 Klocki magnetyczne Policja 42 el.</nazwa>
+<cena>58.49</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280655006</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Klocki magnetyczne Komisariat Policja od marki Woopie! to kreatywna zabawka, która pozwala dzieciom zbudować swój własny posterunek policji z magnetycznych paneli i akcesoriów. Dzięki silnym magnesom elementy łączą się pewnie, umożliwiając stabilne konstrukcje. Akcesoria policyjne jak radiowóz, helikopter, figurki funkcjonariuszy, pies policyjny i znaki drogowe uatrakcyjniają zabawę. Zestaw pozwala maluchom rozwijać kreatywność, umiejętność logicznego myślenia i planowania. Wykonany z bezpiecznych materiałów, stanowi świetny pomysł na prezent dla małych fanów policyjnych przygód.
+
+Charakterystyka:
+
+- Zabawka dla dzieci od 3 roku życia.
+- Zestaw zawiera aż 42 elementy
+- Klocki łatwo łączą się dzięki wbudowanym magnesom
+- Bogaty zestaw akcesoriów policyjnych: figurki, pojazdy, pies, znaki
+Zestaw zawiera:
+
+- 42 panele magnetyczne o różnych kształtach
+- Figurki – policjanci, pies policyjny
+- Pojazdy – radiowóz, helikopter, motocykl
+- Znaki drogowe, barierki, sygnalizacja
+- Naklejki dekoracyjne
+Zabawka rozwija:
+
+- Kreatywność i wyobraźnię — budowanie dowolnych konstrukcji
+- Logiczną zdolność i myślenie przestrzenne
+- Zdolności manualne i koordynację ręka-oko
+- Cierpliwość i koncentrację podczas tworzenia konstrukcji
+- Umiejętność współpracy i zabawy w grupie
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+27.50 x 35.50 x 6.00 (cm)
+Waga
+1.00 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114646-1.jpg https://marini.pl/b2b/pictures/59114646-2.jpg https://marini.pl/b2b/pictures/59114646-3.jpg https://marini.pl/b2b/pictures/59114646-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913297</kod>
@@ -310409,9 +311033,9 @@ Wymiary opakowania	8 x 9 x 5,5 (cm)</opis>
 <b2b>
 <kod>5913296</kod>
 <nazwa>WOOPIE 55082 Perkusja 3 Bębny</nazwa>
-<cena>23.01</cena>
+<cena>21.81</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5906280655082</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Pozwól swojemu dziecku odkryć radość tworzenia muzyki! Ten zestaw perkusyjny marki Woopie został zaprojektowany z myślą o najmłodszych muzykach – bezpieczny i wytrzymały, od najmłodszych lat pobudza kreatywność i wspomagają rozwój. To nie tylko zabawka – to interaktywne narzędzie do rozwijania talentu muzycznego, koordynacji i wyobraźni. Ten zestaw perkusyjny dla dzieci jest wykonany z lekkiego plastiku, więc nie spowoduje żadnych obrażeń, jeśli się przewróci, a także można go łatwo utrzymać w czystości, przecierając go w razie potrzeby wilgotną szmatką. Grafika płomeni i bezpieczne materiały sprawiają, że dzieci pokochają granie od pierwszego uderzenia w bębenek. To idealna zabawka na start muzycznej przygody twojego dziecka!
@@ -310442,6 +311066,48 @@ Zestaw rozwija:
 Wymiary produktu	44 x 40 x 17 (cm)
 Wymiary opakowania	27,5 x 11 x 11 (cm)</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913296-1.jpg https://marini.pl/b2b/pictures/5913296-2.jpg https://marini.pl/b2b/pictures/5913296-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5913294</kod>
+<nazwa>WOOPIE 55105 Perkusja edukacyjna dla dzieci 5 bębnów</nazwa>
+<cena>80.40</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280655105</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Pozwól swojemu dziecku odkryć radość tworzenia muzyki! Ten interaktywny zestaw perkusyjny marki Woopie został zaprojektowany z myślą o najmłodszych muzykach – bezpieczny, wytrzymały i pełen funkcji, które pobudzają kreatywność i wspomagają rozwój. To nie tylko zabawka – to interaktywne narzędzie do rozwijania talentu muzycznego, koordynacji i wyobraźni.Ten zestaw perkusyjny dla dzieci jest wykonany z lekkiego plastiku, więc nie spowoduje żadnych obrażeń, jeśli się przewróci, a także można go łatwo utrzymać w czystości, przecierając go w razie potrzeby wilgotną szmatką. Żywy kolor i bezpieczne materiały sprawiają, że dzieci pokochają granie od pierwszego uderzenia w bębenek. To idealna zabawka na start muzycznej przygody twojego dziecka!
+
+Charakterystyka:
+
+- Zabawka dla dzieci od 3 roku życia
+- Bezpieczne i certyfikowane materiały – zaokrąglone krawędzie, nietoksyczny plastik
+- Realistyczny wygląd – jak prawdziwa perkusja, ale w wersji dziecięcej
+- Wytrzymała i stabilna konstrukcja przystosowana do intensywnej zabawy
+- Efekty świetlne i dźwiękowe
+- Zestaw posiada uchwyt na smartfona/tablet
+- Kompaktowe wymiary
+- Zasilanie: 3x bateria AA (brak w zestawie)
+Zestaw zawiera:
+
+- 1x bęben centralny 
+- 1x talerz 
+- 3x bęben średn
+- 1x bęben mały
+- 2x pałeczki perkusyjne
+- 1x statyw do talerza
+- 1x statyw/uchwyt na telefon/tablet
+- 6x karty edukacyjne/nutowe 
+Zestaw rozwija:
+
+- Koordynację ruchową i motorykę – jednoczesna praca rąk i nóg
+- Kreatywność i wyobraźnię – tworzenie własnych rytmów i melodii
+- Koncentrację i cierpliwość – ćwiczenia na kartach pomagają w nauce sekwencji
+- Pewność siebie – dziecko występuje, tworzy i prezentuje się innym
+- Relację rodzic-dziecko – wspólna zabawa muzyką zbliża i daje dużo radości
+
+Wymiary produktu	75 x 44 x 80 (cm)
+Wymiary opakowania	44 x 37 x 26 (cm)</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5913294-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913293</kod>
@@ -310647,6 +311313,51 @@ Zabawka rozwija:
 Wymiary produktu	17.3 x 14 x 14 (cm)
 Wymiary opakowania	23 x 20 x 15 (cm)</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913289-1.jpg https://marini.pl/b2b/pictures/5913289-2.jpg https://marini.pl/b2b/pictures/5913289-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114638</kod>
+<nazwa>WOOPIE 55174 Grill Barbecue zestaw 41 el.</nazwa>
+<cena>93.44</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280655174</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Przenieś zabawę na świeże powietrze i pozwól swojemu dziecku poczuć się jak prawdziwy mistrz grillowania. Grill Barbecue marki Woopie to wyjątkowy, interaktywny zestaw kuchenny, który zapewnia niesamowicie realistyczne doznania dzięki efektom pary wodnej oraz światła LED. Dziecko może obserwować bezpieczny dym unoszący się znad rusztu, co sprawia, że zabawa w gotowanie staje się jeszcze bardziej autentyczna i fascynująca. Zestaw został wyposażony w bogaty pakiet akcesoriów, w tym kolorowe warzywa, imitacje mięsa oraz niezbędne narzędzia kucharza. Dzięki stabilnej konstrukcji i prostej obsłudze, zabawka idealnie sprawdzi się zarówno w domu, jak i w ogrodzie. Wykonanie z wysokiej jakości, bezpiecznych materiałów gwarantuje trwałość oraz pełen komfort podczas codziennych przygód kulinarnych małego szefa kuchni.
+
+Charakterystyka:
+
+- Przeznaczony dla dzieci od 3 roku życia
+- Grill emituje realistyczny efekt dymu (pary wodnej) oraz światło, imitując gorący żar
+- Posiada otwierany ruszt z pokrywą, co urozmaica zabawę w przygotowywanie potraw
+- W zestawie znajduje się aż 41 elementów, w tym naczynia, sztućce i produkty spożywcze
+- Zabawka wykonana z trwałego i bezpiecznego dla zdrowia tworzywa sztucznego
+- Prosta i intuicyjna konstrukcja umożliwiająca szybkie złożenie zestawu
+- Zasilanie: 3 baterie AA (brak w zestawie)
+Zestaw zawiera:
+
+- Interaktywny grill z rusztem i pokrywą
+- Moduł generujący efekty świetlne i parę
+- 2 patelnie (okrągła oraz grillowa)
+- 5 narzędzi kuchennych (m.in. łopatki, łyżki, szczypce)
+- 2 talerzyki
+- Komplet sztućców (widelec, łyżka, nóż)
+- Imitacje jedzenia (m.in. warzywa, mięsa do grillowania)
+- Pojemniki na przyprawy
+Zabawka rozwija:
+
+- Wyobraźnię i kreatywność poprzez odgrywanie ról
+- Samodzielność oraz umiejętności manualne
+- Ciekawość poznawczą i logiczne myślenie
+- Umiejętności społeczne podczas wspólnej zabawy
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+38.00 x 46.00 x 21.00 (cm)
+Waga
+2.75 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114638-1.jpg https://marini.pl/b2b/pictures/59114638-2.jpg https://marini.pl/b2b/pictures/59114638-3.jpg https://marini.pl/b2b/pictures/59114638-4.jpg https://marini.pl/b2b/pictures/59114638-5.jpg https://marini.pl/b2b/pictures/59114638-6.jpg https://marini.pl/b2b/pictures/59114638-7.jpg https://marini.pl/b2b/pictures/59114638-8.jpg https://marini.pl/b2b/pictures/59114638-9.jpg https://marini.pl/b2b/pictures/59114638-10.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913288</kod>
@@ -312321,6 +313032,45 @@ Wymiary opakowania: 24 x 13 x 17 (cm)</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913572-1.jpg https://marini.pl/b2b/pictures/5913572-2.jpg https://marini.pl/b2b/pictures/5913572-3.jpg https://marini.pl/b2b/pictures/5913572-4.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114640</kod>
+<nazwa>WOOPIE 56874 Zdalnie sterowany RC Quad kaskaderski</nazwa>
+<cena>49.23</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280656874</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Odkryj ekscytujący świat przygód terenowych z tym spektakularnym zdalnie sterowanym quadem marki Woopie! Ten zaawansowany zdalnie sterowany model to prawdziwa uczta dla zmysłów - wyposażony w realistyczną figurkę motocyklisty w profesjonalnym stroju wyścigowym, oferuje niezapomniane wrażenia z jazdy. Solidna konstrukcja z efektownymi detalami sprawia, że zabawka przyciąga uwagę od pierwszego spojrzenia. Dzięki zaawansowanemu systemowi sterowania 2.4GHz możesz cieszyć się płynną kontrolą nad pojazdem w każdym terenie
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia
+- Wykonany z wysokiej jakości materiałów
+- Zdalne sterowanie radiowe 2.4Ghz umożliwiające precyzyjną kontrolę
+- Realistyczna figurka motocyklisty w pełnym wyposażeniu wyścigowym
+- Terenowe opony do jazdy w ciężkich warunkach
+- Napęd na tylne koła
+- Zasilanie: Pilot - Baterie 2 x AA 1.5V, Quad - 4 x AA 1.5V
+Zestaw zawiera:
+
+- Zdalnie sterowany quad
+- Pilot sterujący
+- Figurka motocyklisty (przyczepiona do quada)
+Zabawka rozwija:
+
+- Motorykę
+- Wyobraźnię
+- Kreatywność
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+24.00 x 31.50 x 25.00 (cm)
+Waga
+0.75 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114640-1.jpg https://marini.pl/b2b/pictures/59114640-2.jpg https://marini.pl/b2b/pictures/59114640-3.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5913553</kod>
 <nazwa>WOOPIE 56980 Zestaw Artykułów Spożywczych Koszyk</nazwa>
 <cena>33.79</cena>
@@ -313003,6 +313753,46 @@ Waga:	1.3 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914260-1.jpg https://marini.pl/b2b/pictures/5914260-2.jpg https://marini.pl/b2b/pictures/5914260-3.jpg https://marini.pl/b2b/pictures/5914260-4.jpg https://marini.pl/b2b/pictures/5914260-5.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114651</kod>
+<nazwa>WOOPIE 57505 Ciężarówka transporter Dinozaur z dźwiękiem</nazwa>
+<cena>45.99</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280657505</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Ciężarówka Transporter Dinozaurów od marki WOOPIE to idealna propozycja dla każdego małego fana prehistorycznych stworzeń i motoryzacji. Ten imponujący zestaw łączy w sobie dużą ciężarówkę z lawetą oraz figurki dinozaurów, zapewniając wiele godzin kreatywnej zabawy. Pojazd wyposażony jest w napęd frykcyjny, dzięki czemu po popchnięciu sam jedzie do przodu. Atrakcyjność zabawy zwiększają efekty świetlne i dźwiękowe: na dachu kabiny znajdują się 4 przyciski uruchamiające odgłosy silnika, klakson, syrenę oraz dźwięki cofania, którym towarzyszą migające światła. Laweta posiada otwieraną klatkę oraz rozkładaną rampę, co pozwala na łatwy załadunek i rozładunek dinozaurów. Naczepę można również odczepić od ciągnika, co daje dodatkowe możliwości zabawy.
+
+Charakterystyka:
+
+- zabawka przeznaczona od 3 roku życia
+- posiada napęd frykcyjny (pojazd rozpędza się poprzez poruszenie zabawki na gładkiej powierzchni)
+- wyposażona w efekty świetlne i dźwiękowe (4 przyciski: odpalanie silnika, klakson, cofanie, syrena)
+- otwierana klatka i opuszczana rampa ułatwiająca wprowadzanie dinozaurów
+- możliwość odczepienia naczepy od ciągnika siodłowego
+- solidne wykonanie i dbałość o detale
+- gumowe wykończenia na kołach zapewniające cichą jazdę
+Zestaw zawiera:
+
+- Ciężarówkę (ciągnik siodłowy)
+- Lawetę z klatką transportową
+- 3 figurki dinozaurów (Tyranozaur, Stegozaur, Triceratops)
+Zabawka rozwija:
+
+- wyobraźnię i kreatywność poprzez tworzenie scenariuszy
+- zdolności manualne (obsługa rampy, odczepianie naczepy)
+- koordynację wzrokowo-ruchową
+- wiedzę o prehistorycznych zwierzętach
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+13.00 x 27.00 x 47.50 (cm)
+Waga
+1.10 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114651-1.jpg https://marini.pl/b2b/pictures/59114651-2.jpg https://marini.pl/b2b/pictures/59114651-3.jpg https://marini.pl/b2b/pictures/59114651-4.jpg https://marini.pl/b2b/pictures/59114651-5.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>5914216</kod>
 <nazwa>WOOPIE 57604 ROYAL Lalka Emi w przebraniu misia</nazwa>
 <cena>27.08</cena>
@@ -313520,9 +314310,9 @@ Wymiary opakowania	42 x 29 x 6 (cm)</opis>
 <b2b>
 <kod>5914263</kod>
 <nazwa>WOOPIE 58137 Samolot Transporter strażacki</nazwa>
-<cena>58.49</cena>
+<cena>52.51</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN>5906280658137</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Poznaj transporter-samolot strażacki od marki WOOPIE!, który zabierze dziecko w emocjonującą misję ratunkową! W przestronnym kadłubie samolotu umieszczone się trzy auta strażackie oraz komplet znaków drogowych, co daje pełną swobodę zabawy. Dzięki czterem przyciskom uruchamiającym realistyczne dźwięki i migające diody LED, zabawka ożywa jak prawdziwy sprzęt ratunkowy. Otwierane drzwi i opuszczana rampa dodają dynamiki akcji. To idealny prezent dla małego bohatera od 3. roku życia, który rozwija wyobraźnię i uczy odpowiedzialności.
@@ -313699,6 +314489,505 @@ Wymiary produktu: 41 x 23 x 56 (cm)
 Wymiary opakowania: 63 x 12 x 12 (cm)
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914222-1.jpg https://marini.pl/b2b/pictures/5914222-2.jpg https://marini.pl/b2b/pictures/5914222-3.jpg https://marini.pl/b2b/pictures/5914222-4.jpg https://marini.pl/b2b/pictures/5914222-5.jpg https://marini.pl/b2b/pictures/5914222-6.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114637</kod>
+<nazwa>WOOPIE 58335 Piasek kinetyczny plac budowy 1 kg</nazwa>
+<cena>38.77</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658335</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Zestaw Piasek Kinetyczny Plac Budowy w Walizce to wymarzona zabawka dla każdego małego inżyniera i fana maszyn budowlanych. Ten mobilny zestaw przenosi zabawę w piaskownicy na zupełnie nowy poziom, oferując kompletny plac budowy zamknięty w praktycznym opakowaniu. Wewnątrz żółtej walizki znajduje się aż 1000 g piasku kinetycznego w naturalnym kolorze, który idealnie imituje podłoże pod wielkie konstrukcje. Dziecko może zarządzać pracami budowlanymi, używając dołączonych do zestawu pojazdów budowlanych, takich jak koparka, spychacz czy wywrotka. Dzięki licznym akcesoriom, figurkom robotników i znakom ostrzegawczym, zabawa staje się niezwykle realistyczna. Piasek jest miękki, przyjemny w dotyku i łatwy do formowania, co pozwala na tworzenie trwałych budowli. Po skończonej szychcie cały plac budowy można szybko posprzątać, zamykając go w walizce, co ułatwia przechowywanie i transport.
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- zestaw zawiera 1000 g piasku kinetycznego w kolorze piaskowym
+- piasek posiada właściwości kinetyczne – jest "płynący" i nie wysycha
+- całość zapakowana w żółtą walizkę z rączką, służącą również jako plansza do zabawy
+- motyw przewodni: plac budowy i maszyny inżynieryjne
+Zestaw zawiera:
+
+- żółtą walizkę do przechowywania i zabawy
+- piasek kinetyczny (1000 g)
+- 3 pojazdy budowlane 
+- 4 figurki robotników budowlanych
+- znaki drogowe i ostrzegawcze (pachołki, bariery)
+- 2 drzewka (palmy) do dekoracji terenu
+- narzędzia do piasku: łopatkę, grabki/szpatułkę, wałek ręczny
+Zabawka rozwija:
+
+- wyobraźnię przestrzenną i kreatywność
+- zdolności manualne i precyzję ruchów
+- koordynację wzrokowo-ruchową
+- umiejętności społeczne poprzez odgrywanie ról (kierownik budowy, operator maszyny)
+- integrację sensoryczną (dotyk)
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+24.00 x 31.00 x 7.50 (cm)
+Waga
+1.47 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114637-1.jpg https://marini.pl/b2b/pictures/59114637-2.jpg https://marini.pl/b2b/pictures/59114637-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114649</kod>
+<nazwa>WOOPIE 58359 Tablet graficzny znikopis do nauki rysowania</nazwa>
+<cena>55.48</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658359</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Tablet Graficzny do Nauki Rysowania i Języka Angielskiego od marki WOOPIE to innowacyjna zabawka edukacyjna 2w1, która łączy w sobie funkcję czytnika kart audio oraz znikopisu LCD. Dziecko może uczyć się słówek, wymowy oraz pisania w zabawny i interaktywny sposób. Po włożeniu karty do urządzenia, tablet odczytuje na głos angielskie słowo, a na ekranie wyświetla się ilustracja pomocnicza lub wzór do odrysowania. Dzięki specjalnej technologii ekranu LCD, zabawa jest bezpieczna dla oczu i nie emituje szkodliwego niebieskiego światła. To idealne narzędzie do wczesnej edukacji, rozwijające zdolności językowe i manualne jednocześnie.
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- funkcja 2w1: czytnik kart edukacyjnych z dźwiękiem i tablet graficzny do rysowania
+- uczy języka angielskiego poprzez słuchanie i wizualizację
+- bezpieczny dla wzroku ekran LCD bez niebieskiego światła
+- przycisk kosza pozwala na szybkie wyczyszczenie ekranu i rozpoczęcie zabawy od nowa
+- ergonomiczny kształt dopasowany do małych rączek dziecka
+- wygodny rysik w zestawie
+- zasilanie 3 x 1,5v AAA (brak w zestawie)
+Zestaw zawiera:
+
+- tablet graficzny / czytnik kart
+- rysik do pisania po ekranie
+- 120 kart edukacyjnych z różnorodną tematyką (litery, cyfry, zwierzęta, przedmioty)
+- śrubokręt do wymiany baterii
+Zabawka rozwija:
+
+- zdolności językowe i naukę angielskiego
+- motorykę małą i precyzję dłoni
+- koordynację wzrokowo-ruchową
+- kreatywność i wyobraźnię
+- umiejętność pisania i rysowania
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+17.50 x 18.00 x 9.50 (cm)
+Waga
+0.66 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114649-1.jpg https://marini.pl/b2b/pictures/59114649-2.jpg https://marini.pl/b2b/pictures/59114649-3.jpg https://marini.pl/b2b/pictures/59114649-4.jpg https://marini.pl/b2b/pictures/59114649-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114648</kod>
+<nazwa>WOOPIE 58373 Pluszak obciążeniowy Panda 65 cm 1,5 kg</nazwa>
+<cena>130.77</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658373</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Woopie Ciężkomiś Panda – sensoryczny pluszak obciążeniowy 1,5 kg. Ciężkomiś Panda to wyjątkowy pluszak obciążeniowy stworzony z myślą o wyciszeniu, relaksie i codziennym komforcie. Dzięki odpowiednio dobranemu obciążeniu zapewnia przyjemne uczucie otulenia i delikatnego nacisku, które pomaga się odprężyć oraz zredukować napięcie po intensywnym dniu.
+Miękki, niezwykle przyjemny w dotyku materiał stymuluje zmysły i daje poczucie bezpieczeństwa zarówno dzieciom, jak i dorosłym. To idealny towarzysz odpoczynku, wyciszenia i spokojnych wieczorów.
+Podaruj sobie lub bliskiej osobie chwilę relaksu i komfortu, który pokochasz od pierwszego przytulenia.
+
+Dla kogo?
+
+- dzieci od 3 roku życia i dorosłych
+- dla osób odczuwających stres i napięcie
+- dla osób mających trudności z wyciszeniem przed snem
+- dla osób potrzebujących wyciszenia i relaksu
+Zalety i funkcje terapeutyczne:
+
+- zapewnia wsparcie terapeutyczne poprzez stymulację czucia głębokiego
+- wspomaga regulację emocji oraz redukuje napięcie i stres
+- poprawia koncentrację i skupienie uwagi w ciągu dnia
+- ułatwia zasypianie i dba o spokojny, nieprzerwany sen
+- daje poczucie bezpieczeństwa i przyjemnego otulenia
+Charakterystyka:
+
+- waga produktu: 1500 g (optymalne obciążenie wspierające terapię sensoryczną)
+- wysokość pluszaka: 65 cm
+- wykonany z najwyższej jakości, bezpiecznych i przytulnych materiałów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+48.00 x 60.00 x 17.00 (cm)
+Waga
+1.60 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114648-1.jpg https://marini.pl/b2b/pictures/59114648-2.jpg https://marini.pl/b2b/pictures/59114648-3.jpg https://marini.pl/b2b/pictures/59114648-4.jpg https://marini.pl/b2b/pictures/59114648-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114653</kod>
+<nazwa>WOOPIE 58380 Pluszak obciążeniowy Panda ruda 65 cm 2,5 kg</nazwa>
+<cena>196.50</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658380</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Woopie Ciężkomiś Panda Ruda – sensoryczny pluszak obciążeniowy 2,5 kg. Ciężkomiś Panda to wyjątkowy pluszak obciążeniowy stworzony z myślą o wyciszeniu, relaksie i codziennym komforcie. Dzięki odpowiednio dobranemu obciążeniu zapewnia przyjemne uczucie otulenia i delikatnego nacisku, które pomaga się odprężyć oraz zredukować napięcie po intensywnym dniu.
+Miękki, niezwykle przyjemny w dotyku materiał stymuluje zmysły i daje poczucie bezpieczeństwa zarówno dzieciom, jak i dorosłym. To idealny towarzysz odpoczynku, wyciszenia i spokojnych wieczorów.
+Podaruj sobie lub bliskiej osobie chwilę relaksu i komfortu, który pokochasz od pierwszego przytulenia.
+
+Dla kogo?
+
+- dzieci od 3 roku życia i dorosłych
+- dla osób odczuwających stres i napięcie
+- dla osób mających trudności z wyciszeniem przed snem
+- dla osób potrzebujących wyciszenia i relaksu
+Zalety i funkcje terapeutyczne:
+
+- zapewnia wsparcie terapeutyczne poprzez stymulację czucia głębokiego
+- wspomaga regulację emocji oraz redukuje napięcie i stres
+- poprawia koncentrację i skupienie uwagi w ciągu dnia
+- ułatwia zasypianie i dba o spokojny, nieprzerwany sen
+- daje poczucie bezpieczeństwa i przyjemnego otulenia
+Charakterystyka:
+
+- waga produktu: 2500 g (optymalne obciążenie wspierające terapię sensoryczną)
+- wysokość pluszaka: 65 cm
+- wykonany z najwyższej jakości, bezpiecznych i przytulnych materiałów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+48.00 x 60.00 x 17.00 (cm)
+Waga
+2.60 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114653-1.jpg https://marini.pl/b2b/pictures/59114653-2.jpg https://marini.pl/b2b/pictures/59114653-3.jpg https://marini.pl/b2b/pictures/59114653-4.jpg https://marini.pl/b2b/pictures/59114653-5.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114644</kod>
+<nazwa>WOOPIE 58397 Pluszak obciążeniowy Koala 65 cm 1,5 kg</nazwa>
+<cena>130.77</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658397</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Woopie Ciężkomiś Koala– sensoryczny pluszak obciążeniowy 1,5 kg. Ciężkomiś Koala to wyjątkowy pluszak obciążeniowy stworzony z myślą o wyciszeniu, relaksie i codziennym komforcie. Dzięki odpowiednio dobranemu obciążeniu zapewnia przyjemne uczucie otulenia i delikatnego nacisku, które pomaga się odprężyć oraz zredukować napięcie po intensywnym dniu.
+Miękki, niezwykle przyjemny w dotyku materiał stymuluje zmysły i daje poczucie bezpieczeństwa zarówno dzieciom, jak i dorosłym. To idealny towarzysz odpoczynku, wyciszenia i spokojnych wieczorów.
+Podaruj sobie lub bliskiej osobie chwilę relaksu i komfortu, który pokochasz od pierwszego przytulenia.
+
+Dla kogo?
+
+- dzieci od 3 roku życia i dorosłych
+- dla osób odczuwających stres i napięcie
+- dla osób mających trudności z wyciszeniem przed snem
+- dla osób potrzebujących wyciszenia i relaksu
+Zalety i funkcje terapeutyczne:
+
+- zapewnia wsparcie terapeutyczne poprzez stymulację czucia głębokiego
+- wspomaga regulację emocji oraz redukuje napięcie i stres
+- poprawia koncentrację i skupienie uwagi w ciągu dnia
+- ułatwia zasypianie i dba o spokojny, nieprzerwany sen
+- daje poczucie bezpieczeństwa i przyjemnego otulenia
+Charakterystyka:
+
+- waga produktu: 1500 g (optymalne obciążenie wspierające terapię sensoryczną)
+- wysokość pluszaka: 65 cm
+- wykonany z najwyższej jakości, bezpiecznych i przytulnych materiałów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+48.00 x 60.00 x 17.00 (cm)
+Waga
+1.60 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114644-1.jpg https://marini.pl/b2b/pictures/59114644-2.jpg https://marini.pl/b2b/pictures/59114644-3.jpg https://marini.pl/b2b/pictures/59114644-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114652</kod>
+<nazwa>WOOPIE 58410 Pluszak obciążeniowy Miś Balboa 65 cm 2,5 kg</nazwa>
+<cena>196.50</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658410</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Woopie Ciężkomiś Miś Balboa– sensoryczny pluszak obciążeniowy 2,5 kg. Ciężkomiś Miś Balboato wyjątkowy pluszak obciążeniowy stworzony z myślą o wyciszeniu, relaksie i codziennym komforcie. Dzięki odpowiednio dobranemu obciążeniu zapewnia przyjemne uczucie otulenia i delikatnego nacisku, które pomaga się odprężyć oraz zredukować napięcie po intensywnym dniu.
+Miękki, niezwykle przyjemny w dotyku materiał stymuluje zmysły i daje poczucie bezpieczeństwa zarówno dzieciom, jak i dorosłym. To idealny towarzysz odpoczynku, wyciszenia i spokojnych wieczorów.
+Podaruj sobie lub bliskiej osobie chwilę relaksu i komfortu, który pokochasz od pierwszego przytulenia.
+
+Dla kogo?
+
+- dzieci od 3 roku życia i dorosłych
+- dla osób odczuwających stres i napięcie
+- dla osób mających trudności z wyciszeniem przed snem
+- dla osób potrzebujących wyciszenia i relaksu
+Zalety i funkcje terapeutyczne:
+
+- zapewnia wsparcie terapeutyczne poprzez stymulację czucia głębokiego
+- wspomaga regulację emocji oraz redukuje napięcie i stres
+- poprawia koncentrację i skupienie uwagi w ciągu dnia
+- ułatwia zasypianie i dba o spokojny, nieprzerwany sen
+- daje poczucie bezpieczeństwa i przyjemnego otulenia
+Charakterystyka:
+
+- waga produktu: 2500 g (optymalne obciążenie wspierające terapię sensoryczną)
+- wysokość pluszaka: 65 cm
+- wykonany z najwyższej jakości, bezpiecznych i przytulnych materiałów
+
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+48.00 x 60.00 x 17.00 (cm)
+Waga
+2.60 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114652-1.jpg https://marini.pl/b2b/pictures/59114652-2.jpg https://marini.pl/b2b/pictures/59114652-3.jpg https://marini.pl/b2b/pictures/59114652-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114650</kod>
+<nazwa>WOOPIE 58427 Pluszak obciążeniowy Leniwiec 65cm 1,5 kg</nazwa>
+<cena>130.77</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658427</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Woopie Ciężkomiś Leniwiec – sensoryczny pluszak obciążeniowy 1,5 kg. Ciężkomiś Leniwiec to wyjątkowy pluszak obciążeniowy stworzony z myślą o wyciszeniu, relaksie i codziennym komforcie. Dzięki odpowiednio dobranemu obciążeniu zapewnia przyjemne uczucie otulenia i delikatnego nacisku, które pomaga się odprężyć oraz zredukować napięcie po intensywnym dniu.
+Miękki, niezwykle przyjemny w dotyku materiał stymuluje zmysły i daje poczucie bezpieczeństwa zarówno dzieciom, jak i dorosłym. To idealny towarzysz odpoczynku, wyciszenia i spokojnych wieczorów.
+Podaruj sobie lub bliskiej osobie chwilę relaksu i komfortu, który pokochasz od pierwszego przytulenia.
+
+Dla kogo?
+
+- dzieci od 3 roku życia i dorosłych
+- dla osób odczuwających stres i napięcie
+- dla osób mających trudności z wyciszeniem przed snem
+- dla osób potrzebujących wyciszenia i relaksu
+Zalety i funkcje terapeutyczne:
+
+- zapewnia wsparcie terapeutyczne poprzez stymulację czucia głębokiego
+- wspomaga regulację emocji oraz redukuje napięcie i stres
+- poprawia koncentrację i skupienie uwagi w ciągu dnia
+- ułatwia zasypianie i dba o spokojny, nieprzerwany sen
+- daje poczucie bezpieczeństwa i przyjemnego otulenia
+Charakterystyka:
+
+- waga produktu: 1500 g (optymalne obciążenie wspierające terapię sensoryczną)
+- wysokość pluszaka: 65 cm
+- wykonany z najwyższej jakości, bezpiecznych i przytulnych materiałów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+48.00 x 60.00 x 17.00 (cm)
+Waga
+1.60 kg
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114650-1.jpg https://marini.pl/b2b/pictures/59114650-2.jpg https://marini.pl/b2b/pictures/59114650-3.jpg https://marini.pl/b2b/pictures/59114650-4.jpg https://marini.pl/b2b/pictures/59114650-5.jpg https://marini.pl/b2b/pictures/59114650-6.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114647</kod>
+<nazwa>WOOPIE 58434 Pluszak obciążeniowy Miś 65 cm 1,5 kg</nazwa>
+<cena>130.77</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658434</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Woopie Ciężkomiś Miś Niedźwiadek Bruno – sensoryczny pluszak obciążeniowy 1,5 kg. Ciężkomiś Miś Niedźwiadek Bruno to wyjątkowy pluszak obciążeniowy stworzony z myślą o wyciszeniu, relaksie i codziennym komforcie. Dzięki odpowiednio dobranemu obciążeniu zapewnia przyjemne uczucie otulenia i delikatnego nacisku, które pomaga się odprężyć oraz zredukować napięcie po intensywnym dniu.
+Miękki, niezwykle przyjemny w dotyku materiał stymuluje zmysły i daje poczucie bezpieczeństwa zarówno dzieciom, jak i dorosłym. To idealny towarzysz odpoczynku, wyciszenia i spokojnych wieczorów.
+Podaruj sobie lub bliskiej osobie chwilę relaksu i komfortu, który pokochasz od pierwszego przytulenia.
+
+Dla kogo?
+
+- dzieci od 3 roku życia i dorosłych
+- dla osób odczuwających stres i napięcie
+- dla osób mających trudności z wyciszeniem przed snem
+- dla osób potrzebujących wyciszenia i relaksu
+Zalety i funkcje terapeutyczne:
+
+- zapewnia wsparcie terapeutyczne poprzez stymulację czucia głębokiego
+- wspomaga regulację emocji oraz redukuje napięcie i stres
+- poprawia koncentrację i skupienie uwagi w ciągu dnia
+- ułatwia zasypianie i dba o spokojny, nieprzerwany sen
+- daje poczucie bezpieczeństwa i przyjemnego otulenia
+Charakterystyka:
+
+- waga produktu: 1500 g (optymalne obciążenie wspierające terapię sensoryczną)
+- wysokość pluszaka: 65 cm
+- wykonany z najwyższej jakości, bezpiecznych i przytulnych materiałów
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+Producent z siedzibą w UE
+Wymiary do wysyłki
+48.00 x 60.00 x 17.00 (cm)
+Waga
+1.60 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114647-1.jpg https://marini.pl/b2b/pictures/59114647-2.jpg https://marini.pl/b2b/pictures/59114647-3.jpg https://marini.pl/b2b/pictures/59114647-4.jpg https://marini.pl/b2b/pictures/59114647-5.jpg https://marini.pl/b2b/pictures/59114647-6.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114663</kod>
+<nazwa>WOOPIE 58670 Zestaw kuchenny zielony 108 el.</nazwa>
+<cena>39.42</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658670</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Zestaw akcesoriów kuchennych od marki WOOPIE to idealna propozycja dla małych pasjonatów gotowania, która zapewni wiele godzin kreatywnej zabawy. Składa się aż ze 108 elementów, co pozwala dziecku na przygotowanie różnorodnych posiłków - od klasycznego obiadu, przez pizzę i grilla z przyjaciółmi, aż po herbatę z pierożkami. Wiele produktów spożywczych, takich jak warzywa i owoce, połączonych jest za pomocą wytrzymałego rzepu. Podczas przekrawania ich bezpiecznym nożykiem wydają realistyczny dźwięk chrupania, co dodaje zabawie niezwykłej autentyczności. Akcesoria zostały zaprojektowane z dbałością o detale, a ten wariant wyróżnia się piękną, zieloną kolorystyką naczyń. Część elementów, takich jak realistyczny czajnik, można napełniać prawdziwą wodą, a garnki i naczynia łatwo umyć pod kranem bez ryzyka wyblaknięcia. To doskonały zestaw, który naturalnie zachęca do odgrywania ról i wspólnej zabawy w restaurację lub dom.
+
+Charakterystyka:
+
+- przeznaczony dla dzieci od 3 roku życia
+- gigantyczny zestaw - aż 108 elementów
+- wariant kolorystyczny z zielonymi naczyniami (garnek, patelnia, czajnik)
+- owoce i warzywa na rzepy - wydają realistyczny dźwięk przy krojeniu
+- interaktywny czajnik ze zdejmowaną pokrywką - możliwość wlania wody
+- łatwe w czyszczeniu i w pełni zmywalne w wodzie elementy
+Zestaw zawiera:
+
+- naczynia do gotowania: czarny szybkowar, zielony garnek z pokrywką, zieloną patelnię, zielony czajnik
+- ruszt do grilla wraz z szaszłykami
+- akcesoria kuchenne: deskę do krojenia, bezpieczny nóż, tasak, radełko do pizzy, obieraczkę, sztućce, pałeczki, szczypce, łopatki oraz wieszak na przybory
+- zastawę stołową i koszyki: talerze, miski, kubek, dwa koszyki na zakupy
+- zestawy obiadowe i fast food: pizzę (podzieloną na kawałki), hamburgery, hot doga, frytki, kanapki, pieczonego kurczaka i mięso
+- produkty do krojenia na rzep: arbuza, pomidory, marchewki, bakłażana, kukurydzę, truskawkę, winogrona i inne owoce oraz warzywa
+- przekąski i dodatki: bułeczki baozi, pierożki, czekoladki, butelki z sosami
+Zabawka rozwija:
+
+- wyobraźnię i kreatywność 
+- koordynację wzrokowo-ruchową 
+- zdolności manualne oraz motorykę małą
+- umiejętności poznawcze, w tym rozpoznawanie kolorów, kształtów i żywności
+- umiejętności społeczne i interakcję w grupie
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+23.00 x 33.00 x 16.00 (cm)
+Waga
+0.70 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114663-1.jpg https://marini.pl/b2b/pictures/59114663-2.jpg https://marini.pl/b2b/pictures/59114663-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114661</kod>
+<nazwa>WOOPIE 58717 Zjeżdżalnia z kaczuszką 48 el.</nazwa>
+<cena>36.14</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658717</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Kreatywny tor wodny ze zjeżdżalnią od marki WOOPIE to doskonała zabawka, która zamieni każdą rutynową kąpiel w fascynującą przygodę. Zestaw typu Zrób to sam (DIY) pozwala na budowanie rozbudowanych, zakręconych tras dla dołączonych do zestawu uroczych kaczuszek oraz wodnych fasolek. Dzięki dołączonym do kompletu mocnym przyssawkom, zmontowany tor można z łatwością i stabilnie przymocować do gładkich powierzchni, takich jak płytki ceramiczne w łazience, szkło kabiny prysznicowej czy plastikowe obudowy. Zabawka wyróżnia się bogatą, żywą kolorystyką oraz wysoką jakością materiałów, które są odporne na uderzenia, co zapewnia bezpieczną i długotrwałą zabawę.
+
+Charakterystyka:
+
+- zabawka przeznaczona dla dzieci od 3 roku życia
+- duży zestaw typu Zrób to sam (DIY) składający się z 48 elementów do swobodnego łączenia
+- mocne przyssawki umożliwiające montaż toru na ścianie (szkło, płytki, plastik)
+- elementy wykonane z wysokiej jakości tworzywa odpornego na pęknięcia i zderzenia
+- urocze akcesoria zjeżdżające po torze urozmaicające zabawę w wodzie
+Zestaw zawiera:
+
+- wielokolorowe elementy konstrukcyjne do budowy zjeżdżalni (łącznie 48 elementów w zestawie)
+- przyssawki mocujące do gładkich powierzchni
+- figurki żółtych kaczuszek
+- figurki zjeżdżających fasolek/kuleczek
+- wodny kołowrotek (słoneczko)
+Zabawka rozwija:
+
+- koordynację wzrokowo-ruchową 
+- zdolności manualne i motorykę małą 
+- kreatywność oraz wyobraźnię przestrzenną 
+- logiczne myślenie i zrozumienie ciągu przyczynowo-skutkowego
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+26.00 x 26.00 x 11.00 (cm)
+Waga
+0.80 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114661-1.jpg https://marini.pl/b2b/pictures/59114661-2.jpg https://marini.pl/b2b/pictures/59114661-3.jpg https://marini.pl/b2b/pictures/59114661-4.jpg https://marini.pl/b2b/pictures/59114661-5.jpg https://marini.pl/b2b/pictures/59114661-6.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114654</kod>
+<nazwa>WOOPIE 58762 Magnetyczny piasek kinetyczny Plac budowy</nazwa>
+<cena>43.62</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280658762</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Przenieś plac budowy prosto do pokoju Twojego dziecka! Ten kreatywny zestaw od marki Woopie to nie tylko piasek, ale całe centrum dowodzenia dla małego inżyniera. Dzięki praktycznej walizce, która po otwarciu zamienia się w dużą piaskownicę, zabawa jest czysta, zorganizowana i możliwa w każdym miejscu w domu.
+
+ 
+
+Charakterystyka:
+
+- Dla dzieci od 3 roku życia.
+- Magiczny piasek kinetyczny, który nigdy nie wysycha, nie rozsypuje się jak zwykły piasek i jest niezwykle łatwy do modelowania.
+- Piasek klei się tylko do siebie, nie brudząc rąk ani ubrań.
+- Zestaw stymuluje zdolności manualne, wyobraźnię przestrzenną oraz koordynację wzrokowo-ruchową.
+- Pojazdy i akcesoria wykonane są z trwałego i bezpiecznego dla dzieci tworzywa.
+- Wygodna rączka przy walizce pozwala dziecku zabrać swój ulubiony plac budowy do dziadków czy na wakacje.
+Zabawka zawiera:
+
+-  Piasek kinetyczny
+-  Praktyczną walizkę 2w1 (opakowanie i piaskownica w jednym).
+-  Zestaw maszyn budowlanych.
+-  Zestaw foremek w kształcie murów i elementów konstrukcyjnych.
+-  Akcesoria dodatkowe: łopatkę oraz znaki drogowe.
+Zabawka rozwija:
+
+- Małą motorykę
+- Koordynację wzrokowo-ruchową
+- Wyobraźnię i kreatywność.
+- Rozwój sensoryczny.
+- Koncentrację i cierpliwość
+- Odgrywanie ról
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+33.00 x 35.00 x 10.00 (cm)
+Waga
+1.60 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114654-1.jpg https://marini.pl/b2b/pictures/59114654-2.jpg https://marini.pl/b2b/pictures/59114654-3.jpg https://marini.pl/b2b/pictures/59114654-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114629</kod>
+<nazwa>WOOPIE 59493 Figurki DIY Zestaw Laleczki</nazwa>
+<cena>9.86</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280659493</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Zestaw kreatywny Mould &amp; Paint Księżniczki od marki WOOPIE to doskonała propozycja dla małych artystów. Zabawka pozwala na samodzielne stworzenie odlewów gipsowych uroczych figurek w kształcie laleczek, a następnie pomalowanie ich według własnej wyobraźni. Dzięki dołączonej taśmie magnetycznej, gotowe dzieła mogą stać się pięknymi magnesami na lodówkę. To idealny sposób na rozwijanie pasji artystycznych i zdolności manualnych u dzieci.
+
+Charakterystyka:
+
+- Zabawka przeznaczona dla dzieci od 6 lat
+- Motyw uroczych księżniczek i laleczek
+- Zestaw typu Zrób to sam (DIY) - odlewanie i malowanie
+- Możliwość stworzenia 7 różnych figurek
+- Gotowe figurki można wykorzystać jako magnesy
+Zestaw zawiera:
+
+- 1 formę do odlewów na 7 figurek
+- 2 opakowania proszku gipsowego
+- 1 zestaw farbek pigmentowych (6 kolorów)
+- 1 paletkę do mieszania farb
+- 1 miseczkę do wyrabiania gipsu
+- 1 miarkę do nakładania
+- 1 szpatułkę do wygładzania
+- 2 pędzelki
+- 1 taśmę magnetyczną
+- Instrukcję obsługi
+Zabawka rozwija:
+
+- Zdolności manualne i motorykę małą
+- Kreatywność i wyobraźnię
+- Zmysł artystyczny
+- Cierpliwość i koncentrację
+
+Wymiary do wysyłki
+19.00 x 22.00 x 5.50 (cm)
+Waga
+0.40 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114629-1.jpg https://marini.pl/b2b/pictures/59114629-2.jpg https://marini.pl/b2b/pictures/59114629-3.jpg https://marini.pl/b2b/pictures/59114629-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914532</kod>
@@ -313943,6 +315232,40 @@ Koordynacja wzrokowo-ruchowa - dziecko uczy się, jak dopasowywać krążki do o
 Rozwój poznawczy - Nauka liczb i kolorów rozwija umiejętności matematyczne i rozpoznawanie barw. Dźwięki wydawane przez klocki uczą zależności przyczynowo-skutkowych
 Kreatywność i wyobraźnia</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5910149-1.jpg https://marini.pl/b2b/pictures/5910149-2.jpg https://marini.pl/b2b/pictures/5910149-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114643</kod>
+<nazwa>WOOPIE BABY 56294 Pałąk łuk zawieszka do łóżeczka</nazwa>
+<cena>26.21</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN>5906280656294</EAN>
+<grupa>WOOPIE</grupa>
+<opis>Pałąk edukacyjny to idealna zabawka dla najmłodszych, która wspiera rozwój dziecka już od pierwszych dni życia. Dzięki kolorowym wzorom i miękkim zawieszkom maluszek poznaje kształty, kolory i faktury, rozwijając przy tym zmysły. Zabawka może być łatwo przymocowana do wózka, łóżeczka lub fotelika, zapewniając dziecku atrakcję w domu i w podróży. Różnorodne elementy zachęcają do chwytania, obserwowania i dotykania, co wspiera rozwój motoryki małej. To bezpieczna i funkcjonalna propozycja, która łączy zabawę z nauką.
+
+Charakterystyka:
+
+- Pałąk edukacyjny dla niemowląt z kolorowymi wzorami
+- 3 miękkie zawieszki – pszczółka, kontrastowa kostka, motylek
+- Żywe kolory i kontrastowe wzory przyciągają uwagę dziecka
+- Pasuje do wózka, łóżeczka, fotelika
+- Bezpieczne materiały – produkt przeznaczony od 0+
+Zabawka rozwija:
+
+- Zmysł wzroku – kontrastowe wzory i kolory stymulują rozwój oczu
+- Zmysł dotyku – różnorodne faktury wspierają rozwój sensoryczny
+- Koordynację wzrokowo-ruchową – zachęca do chwytania i obserwacji
+- Motorykę małą – ćwiczenie paluszków i rączek dziecka
+- Umiejętność koncentracji i skupienia uwagi
+GPSR
+WOOPIE Kozicka Sp.Komandytowa | ul.Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Osoba odpowiedzialna
+WOOPIE Kozicka Sp. Komandytowa | ul. Południowa 29A 05-540 Jeziórko, Polska | woopie@woopie.toys
+Wymiary do wysyłki
+29.50 x 38.50 x 9.00 (cm)
+Waga
+0.65 kg</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114643-1.jpg https://marini.pl/b2b/pictures/59114643-2.jpg https://marini.pl/b2b/pictures/59114643-3.jpg https://marini.pl/b2b/pictures/59114643-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913545</kod>
@@ -316496,7 +317819,7 @@ Wkładka wykonana z naturalnej skóry oraz elastycznej pianki. Pianka zawiera w�
 <nazwa>ZETPOL Obuwie dziecięce ŁUCJA</nazwa>
 <cena>17.56</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903424711857</EAN>
 <grupa>ZETPOL</grupa>
 <opis>Obuwie dziecięce sandałki zapinane na dwie klamerki w groszki. Regulowane zapięcie pozwala dopasować buty do każdej stopy. Odkryte palce umożliwiają lepsze oddychanie stóp. Wnętrze buta wykonane z tkaniny bawełnianej. Usztywniana piętka. Różowa elastyczna podeszwa wykonana z bezftalanowego tworzywa.
