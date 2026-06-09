@@ -1605,7 +1605,7 @@
     <ean>5060204030208</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>85</stock>
+    <stock>82</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -4829,7 +4829,7 @@
     <ean>5060639144815</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>1</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
