@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-06-11T20:55:05.240">
+<MARINI timestamp="2026-06-12T20:55:04.900">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -2579,7 +2579,7 @@ W zestawie znajdują się:
 <nazwa>AKUKU A0055 Gryzak silikonowy Panda</nazwa>
 <cena>8.54</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644000555</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
 <opis>Gryzak silikonowy PANDA – zawieszka.
@@ -2685,7 +2685,7 @@ Wyprodukowane w UE</opis>
 <nazwa>AKUKU A0071 Talerzyk Słoń</nazwa>
 <cena>6.73</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644000715</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
 <opis>Talerzyk plastikowy „akuku” bez wątpienia sprawdzi się podczas nauki samodzielnego jedzenia. Żywa kolorystyka i ciekawe wzory uatrakcyjnią dziecku posiłek. Talerzyk jest lekki i poręczny. Wykonany z bezpiecznych materiałów przeznaczonych do kontaktu z żywnością. Dostępny w dwóch wzorach.
@@ -6571,7 +6571,7 @@ Produkt zgodny z europejską normą EN 12586</opis>
 <nazwa>AKUKU A0701 Łańcuszek / zawieszka do smoczka róż</nazwa>
 <cena>3.63</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644007011</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Nasz łańcuszek do smoczków uspokajających to ciekawy i stylowy dodatek do smoczka i ubranka dziecka, który spełnia przede wszystkim rolę ochronną, ponieważ zabezpiecza smoczek przed zgubieniem oraz upadkiem na ziemię i zabrudzeniem. Sprawdzi się zarówno w domu, jak podczas spacerów czy w podróży. Jest specjalnie przystosowany pod kątem bezpieczeństwa dziecka. Posiada mocne zapięcie na klips. Łatwe i szybkie mocowanie. Stanowi także unikalną ozdobę ubranka dziecka. Smoczek zawsze pozostaje w zasięgu ręki. Pasuje wyłącznie do smoczków z uchwytem. Dobrze się trzyma ubranka i nie powoduje uszkodzenia materiału.
@@ -7573,7 +7573,7 @@ Szerokość 19 cm, długość od szyi 14 cm</opis>
 <nazwa>AKUKU A1320 Śliniak na rzep średni</nazwa>
 <cena>6.63</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644013203</EAN>
 <grupa>AKUKU/ŚLINIAKI</grupa>
 <opis>Śliniak średni A1320
@@ -7682,7 +7682,7 @@ Rozmiar: 37 cm (obwód wokół szyi) x 16 cm (długość od szyi)</opis>
 <nazwa>AKUKU A1600 Śliniak wiązany mini</nazwa>
 <cena>3.07</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644016006</EAN>
 <grupa>AKUKU/ŚLINIAKI</grupa>
 <opis>Śliniak mini wiązany A1600.
@@ -7710,7 +7710,7 @@ Szerokość 20 x długość od szyi 14 cm</opis>
 <nazwa>AKUKU A1662 Śliniak wiązany SOWY</nazwa>
 <cena>4.76</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644016624</EAN>
 <grupa>AKUKU/ŚLINIAKI</grupa>
 <opis>Śliniak wykonany jest z wysokiej jakości materiałów. Wewnętrzna część została podszyta wodoodporną warstwą z miękkiej ceratki, która dodatkowo zabezpiecza ubranie przed zabrudzeniem i czyni śliniak nieprzemakalnym. Wygodne i praktyczne wiązanie podnosi komfort noszenia śliniaka, a ciekawe nadruki umilają dziecku posiłek.
@@ -7790,7 +7790,7 @@ Ostrzeżenie! Zawsze używać pod nadzorem dorosłych. Sprawdź jakość produkt
 <nazwa>AKUKU A1666 Śliniak wiązany KOTY</nazwa>
 <cena>5.09</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644016662</EAN>
 <grupa>AKUKU/ŚLINIAKI</grupa>
 <opis>Śliniak wykonany jest z wysokiej jakości materiałów. Wewnętrzna część została podszyta wodoodporną warstwą z miękkiej ceratki, która dodatkowo zabezpiecza ubranie przed zabrudzeniem i czyni śliniak nieprzemakalnym. Wygodne i praktyczne wiązanie podnosi komfort noszenia śliniaka, a ciekawe nadruki umilają dziecku posiłek.
@@ -10480,7 +10480,7 @@ Pokrowiec pikowany zamykany na zamek wykonany z dzianiny materacykowej poliester
 <nazwa>ALBERO MIO Materac LUX Kompakt</nazwa>
 <cena>295.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165685148</EAN>
 <grupa>ALBERO MIO/MATERACE</grupa>
 <opis>Materac LUX do łóżeczka kompakt / Compact LUX cot mattress
@@ -10525,27 +10525,6 @@ Pokrowiec posiada trójwarstową konstrukcję składającą się z dzianiny mate
 -wkład materaca to pianka poliuretanowa
 -skład pokrowca: dzianina materacykowa poliester 100%</opis>
 <zdjecia>https://marini.pl/b2b/pictures/784729-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>912</kod>
-<nazwa>ALBERO MIO Moskitiera woal biała</nazwa>
-<cena>65.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901571374253</EAN>
-<grupa>ALBERO MIO/AKCESORIA</grupa>
-<opis>Moskitiera:
-
-Wymiary: 200 x 400 cm
-Skład:
-woal – tkanina przezroczysta
-100% poliester
-Występuje w kolorze: białym i ecru
-
-Moskitiera pozwala na całkowite osłonięcie łóżeczka.
-Wykonana jest z przewiewnego, miękkiego woalu, który nie zabiera dziecku światła i powietrza.
-Moskitiera zapewnia ochronę i  spokojny sen pociechy oraz pełni funkcję ozdobną pokoju dziecięcego.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/912-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914637</kod>
@@ -13955,7 +13934,7 @@ Rozmiar: 70x47 (+/-0,5). Skład: folia PVC bez zawartości ftalanów (100% polie
 <nazwa>ALBERO MIO Przewijak twardy krótki 432 LENIWCE</nazwa>
 <cena>57.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904165685308</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak twardy (PT70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) przeznaczony jest do montowania na większości rodzajów łóżeczek o wymiarach 120×60 cm, posiada stópki zabezpieczające przed zsunięciem się z ramy łóżka.
@@ -14347,7 +14326,7 @@ Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie 
 <nazwa>ALBERO MIO Przewijak twardy krótki 449 Safari party</nazwa>
 <cena>57.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907001941729</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy
@@ -18864,25 +18843,6 @@ WIEK: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912185-1.png https://marini.pl/b2b/pictures/5912185-2.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5904719</kod>
-<nazwa>ARTYK 110442 Zestaw do piasku PRINCESS</nazwa>
-<cena>14.37</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>8412896110442</EAN>
-<grupa>ARTYK</grupa>
-<opis>W ZESTAWIE:
-- WIADERKO
-- SITKO
-- 2 FOREMKI
-- GRABKI
-- ŁOPATKA
-
-ŚREDNICA WIADERKA OK. 18 CM
-WIEK: 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5904719-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5904716</kod>
 <nazwa>ARTYK 110459 Zestaw do piasku AVENGERS</nazwa>
 <cena>14.37</cena>
@@ -19287,28 +19247,6 @@ WYM. OPAKOWANIA: 25 X 13 X 14 CM.
 BATERIE: AUTO 3 X AA 1,5V, PILOT 2 X AA 1,5V
 WIEK: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790699-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902847</kod>
-<nazwa>ARTYK 132513 Bajkowy pojazd zdalnie sterowany fioletowy</nazwa>
-<cena>25.00</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5901811132513</EAN>
-<grupa>ARTYK</grupa>
-<opis>W ZESTAWIE:
-- AUTO 13 CM.
-- PILOT
-
-FUNKCJE:
-- JEŹDZI DO PRZODU I SKRĘCA DO TYŁU
-- DZIAŁAJĄCE PRZEDNIE ŚWIATŁA
-- ZDEJMOWANA KAROSERIA
-
-WYM. OPAKOWANIA: 25 X 13 X 14 CM.
-BATERIE: AUTO 3 X AA 1,5V, PILOT 2 X AA 1,5V
-WIEK: 3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902847-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5914353</kod>
@@ -20812,56 +20750,6 @@ Pozostałe informacje:
 - wym. disp. 29,5 x 12,5 x 29 cm
 - wiek: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914898-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5914692</kod>
-<nazwa>ARTYK 177354 Tańcząca kałamarnica mix kolorów 3+</nazwa>
-<cena>23.95</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901811177354</EAN>
-<grupa>ARTYK</grupa>
-<opis>W zestawie:
-- kałamarnica wym. 14 x 21 x 8 cm
-- uchwyt do wędki
-- plastikowa wędka z haczykiem na sznurku
-
-Funkcje:
-- kałamarnica reaguje na dźwięki i dotyk - porusza się na leżąco w sposób dający efekt "tańca", w trakcie ruchu odtwarza wesołe melodie
-- wbudowane podświetlenie
-- funkcja bump&amp;go
-
-Pozostałe informacje:
-- 3 wzory
-- wym. opak.: 12,6 x 20,5 x 8,2 cm
-- baterie: 3 x AAA 1,5 V niedołączone
-- wiek:3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5914692-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5914693</kod>
-<nazwa>ARTYK 177361 Tańcząca meduza turkusowa, żółta</nazwa>
-<cena>19.08</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901811177361</EAN>
-<grupa>ARTYK</grupa>
-<opis>W zestawie:
-- meduza wym. 14 x 20,2 x 11 cm
-- uchwyt do wędki
-- plastikowa wędka z haczykiem na sznurku
-
-Funkcje:
-- meduza reaguje na dźwięki i dotyk - porusza się w sposób dający efekt "tańca", w trakcie ruchu odtwarza wesołe melodie
-- wbudowane podświetlenie
-- funkcja bump&amp;go
-
-Pozostałe informacje:
-- 3 wzory
-- wym. opak.: 11,2 x 20,6 x 10,2 cm
-- baterie: 3 x AA 1,5 V niedołączone
-- wiek:3+</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5914693-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5913363</kod>
@@ -25506,7 +25394,7 @@ Wybór rodzaju silikonu, z którego wykonane są smoczki Ultra Soft i Ultra Air,
 <nazwa>AVENT SCF349/47 Smoczek Ultra Air 18+ małpka/ kameleon</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689042482</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -27708,7 +27596,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9290 Piesek Azorek szary 26 cm</nazwa>
 <cena>27.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209892907</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -27785,7 +27673,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9347 Panda Zosia</nazwa>
 <cena>26.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904209893478</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -28440,7 +28328,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9552 Zabawka z dźwiękiem Panda niebieska 17 cm</nazwa>
 <cena>14.20</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904209895526</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -28495,7 +28383,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9557 Pozytywka Piesek niebieski 18 cm</nazwa>
 <cena>32.91</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904209895571</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -28517,7 +28405,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9559 Miluś Piesek niebieski 25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209895595</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -39250,7 +39138,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB200511 Kubek z miękkim ustnikiem różowy</nazwa>
 <cena>38.03</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965004141</EAN>
 <grupa>B.BOX</grupa>
 <opis>Szukasz idealnego kubka dla swojego dziecka?
@@ -44853,7 +44741,7 @@ Wymiary woreczka: 17,5 × 10 cm.
 <nazwa>B.O.1193 Zabawka piszcząca z gryzakiem słonik</nazwa>
 <cena>18.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5904341209861</EAN>
 <grupa>BABYONO/ZABAWKI/PISZCZKI</grupa>
 <opis>Wesoła postać słonika z dużą trąbą i miękkimi uszami, które tylko czekają by zaangażować dziecięce rączki do wspólnej zabawy. Słonik dzięki swym kształtom wspiera również naukę przekładania przedmiotów z rączki do rączki.
@@ -46449,7 +46337,7 @@ Wymiary opakowania: 20 x 32 x 20 cm</opis>
 <nazwa>B.O.1511 Książeczka sensoryczna SEASONS</nazwa>
 <cena>19.80</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435414651</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Miękka i kolorowa książeczka „Pory roku” to odpowiedź na poznawcze potrzeby dziecka. To nie tylko zabawa, to także nauka.
@@ -47788,7 +47676,7 @@ Wymiar: 25 x 25 cm</opis>
 <nazwa>B.O.1562 Piszczek z gyzakiem LLAMA LUNA*</nazwa>
 <cena>16.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435416143</EAN>
 <grupa>BABYONO</grupa>
 <opis>Poznaj miękki i miły piszczek Llama Luna. Idealny do przytulania i pocieszania.
@@ -47986,7 +47874,7 @@ Poza pojemnikiem na smoczek innym przydatnym akcesorium jest zawieszka do smoczk
 <nazwa>B.O.1569/02 Pojemnik na smoczek różowy</nazwa>
 <cena>9.99</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417270</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Dla niemowlęcia ssanie piersi jest źródłem poczucia bezpieczeństwa wynikającego zarówno z tego, że ten sposób pozyskuje ono pokarm zaraz po urodzeniu. Także bliskość opiekuna koi je i sprawia, że nie czuje się zagrożone. Dopóki u matki trwa okres laktacji, dziecko realizuje przeważnie swój odruch ssania w kontakcie z nią, potem jednak najlepiej po prostu kupić mu smoczek. Smoczek sprawdzi się także w pierwszych miesiącach życia, w sytuacjach, kiedy matka odpoczywa lub jest akurat w innym miejscu. Nie ma się jednak co martwić. U czteromiesięcznego bobasa potrzeba ssania samoczynnie zanika, a dorośli mogą przestać sobie zaprzątać głowę tym, w jaki sposób pomóc mu ją zaspokoić.
@@ -48715,7 +48603,7 @@ Wymiar opakowania: 10x14 cm</opis>
 <nazwa>B.O.1594 Grzechotka z gryzakiem</nazwa>
 <cena>9.30</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416686</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
 <opis>Nasza grzechotka to idealna pierwsza zabawka dla Twojego malucha. Wykonana została w całości z bezpiecznych i przyjemnych w dotyku materiałów.
@@ -48745,7 +48633,7 @@ Wymiar opakowania: 10x14 cm</opis>
 <nazwa>B.O.1595 Grzechotka z gryzakiem</nazwa>
 <cena>8.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416693</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
 <opis>Nasza grzechotka to idealna pierwsza zabawka dla Twojego malucha. Wykonana została w całości z bezpiecznych i przyjemnych w dotyku materiałów.
@@ -48895,7 +48783,7 @@ Wymiary opakowania: 9 × 15 cm</opis>
 <nazwa>B.O.1598/01 Silikonowy śliniak-ultracienki</nazwa>
 <cena>9.51</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435416747</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Ultracienki śliniak silikonowy, wyjątkowo lekki, idealnie dopasowuje się do kształtu ciała dziecka, zapewniając komfort noszenia. Dzięki temu jest niemal niewyczuwalny, a jednocześnie skutecznie chroni przed zabrudzeniami. Idealny do odkrywania nowych smaków bez obaw o zabrudzenia.
@@ -48915,7 +48803,7 @@ Wiek dziecka: 6 m+</opis>
 <nazwa>B.O.1598/02 Silikonowy śliniak-ultracienki</nazwa>
 <cena>9.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435416754</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Ultracienki śliniak silikonowy, wyjątkowo lekki, idealnie dopasowuje się do kształtu ciała dziecka, zapewniając komfort noszenia. Dzięki temu jest niemal niewyczuwalny, a jednocześnie skutecznie chroni przed zabrudzeniami. Idealny do odkrywania nowych smaków bez obaw o zabrudzenia.
@@ -49109,7 +48997,7 @@ Wymiar: 18 x 20 cm</opis>
 <nazwa>B.O.1632 Pozytywka KOALA COCO</nazwa>
 <cena>32.64</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435416877</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Maskotka koala z pozytywką to uśmiechnięty towarzysz codziennych zabaw. Stymuluje rozwój Twojego malucha.
@@ -49129,7 +49017,7 @@ Wymiar: 17 x 17 cm</opis>
 <nazwa>B.O.1633 Piszczek z gryzakiem KOALA COCO</nazwa>
 <cena>16.32</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435416884</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Poznaj miękki i miły piszczek Koala Coco. Idealny do przytulania i pocieszania.
@@ -49842,7 +49730,7 @@ Zapakowany w kartonik z okienkiem – doskonały pomysł na prezent.</opis>
 <nazwa>B.O.1648/02 Kocyk z wełny merino ciemny beż</nazwa>
 <cena>119.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435417263</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Ten cudownie miękki kocyk, wykonany w 100% z naturalnej wełny merino, łączy w sobie luksus, funkcjonalność i troskę o wygodę najmłodszych. Wełna merino pozyskiwana jest z runa owiec merynosów, żyjących w ekologicznym środowisku i słynących z cienkich, sprężystych włókien.
@@ -51920,7 +51808,7 @@ Rozwija percepcję wzrokową – uczy rozróżniania kolorów i kształtów</opi
 <nazwa>B.O.1682 Piszczek Rabbit Karo</nazwa>
 <cena>16.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435418369</EAN>
 <grupa>BABYONO/ZABAWKI/PISZCZKI</grupa>
 <opis>Urocza pluszowa piszczałka Rabbit Karo to zabawka dla niemowląt, która rozbudza ciekawość, rozwija zmysły i zręczność Twojego maluszka. Idealna do przytulania i wspólnej zabawy!
@@ -54603,7 +54491,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/09 Biustonosz do karmienia D80-85 biały</nazwa>
 <cena>62.90</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415139</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -54773,7 +54661,7 @@ Wymiary opakowania: 10,5x 16,5 cm
 <nazwa>B.O.585/15 Biustonosz do karmienia D80-85 neutralny</nazwa>
 <cena>62.89</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435415191</EAN>
 <grupa>BABYONO/DLA MAMY/BIUSTONOSZE</grupa>
 <opis>Odpowiedni biustonosz do karmienia zapewnia wygodę i dobre samopoczucie. Nasz model został wykonany z unikalnych włókien Skin Protect, które są bakteriostatyczne. Dodaliśmy też eleganckie detale w postaci subtelnej koronki. 
@@ -55315,7 +55203,7 @@ subtelny dźwięk grzechotki</opis>
 <nazwa>B.O.621 Piszczek BUNNY JULIA</nazwa>
 <cena>16.05</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901435408803</EAN>
 <grupa>BABYONO/ZABAWKI/PISZCZKI</grupa>
 <opis>Króliczek JULIA to prawdziwa maleńka dama, która dba o każdy detal swojego stroju. Uwielbia falbanki, wszystkie odcienie różu i często buja w obłokach.
@@ -55825,7 +55713,7 @@ W zestawie:
 <nazwa>B.O.737 Przytulanka dla niemowląt OTTER MAGGIE</nazwa>
 <cena>19.04</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435411377</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Wydra MAGGIE najbardziej lubi się tulić. Jej milutkie futerko jest wprost do tego stworzone! Z Maggie wszystko staje się bardziej przyjazne, oswojone i niegroźne. To najbardziej troskliwa towarzyszka przygód dla każdego Maleństwa.
@@ -56851,7 +56739,7 @@ Wysoka chłonność</opis>
 <nazwa>B.O.831 Śliniak frotte I EAT AND I GROW</nazwa>
 <cena>5.70</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435407615</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak frotte I EAT AND I GROW wykonany jest z wysokiej jakości bawełny frotte. Wewnętrzna warstwa została podszyta wodoodpornym materiałem, który dodatkowo zabezpiecza ubranie przed zabrudzeniem i czyni śliniak nieprzemakalnym. Wygodne i praktyczne zapinanie na rzep podnosi komfort noszenia śliniaka, a kolorowe aplikacje umilają dziecku posiłek.
@@ -63807,7 +63695,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 80420 Owieczka spokojny sen</nazwa>
 <cena>45.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>6925783804208</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Ta milutka Owieczka pomoże maluchom nauczyć się pierwszych modlitw, „Ojcze Nasz” i „Aniele Boży”, a gdy przyjdzie pora snu, zagra miłe dla ucha kołysanki. Poszczególne dźwięki uruchamia się, naciskając na łapki pluszaka: modlitwy – łapkę z niebieską nutką, a kołysanki – łapkę z różową nutką. Aby wyłączyć odtwarzany dźwięk, wystarczy ponownie nacisnąć na wybraną łapkę. Owieczka wykonana została z materiałów o zróżnicowanych fakturach, które stymulują zmysł dotyku maluszka, rozwijając jego zdolności poznawcze. Uszka zwierzaka wesoło szeleszczą przy dotykaniu.
@@ -71450,22 +71338,6 @@ Ilość: 1 szt.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/790395-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>790400</kod>
-<nazwa>BIBS 211245 Smoczek uspokajający VANILLA M ANATOMICAL</nazwa>
-<cena>18.28</cena>
-<VAT>5</VAT>
-<stan>mała ilość</stan>
-<EAN>5713795240074</EAN>
-<grupa>BIBS</grupa>
-<opis>Smoczki BIBS COLOUR ANATOMICAL to smoczki anatomiczne, znane również jako smoczki ortodontyczne.
-Końcówka do ssania jest spłaszczone od dołu i wypukłe od góry co zapewnia ich naturalne dopasowanie do podniebienia dziecka i wymusza prawidłowe ułożenie języka.
-Smoczek wykonany z organicznego kauczuku drzewa Hevea.
-Wiek: 6 - 18 m-ca
-Rozmiar: M
-Ilość: 1 szt.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790400-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>790406</kod>
 <nazwa>BIBS 211300 Smoczek uspokajający MAUVE M ANATOMICAL</nazwa>
 <cena>18.32</cena>
@@ -72210,7 +72082,7 @@ Wkładka hydrożelowa nie jest przeznaczona do leczenia ran głębokich i ran kr
 <nazwa>CANPOL 1/658 Suche chusteczki bambusowe dla niemowląt 100 szt.</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691899148</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Chusteczki bambusowe Canpol babiessą wyjątkowo miękkie i przyjazne dla wrażliwej skóry dziecka, polecane przez położną z Instytutu Matki i Dziecka w Warszawie* – bezpieczne już od pierwszych dni życia. Testowane dermatologicznie.
@@ -72570,7 +72442,7 @@ Mix wzorów i kolorów- wysyłamy losowo</opis>
 <nazwa>CANPOL 14/000 Maść lanolinowa do brodawek sutkowych 7 g</nazwa>
 <cena>9.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5901691879881</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>W pierwszych dniach i tygodniach karmienia piersią wiele kobiet doświadcza bólu brodawek sutkowych. Maść lanolinowa Canpol babies przynosi szybką ulgę w bólu i wspiera regenerację skóry podrażnionych brodawek sutkowych. Lanolina jest głęboko nawilżającą substancją naturalnie występującą w runie owiec. Dzięki naturalnej formule jest bardzo skuteczna – tworzy warstwę ochronną na powierzchni skóry i zapewnia nawilżenie od wewnątrz.
@@ -72865,7 +72737,7 @@ Bez Bisfenolu A
 <nazwa>CANPOL 2/103 Śliniak ceratowo-bawełniany 3 szt Bunny &amp; Company</nazwa>
 <cena>7.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407021034</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kolorowy śliniaczek skutecznie chroni ubranie dziecka przed zabrudzeniem w trakcie jedzenia. Wykonany z bawełny podszytej folią PEVA. Oferowany w trzech wersjach kolorystycznych.
@@ -73096,7 +72968,7 @@ Proponowany wiek 0m+
 <nazwa>CANPOL 2/424 Szczotka + grzebień do włosów miękka różowa</nazwa>
 <cena>4.66</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691854840</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Szczotka do włosów z naturalnego, miękkiego włosia w zestawie z grzebykiem do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które nie podrażniają wrażliwej skóry malucha. Szczotka delikatnie masuje główkę dziecka, nie elektryzując włosów. Idealna od pierwszych dni po urodzeniu. Zestaw dostępny w kilku wariantach kolorystycznych.
@@ -73645,7 +73517,7 @@ W opakowaniu: 1 sztuka</opis>
 <nazwa>CANPOL 21/750 Smoczek dwustrefowy Natural Shape 0m + 2 szt</nazwa>
 <cena>12.00</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407360591</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Wysoka akceptacja od pierwszego użycia przez dzieci karmione piersią* ?
@@ -73770,7 +73642,7 @@ Zachowaj szczególną ostrożność podczas ogrzewania w kuchence mikrofalowej. 
 <nazwa>CANPOL 21/753 Smoczek dwustrefowy Natural Shape 12 m + 2 szt</nazwa>
 <cena>12.00</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407360621</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Antykolkowy smoczek dwustrefowy z technologią DuoFlex posiada elastyczną końcówkę, która naśladuje brodawkę, stabilna baza umożliwia szczelne ułożenie ust na smoczku. Umożliwia naturalne i szerokie ułożenie warg na smoczku "jak u rybki", płynne ssanie bez przerw i połykania powietrza wpływa na redukcję kolki i rozdrażnienia. Wzmocniona strefa dolna przypomina kształt piersi. Jest akceptowany przez niemowlęta karmione piersią, zmniejsza ryzyko odrzucenia piersi i wspiera karmienie naprzemienne. Smoczek do butelki jest dostępny w czterech rozmiarach: 0m+, 3m+, 6m+ i 12m+.</opis>
@@ -74698,7 +74570,7 @@ Canpol smoczek silikonowy Light touch jest łatwy do czyszczenia, dzięki etui, 
 <nazwa>CANPOL 23/228 Smoczek uspokajający silikonowy symetryczny 0-6m Dental Air 2szt. kremowy</nazwa>
 <cena>16.50</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407167862</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający zrelaksuje i wyciszy Maluszka. Płaska gumka o symetrycznym kształcie jest przyjazna dla zgryzu i łatwa do zaakceptowania przez dziecko. Smoczek dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt jest polecany przez ekspertów jako wspierający naturalny rytm ssania. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa. Tarczka zapewnia maksymalny dopływ powietrza, dzięki czemu zapobiega podrażnieniom na delikatnej buzi dziecka i minimalizuje ryzyko odciskania się smoczka. Specjalnie zaprojektowany kształt tarczki ułatwia również swobodne oddychanie i połykanie śliny. Smoczek jest bezpieczny i łatwy do utrzymania w czystości – nowoczesne etui, które może służyć do przechowywania, ale też do szybkiej i wygodnej sterylizacji w kuchence mikrofalowej. Wystarczy odrobina wody i 2 minuty by zapewnić smoczkom higieniczną czystość. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Smoczek jest trwały i odporny na odkształcenia. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek w modnych pastelowych kolorach jest dostępny w różnych rozmiarach – rośnie razem z Twoim Maluszkiem.</opis>
@@ -79355,7 +79227,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 59/892 Smoczek silikonowy do butelki S- Shape M (wolny)2 szt</nazwa>
 <cena>11.50</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691801875</EAN>
 <grupa>CANPOL</grupa>
 <opis>Fizjologiczny smoczek silikonowy do butelki S-Shape M (wolny) jest miękki i przypomina kształt piersi mamy, dzięki czemu ułatwia łączenie karmienia piersią i butelką. Wykonany z hipoalergicznego, bezzapachowego i matowego silikonu – jest z łatwością akceptowany przez dzieci. Wypustki wewnątrz smoczka zapobiegają zapadaniu i sklejaniu się końcówki smoczka podczas picia. Przystosowany do wielokrotnej dezynfekcji/sterylizacji. Smoczek silikonowy do butelki S-Shape M z przepływem wolnym do mleka i innych płynnych napojów jest rekomendowany dla dzieci od 3 miesiąca życia. W opakowaniu znajdują się 2 sztuki.</opis>
@@ -79388,7 +79260,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 68/053 Pluszowa zabawka z pozytywką 0+ Bears szara</nazwa>
 <cena>28.70</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691816503</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Kolorowy, miękki, pluszowy miś jest niezwykle miły w dotyku dzięki czemu zachęci malca do zabawy, co stymuluje rozwój koordynacji wzrokowo-słuchowej i motorycznej dziecka. Intensywne kolory i różne faktury materiałów oraz sprężyste nogi misia przyciągają uwagę dziecka, a melodyjka pozytywki wzbudzi zainteresowanie. Wygodny i lekki zaczep pozwala zamontować zabawkę w zależności od potrzeb (wózek / łóżeczko / fotelik samochodowy). Wysokość: 27cm.</opis>
@@ -79399,7 +79271,7 @@ Produkt można myć w zmywarce</opis>
 <nazwa>CANPOL 68/061_blu Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY</nazwa>
 <cena>25.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691866751</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Zabawka ma żywe, intensywne kolory, jest mięciutka i niezwykle miła w dotyku oraz bogata w elementy interaktywne: grzechotkę, lusterko, elementy szeleszczące, zróżnicowane kształty i materiały o różnorodnej teksturze.
@@ -79411,7 +79283,7 @@ Dzięki temu zabawka zapewnia dziecku wspaniałą zabawę na długi czas, a tak�
 <nazwa>CANPOL 68/061_pin Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY</nazwa>
 <cena>25.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691866768</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Zabawka ma żywe, intensywne kolory, jest mięciutka i niezwykle miła w dotyku oraz bogata w elementy interaktywne: grzechotkę, lusterko, elementy szeleszczące, zróżnicowane kształty i materiały o różnorodnej teksturze.
@@ -79455,7 +79327,7 @@ Kształt spirali - pozwala zamontowac zabawkę w zależności od potrzeb (wózek
 <nazwa>CANPOL 68/071 Zawieszka do wózka /fotelika SENSORY TOYS czerwona</nazwa>
 <cena>28.06</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407680712</EAN>
 <grupa>CANPOL/SPACERY I PODRÓŻE</grupa>
 <opis>Kontrastowa zawieszka w mocnych kolorach z kolekcji SENSORY TOYS pasuje do dziecięcego wózka, fotelika i łóżeczka. Dwa sposoby montażu ułatwią zawieszenie zabawki. Została wykonana z miłego w dotyku materiału o różnorodnej teksturze. Doskonale stymuluje rozwój koordynacji wzrokowo-słuchowej i motorycznej dziecka. Zabawka kryje wiele niespodzianek, które zajmą malca na długi czas. Posiada dzwoneczek, grzechotkę oraz elementy szeleszczące, bezpieczne lusterko i gryzaki elastyczne.Zabawka przeznaczona dla dzieci w wieku 0m+.</opis>
@@ -79801,7 +79673,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903407167404</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękkie karty kontrastowe stymulują wzrok najmłodszych dzieci, których świat tuż po urodzeniu jest czarno-biały. Noworodki nie rozróżniają barw, widzą jedynie odcienie szarości i najłatwiej jest im dostrzec duże, kontrastowe zestawienie czarno-białych wzorów. Karty kontrastowe ułatwiają Maluszkowi skupić wzrok na oglądanym obrazku, a przy okazji dają możliwość budowania relacji i bliskości podczas pierwszych wspólnych zabaw. Karty połączone są ze sobą plastikowym zaczepem, który umożliwia zamocowanie zabawki w łóżeczku, wózku, bujaku czy foteliku samochodowym. Dzięki temu karty zapewnią dziecku rozrywkę w domu, na spacerze i w podróży. Karty sensoryczne Canpol babies można również rozdzielić i podawać pojedynczo do zabawy. Elastyczne gryzaki sensoryczne na rogu każdej karty przyniosą Maluszkowi ulgę w okresie ząbkowania, masując dziąsełka i łagodząc swędzenie od wyrzynających się zębów. Karty są miękkie, wykonane z przyjemnego w dotyku materiału. ?
@@ -80726,7 +80598,7 @@ To wyrób medyczny. Dla bezpieczeństwa stosuj zgodnie z instrukcją lub etykiet
 <nazwa>CANPOL 78/025 Jednorazowe ręczniki - zestaw 2 szt.</nazwa>
 <cena>4.90</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407367279</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Poręczny niezbędnik w podróży lub w szpitalu??
@@ -81346,7 +81218,7 @@ Produkt można stosować od momentu narodzin dziecka</opis>
 <nazwa>CANPOL 9/814 Zestaw pielęgnacyjny do paznokci dla niemowląt i dzieci róż</nazwa>
 <cena>19.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691869356</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Kompletny zestaw do paznokci dla niemowląt zapakowany w praktyczne wodoodporne etui, które umożliwia higieniczne przechowywanie oraz przenoszenie. Zestaw do obcinania paznokci dla niemowląt składa się z 4 elementów – nożyczki, poręczny obcinacz do paznokci, delikatny pilniczek i pęseta. Bestsellerowe nożyczki ze stali nierdzewnej i cążki pomogą skutecznie i bezpiecznie obciąć paznokcie dziecku. Zaokrąglone końcówki nożyczek zapobiegają skaleczeniu. Delikatny pilniczek pomoże usunąć nierówności paznokcia chroniąc dziecko przed zadrapaniem. Canpol zestaw do paznokci dla niemowląt i dzieci jest dostępny w dwóch wersjach kolorystycznych. Canpol zestaw do pielęgnacji paznokci dla niemowląt jest bezpieczny dla dzieci od pierwszych dni życia.
@@ -82017,7 +81889,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 143-000-813 Przewijak miękki mały 50x70 Basic Nature Harmony</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672346526</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI</grupa>
 <opis/>
@@ -83280,7 +83152,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 745-000-000 Mikroperła styropianowa granulat - wypełnienie do poduszek</nazwa>
 <cena>15.34</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907672317656</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Komfort użytkowania Cebuszki zależny jest od indywidualnych upodobań – niektórzy wolą, gdy poduszka jest mocno wypełniona, inni, gdy ma nieco mniej mikroperły. Warto pamiętać, że poduszka naturalnie – w wyniku użytkowania – zmniejszać swoją objętość, gdyż mikroperła się ugniata. Można Cebuszkę wtedy samodzielnie uzupełnić wkładem (z dodatkowego opakowania mikroperły), dopasowując rozmiar do swoich oczekiwań. Co ważne, ugniatanie się Cebuszki jest równoległe z procesem wzrostu dziecka, a więc nawet mniejsza objętość nie powinna być wadą, a zaletą np. przy karmieniu czy opiece nad starszym dzieckiem.</opis>
@@ -92414,7 +92286,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>5912931</kod>
 <nazwa>COLIBRO Nocnik dziecięcy ELISSE SILVER</nazwa>
-<cena>91.67</cena>
+<cena>75.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -93449,7 +93321,7 @@ Waga :  3,75 kg</opis>
 <b2b>
 <kod>5908616</kod>
 <nazwa>COLIBRO Rowerek dziecięcy CIAO MILKY WHITE</nazwa>
-<cena>202.38</cena>
+<cena>170.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5908214737956</EAN>
@@ -93673,7 +93545,7 @@ FUNKCJA STOŁU DO PRZEWIJANIA DZIECKA (PRZEWIJAKA) – FLIP jest również wygod
 <b2b>
 <kod>5910782</kod>
 <nazwa>COLIBRO Termometr kąpielowy ASTRO</nazwa>
-<cena>20.24</cena>
+<cena>17.00</cena>
 <VAT>23</VAT>
 <stan>duża ilość</stan>
 <EAN> 5908214730308</EAN>
@@ -102770,7 +102642,7 @@ Szerokość opakowania 46 cm
 <nazwa>EASY GO Fotelik samochodowy BUZ XTD PRO INK</nazwa>
 <cena>689.00</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907573550398</EAN>
 <grupa>EURO CART/EASY GO/FOTELIKI</grupa>
 <opis>Fotelik samochodowy rozkładany do spania BUZ XTD PRO marki EasyGo z obrotową bazą ISOFIX od 40 do 87 cm (0-13kg) ECE R129 I-SIZE
@@ -102970,7 +102842,7 @@ Szerokość opakowania 46 cm
 <b2b>
 <kod>5911219</kod>
 <nazwa>EASY GO Fotelik samochodowy COSY GRANITO</nazwa>
-<cena>569.00</cena>
+<cena>477.00</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
 <EAN>5908214739578</EAN>
@@ -103061,7 +102933,7 @@ WAGA[kg]: 11,3 kg</opis>
 <b2b>
 <kod>5910705</kod>
 <nazwa>EASY GO Fotelik samochodowy COSY GREENER</nazwa>
-<cena>569.00</cena>
+<cena>477.00</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
 <EAN>5908214739592</EAN>
@@ -103281,7 +103153,7 @@ WAGA[kg]: 11,3 kg</opis>
 <b2b>
 <kod>5912720</kod>
 <nazwa>EASY GO Fotelik samochodowy TRUST AGAVA</nazwa>
-<cena>760.00</cena>
+<cena>661.00</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -103365,7 +103237,7 @@ WAGA[kg]: 15,2 kg
 <b2b>
 <kod>5911345</kod>
 <nazwa>EASY GO Fotelik samochodowy TRUST IRON</nazwa>
-<cena>760.00</cena>
+<cena>661.00</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -103449,7 +103321,7 @@ WAGA[kg]: 15,2 kg
 <b2b>
 <kod>5914458</kod>
 <nazwa>EASY GO Fotelik samochodowy TRUST PEARL</nazwa>
-<cena>760.00</cena>
+<cena>661.00</cena>
 <VAT>5</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -106450,7 +106322,7 @@ Producent wprowadzający: BDG PRODUKCJA Sp. z o.o. ul. Warszawska 8 42-262 Pocze
 <b2b>
 <kod>5914770</kod>
 <nazwa>ESPIRO Wózek uniwersalny CLODI 08 fashionable brown</nazwa>
-<cena>1965.81</cena>
+<cena>1605.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5905683802437</EAN>
@@ -106526,7 +106398,7 @@ Producent wprowadzający: BDG PRODUKCJA Sp. z o.o. ul. Warszawska 8 42-262 Pocze
 <b2b>
 <kod>5914932</kod>
 <nazwa>ESPIRO Wózek uniwersalny CODE 119 loving beige</nazwa>
-<cena>2123.46</cena>
+<cena>1720.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5905683802239</EAN>
@@ -107811,7 +107683,7 @@ Najważniejsze cechy
 <b2b>
 <kod>5914765</kod>
 <nazwa>ESPIRO Wózek uniwersalny ONLY 529 sahara beige</nazwa>
-<cena>1662.04</cena>
+<cena>1400.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5905683801997</EAN>
@@ -108110,7 +107982,7 @@ Wykonana została z wysokiej jakości materiałów, które zapewniają trwałoś
 <b2b>
 <kod>5905374</kod>
 <nazwa>EURO-CART Wózek dziecięcy CORSO CAMEL</nazwa>
-<cena>629.00</cena>
+<cena>530.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -108314,7 +108186,7 @@ WAGA [kg]: 8,80
 <b2b>
 <kod>782319</kod>
 <nazwa>EURO-CART Wózek dziecięcy CORSO MINERAL</nazwa>
-<cena>637.41</cena>
+<cena>530.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -109538,7 +109410,7 @@ Szerokość opakowania 29 cm</opis>
 <b2b>
 <kod>775300</kod>
 <nazwa>EURO-CART Wózek dziecięcy FLEX Antracite</nazwa>
-<cena>569.00</cena>
+<cena>483.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -109584,7 +109456,7 @@ WAGA[kg]:
 <b2b>
 <kod>782316</kod>
 <nazwa>EURO-CART Wózek dziecięcy FLEX JUNGLE</nazwa>
-<cena>569.00</cena>
+<cena>483.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5908214735822</EAN>
@@ -109637,6 +109509,105 @@ Długość podnóżka: 18
 WAGA[kg]: 9,2
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/782316-1.jpg https://marini.pl/b2b/pictures/782316-2.jpg https://marini.pl/b2b/pictures/782316-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>782317</kod>
+<nazwa>EURO-CART Wózek dziecięcy FLEX PEARL</nazwa>
+<cena>483.00</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN/>
+<grupa>EURO CART/EURO CART/WÓZKI</grupa>
+<opis>Wózek spacerowy FLEX marki EURO CART jest „większym bratem” niezwykle popularnego modelu VOLT PRO. FLEX jest jednak wózkiem większym z dużym siedziskiem, które z pewnością wystarczy do końca wózkowania. Maksymalna nośność to aż 26,5 kg! Składa się na nią maksymalna waga dziecka do 22 kg, obciążenie koszyka pod wózkiem do 3 kg oraz opcjonalnej torby zawieszanej na rączce wózka do 1,5 kg. Również koła modelu FLEX są większe niż w przypadku jego „mniejszego brata”. Pod wózkiem znajduje się duży kosz na zakupy z zamykaną suwakiem klapką ułatwiającą dostęp, gdy oparcie znajduje się w pozycji leżącej.
+Regulacja wysokości rączki sprawia, że FLEX jest wygodny w prowadzeniu zarówno dla wysokich jak i niskich rodziców. Obniżenie rączki będzie również pomocne przy podbijaniu wózka na krawężnik.
+Najnowsza kolekcja wózka FLEX wzbogacona została o dwa nowe kolory: JUNGLE (odcienie zieleni) oraz PEARL (odcienie szarości). Szary matowy stelaż idealnie komponuje się z szarymi elementami z tworzywa sztucznego, dzięki czemu FLEX idealnie wpasowuje się w najmodniejsze trendy kolorystyczne.
+Siedzisko wózka spacerowego FLEX certyfikowane jest już dla dzieci od narodzin (siedzisko 0+). Oznacza to, że w wózku można przewozić dzieci, które jeszcze samodzielnie nie siadają. Pamiętajmy jednak, że oparcie powinno być ustawione w pozycji leżącej. Specjalne 5-punktowe pasy bezpieczeństwa posiadają regulację wysokości, dzięki czemu siedzisko będzie wygodne zarówno dla maluszka jak i dla dużego dziecka o wadze do 22 kg.
+Budka przeciwsłoneczna zawieszona jest wysoko nas oparciem wózka, co sprawia, że FLEX bez problemu pomieści dziecko o wadze do 22 kg. Duża dodatkowa sekcja budki ukryta jest pod suwakiem. Po jej otwarciu możesz pochylić budkę do przodu niemal całkowicie osłaniając dziecko. Nie zapomnieliśmy również o okienku do podglądania dziecka. Regulacja budki posiada wygodny i cichy mechanizm, który zapewnia jej stabilną pozycję (wiatr nie będzie składał budki). W tylnej części wózka znajduje się duży zamykany suwakiem panel wentylacyjny i praktyczna kieszonka na drobiazgi. 
+FLEX w standardzie posiada bardzo bogate wyposażenie. Wraz z wózkiem otrzymujesz przykrycie na nóżki (ocieplacz), pełną folię przeciwdeszczową z wywietrznikami, moskitierę i uchwyt na butelkę.
+Specyfikacja techniczna:
+ - nowoczesny wózek spacerowy przeznaczony dla dzieci od urodzenia do 22 kg wagi (0+)
+- regulacja wysokości prowadnicy
+- ultra lekki aluminiowy stelaż
+- duże łożyskowane koła z amortyzacją,
+- regulowana wysokość pasów naramiennych
+- budka przeciwsłoneczna z dodatkową sekcją, wizjerem i daszkiem
+- prowadnica wózka pokryta antypoślizgowym tworzywem TPR
+- barierka bezpieczeństwa pokryta antypoślizgowym tworzywem TPR
+- możliwość złożenia wózka razem z budką i barierką
+- 3-stopniowa regulacja oparcia wraz z pozycją
+leżącą
+- 2-stopniowa regulacja podnóżka
+- pokrowiec na nóżki
+- wentylacja w tylnej części budki
+- pełna folia przeciwdeszczowa z wywietrznikami (zasłania całą tapicerkę wózka)
+- poduszka pod główkę dziecka
+- moskitiera
+- uchwyt na butelkę
+- system obrotowych kół przednich z możliwością blokady do jazdy prosto
+- automatyczna blokada złożonego wózka (ułatwia przenoszenie)
+- okienko w budce
+- pojemny koszyk na zakupy
+- praktyczna kieszeń w tylnej części budki
+- hamulec łączony
+- wyprodukowany zgodnie z europejską normą bezpieczeństwa EN 1888-1:2018 i EN 1888-2:2018
+
+WYMIARY [cm]:
+
+Rozłożony z kołami: 87 x 52.5 x 109
+Złożony z kołami: 86 x 52.5 x 35
+Zakres regulacji rączki (od ziemi): 86 - 110
+Wysokość rączki w pozycji wyprostowanej (od ziemi): 106
+Szerokość siedziska: 35
+Wysokość oparcia: 47
+Głębokość siedziska: 21
+Długość podnóżka: 18
+Średnica kół (przód/tył): 15 / 21
+
+WAGA[kg]: 9,2
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/782317-1.jpg https://marini.pl/b2b/pictures/782317-2.jpg https://marini.pl/b2b/pictures/782317-3.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>775301</kod>
+<nazwa>EURO-CART Wózek dziecięcy FLEX Powder Pink</nazwa>
+<cena>483.00</cena>
+<VAT>23</VAT>
+<stan>mała ilość</stan>
+<EAN/>
+<grupa>EURO CART/EURO CART/WÓZKI</grupa>
+<opis>Nowoczesny wózek spacerowy przeznaczony dla dzieci od urodzenia do 22 kg wagi (0+)
+- regulacja wysokości prowadnicy
+- ultra lekki aluminiowy stelaż
+- duże łożyskowane koła z amortyzacją,
+- regulowana wysokość pasów naramiennych
+- budka przeciwsłoneczna z dodatkową sekcją, wentylatorem i daszkiem
+- prowadnica wózka pokryta antypoślizgowym tworzywem TPR
+- barierka bezpieczeństwa pokryta antypoślizgowym tworzywem TPR
+- możliwość złożenia wózka razem z budką i barierką
+- 3-stopniowa regulacja oparcia wraz z pozycją leżącą
+- 2-stopniowa regulacja podnóżka
+- pokrowiec na nóżki
+- pełna folia przeciwdeszczowa z wywietrznikami (zasłania całą tapicerkę wózka)
+- poduszka pod główkę dziecka
+- moskitiera
+- uchwyt na butelkę
+- system obrotowych kół przednich z możliwością blokady do jazdy prosto
+- automatyczna blokada złożonego wózka (ułatwia przenoszenie)
+- okienko w budce
+- pojemny koszyk na zakupy
+- praktyczna kieszeń w tylnej części budki
+- hamulec łączony
+- produkt wyprodukowany zgodnie z europejską normą bezpieczeństwa PN-EN 1888:2012
+WYMIARY [cm]:
+Rozłożony z kołami: 87 x 52.5 x 109
+Złożony z kołami: 86 x 52.5 x 35
+Zakres regulacji rączki (od ziemi): 86 - 110
+Wysokość rączki w pozycji
+wyprostowanej (od ziemi): 106
+Szerokość siedziska: 35
+Wysokość oparcia: 47
+Głębokość siedziska: 21</opis>
+<zdjecia>https://marini.pl/b2b/pictures/775301-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>789852</kod>
@@ -109705,7 +109676,7 @@ Szerokość opakowania 45 cm
 <b2b>
 <kod>789853</kod>
 <nazwa>EURO-CART Wózek dziecięcy VOLT BLACK EDITION IRON</nazwa>
-<cena>540.00</cena>
+<cena>440.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -109897,7 +109868,7 @@ Szerokość opakowania 45 cm
 <b2b>
 <kod>772852</kod>
 <nazwa>EURO-CART Wózek spacerowy VOLT PRO ANTRACITE</nazwa>
-<cena>510.00</cena>
+<cena>400.00</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN/>
@@ -110264,7 +110235,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728241 MELLOW Body dł. rozpinane biały 56</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356728241</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -110308,7 +110279,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728296 MELLOW Body dł. rozpinane niebieskie 56</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356728296</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -110396,7 +110367,7 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728654 MELLOW Body dł. rozpinane mięta 56</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356728654</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -110568,7 +110539,7 @@ PRODUKT 100% POLSKI
 <nazwa>EWA 730718 MELLOW Pajac niebieski 56</nazwa>
 <cena>33.60</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356730718</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -110579,7 +110550,7 @@ PRODUKT 100% POLSKI
 <nazwa>EWA 730725 MELLOW Pajac niebieski 62</nazwa>
 <cena>33.60</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904356730725</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -120587,7 +120558,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30042 Grzechoczące kwiatki pastelowe</nazwa>
 <cena>15.79</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905692300429</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
 <opis>Grzechocząca pałeczka, ozdobiona silikonowymi kwiatkami, wprawi malca w dobry nastrój, bawiąc wesołym dźwiękiem! Zabawka, poza kolorowymi koralikami, wyposażona została także w ruchome obręcze do przesuwania i praktyczny uchwyt, ułatwiający trzymanie zabawki. Za sprawą wypustek znajdujących się na płatkach, kwiatki sprawdzą się w roli gryzaka, przynosząc ulgę obolałym dziąsłom ząbkującego bobasa.
@@ -126802,61 +126773,9 @@ Wymiary produktu	11,2 x 11,2 x 14,1 cm
 <zdjecia>https://marini.pl/b2b/pictures/784433-1.jpg https://marini.pl/b2b/pictures/784433-2.png https://marini.pl/b2b/pictures/784433-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5910993</kod>
-<nazwa>INNOGIO GIO-251 Kamera Wi-FI elektroniczna niania GIOsafety Rabbit</nazwa>
-<cena>188.95</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904405021682</EAN>
-<grupa>INNOGIO</grupa>
-<opis>Kamera Wi-Fi GIOsafety Rabbit to nowoczesne i wszechstronne rozwiązanie monitorujące, które nie tylko zapewnia bezpieczeństwo, ale także dodaje uroku dziecięcemu pokojowi dzięki swojemu wyjątkowemu designowi w kształcie królika. Urządzenie oferuje wiele funkcji, które sprawiają, że monitorowanie dzieci lub seniorów staje się łatwe i wygodne. Kamera umożliwia podgląd na żywo w jakości Full HD 1080p, a dzięki wbudowanemu trybowi noktowizji gwarantuje niezawodny monitoring nawet w nocy. Doskonale wpasuje się w wystrój pokoju dziecięcego, dodając mu nie tylko uroku, ale również zwiększając bezpieczeństwo Twojego dziecka.
-
-Dzięki detekcji ruchu i dźwięku kamera automatycznie informuje użytkownika o każdej aktywności, zapewniając szybkie i dokładne powiadomienia w aplikacji mobilnej. Dodatkowo, dwustronna komunikacja audio umożliwia natychmiastowe reagowanie, co jest szczególnie przydatne podczas opieki nad dziećmi.
-
-Korzyści z użytkowania:
-
-Design w kształcie królika: Przyjazny wygląd, idealny do pokoju dziecięcego.
-Full HD 1080p: Wysoka jakość obrazu dla dokładnego monitorowania.
-Noktowizja: Skuteczna ochrona nawet w nocy.
-Detekcja ruchu i dźwięku: Natychmiastowe powiadomienia o aktywności.
-Dwustronna komunikacja audio: Możliwość rozmowy w czasie rzeczywistym.
-Podgląd na wielu urządzeniach: Możliwość monitorowania na kilku urządzeniach jednocześnie.
-Kamera Wi-Fi GIOsafety Rabbit to niezawodne narzędzie, które gwarantuje pełne bezpieczeństwo zarówno dla dzieci, jak i osób starszych, oferując przy tym łatwą obsługę i intuicyjną aplikację mobilną do zarządzania wszystkimi funkcjami. GIO-251 to nie tylko zaawansowana kamera, ale także element wystroju, który dodaje ciepła i komfortu każdemu pokoikowi dziecięcemu.
-Szczegóły techniczne
-
-Współpracuje z aplikacją Tuya
-
-Łączność WIFI
-
-Detektor ruchu i dźwięku
-
-Obsługuje karty SD i przechowywanie w chmurze
-
-Tryb noktowizyjny w podczerwieni
-
-Kamera Full HD 1080p
-
-Dwukierunkowe audio
-
-Dla całej rodziny Dzieci, Zwierzęta, Osoby starsze
-
-Wbudowana lampka nocna
-
-Detektor temperatury i alarm
-
-Możliwość podglądu nagrania na kilku urządzeniach
-
-Ostrzeżenia lub informacje na temat bezpieczeństwa tego produktu znajdują się w instrukcji obsługi. Przed pierwszym użyciem sprawdź instrukcję obsługi. Używaj zgodnie z przeznaczeniem. Nie demontuj ani nie ingeruj w produkt bez zgody producenta. Nie wystawiaj na działanie wysokich temperatur ani wilgoci. Regularnie sprawdzaj produkt pod kątem uszkodzeń. W przypadku widocznych uszkodzeń przerwij użytkowanie. Nie używaj produktu w pobliżu otwartego ognia lub źródeł ciepła.
-
-Producent:
-
-InnoGIO Global sp. z o. o.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910993-1.jpg https://marini.pl/b2b/pictures/5910993-2.jpg https://marini.pl/b2b/pictures/5910993-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5910994</kod>
 <nazwa>INNOGIO GIO-252 Kamera Wi-Fi elektroniczna niania GIOsafety Smart Clock</nazwa>
-<cena>264.82</cena>
+<cena>256.27</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5904405021675</EAN>
@@ -130256,7 +130175,7 @@ Oznaczenia w języku polskim
 <nazwa>KATAREK Roztwór soli fizjologicznej 10x5ml NaCI 0,9%</nazwa>
 <cena>6.75</cena>
 <VAT>8</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905279336131</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Katarek roztwór soli fizjologiczny (NaCl 0,9%) to wyrób medyczny w klasie IIa. Może być stosowany u niemowląt od pierwszych dni życia, starszych dzieci, a także u osób dorosłych.
@@ -130628,7 +130547,7 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER 18650 EWA HIPPO Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396059229</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -130888,7 +130807,7 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM PEPPA PIG Nocnik antypoślizgowy nordic white</nazwa>
 <cena>15.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396080544</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>informacje o produkcie
@@ -131117,7 +131036,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER EWA LION KING Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396117417</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Produkt wyposażony jest w wygodne uchwyty, które zapewniają dziecku dodatkowe wsparcie i stabilność.</opis>
@@ -131223,7 +131142,7 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER EWA STITCH Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396112641</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis/>
@@ -131762,7 +131681,7 @@ Zakres dostawy: 1 taboret Tomek, jednostopniowy, Funny Farm Decor, wymiary (dł.
 <nazwa>KEEEPER TOMEK HIPPO Podest antypoślizgowy biały</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>4052396059137</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -133004,7 +132923,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 <nazwa>KIECZMERSKI Kokon niemowlęcy 55x75 cm MIMINU SOFT beżowy</nazwa>
 <cena>104.88</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907501484511</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>Kokon niemowlęcy z kolekcji MimiNu Soft, INTERLOCK (BAWEŁNA 100%)
@@ -136283,6 +136202,7 @@ Gwarantowane bezpieczeństwo i jakość produktu, zachowanie odpowiednich atest�
 Pielęgnacja - można prać w pralce w temperaturze 30°C, wirować na obrotach max 800.
 
 PRODUKT POLSKI, PRODUKT ANTYALERGICZNY.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5904283-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>8885</kod>
@@ -136819,6 +136739,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114795-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114793</kod>
@@ -136829,6 +136750,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114793-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114794</kod>
@@ -136839,6 +136761,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114794-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911359</kod>
@@ -138321,6 +138244,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114798-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114796</kod>
@@ -138331,6 +138255,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114796-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114797</kod>
@@ -138341,6 +138266,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114797-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912170</kod>
@@ -139315,6 +139241,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114801-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114799</kod>
@@ -139325,6 +139252,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114799-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114800</kod>
@@ -139335,6 +139263,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis/>
+<zdjecia>https://marini.pl/b2b/pictures/59114800-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912172</kod>
@@ -155372,7 +155301,7 @@ Opcjonalna nakładka do przewijania, do kupienia osobno.</opis>
 <nazwa>KLUPŚ Komoda DALIA buk-popiel</nazwa>
 <cena>487.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245402</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda DALIA to idealne rozwiązanie dla Ciebie. Pojemne szuflady i delikatny design nada wyjątkowy charakter Twojemu wnętrzu.
@@ -155790,7 +155719,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko DALIA 120x60 biel</nazwa>
 <cena>301.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912244788</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -155955,7 +155884,7 @@ Kod EAN: 5901912246003</opis>
 <nazwa>KLUPŚ Łóżeczko KAROLINA I biała</nazwa>
 <cena>227.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912244702</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis/>
@@ -155983,7 +155912,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko KAROLINA II biel-sosna 120x60</nazwa>
 <cena>261.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912244931</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko Karolina II
@@ -156002,7 +155931,7 @@ Barierka ochronna w opcji, do kupienia osobno.
 <nazwa>KLUPŚ Łóżeczko KAROLINA II sosna 120x60</nazwa>
 <cena>237.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912240032</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -156171,7 +156100,7 @@ Wykonanie: płyta eko + drewno sosnowe. Lakierowane wodnymi farbami eko.</opis>
 <nazwa>KLUPŚ Łóżeczko SOFIE 120x60 białe</nazwa>
 <cena>483.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912244207</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko Sofie białe
@@ -156953,7 +156882,7 @@ wnętrze: 2 półki i 1 drążek na ubranka
 <nazwa>KLUPŚ Szafa 3-drzwiowa DALIA biel-popiel</nazwa>
 <cena>907.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912243781</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Opis produktu:
@@ -156988,7 +156917,7 @@ Kod EAN: 5901912245419</opis>
 <nazwa>KLUPŚ Szafa 3-segmentowa LAURA szampan - buk</nazwa>
 <cena>920.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912245839</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Przedstawiamy szafę 3-segmentową LAURA w eleganckim kolorze szampańskim, która wprowadzi do każdego wnętrza ciepło i styl. Jej wyjątkowy design łączy w sobie funkcjonalność i estetykę, dzięki czemu doskonale sprawdzi się zarówno w pokoju niemowlaka, jak i starszego dziecka. Szafa wykonana jest z najwyższej jakości materiałów, a uchwyty i wysokie nóżki z drewna bukowego dodają jej klasycznego uroku. Wnętrze szafy jest niezwykle pojemne i przemyślane – znajdziesz tam 3 funkcjonalne szuflady, drążek na ubrania oraz liczne półki, które pomieszczą wszystkie niezbędne rzeczy. Praktycznym rozwiązaniem jest możliwość zdjęcia półki pod drążkiem, co pozwala dostosować przestrzeń do rosnących potrzeb dziecka. Szafa LAURA to doskonały wybór dla rodziców ceniących sobie jakość, wygodę i piękno w jednym.
@@ -157095,7 +157024,7 @@ Prowadnice kulkowe
 <nazwa>KLUPŚ Szafa dwudrzwiowa PAULA biała</nazwa>
 <cena>596.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5901912241589</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Opis produktu:
@@ -166521,7 +166450,7 @@ płyta meblowa</opis>
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę buk</nazwa>
 <cena>65.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245594</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Nakładka do przewijania to przydatny dodatek do pokoju każdego dziecka. Posiada zabezpieczenia, które powodują, że bez obaw możesz zająć się pielęgnacją maluszka.
@@ -170289,7 +170218,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/410 Smoczek silikonowy dynamiczny Prime 6-18m 2 szt Granola/Orange</nazwa>
 <cena>29.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691890411</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Informacje o produkcie:
@@ -172552,7 +172481,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miska higieniczna b/o, biały</nazwa>
 <cena>9.44</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903067018115</EAN>
 <grupa>MALTEX</grupa>
 <opis/>
@@ -173298,7 +173227,7 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <nazwa>MALTEX Podnóżek 2K Smerfy biały/ niebieski</nazwa>
 <cena>20.81</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067004446</EAN>
 <grupa>MALTEX/PODNÓŻKI</grupa>
 <opis>Podnóżek dla dziecka posiada większą powierzchnię użytkową niż inne dostępne na rynku. Dla zwiększenia przyczepności produktu do podłoża na jego brzegach i po całości zastosowano gumki antypoślizgowe. Nowoczesny design, bogata kolorystyka, niepowtarzalna grafika produktu oraz przystępna cena – oto kilka powodów dla których najmłodsi konsumenci i ich rodzice Wprowadź malucha w świat samodzielności z naszym innowacyjnym podestem antypoślizgowym z uroczym motywem "Smerfy". Stworzony z myślą o najmłodszych odkrywcy smerfowej krainy, nasza platforma nie tylko zachwyca designem, ale również zapewnia bezpieczeństwo i wygodę podczas codziennych rytuałów.Na powierzchni platformy umieściliśmy antypoślizgowe elementy w kształcie uroczych stópek, nie tylko ułatwiające, ale także sugerujące maluchowi prawidłowe korzystanie z produktu. To nie tylko praktyczne, ale również edukacyjne podejście, które sprawi, że każde podejście na "wysokość dorosłych" stanie się fascynującą przygodą.Zaprojektowany z myślą o maksymalnej wygodzie i bezpieczeństwie, nasz podest ma większą powierzchnię podstawy niż inne platformy dostępne na rynku. Dzięki temu zapewnia stabilność i wysoki udźwig, umożliwiając maluchowi pewne i bezpieczne korzystanie.Nasz podest antypoślizgowy to nie tylko praktyczne wsparcie w procesie samodzielnego korzystania z toalety, ale także krok w stronę niezależności dla Twojego malucha. Odkryj razem z nami świat smerfowych przygód na wyższych poziomach!
@@ -174273,7 +174202,7 @@ dopuszczalny wiek: 0-36 miesięcy dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Wanna 84cm Zebra  niebieski</nazwa>
 <cena>21.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903067009755</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis>Wanna 84 cm z kolekcji “Zeberka” od Maltex Baby przeznaczona jest do pielęgnacji dzieci i niemowląt. Wanienka dodatkowo wyposażona jest w 2 miejsca na akcesoria kąpielowe.
@@ -176701,7 +176630,7 @@ W zestawie 36 elementów. Rozmiar opakowania 28 cm x 19 cm x 10 cm</opis>
 <nazwa>MARIOINEX 902110 Klocki waffle mini 35 szt.</nazwa>
 <cena>16.68</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5903033902110</EAN>
 <grupa>MARIOINEX</grupa>
 <opis>Zupełnie nowe Mini Waffle to nowatorski, miękki, przypominający w dotyku gumę materiał o znanym nam kształcie. Pomniejszony rozmiar daje znacznie większą mobilność oraz całkiem nowe możliwości.
@@ -177586,7 +177515,7 @@ Specyfikacja zestawu:
 <nazwa>MARKO BC-PP-001 Walizka podróżna Psi Patrol duża niebieska</nazwa>
 <cena>120.08</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901885738376</EAN>
 <grupa>MARKO</grupa>
 <opis>Urocza, pojemna walizka na kółkach z motywem postaci Psiego Patrolu, która z pewnością przypadnie do gustu każdemu małemu podróżnikowi. Idealna na wycieczki czy wyjazdy urlopowe.
@@ -182706,7 +182635,7 @@ Wypełnienie:  pianka poliuretanowa
 <nazwa>MATEX Materacyk ortopedyczny DUAL 120X60X10 [TB0314]</nazwa>
 <cena>193.12</cena>
 <VAT>8</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902675050449</EAN>
 <grupa>BABYMATEX/MATERACE</grupa>
 <opis>Dziecięcy, dwustronny materacyk Dual to idealny materacyk do łóżeczka.
@@ -193804,7 +193733,222 @@ Waga z opakowaniem: 8,4 kg</opis>
 <stan>mała ilość</stan>
 <EAN>5907090701372</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
-<opis/>
+<opis>Pojazd na akumulator Audi R8 Spyder – licencjonowane sportowe autko dla małego kierowcy!
+
+Pojazd na akumulator dla dzieci Audi R8 Spyder to wyjątkowe autko elektryczne dla dzieci, które zachwyca sportowym wyglądem, realistycznymi detalami i bogatym wyposażeniem. To mini replika Audi R8 Spyder na oryginalnej licencji Audi, stworzona z myślą o dzieciach, które marzą o własnym luksusowym aucie.
+Jeśli szukasz produktu, który łączy bezpieczeństwo, efektowny design i mnóstwo frajdy z jazdy, ten samochód na akumulator dla dzieci z pilotem będzie strzałem w dziesiątkę. Sportowa sylwetka, otwierane drzwi, reflektory LED, koła EVA, Bluetooth i USB sprawiają, że to nie tylko zabawka, ale prawdziwe spełnienie marzeń małego fana motoryzacji!
+
+Dlaczego warto wybrać Audi R8 Spyder na akumulator?
+
+To licencjonowane Audi dla dzieci zostało zaprojektowane tak, aby zapewnić maluchowi maksymalną radość z jazdy, a rodzicom – spokój i kontrolę. To sportowe autko dla dzieci z pilotem, które świetnie sprawdzi się zarówno podczas codziennych przejażdżek, jak i jako wyjątkowy prezent.
+
+Najważniejsze zalety:
+ 
+Oryginalna licencja Audi – realistyczna mini replika modelu Audi R8 Spyder
+Pilot zdalnego sterowania dla rodzica – pełna kontrola nad jazdą
+Blokada prędkości w pilocie (P) – większe bezpieczeństwo dla dziecka
+3 prędkości do przodu i 1 do tyłu z pilota
+Wygodne, duże kubełkowe siedzisko z pasem bezpieczeństwa
+Świecące przednie reflektory LED
+Duże koła EVA z bieżnikiem i sportowymi felgami
+Otwierane 2 drzwi – jeszcze bardziej realistyczna zabawa
+USB, Bluetooth, muzyka, klakson i efekty dźwiękowe
+Certyfikat bezpieczeństwa CE
+Dla dzieci 3+
+Maksymalne obciążenie do 30 kg
+
+
+Sportowy design inspirowany prawdziwym Audi R8 Spyder
+
+Autko na akumulator Audi R8 Spyder z pilotem dla dzieci przyciąga wzrok już od pierwszej chwili. To dziecięcy kabriolet na akumulator Audi, który nawiązuje do jednego z najbardziej rozpoznawalnych modeli sportowych na świecie.
+Smukła linia nadwozia, wyraźnie zaznaczone boczne panele, sportowe felgi, przyciemniana przednia szyba i charakterystyczne proporcje sprawiają, że ten samochód elektryczny dla dzieci wygląda naprawdę imponująco. Dzięki wersji sportowy kabriolet, maluch może poczuć się jak prawdziwy kierowca luksusowego auta.
+To idealny wybór dla rodziców, którzy szukają czegoś więcej niż zwykłego pojazdu – to luksusowe autko dla dziecka, które robi ogromne wrażenie i daje mnóstwo emocji podczas jazdy.
+
+
+Bezpieczna jazda dzięki pilotowi i pasowi bezpieczeństwa
+
+Czy autko na akumulator jest bezpieczne?
+
+Tak – pod warunkiem, że wybierzesz model dobrze wyposażony i dopasowany do wieku dziecka. Audi R8 Spyder zostało stworzone właśnie z myślą o bezpiecznej nauce jazdy dla dziecka.
+
+Co zwiększa bezpieczeństwo?
+ 
+Pilot dla rodzica – możesz sterować pojazdem zdalnie
+Funkcja blokady prędkości – większa kontrola nad tempem jazdy
+Pas bezpieczeństwa – stabilne utrzymanie dziecka w siedzisku
+Skrętne przednie koła – lepsze manewrowanie
+Stabilna konstrukcja i metalowe osie kół
+Certyfikat CE – potwierdzenie zgodności z normami bezpieczeństwa
+
+To bezpieczne autko na akumulator dla dzieci, które pozwala maluchowi cieszyć się samodzielną jazdą, a rodzicowi daje realny wpływ na przebieg zabawy.
+Ważne: Produkt należy użytkować pod nadzorem osoby dorosłej.
+Koła EVA i stabilna konstrukcja na codzienne przejażdżki
+
+To samochód na akumulator Audi R8 Spyder z kołami EVA, który świetnie radzi sobie podczas codziennego użytkowania. Duże, szerokie koła z bieżnikiem zapewniają:
+ 
+lepszą przyczepność,
+bardziej płynną jazdę,
+większy komfort na różnych nawierzchniach,
+stabilność podczas skręcania i ruszania.
+
+Dlaczego koła EVA są tak ważne?
+ 
+są bardziej komfortowe niż klasyczne plastikowe koła,
+zapewniają cichszą jazdę,
+lepiej sprawdzają się podczas przejażdżek poza domem,
+zwiększają realizm jazdy.
+
+Dodatkowo metalowe osie kół podnoszą trwałość całej konstrukcji, dzięki czemu ten pojazd elektryczny dla dzieci będzie służył przez długi czas.
+
+
+Komfortowe siedzisko i otwierane drzwi
+
+W tym modelu liczy się nie tylko wygląd, ale także wygoda małego kierowcy. Wygodne duże wyprofilowane kubełkowe siedzisko R8 zostało zaprojektowane tak, aby zapewnić dziecku komfort nawet podczas dłuższej zabawy.
+
+Komfort użytkowania zapewniają:
+ 
+profilowane siedzisko dla dziecka
+pas bezpieczeństwa
+otwierane 2 drzwi
+elegancka kierownica dopasowana do małych rączek
+nisko osadzona sportowa sylwetka, która wzmacnia wrażenia z jazdy
+
+
+To samochód dla dzieci na akumulator z otwieranymi drzwiami, który wygląda efektownie i sprawia, że każda przejażdżka staje się jeszcze bardziej ekscytująca.
+
+
+Idealny pomysł na prezent
+
+Szukasz prezentu, który naprawdę zachwyci dziecko?
+
+Pojazd na akumulator Audi R8 Spyder to doskonały wybór na:
+ 
+urodziny
+święta
+Dzień Dziecka
+wyjątkowy prezent bez okazji
+dla małego fana motoryzacji
+
+
+To prezent dla dziecka – autko na akumulator Audi, który daje nie tylko radość, ale też niezapomniane emocje i poczucie jazdy jak w prawdziwym Audi.
+
+
+Charakterystyka produktu
+
+Audi R8 Spyder – najważniejsze cechy:
+ 
+Oryginalny produkt na licencji Audi
+Wersja sportowa kabriolet
+Liczba miejsc: 1
+3 prędkości do przodu i 1 do tyłu dostępne z pilota
+Funkcja skręcania dostępna z pilota
+Świecące przednie reflektory LED
+Wygodne duże wyprofilowane kubełkowe siedzisko R8 z pasem bezpieczeństwa
+Funkcje muzyczne na kokpicie
+USB + Bluetooth + odtwarzanie muzyki
+Regulacja głośności +/-
+4 piosenki uruchamiane z kierownicy
+Klakson uruchamiany z kierownicy
+Przełącznik startu / wyłącznik
+Przełącznik jazdy do przodu i do tyłu
+Pedał przyspieszenia
+Elegancka kierownica
+Metalowe osie kół
+Przyciemniana przednia szyba
+Skrętne przednie koła
+Otwierane 2 drzwi
+Koła EVA z bieżnikiem i sportowymi felgami
+Dopuszczalne obciążenie: 30 kg
+Przedział wiekowy: 3+
+Certyfikat bezpieczeństwa CE
+Zasilanie: akumulator (w zestawie)
+Pilot (w zestawie)
+
+
+DANE TECHNICZNE:
+ 
+Długość 107 cm
+Wysokość całkowita 48 cm
+Szerokość 55 cm
+Prześwit 8 cm
+Wymiary siedziska 31 x 19 x 21 cm
+Szerokość kierownicy 18,5 cm
+Średnica kół 21 cm
+Prędkość pojazdu 3-6 km/h
+Silnik 30W, 12V390 x 2
+Akumulator 12v4,5 Ah*1
+Ładowanie akumulatora do pełna trwa ok. 8h
+Ładowarka  DC 12V 500mA
+ 
+WYMIARY OPAKOWANIA:
+Długość: 107,5 cm
+Szerokość: 55 cm
+Wysokość: 26 cm
+Waga netto: 11,2 kg
+Waga brutto: 13,7 kg
+
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+POJAZD NA AKUMULATOR AUDI R8 SPYDER
+Produkt przeznaczony jest dla dzieci w wieku od 3 do 6 lat życia, chyba, że wzrost i waga dziecka umożliwiają dalsze korzystanie. Maksymalne obciążenie produktu 30kg.
+
+OSTRZEŻENIE: Konieczność stosowania środków ochronnych. Nie używać w ruchu ulicznym.
+OSTRZEŻENIE: Zabawka nie nadaje się dla dzieci poniżej 3 roku życia ze względu na osiąganą maksymalną prędkość.
+OSTRZEŻENIE: Zabawka nie posiada hamulca.
+OSTRZEŻENIA:
+Należy zapoznać swoje dziecko z zasadami bezpieczeństwa i ostrzeżeniami związanymi z jazdą na zabawce, które znajdują się w instrukcji obsługi.
+Korzystanie z zabawki wymaga umiejętności orientacji przestrzennej i sterowania, których brak grozi upadkiem lub zderzeniem, które mogą skutkować obrażeniami u użytkownika lub osób trzecich.
+Podczas jazdy na zabawce dziecko powinno przebywać pod opieką osoby dorosłej i przez cały czas w zasięgu jej wzroku.
+Zaleca się, aby dziecko korzystając z zabawki miało założone obuwie.
+Dziecko zawsze powinno trzymać obie ręce na kierownicy. Nie pozwól dziecku naciskać pedału gazu póki nie siedzi pewnie na siedzisku i nie trzyma obu rąk na kierownicy.
+Naucz dziecko hamować, zanim posadzisz je na zabawce. Aby zatrzymać pojazd należy zdjąć nogę z pedału gazu i zabawka zacznie zwalniać poprzez hamowanie silnikiem.
+Nigdy nie pozostawiaj dziecka bez opieki.
+Zaleca się korzystania z zabawki w miejscach całkowicie bezpiecznych dla dziecka – np. w domu, na podwórzu, na ogrodzonym placu zabaw itp. Zawsze pod nadzorem osoby dorosłej!
+Nie korzystaj z zabawki na nierównej, wyboistej, stromej nawierzchni i w pobliżu otwartych zbiorników wodnych. Nie korzystaj z produktu na piachu i innej sypkiej nawierzchni.
+Przed użyciem należy sprawdzić, czy zabawka jest prawidłowo złożona i wszystkie części odpowiednio dokręcone.
+Regularnie sprawdzaj stan wszystkich połączeń śrubowych i innych elementów, mocujących poszczególne mechanizmy zabawki z korpusem, a w szczególności kół i kierownicy. Regularnie sprawdzaj wszystkie połączenia kabli i akumulatorów.
+Nie używać zabawki w przypadku stwierdzenia jakichkolwiek uszkodzeń lub jeśli jest brak jakiegokolwiek elementu.
+Nie stosuj części zamiennych innych niż te sugerowane przez producenta.
+Nie pozwól dziecku stawać na zabawce. Ryzyko upadku.
+Nie pozwalaj dziecku wstawać podczas jazdy. Ryzyko upadku.
+Z zabawki jednorazowo może korzystać tylko jedno dziecko.
+Zabawka nigdy nie może być holowana przez inny pojazd lub rower.
+Zabawki nie można używać do holowania innych pojazdów.
+Nie korzystaj z zabawki po zmroku lub gdy widoczność jest ograniczona.
+OSTRZEŻENIE! Ładowarka to nie jest zabawka. Nie pozwalaj się dziecku bawić ładowarką. Nie korzystać z zabawki w trakcie ładowania. Niewłaściwe użycie ładowarki może spowodować porażenie prądem.
+OSTRZEŻENIE! Ładowarka posiada długi kabel! Niebezpieczeństwo uduszenia!
+OSTRZEŻENIA:
+Ładowarka powinna być regularnie sprawdzana pod kątem uszkodzeń kabla, ładowarki i wtyczki lub innych elementów. W razie uszkodzenia ładowarka nie może być używana.  Nie naprawiaj ładowarki samodzielnie. Skontaktuj się z serwisem firmy.
+
+Akumulator do pełnego naładowania wymaga około 9-10 godzin. Nigdy nie ładuj akumulatora dłużej niż 11 godzin. Podczas ładowania akumulator jak i ładowarka może być ciepła. Jeśli jakikolwiek element jest gorący – odłącz natychmiast ładowarkę. Nigdy nie dopuszczaj do pełnego rozładowania akumulatora.
+Zawsze zwracaj uwagę na polaryzację kabli akumulatora i odpowiednie ich połączenie (odpowiednia polaryzacja). Nigdy nie zwieraj zacisków zasilania. Używać tylko akumulatora i ładowarki dołączonych do produktu lub innego akumulatora zaleconego przez producenta. Nigdy nie dobieraj akumulatora samodzielnie. Zawsze trzymaj akumulator z dala od zasięgu dziecka.
+Jeśli odłączasz kable od akumulatora – upewnij się, że później podłączysz je odpowiednio:
+Połącz kabel czarny (polaryzacja ujemna -) ze złączem czarnym na akumulatorze (polaryzacja ujemna -).
+Połącz kabel czerwony (polaryzacja dodatnia +) ze złączem czerwonym na akumulatorze (polaryzacja dodatnia +). Nigdy nie łącz odwrotnie. Spowoduje to uszkodzenie akumulatora i produktu i utratę gwarancji.
+
+OSTRZEŻENIA:
+Pilot nie jest zabawką. Jest przeznaczony wyłącznie do użytku dorosłych i nie powinien być używany przez dzieci. Zawsze wymagany jest ścisły nadzór osoby dorosłej. Zasięg odbioru może się znacznie zmieniać w zależności od pogody, baterii i innych warunków środowiskowych.
+
+Pilot i zabawka na baterie: 2xAAA (LR03) – baterie nie są dołączone do produktu. Instrukcja wymiany baterii jest dołączona do produktu – w instrukcji. Zachować opakowanie i instrukcję na przyszłość gdyż zawierają istotne informacje.
+Baterie powinny być wymieniane przez osoby dorosłe. Wymiana baterii w zabawce. Odkręć pokrywę pojemnika na baterie. Wyjmij stare baterie, a następnie włóż 2 szt. baterii typu „AAA” do przegródki na baterie. Zwróć uwagę na poprawną polaryzację baterii (+/-). Załóż i zakręć pokrywę. UWAGA: BATERIE NIE SĄ DOSTARCZANE DO ZABAWKI. Można używać tylko zalecanego rodzaju baterii. Baterie należy zakładać zgodnie z odpowiednią biegunowością. Trzymaj baterie z dala od zasięgu dziecka. Akumulatorki przed doładowaniem należy wyjąć z produktu.
+Baterie nadające się do ładowania można doładowywać wyłącznie pod nadzorem osoby dorosłej. Nie należy mieszać ze sobą baterii rożnego typu, ani baterii nowych z używanymi. Bateria z której wycieka płyn elektrolitowy nie może być używana ani ładowana. Baterie nienadające się do ponownego naładowania nie mogą być doładowywane. Natychmiast usuń wyciekające, nieszczelne baterie ponieważ mogą spowodować poparzenia skory lub inne obrażenia. Zużyte baterie należy usunąć z zabawki, lub jeżeli jest ona nieużywana przez dłuższy czas, aby uniknąć korozji wycieku. Nie zwieraj styków przedziałów ani zacisków baterii. Nie wrzucać do ognia i nie podgrzewać. Zużytych baterii nie należy wyrzucać do odpadów domowych, należy je oddać w miejsce zapewniające odpowiedni ich recykling.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+
+
+www.pminvestment.pl/manual/Milly_Mally_Manual_Audi_Spyder_A5_01_CRV.pdf
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114624-1.jpg https://marini.pl/b2b/pictures/59114624-2.jpg https://marini.pl/b2b/pictures/59114624-3.jpg https://marini.pl/b2b/pictures/59114624-4.jpg https://marini.pl/b2b/pictures/59114624-5.jpg https://marini.pl/b2b/pictures/59114624-6.jpg https://marini.pl/b2b/pictures/59114624-7.jpg https://marini.pl/b2b/pictures/59114624-8.jpg https://marini.pl/b2b/pictures/59114624-9.jpg https://marini.pl/b2b/pictures/59114624-10.jpg https://marini.pl/b2b/pictures/59114624-11.jpg https://marini.pl/b2b/pictures/59114624-12.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5904460</kod>
@@ -193947,7 +194091,158 @@ Waga brutto: 13,5 kg</opis>
 <stan>mała ilość</stan>
 <EAN>5901761121902</EAN>
 <grupa>MILLY MALLY/ŁÓŻECZKA KOJCE KOŁYSKI</grupa>
-<opis/>
+<opis>Łóżeczko Turystyczne Mirage Milly Mally – komfort snu i zabawy w każdym miejscu!
+Szukasz praktycznego łóżeczka, które sprawdzi się zarówno w domu, jak i podczas wyjazdów?
+Łóżeczko turystyczne Mirage od Milly Mally to funkcjonalne rozwiązanie stworzone z myślą o wygodzie dziecka i rodziców. Może pełnić funkcję wygodnego łóżeczka turystycznego oraz bezpiecznego kojca do zabawy. Dzięki kompaktowej konstrukcji i szybkiemu składaniu doskonale sprawdzi się podczas podróży, wizyt u rodziny czy codziennego użytkowania w domu.
+
+Dla niemowlaka i starszego dziecka
+Mirage zostało zaprojektowane tak, aby służyć maluchowi przez dłuższy czas. Sprawdzi się zarówno dla niemowląt, jak i starszych dzieci, które potrzebują bezpiecznej przestrzeni do odpoczynku i zabawy.
+Otwierany bok na zamek błyskawiczny umożliwia starszym dzieciom samodzielne wchodzenie i wychodzenie z łóżeczka.
+
+Idealne łóżeczko na wyjazdy i do domu
+
+Dzięki lekkiej konstrukcji oraz łatwemu systemowi składania i rozkładania, Mirage świetnie sprawdzi się jako:
+
+łóżeczko turystyczne
+
+kojec do zabawy
+
+łóżeczko na wakacje
+
+dodatkowe miejsce do spania u dziadków
+
+mobilne łóżeczko do małego mieszkania
+
+Po złożeniu zajmuje niewiele miejsca, a dołączona torba transportowa ułatwia przewożenie i przechowywanie.
+
+Przewiewne boki i wygodna obserwacja dziecka
+
+Główne boki wykonane zostały z siatki, która:
+
+poprawia cyrkulację powietrza
+
+zapewnia dziecku komfort podczas snu
+
+umożliwia rodzicom łatwe doglądanie malucha
+
+sprawia, że wnętrze łóżeczka jest jasne i przyjazne
+
+To praktyczne rozwiązanie szczególnie docenisz podczas cieplejszych dni.
+
+Bezpieczeństwo i stabilność
+
+Łóżeczko Mirage zostało wyposażone w rozwiązania zwiększające bezpieczeństwo użytkowania:
+
+stabilna konstrukcja
+
+bezpieczne, zaokrąglone narożniki
+
+zabezpieczenie przed samoczynnym złożeniem
+
+trwałe materiały łatwe w czyszczeniu
+
+zgodność z normami bezpieczeństwa
+
+Maksymalne obciążenie wynosi aż 15 kg.
+
+Wygodne przechowywanie i transport
+
+Dzięki 2 kółkom transportowym przesuwanie łóżeczka jest szybkie i wygodne. Po złożeniu całość można schować do praktycznej torby transportowej.
+To idealne rozwiązanie dla aktywnych rodziców.
+
+
+Charakterystyka produktu:
+
+dla niemowląt i starszych dzieci
+
+funkcja łóżeczka i kojca
+
+otwierany bok na zamek błyskawiczny
+
+przewiewne boki z siatki
+
+składany materacyk
+
+szybkie składanie i rozkładanie
+
+2 kółka transportowe
+
+torba transportowa w zestawie
+
+kompaktowe wymiary po złożeniu
+
+stabilna konstrukcja
+
+łatwe czyszczenie
+
+nowoczesny uniwersalny design
+
+zabezpieczenie przed przypadkowym złożeniem
+
+
+Marka Milly Mally – jakość i bezpieczeństwo
+
+Milly Mally to marka ceniona przez rodziców za funkcjonalne i bezpieczne produkty dla dzieci. Łóżeczko Mirage zostało zaprojektowane z myślą o komforcie malucha oraz wygodzie rodziców, łącząc praktyczne rozwiązania z estetycznym wyglądem.
+
+Wymiary:
+
+długość: 127 cm
+
+wysokość: 74,5 cm
+
+szerokość: 65 cm
+
+głębokość: 63 cm
+
+
+Wymiary opakowania:
+
+dł. 75,5 cm, szer.22,5 cm x wys.21,5 cm
+
+waga netto: 8 kg
+
+waga brutto: 8,65 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Łóżeczko turystyczne MIRAGE
+
+Łóżeczko jest odpowiednie dla jednego dziecka od urodzenia. Maksymalna waga dziecka to 15kg. Produkt jest zgodny z Europejską Normą bezpieczeństwa EN 716-1:2017+AC:2019          i EN 716-2:2017.
+OSTRZEŻENIE: Bądź świadom ryzyka, jakie stanowi otwarty ogień oraz inne silne źródła ciepła, takie jak promienniki elektryczne lub gazowe itp. umieszczone w pobliżu łóżka.
+OSTRZEŻENIE: Nie używać łóżka, jeżeli jakikolwiek jego element jest uszkodzony, rozdarty lub brakuje elementu, używać tylko elementów dopuszczonych przez producenta
+OSTRZEŻENIE: Nie pozostawiać w łóżku czegokolwiek ani nie ustawiać łóżka w pobliżu innego sprzętu, który mógłby stanowić podparcie dla stopy lub spowodować niebezpieczeństwo uduszenia lub powieszenia dziecka, np. żaluzji, SZNURKÓW, ZASŁON
+OSTRZEŻENIE: Nie używać w łóżku więcej niż jednego materaca
+OSTRZEŻENIE - Używaj tylko materaca sprzedawanego z tym łóżeczkiem, nie dodawaj na nim drugiego materaca, zagrożenie uduszeniem.
+Łóżko gotowe jest do użytkowania tylko wtedy, gdy mechanizmy blokujące są włączone, i przed rozpoczęciem użytkowania należy starannie sprawdzić, czy mechanizmy te są w pełni włączone.
+Jeżeli pozostawiasz dziecko w łóżku bez nadzoru, zawsze sprawdź, czy bok otwierany jest zamknięty.
+Zaleca się, aby wszystkie okucia podczas ich montażu były dobrze dokręcone oraz regularnie sprawdzane i w razie konieczności dokręcane.
+Aby zapobiec obrażeniom dziecka wskutek upadku, łóżeczko nie powinno być dłużej używane, jeżeli dziecko potrafi się wspiąć i wyjść z łóżka.
+Okresowo sprawdzaj czy wszystkie elementy łóżeczka są sprawne i bezpieczne.
+Produkt przeznaczony jest dla jednego dziecka.
+Przy składaniu i rozkładaniu łóżeczka uważaj na bezpieczeństwo swoich palców.
+Nie ustawiaj łóżeczka na podwyższeniu
+Łóżeczko nie jest zabawką! Nie pozwól dziecku wspinać się na nie. Przewrócenie się łóżeczka na dziecko może spowodować poważne obrażenia.
+Nigdy nie umieszczaj w łóżeczku elementów podwyższających, które mogą stanowić stopień umożliwiający wypadnięcie dziecka z łóżeczka.
+Aby uniknąć zagrożenia uduszenia się dziecka, przed użyciem produktu zdjąć z niego plastikową osłonę. Opakowanie to należy następnie zniszczyć albo trzymać w miejscu niedostępnym dla dzieci i niemowląt.
+Nigdy nie przenoś ani nie przesuwaj łóżeczka z dzieckiem w środku.
+Produkt przeznaczony do użytku domowego.
+
+Dla materacyka:
+OSTRZEŻENIE – To jest materac. Nie dodawaj drugiego materaca. Ryzyko uduszenia.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+www.pminvestment.pl/manual/mirage_manual.pdf
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114783-1.jpg https://marini.pl/b2b/pictures/59114783-2.jpg https://marini.pl/b2b/pictures/59114783-3.jpg https://marini.pl/b2b/pictures/59114783-4.jpg https://marini.pl/b2b/pictures/59114783-5.jpg https://marini.pl/b2b/pictures/59114783-6.jpg https://marini.pl/b2b/pictures/59114783-7.jpg https://marini.pl/b2b/pictures/59114783-8.jpg https://marini.pl/b2b/pictures/59114783-9.jpg https://marini.pl/b2b/pictures/59114783-10.jpg https://marini.pl/b2b/pictures/59114783-11.jpg https://marini.pl/b2b/pictures/59114783-12.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5907627</kod>
@@ -213155,7 +213450,159 @@ www.pminvestment.pl/manual/jelly_manual.pdf</opis>
 <stan>mała ilość</stan>
 <EAN>5907090700313</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
-<opis/>
+<opis>Wychodząc naprzeciw potrzebom naszych dorastających pociech stworzyliśmy hulajnogę ULTIMATE.
+Jazda na hulajnodze uczy wytrzymałości oraz ćwiczy poczucie równowagi a także wzmacnia układ mięśniowy. Zabierz hulajnogę ULTIMETE do szkoły, pracy czy parku.
+
+Dzięki zastosowaniu dużego koła o średnicy 20,5 cm, ULTIMATE bez trudu pokonuje nierówności nawierzchni. Dodatkowe atuty tej sportowej hulajnogi to uchwyt na napoje z regulacją mocowania oraz regulowany pas z logo MMX do wygodnego przenoszenia. Dla tej hulajnogi przewidzieliśmy także możliwość wymiany zużytej naklejki antypoślizgowej na podeście (zamienna naklejka umieszczona w opakowaniu).
+Solidna hulajnoga, idealna zarówno dla dzieci, młodzieży jak i dorosłych, gdzie maksymalna dopuszczalna waga użytkownika wynosi do 100 kg.
+
+Dodatkowym atutem poprawiającym bezpieczeństwo poprzez zwiększoną przyczepność, jest podest pokryty specjalną antypoślizgową warstwą. Szyku i uroku całości hulajnogi ULTIMETE dodaje modny wzór w najmodniejszych kolorach: white, pink, black.
+
+UWAGA! To nie jest zabawka – Produkt posiada certyfikat EN 14619 - sprzęt sportowy.
+
+
+CHARAKTERYSTYKA:
+
+Aluminiowa konstrukcja (za wyjątkiem przedniego widelca i hamulca);
+
+Innowacyjny mechanizm składania;
+
+Praktyczna - całość składana do wymiarów: dł. 76,5 cm x wys. 32cm x szer. 12,5 cm;
+
+Przestronna platforma (32 x 11,5cm);
+
+Specjalne uchwyty na złożone rączki w kolumnie kierownicy
+
+Gumowe antypoślizgowe wyprofilowane rączki kierownicy
+
+Antypoślizgowa powierzchnia platformy
+
+Dodatkowa naklejka antypoślizgowa podestu
+
+Uchwyt na napoje z regulacja mocowania
+
+Wygodny regulowany pas do przenoszenia hulajnogi z logo MMX
+
+Przedni widelec i hamulec wykonany ze stali
+
+Wysokiej jakości duże kółka o średnicy 20,5 cm, PU High Rebound, wykonane z lanego poliuretanu
+
+Łożyska ABEC-7
+
+Hamulec cierny tylnego koła(stalowy)
+
+Nóżka do parkowania
+
+Hulajnoga ULTIMATE to sprzęt sportowy
+
+Regulowana wysokość kierownicy od 89 do 98 cm
+
+Maksymalne waga użytkownika: 20 - 100 kg
+
+Waga hulajnogi: 4,3 kg
+
+Kolory: black, pink i white
+
+Certyfikat EN 14619
+
+Gwarancja 12 m-cy.
+
+
+
+
+DANE TECHNICZNE
+
+WYMIARY:
+
+Regulowana wysokość kierownicy: 89-93-98 cm
+
+Szerokość kierownicy: 40 cm
+
+Długość całkowita: 89 cm
+
+Długość podestu: 32 cm
+
+Szerokość podestu: 11,5 cm
+
+Wysokość podestu od podłoża: 8 cm
+
+Średnica kółek: 20,5 cm
+
+Wymiary po złożeniu: dł. 76,5 cm x wys. 32cm x szer. 12,5 cm.
+
+
+OPAKOWANIE:
+
+Wysokość: 33 cm
+
+Szerokość: 12,5 cm
+
+Długość: 77 cm
+
+Ilość w kartonie: 1 szt.
+
+Waga netto: 4,3 kg
+
+Waga z opakowaniem: 4,8 kg
+
+Instrukcja montażu
+
+Gwarancja: 1 rok.
+
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Hulajnoga Ultimate
+Produkt przeznaczony jest dla dzieci w wieku od 6 do 12 lat, chyba, że wzrost i waga dziecka umożliwiają dalsze korzystanie. Klasa A: dopuszczalna waga od 20 do 100kg.
+Produkt zgodny normą EN 14619:2019. Klasa A: dopuszczalna waga od 20 do 100kg.
+
+OSTRZEŻENIE! Przeczytaj informacje dostarczone przez producenta.
+OSTRZEŻENIE! Noś zawsze odpowiednie wyposażenie ochronne.
+OSTRZEŻENIA!
+Należy zwracać uwagę na odpowiednie ubranie ochronne. Należy zawsze jeździć z kaskiem i ochraniaczami na ręce / przeguby rąk, łokcie i kolana. Nie powinno się nigdy jeździć boso! Zawsze noś sportowe obuwie.
+Korzystanie z hulajnogi wymaga umiejętności orientacji przestrzennej i sterowania, których brak grozi upadkiem lub zderzeniem, które mogą skutkować obrażeniami u użytkownika lub u osób trzecich.
+Podczas jazdy na hulajnodze dziecko powinno przebywać pod opieką osoby dorosłej i przez cały czas w zasięgu jej wzroku.
+Upewnij się, że wszystkie systemy blokujące zostały prawidłowo zablokowane.
+Nie używać hulajnogi w przypadku stwierdzenia jakichkolwiek uszkodzeń lub jeśli brak jakiegokolwiek elementu. Nie stosuj części zamiennych innych niż sugerowane przez producenta.
+Składając hulajnogę – uważaj, aby nie przytrzasnąć lub nie uszczypnąć palców, elementów ubrania, skóry.
+Przed każdym użyciem sprawdzaj, czy wszystkie części są dobrze dokręcone i zablokowane, szczególnie zwróć uwagę na mechanizm służący do składania hulajnogi i regulacji wysokości. Sprawdź, czy nie ma możliwości np. zmiany wysokości kierownicy bez ich odblokowania.
+Przy ciągłym użyciu hamulec może się nagrzać! Nie powinno się go dotykać przed jego schłodzeniem.
+Hulajnoga nie nadaje się do wykonywania skoków.
+
+Drogi rodzicu zapoznaj swoje dziecko z zasadami bezpiecznego użytkowania hulajnogi.
+Hulajnoga przeznaczona jest do użytku przez jedną osobę.
+Hulajnogę należy używać tylko na odpowiednich powierzchniach, które powinny być gładkie, czyste i suche i na których nie powinni znajdować się, w miarę możliwości, inni uczestnicy ruchu. Należy zawsze uważać na innych ludzi.
+Nie jeździć nigdy o zmierzchu, w nocy lub przy złych warunkach widoczności.
+Nie jeździć po jezdni oraz na przejściach, jak również po zboczach i pagórkach. Należy unikać sąsiedztwa schodów i otwartych zbiorników wodnych.
+
+Zapoznaj dziecko z zasadami na drodze:
+1) Jedź w sposób odpowiedzialny. Noś obuwie sportowe oraz kask ochronny i ochraniacze. Naucz się podstawowych elementów jazdy, skrętów i hamowania. Zawsze pamiętaj o sprawdzaniu swojego sprzętu i utrzymuj go w dobrym stanie.
+2) Jedź rozważnie. Zawsze kontroluj swoje ruchy w czasie jazdy. Uważaj na pojazdy i unikaj dróg z dużym natężeniem ruchu samochodów. Zawsze pamiętaj, że samochody mają przewagę na drodze.
+3) Przestrzegaj wszelkich zasad w czasie jazdy. Postępuj zgodnie z zasadami ruchu drogowego i przestrzegaj znaków.
+4) Poruszaj się na hulajnodze zgodnie z dobrymi manierami. Zawsze trzymaj się prawej strony oraz wyprzedzaj z lewej strony. Jedź tak by inni uczestnicy mogli przewidzieć Twoje zamiary. Zawsze udziel pierwszeństwa pieszym.
+5) W celu jazdy do przodu – dziecko musi stanąć stabilnie na hulajnodze trzymając obie ręce na kierownicy. Jedną nogą odpychać się od podłoża, żeby nabrać prędkości. Następnie można dostawić nogę napędzającą na podest i korzystać z siły rozpędu, aby jechać. Hamowanie nie stanowi problemu: wystarczy nastąpić na hamulec tylnego koła. Naucz się hamować przed rozpoczęciem jazdy. Przy ciągłym użyciu hamulec może się nagrzać! Nie powinno się go dotykać przed jego schłodzeniem.
+Odległość jaka jest potrzebna do zatrzymania zależy od Twoich umiejętności, prędkości oraz nawierzchni po jakiej się poruszasz. Bądź zawsze czujny i przygotowany na niespodziewane hamowanie. Zapobiegaj niebezpiecznym sytuacjom.
+
+CZYSZCZENIE I KONSERWACJA
+Nie stosuj części zamiennych innych niż sugerowane przez producenta.
+Produkt należy czyścić ściereczką lub wilgotną szmatką, bez dodatku specjalnych środków czyszczących! Przed skorzystaniem z hulajnogi oraz po skorzystaniu z niej należy skontrolować hulajnogę pod kątem ewentualnych uszkodzeń i oznak zużycia. Produkt należy przechowywać w bezpiecznym miejscu, nienarażonym na działanie warunków atmosferycznych tak, aby nie mógł ulec uszkodzeniu.
+Przy długotrwałym użytkowaniu hulajnogi systemy blokujące i śruby mogą się luzować. Przed jazdą zawsze sprawdź hulajnogę, sprawdź czy wszystkie systemy są zablokowane, a śruby dokręcone. Regularnie sprawdzaj zużycie hulajnogi.
+
+ŁOŻYSKA
+Twoja hulajnoga została wyposażona w precyzyjne łożyska, które podczas produkcji zostały pod wysokim ciśnieniem napełnione smarem. Dzięki temu kółka obracają się lekko i szybko tylko odpowiednio dociążone. Łożyska nie wymagają konserwacji. Jeśli łożysko wypadnie, można je wymienić w całości.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+www.pminvestment.pl/manual/ultimate_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114786-1.jpg https://marini.pl/b2b/pictures/59114786-2.jpg https://marini.pl/b2b/pictures/59114786-3.jpg https://marini.pl/b2b/pictures/59114786-4.jpg https://marini.pl/b2b/pictures/59114786-5.jpg https://marini.pl/b2b/pictures/59114786-6.jpg https://marini.pl/b2b/pictures/59114786-7.jpg https://marini.pl/b2b/pictures/59114786-8.jpg https://marini.pl/b2b/pictures/59114786-9.jpg https://marini.pl/b2b/pictures/59114786-10.jpg https://marini.pl/b2b/pictures/59114786-11.jpg https://marini.pl/b2b/pictures/59114786-12.jpg https://marini.pl/b2b/pictures/59114786-13.jpg https://marini.pl/b2b/pictures/59114786-14.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114785</kod>
@@ -213165,7 +213612,159 @@ www.pminvestment.pl/manual/jelly_manual.pdf</opis>
 <stan>mała ilość</stan>
 <EAN>5907090700320</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
-<opis/>
+<opis>Wychodząc naprzeciw potrzebom naszych dorastających pociech stworzyliśmy hulajnogę ULTIMATE.
+Jazda na hulajnodze uczy wytrzymałości oraz ćwiczy poczucie równowagi a także wzmacnia układ mięśniowy. Zabierz hulajnogę ULTIMETE do szkoły, pracy czy parku.
+
+Dzięki zastosowaniu dużego koła o średnicy 20,5 cm, ULTIMATE bez trudu pokonuje nierówności nawierzchni. Dodatkowe atuty tej sportowej hulajnogi to uchwyt na napoje z regulacją mocowania oraz regulowany pas z logo MMX do wygodnego przenoszenia. Dla tej hulajnogi przewidzieliśmy także możliwość wymiany zużytej naklejki antypoślizgowej na podeście (zamienna naklejka umieszczona w opakowaniu).
+Solidna hulajnoga, idealna zarówno dla dzieci, młodzieży jak i dorosłych, gdzie maksymalna dopuszczalna waga użytkownika wynosi do 100 kg.
+
+Dodatkowym atutem poprawiającym bezpieczeństwo poprzez zwiększoną przyczepność, jest podest pokryty specjalną antypoślizgową warstwą. Szyku i uroku całości hulajnogi ULTIMETE dodaje modny wzór w najmodniejszych kolorach: white, pink, black.
+
+UWAGA! To nie jest zabawka – Produkt posiada certyfikat EN 14619 - sprzęt sportowy.
+
+
+CHARAKTERYSTYKA:
+
+Aluminiowa konstrukcja (za wyjątkiem przedniego widelca i hamulca);
+
+Innowacyjny mechanizm składania;
+
+Praktyczna - całość składana do wymiarów: dł. 76,5 cm x wys. 32cm x szer. 12,5 cm;
+
+Przestronna platforma (32 x 11,5cm);
+
+Specjalne uchwyty na złożone rączki w kolumnie kierownicy
+
+Gumowe antypoślizgowe wyprofilowane rączki kierownicy
+
+Antypoślizgowa powierzchnia platformy
+
+Dodatkowa naklejka antypoślizgowa podestu
+
+Uchwyt na napoje z regulacja mocowania
+
+Wygodny regulowany pas do przenoszenia hulajnogi z logo MMX
+
+Przedni widelec i hamulec wykonany ze stali
+
+Wysokiej jakości duże kółka o średnicy 20,5 cm, PU High Rebound, wykonane z lanego poliuretanu
+
+Łożyska ABEC-7
+
+Hamulec cierny tylnego koła(stalowy)
+
+Nóżka do parkowania
+
+Hulajnoga ULTIMATE to sprzęt sportowy
+
+Regulowana wysokość kierownicy od 89 do 98 cm
+
+Maksymalne waga użytkownika: 20 - 100 kg
+
+Waga hulajnogi: 4,3 kg
+
+Kolory: black, pink i white
+
+Certyfikat EN 14619
+
+Gwarancja 12 m-cy.
+
+
+
+
+DANE TECHNICZNE
+
+WYMIARY:
+
+Regulowana wysokość kierownicy: 89-93-98 cm
+
+Szerokość kierownicy: 40 cm
+
+Długość całkowita: 89 cm
+
+Długość podestu: 32 cm
+
+Szerokość podestu: 11,5 cm
+
+Wysokość podestu od podłoża: 8 cm
+
+Średnica kółek: 20,5 cm
+
+Wymiary po złożeniu: dł. 76,5 cm x wys. 32cm x szer. 12,5 cm.
+
+
+OPAKOWANIE:
+
+Wysokość: 33 cm
+
+Szerokość: 12,5 cm
+
+Długość: 77 cm
+
+Ilość w kartonie: 1 szt.
+
+Waga netto: 4,3 kg
+
+Waga z opakowaniem: 4,8 kg
+
+Instrukcja montażu
+
+Gwarancja: 1 rok.
+
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Hulajnoga Ultimate
+Produkt przeznaczony jest dla dzieci w wieku od 6 do 12 lat, chyba, że wzrost i waga dziecka umożliwiają dalsze korzystanie. Klasa A: dopuszczalna waga od 20 do 100kg.
+Produkt zgodny normą EN 14619:2019. Klasa A: dopuszczalna waga od 20 do 100kg.
+
+OSTRZEŻENIE! Przeczytaj informacje dostarczone przez producenta.
+OSTRZEŻENIE! Noś zawsze odpowiednie wyposażenie ochronne.
+OSTRZEŻENIA!
+Należy zwracać uwagę na odpowiednie ubranie ochronne. Należy zawsze jeździć z kaskiem i ochraniaczami na ręce / przeguby rąk, łokcie i kolana. Nie powinno się nigdy jeździć boso! Zawsze noś sportowe obuwie.
+Korzystanie z hulajnogi wymaga umiejętności orientacji przestrzennej i sterowania, których brak grozi upadkiem lub zderzeniem, które mogą skutkować obrażeniami u użytkownika lub u osób trzecich.
+Podczas jazdy na hulajnodze dziecko powinno przebywać pod opieką osoby dorosłej i przez cały czas w zasięgu jej wzroku.
+Upewnij się, że wszystkie systemy blokujące zostały prawidłowo zablokowane.
+Nie używać hulajnogi w przypadku stwierdzenia jakichkolwiek uszkodzeń lub jeśli brak jakiegokolwiek elementu. Nie stosuj części zamiennych innych niż sugerowane przez producenta.
+Składając hulajnogę – uważaj, aby nie przytrzasnąć lub nie uszczypnąć palców, elementów ubrania, skóry.
+Przed każdym użyciem sprawdzaj, czy wszystkie części są dobrze dokręcone i zablokowane, szczególnie zwróć uwagę na mechanizm służący do składania hulajnogi i regulacji wysokości. Sprawdź, czy nie ma możliwości np. zmiany wysokości kierownicy bez ich odblokowania.
+Przy ciągłym użyciu hamulec może się nagrzać! Nie powinno się go dotykać przed jego schłodzeniem.
+Hulajnoga nie nadaje się do wykonywania skoków.
+
+Drogi rodzicu zapoznaj swoje dziecko z zasadami bezpiecznego użytkowania hulajnogi.
+Hulajnoga przeznaczona jest do użytku przez jedną osobę.
+Hulajnogę należy używać tylko na odpowiednich powierzchniach, które powinny być gładkie, czyste i suche i na których nie powinni znajdować się, w miarę możliwości, inni uczestnicy ruchu. Należy zawsze uważać na innych ludzi.
+Nie jeździć nigdy o zmierzchu, w nocy lub przy złych warunkach widoczności.
+Nie jeździć po jezdni oraz na przejściach, jak również po zboczach i pagórkach. Należy unikać sąsiedztwa schodów i otwartych zbiorników wodnych.
+
+Zapoznaj dziecko z zasadami na drodze:
+1) Jedź w sposób odpowiedzialny. Noś obuwie sportowe oraz kask ochronny i ochraniacze. Naucz się podstawowych elementów jazdy, skrętów i hamowania. Zawsze pamiętaj o sprawdzaniu swojego sprzętu i utrzymuj go w dobrym stanie.
+2) Jedź rozważnie. Zawsze kontroluj swoje ruchy w czasie jazdy. Uważaj na pojazdy i unikaj dróg z dużym natężeniem ruchu samochodów. Zawsze pamiętaj, że samochody mają przewagę na drodze.
+3) Przestrzegaj wszelkich zasad w czasie jazdy. Postępuj zgodnie z zasadami ruchu drogowego i przestrzegaj znaków.
+4) Poruszaj się na hulajnodze zgodnie z dobrymi manierami. Zawsze trzymaj się prawej strony oraz wyprzedzaj z lewej strony. Jedź tak by inni uczestnicy mogli przewidzieć Twoje zamiary. Zawsze udziel pierwszeństwa pieszym.
+5) W celu jazdy do przodu – dziecko musi stanąć stabilnie na hulajnodze trzymając obie ręce na kierownicy. Jedną nogą odpychać się od podłoża, żeby nabrać prędkości. Następnie można dostawić nogę napędzającą na podest i korzystać z siły rozpędu, aby jechać. Hamowanie nie stanowi problemu: wystarczy nastąpić na hamulec tylnego koła. Naucz się hamować przed rozpoczęciem jazdy. Przy ciągłym użyciu hamulec może się nagrzać! Nie powinno się go dotykać przed jego schłodzeniem.
+Odległość jaka jest potrzebna do zatrzymania zależy od Twoich umiejętności, prędkości oraz nawierzchni po jakiej się poruszasz. Bądź zawsze czujny i przygotowany na niespodziewane hamowanie. Zapobiegaj niebezpiecznym sytuacjom.
+
+CZYSZCZENIE I KONSERWACJA
+Nie stosuj części zamiennych innych niż sugerowane przez producenta.
+Produkt należy czyścić ściereczką lub wilgotną szmatką, bez dodatku specjalnych środków czyszczących! Przed skorzystaniem z hulajnogi oraz po skorzystaniu z niej należy skontrolować hulajnogę pod kątem ewentualnych uszkodzeń i oznak zużycia. Produkt należy przechowywać w bezpiecznym miejscu, nienarażonym na działanie warunków atmosferycznych tak, aby nie mógł ulec uszkodzeniu.
+Przy długotrwałym użytkowaniu hulajnogi systemy blokujące i śruby mogą się luzować. Przed jazdą zawsze sprawdź hulajnogę, sprawdź czy wszystkie systemy są zablokowane, a śruby dokręcone. Regularnie sprawdzaj zużycie hulajnogi.
+
+ŁOŻYSKA
+Twoja hulajnoga została wyposażona w precyzyjne łożyska, które podczas produkcji zostały pod wysokim ciśnieniem napełnione smarem. Dzięki temu kółka obracają się lekko i szybko tylko odpowiednio dociążone. Łożyska nie wymagają konserwacji. Jeśli łożysko wypadnie, można je wymienić w całości.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+www.pminvestment.pl/manual/ultimate_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114785-1.jpg https://marini.pl/b2b/pictures/59114785-2.jpg https://marini.pl/b2b/pictures/59114785-3.jpg https://marini.pl/b2b/pictures/59114785-4.jpg https://marini.pl/b2b/pictures/59114785-5.jpg https://marini.pl/b2b/pictures/59114785-6.jpg https://marini.pl/b2b/pictures/59114785-7.jpg https://marini.pl/b2b/pictures/59114785-8.jpg https://marini.pl/b2b/pictures/59114785-9.jpg https://marini.pl/b2b/pictures/59114785-10.jpg https://marini.pl/b2b/pictures/59114785-11.jpg https://marini.pl/b2b/pictures/59114785-12.jpg https://marini.pl/b2b/pictures/59114785-13.jpg https://marini.pl/b2b/pictures/59114785-14.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114784</kod>
@@ -213175,7 +213774,159 @@ www.pminvestment.pl/manual/jelly_manual.pdf</opis>
 <stan>mała ilość</stan>
 <EAN>5907090700337</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
-<opis/>
+<opis>Wychodząc naprzeciw potrzebom naszych dorastających pociech stworzyliśmy hulajnogę ULTIMATE.
+Jazda na hulajnodze uczy wytrzymałości oraz ćwiczy poczucie równowagi a także wzmacnia układ mięśniowy. Zabierz hulajnogę ULTIMETE do szkoły, pracy czy parku.
+
+Dzięki zastosowaniu dużego koła o średnicy 20,5 cm, ULTIMATE bez trudu pokonuje nierówności nawierzchni. Dodatkowe atuty tej sportowej hulajnogi to uchwyt na napoje z regulacją mocowania oraz regulowany pas z logo MMX do wygodnego przenoszenia. Dla tej hulajnogi przewidzieliśmy także możliwość wymiany zużytej naklejki antypoślizgowej na podeście (zamienna naklejka umieszczona w opakowaniu).
+Solidna hulajnoga, idealna zarówno dla dzieci, młodzieży jak i dorosłych, gdzie maksymalna dopuszczalna waga użytkownika wynosi do 100 kg.
+
+Dodatkowym atutem poprawiającym bezpieczeństwo poprzez zwiększoną przyczepność, jest podest pokryty specjalną antypoślizgową warstwą. Szyku i uroku całości hulajnogi ULTIMETE dodaje modny wzór w najmodniejszych kolorach: white, pink, black.
+
+UWAGA! To nie jest zabawka – Produkt posiada certyfikat EN 14619 - sprzęt sportowy.
+
+
+CHARAKTERYSTYKA:
+
+Aluminiowa konstrukcja (za wyjątkiem przedniego widelca i hamulca);
+
+Innowacyjny mechanizm składania;
+
+Praktyczna - całość składana do wymiarów: dł. 76,5 cm x wys. 32cm x szer. 12,5 cm;
+
+Przestronna platforma (32 x 11,5cm);
+
+Specjalne uchwyty na złożone rączki w kolumnie kierownicy
+
+Gumowe antypoślizgowe wyprofilowane rączki kierownicy
+
+Antypoślizgowa powierzchnia platformy
+
+Dodatkowa naklejka antypoślizgowa podestu
+
+Uchwyt na napoje z regulacja mocowania
+
+Wygodny regulowany pas do przenoszenia hulajnogi z logo MMX
+
+Przedni widelec i hamulec wykonany ze stali
+
+Wysokiej jakości duże kółka o średnicy 20,5 cm, PU High Rebound, wykonane z lanego poliuretanu
+
+Łożyska ABEC-7
+
+Hamulec cierny tylnego koła(stalowy)
+
+Nóżka do parkowania
+
+Hulajnoga ULTIMATE to sprzęt sportowy
+
+Regulowana wysokość kierownicy od 89 do 98 cm
+
+Maksymalne waga użytkownika: 20 - 100 kg
+
+Waga hulajnogi: 4,3 kg
+
+Kolory: black, pink i white
+
+Certyfikat EN 14619
+
+Gwarancja 12 m-cy.
+
+
+
+
+DANE TECHNICZNE
+
+WYMIARY:
+
+Regulowana wysokość kierownicy: 89-93-98 cm
+
+Szerokość kierownicy: 40 cm
+
+Długość całkowita: 89 cm
+
+Długość podestu: 32 cm
+
+Szerokość podestu: 11,5 cm
+
+Wysokość podestu od podłoża: 8 cm
+
+Średnica kółek: 20,5 cm
+
+Wymiary po złożeniu: dł. 76,5 cm x wys. 32cm x szer. 12,5 cm.
+
+
+OPAKOWANIE:
+
+Wysokość: 33 cm
+
+Szerokość: 12,5 cm
+
+Długość: 77 cm
+
+Ilość w kartonie: 1 szt.
+
+Waga netto: 4,3 kg
+
+Waga z opakowaniem: 4,8 kg
+
+Instrukcja montażu
+
+Gwarancja: 1 rok.
+
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Hulajnoga Ultimate
+Produkt przeznaczony jest dla dzieci w wieku od 6 do 12 lat, chyba, że wzrost i waga dziecka umożliwiają dalsze korzystanie. Klasa A: dopuszczalna waga od 20 do 100kg.
+Produkt zgodny normą EN 14619:2019. Klasa A: dopuszczalna waga od 20 do 100kg.
+
+OSTRZEŻENIE! Przeczytaj informacje dostarczone przez producenta.
+OSTRZEŻENIE! Noś zawsze odpowiednie wyposażenie ochronne.
+OSTRZEŻENIA!
+Należy zwracać uwagę na odpowiednie ubranie ochronne. Należy zawsze jeździć z kaskiem i ochraniaczami na ręce / przeguby rąk, łokcie i kolana. Nie powinno się nigdy jeździć boso! Zawsze noś sportowe obuwie.
+Korzystanie z hulajnogi wymaga umiejętności orientacji przestrzennej i sterowania, których brak grozi upadkiem lub zderzeniem, które mogą skutkować obrażeniami u użytkownika lub u osób trzecich.
+Podczas jazdy na hulajnodze dziecko powinno przebywać pod opieką osoby dorosłej i przez cały czas w zasięgu jej wzroku.
+Upewnij się, że wszystkie systemy blokujące zostały prawidłowo zablokowane.
+Nie używać hulajnogi w przypadku stwierdzenia jakichkolwiek uszkodzeń lub jeśli brak jakiegokolwiek elementu. Nie stosuj części zamiennych innych niż sugerowane przez producenta.
+Składając hulajnogę – uważaj, aby nie przytrzasnąć lub nie uszczypnąć palców, elementów ubrania, skóry.
+Przed każdym użyciem sprawdzaj, czy wszystkie części są dobrze dokręcone i zablokowane, szczególnie zwróć uwagę na mechanizm służący do składania hulajnogi i regulacji wysokości. Sprawdź, czy nie ma możliwości np. zmiany wysokości kierownicy bez ich odblokowania.
+Przy ciągłym użyciu hamulec może się nagrzać! Nie powinno się go dotykać przed jego schłodzeniem.
+Hulajnoga nie nadaje się do wykonywania skoków.
+
+Drogi rodzicu zapoznaj swoje dziecko z zasadami bezpiecznego użytkowania hulajnogi.
+Hulajnoga przeznaczona jest do użytku przez jedną osobę.
+Hulajnogę należy używać tylko na odpowiednich powierzchniach, które powinny być gładkie, czyste i suche i na których nie powinni znajdować się, w miarę możliwości, inni uczestnicy ruchu. Należy zawsze uważać na innych ludzi.
+Nie jeździć nigdy o zmierzchu, w nocy lub przy złych warunkach widoczności.
+Nie jeździć po jezdni oraz na przejściach, jak również po zboczach i pagórkach. Należy unikać sąsiedztwa schodów i otwartych zbiorników wodnych.
+
+Zapoznaj dziecko z zasadami na drodze:
+1) Jedź w sposób odpowiedzialny. Noś obuwie sportowe oraz kask ochronny i ochraniacze. Naucz się podstawowych elementów jazdy, skrętów i hamowania. Zawsze pamiętaj o sprawdzaniu swojego sprzętu i utrzymuj go w dobrym stanie.
+2) Jedź rozważnie. Zawsze kontroluj swoje ruchy w czasie jazdy. Uważaj na pojazdy i unikaj dróg z dużym natężeniem ruchu samochodów. Zawsze pamiętaj, że samochody mają przewagę na drodze.
+3) Przestrzegaj wszelkich zasad w czasie jazdy. Postępuj zgodnie z zasadami ruchu drogowego i przestrzegaj znaków.
+4) Poruszaj się na hulajnodze zgodnie z dobrymi manierami. Zawsze trzymaj się prawej strony oraz wyprzedzaj z lewej strony. Jedź tak by inni uczestnicy mogli przewidzieć Twoje zamiary. Zawsze udziel pierwszeństwa pieszym.
+5) W celu jazdy do przodu – dziecko musi stanąć stabilnie na hulajnodze trzymając obie ręce na kierownicy. Jedną nogą odpychać się od podłoża, żeby nabrać prędkości. Następnie można dostawić nogę napędzającą na podest i korzystać z siły rozpędu, aby jechać. Hamowanie nie stanowi problemu: wystarczy nastąpić na hamulec tylnego koła. Naucz się hamować przed rozpoczęciem jazdy. Przy ciągłym użyciu hamulec może się nagrzać! Nie powinno się go dotykać przed jego schłodzeniem.
+Odległość jaka jest potrzebna do zatrzymania zależy od Twoich umiejętności, prędkości oraz nawierzchni po jakiej się poruszasz. Bądź zawsze czujny i przygotowany na niespodziewane hamowanie. Zapobiegaj niebezpiecznym sytuacjom.
+
+CZYSZCZENIE I KONSERWACJA
+Nie stosuj części zamiennych innych niż sugerowane przez producenta.
+Produkt należy czyścić ściereczką lub wilgotną szmatką, bez dodatku specjalnych środków czyszczących! Przed skorzystaniem z hulajnogi oraz po skorzystaniu z niej należy skontrolować hulajnogę pod kątem ewentualnych uszkodzeń i oznak zużycia. Produkt należy przechowywać w bezpiecznym miejscu, nienarażonym na działanie warunków atmosferycznych tak, aby nie mógł ulec uszkodzeniu.
+Przy długotrwałym użytkowaniu hulajnogi systemy blokujące i śruby mogą się luzować. Przed jazdą zawsze sprawdź hulajnogę, sprawdź czy wszystkie systemy są zablokowane, a śruby dokręcone. Regularnie sprawdzaj zużycie hulajnogi.
+
+ŁOŻYSKA
+Twoja hulajnoga została wyposażona w precyzyjne łożyska, które podczas produkcji zostały pod wysokim ciśnieniem napełnione smarem. Dzięki temu kółka obracają się lekko i szybko tylko odpowiednio dociążone. Łożyska nie wymagają konserwacji. Jeśli łożysko wypadnie, można je wymienić w całości.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+www.pminvestment.pl/manual/ultimate_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114784-1.jpg https://marini.pl/b2b/pictures/59114784-2.jpg https://marini.pl/b2b/pictures/59114784-3.jpg https://marini.pl/b2b/pictures/59114784-4.jpg https://marini.pl/b2b/pictures/59114784-5.jpg https://marini.pl/b2b/pictures/59114784-6.jpg https://marini.pl/b2b/pictures/59114784-7.jpg https://marini.pl/b2b/pictures/59114784-8.jpg https://marini.pl/b2b/pictures/59114784-9.jpg https://marini.pl/b2b/pictures/59114784-10.jpg https://marini.pl/b2b/pictures/59114784-11.jpg https://marini.pl/b2b/pictures/59114784-12.jpg https://marini.pl/b2b/pictures/59114784-13.jpg https://marini.pl/b2b/pictures/59114784-14.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913961</kod>
@@ -216432,7 +217183,7 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <nazwa>MILLY MALLY 6301 Qplay Rowerek Trójkołowy Comfo Max Olive Green</nazwa>
 <cena>382.22</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5061047482124</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Qplay Rowerek Trójkołowy Comfo Max
@@ -224246,7 +224997,7 @@ Wiek dziecka 5+ lat</opis>
 <nazwa>MILLY MALLY 6829 TinyMini CC9881 Mata edukacyjna Dino Pink</nazwa>
 <cena>98.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907090700962</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini Dino Pink to interaktywna mata edukacyjna dla niemowląt, zaprojektowana z myślą o bezpiecznej zabawie i harmonijnym rozwoju dziecka już od pierwszych tygodni życia. Pastelowa kolorystyka i uroczy motyw dinozaurów sprawiają, że mata zachwyca zarówno dzieci, jak i rodziców.
@@ -225441,7 +226192,131 @@ www.pminvestment.pl/manual/ROLLY_manual.pdf</opis>
 <stan>mała ilość</stan>
 <EAN>5907090700986</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
-<opis/>
+<opis>Chodzik Patrol to produkt zaprojektowany z myślą o aktywnych i ciekawych świata dzieciach. Specjalna konstrukcja umożliwia dopasowanie siedziska do wysokości malucha tak, aby stópki swobodnie dotykały podłoża. Natomiast wygodne oparcie posiada grube wypełnienie a materiały łatwe w utrzymaniu w czystości.
+ 
+Produkt posiada edukacyjny panel, który zawiera szereg niespodzianek czekających na małych odkrywców: światełka, piszczałki, melodyjki, grzechotka, przyciski i inne ruchome elementy. Po wypięciu panelu z tacki chodzika posłuży on jako niezależna zabawka, np. jako umilacz w podróży, a blat przyda się jako stolik do zabaw.
+ 
+Cztery wysokiej jakości obrotowe kółka, które nie rysują powierzchni, po której się poruszają, zapewnią swobodę przemieszczania a osiem gumowych stoperów ochroni dziecko przed zjechaniem ze schodów lub innych przeszkód.
+ 
+Produkt przeznaczony dla dzieci, które są w stanie samodzielnie siedzieć (ok. 6 miesiąca życia) do czasu nauczenia się chodzenia lub wagi poniżej 12kg.
+ 
+
+CHARAKTERYSTYKA PRODUKTU:
+ 
+
+Wygodne siedzisko z oparciem
+
+3 stopniowa regulacja wysokości siedziska: 22, 24, 26 cm (od podłoża do spodu siedziska)
+
+Odpinany, multimedialny moduł grający z światełkami
+
+Stopery chroniące dziecko w okolicy uskoków
+
+Kółka nierysujące podłogi
+
+Materiały łatwe w utrzymaniu czystości
+
+Solidna, wytrzymała konstrukcja
+
+Wygodne składanie
+
+Zgodny z europejskimi normami bezpieczeństwa
+
+Wykonany z certyfikowanych materiałów
+
+Od 6 miesiąca życia
+
+Maksymalne obciążenie-12 kg
+
+Intuicyjny montaż
+
+Gwarancja 12 miesięcy
+
+Zasilanie: 2 baterie AA (niedołączone do zestawu)
+
+ 
+
+DANE TECHNICZNE:
+
+Wymiary produktu:
+
+Wysokość całkowita- 54 cm
+
+Szerokość- 62,5 cm
+
+Długość- 66 cm
+
+Wymiary po złożeniu: 66 x 62,5 x 28 cm
+
+Wymiary tacki- 44 x 23,5 cm
+
+Wysokość stoperów od podłoża- 1 cm
+
+Średnica kółek- 4 cm
+
+
+
+
+Siedzisko:
+
+Długość- 24 cm
+
+Szerokość- 24 cm
+
+Głębokość- 17 cm
+
+Wysokość oparcia- 27 cm
+
+
+Wymiary opakowania:
+
+Długość- 68,8 cm
+
+Szerokość- 63,5 cm
+
+Wysokość- 12,5 cm
+
+Waga netto: 3,7 kg
+
+Waga brutto: 4,4 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+Chodzik niemowlęcy Patrol
+Produkt przeznaczony jest dla dzieci w wieku od 6 miesięcy. Maksymalne obciążenie produktu 12kg.
+Produkt jest zgodny z Europejską Normą bezpieczeństwa EN 1273:2020.
+
+OSTRZEŻENIE - Nigdy nie pozostawiać dziecka bez opieki.
+OSTRZEŻENIE - Dziecko w chodziku będzie w stanie sięgnąć dalej i poruszać się szybciej.
+OSTRZEŻENIE - Zapobiegać dostępowi do schodów, stopni i nierównej powierzchni.
+OSTRZEŻENIE - Osłonić wszystkie kominki, urządzenia do ogrzewania i gotowania.
+OSTRZEŻENIE - Usunąć z zasięgu dziecka gorące ciecze, przewody elektryczne i inne potencjalne zagrożenia.
+OSTRZEŻENIE - Zapobiegać kolizjom z szybami w drzwiach, oknach i w meblach.
+OSTRZEŻENIE! Plastikowe torby mogą być niebezpieczne. Aby uniknąć niebezpieczeństwa uduszenia, trzymaj torbę z dala od niemowląt i dzieci.
+ZALECENIA
+Ten produkt jest przeznaczony tylko dla dziecka, które jest w stanie samodzielnie siedzieć (w przybliżeniu w wieku od 6 miesięcy). Produkt nie jest odpowiedni dla dzieci, które potrafią samodzielnie chodzić lub ważą powyżej 12kg.
+Z chodzika zaleca się korzystać tylko przez krótkie okresy czasu (np. 20min).
+Nie używać produktu jeśli jakikolwiek element jest uszkodzony, pęknięty, złamany, porwany lub brakuje jakiegokolwiek elementy.
+Nie używać akcesoriów, części, elementów lub części zastępczych innych niż te dostarczone i zatwierdzone przez producenta.
+Z produktu należy korzystać wyłącznie w domu.
+
+Chodzik wyposażony jest w PULPIT-ZABAWKĘ
+Zabawka na baterie: 2xAA – baterie nie są dołączone do produktu. Instrukcja wymiany baterii jest dołączona do produktu – w instrukcji. Zachować opakowanie i instrukcję na przyszłość gdyż zawierają istotne informacje.
+WARUNKI BEZPIECZNEGO KORZYSTANIA Z BATERII
+Baterie powinny być wymieniane przez osoby dorosłe. Wymiana baterii w zabawce. Odkręć pokrywę pojemnika na baterie. Wyjmij stare baterie, a następnie włóż 2 szt. baterii typu „AA” do przegródki na baterie. Zwróć uwagę na poprawną polaryzację baterii (+/-). Załóż i zakręć pokrywę. UWAGA: BATERIE NIE SĄ DOSTARCZANE DO ZABAWKI. Można używać tylko zalecanego rodzaju baterii. Baterie należy zakładać zgodnie z odpowiednią biegunowością. Trzymaj baterie z dala od zasięgu dziecka. Akumulatorki przed doładowaniem należy wyjąć z produktu.
+Baterie nadające się do ładowania można doładowywać wyłącznie pod nadzorem osoby dorosłej. Nie należy mieszać ze sobą baterii rożnego typu, ani baterii nowych z używanymi. Bateria z której wycieka płyn elektrolitowy nie może być używana ani ładowana. Baterie nienadające się do ponownego naładowania nie mogą być doładowywane. Natychmiast usuń wyciekające, nieszczelne baterie ponieważ mogą spowodować poparzenia skóry lub inne obrażenia. Zużyte baterie należy usunąć z zabawki, lub jeżeli jest ona nieużywana przez dłuższy czas, aby uniknąć korozji wycieku. Nie zwieraj styków przedziałów ani zacisków baterii. Nie wrzucać do ognia i nie podgrzewać. Zużytych baterii nie należy wyrzucać do odpadów domowych, należy je oddać w miejsce zapewniające odpowiedni ich recykling.
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+Link do instrukcji:
+www.pminvestment.pl/manual/patrol_manual.pdf
+
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114609-1.jpg https://marini.pl/b2b/pictures/59114609-2.jpg https://marini.pl/b2b/pictures/59114609-3.jpg https://marini.pl/b2b/pictures/59114609-4.jpg https://marini.pl/b2b/pictures/59114609-5.jpg https://marini.pl/b2b/pictures/59114609-6.jpg https://marini.pl/b2b/pictures/59114609-7.jpg https://marini.pl/b2b/pictures/59114609-8.jpg https://marini.pl/b2b/pictures/59114609-9.jpg https://marini.pl/b2b/pictures/59114609-10.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914981</kod>
@@ -230922,7 +231797,144 @@ www.pminvestment.pl/manual/PRIME_manual.pdf</opis>
 <stan>mała ilość</stan>
 <EAN>5907090701228</EAN>
 <grupa>MILLY MALLY/ŁÓŻECZKA KOJCE KOŁYSKI</grupa>
-<opis/>
+<opis>Łóżeczko dostawne Nino Milly Mally zostało stworzone z myślą o rodzicach, którzy chcą mieć maluszka blisko siebie przez całą noc. Model 2w1 może pełnić funkcję dostawki do łóżka rodziców oraz samodzielnego łóżeczka dla niemowlęcia, zapewniając komfort, bezpieczeństwo i wygodę codziennej opieki.
+Dzięki opuszczanemu bokowi i regulacji wysokości łóżeczko można łatwo dopasować do większości łóżek. Bliskość dziecka ułatwia nocne karmienie, pielęgnację i uspokajanie maluszka bez konieczności wstawania.
+
+Dlaczego warto wybrać łóżeczko Nino?
+funkcja łóżeczka dostawnego i samodzielnego
+6-stopniowa regulacja wysokości
+opuszczany bok z siatką
+miękki materacyk w zestawie
+pasy mocujące do łóżka rodziców
+lekkie i łatwe w transporcie
+stabilne nogi z kółkami i hamulcami
+nowoczesny design marki Milly Mally
+
+Komfort dla dziecka i wygoda dla rodziców
+Łóżeczko NINO zapewnia niemowlęciu bezpieczną przestrzeń do snu, a rodzicom szybki dostęp do dziecka w nocy. Siatkowe boki poprawiają cyrkulację powietrza i pozwalają stale obserwować maluszka.
+Miękki materacyk zwiększa komfort snu, a możliwość delikatnego pochylenia łóżeczka może być pomocna podczas kataru lub ulewania.
+
+Bezpieczeństwo i stabilna konstrukcja
+Model został wyposażony w specjalne pasy mocujące, które stabilnie łączą łóżeczko z łóżkiem rodziców. Wszystkie kółka posiadają blokadę, co zwiększa bezpieczeństwo podczas użytkowania.
+Łóżeczko spełnia europejskie normy bezpieczeństwa EN 1130:2019, a materacyk zgodny jest z normą EN 16890.
+
+Charakterystyka produktu
+funkcja dostawki do łóżka rodziców
+funkcja samodzielnego łóżeczka
+6-stopniowa regulacja wysokości
+opuszczany bok z siatką
+pasy mocujące do łóżka
+lekkie i stabilne
+odpinane kółka z hamulcami
+miękki materacyk w zestawie
+możliwość delikatnego pochylenia
+łatwe utrzymanie w czystości
+szybki system składania
+przedział wiekowy: 0–6 miesięcy
+maksymalne obciążenie: 9 kg
+
+Idealne łóżeczko na pierwsze miesiące życia
+Łóżeczko dostawne Nino Milly Mally to praktyczne rozwiązanie dla rodziców noworodków i niemowląt. Łączy bezpieczeństwo, funkcjonalność i komfort użytkowania, zapewniając spokojny sen dziecka i wygodę opieki każdego dnia.
+
+DANE TECHNICZNE:
+
+WYMIARY GONDOLI:
+długość wewnętrzna: 80 cm
+wysokość wewnętrzna: 35 cm
+szerokość wewnętrzna: 47,5 cm
+
+WYMIARY MATERACA:
+długość: 79 cm
+szerokość: 46,5 cm
+grubość: 2,5 cm
+
+REGULACJA POZIOMÓW:
+Wysokość regulacji poziomów – podana od podłogi
+ 
+poziom 1. (najniższy): 81 cm
+poziom 2: 83 cm
+poziom 3: 85 cm
+poziom 4: 87 cm
+poziom 5: 89 cm
+poziom 6 (najwyższy): 91 cm
+Wysokość regulacji poziomów – podana od podłogi do materacyka łóżeczka
+poziom 1. (najniższy): 51 cm
+poziom 2: 53 cm
+poziom 3: 55 cm
+poziom 4: 57 cm
+poziom 5: 59 cm
+poziom 6 (najwyższy): 61 cm
+WYMIARY OPAKOWANIA:
+Długość: 90 cm
+Szerokość: 10 cm
+Wysokość: 53 cm
+Waga netto: 7,4 kg
+Waga brutto: 8,6 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Łóżeczko-Łóżeczko dostawne Nino
+
+Łóżeczko przeznaczone jest dla dzieci od urodzenia do 6. miesiąca życia. Maksymalna dopuszczalna waga dziecka to 9kg. Łóżeczko jest zgodne z normą EN 1130:2019. Materacyk jest zgodny z normą EN 16890:2017:A1:2021.
+OSTRZEŻENIE Produkt nie jest odpowiedni dla dzieci, które potrafią siedzieć, klęczeć lub podciągać się!
+OSTRZEŻENIE Nie używaj tego produktu bez przeczytania i zapoznania się z instrukcją!
+OSTRZEŻENIE Przestań używać produktu jak tylko dziecko zaczyna unosić się na rączkach i kolanach, podciągać się lub jest w stanie siedzieć samodzielnie!
+OSTRZEŻENIE Umieszczanie czegokolwiek (dodatkowych przedmiotów/sprzętów) w kołysce może spowodować uduszenie!
+OSTRZEŻENIE Nie umieszczaj produktu w pobliżu elementów/sprzętów, które mogą nieść ze sobą niebezpieczeństwo uduszenia lub powieszenia jak np. sznurki, żaluzje, zasłony, przewody itp.
+OSTRZEŻENIE Nie używaj w produkcie więcej niż jednego materaca!
+OSTRZEŻENIE Bądź świadom ryzyka, jakie stanowi otwarty ogień oraz inne silne źródła ciepła, takie jak promienniki elektryczne lub gazowe itp. umieszczone w pobliżu produktu!
+OSTRZEŻENIE Używaj wyłącznie materaca sprzedawanego z tym łóżeczkiem, nie dodawaj drugiego materaca, grozi uduszeniem.
+Łóżeczko należy ustawić na podłożu poziomym.
+Małym dzieciom nie wolno bawić się bez nadzoru w pobliżu łóżeczka.
+W przypadku pozostawienia dziecka bez opieki należy zablokować łóżeczka w pozycji nieruchomej i upewnić się że bok łóżeczka nie jest opuszczony.
+Zawsze blokuj wszystkie kółka gdy nie przesuwasz produktu. Kółka zawsze muszą być zablokowane przed położeniem dziecka w kołysce!
+Zaleca się, aby wszystkie okucia montażowe były zawsze odpowiednio dokręcone i aby żadne wkręty nie były poluzowane, ponieważ dziecko mogłoby zahaczyć o nie częścią ciała lub odzieżą (np. sznurkiem, naszyjnikiem, tasiemką od smoczka itp.) co mogłoby spowodować zagrożenie uduszeniem.
+Jeśli używasz innego materaca – upewnij się, że materac jest połączony ze sztywną podstawą materaca (porównaj z materacem dołączonym do produktu), a cały materac został wykonany zgodnie z normą EN 16890:2017:A1:2021. Dodatkowo upewnij się, że łączna szczelina między materacem a bokami i końcami łóżeczka nie przekracza 2,5 cm, oraz że wysokość materaca nie przekracza czerwonej linii ostrzegawczej zaznaczonej wewnątrz produktu.  Materac musi być tak dobrany, aby wewnętrzna wysokość łóżeczka (mierzona od górnej płaszczyzny materaca do górnej krawędzi boku łóżka) wynosiła, co najmniej 200 mm w najwyższym położeniu dna łóżeczka – po włożeniu – musi być poniżej czerwonej linii ostrzegawczej zaznaczonej wewnątrz produktu.
+Producent zaleca używanie materacyka dołączonego do produktu, którego grubość nie przekracza 4 cm, a wymiar materaca jest idealnie dopasowany do wymiarów łóżeczka. Maksymalna grubość materacyka to 4cm.
+Bądź świadom ryzyka, jakie stanowią palące się papierosy, otwarty ogień oraz inne silne źródła ciepła, takie jak promienniki elektryczne lub gazowe itp. umieszczone w pobliżu produktu W celu uniknięcia ryzyka pożaru nie umieszczać łóżeczka/kołyski w pobliżu otwartego ognia i innych silnych źródeł ciepła. Nie wolno palić papierosów w pobliżu produktu.
+Dopuszczalne największe pochylenie produktu to 2 poziomy – np. jeśli pozycja na jednej nodze to 4 – to dopuszczalna pozycja na drugiej nodze może być najniżej 2, a najwyżej 6. Głowa dziecka musi zawsze być po stronie materaca z wyższą pozycją nogi.
+NIE UŻYWAĆ łóżeczka i materacyka jeśli jakiejkolwiek części brakuje, jakakolwiek część jest uszkodzona, pęknięta, złamana lub rozdarta. Skontaktuj się z producentem: PM INVESTMENT GROUP Napert, Soszyński Sp.k. w celu uzyskania części zamiennych lub dodatkowych informacji. NIE STOSUJ innych części niż te dostarczone przez producenta.
+FUNKCJA ŁÓŻECKA DOSTAWNEGO:
+OSTRZEŻENIE – Aby uniknąć niebezpieczeństwa, że szyja dziecka zostanie uwięziona na opuszczonym boku w funkcji łóżeczka dostawnego (gdy łóżeczko jest dołączone do łóżka rodzica) – górna część opuszczanego boku, nie może być wyżej niż materac rodzica.
+OSTRZEŻENIE – Aby uniknąć ryzyka, że Twoje dziecko udusi się – system łączący (łóżko rodzica z łóżeczkiem dostawnym) zawsze musi być trzymany z dala od łóżeczka i z dala od dziecka.
+NIEBIEZPIECZEŃSTWO! Gdy łóżeczko nie jest zamontowane do łóżka rodzica – nigdy nie opuszczaj boku łóżeczka dostawnego!
+
+Do skorzystania z funkcji łóżeczka dostawnego niezbędne są 2 pasy mocujące kołyskę/łóżeczko do łóżka rodzica (element G) i klamry do montażu pasów (zamontowane na ramie). NIE UŻYWAĆ funkcji łóżeczka dostawnego jeśli jakiejkolwiek części brakuje, jakakolwiek część jest uszkodzona, pęknięta, złamana lub rozdarta. Skontaktuj się z producentem: PM INVESTMENT GROUP Napert, Soszyński Sp.k. w celu uzyskania części zamiennych lub dodatkowych informacji. NIE STOSUJ innych części niż te dostarczone przez producenta.
+Funkcji łóżeczka dostawnego można używać jeśli wysokość łóżka rodzica (mierzona od podłogi) wynosi co najmniej 65 cm, a najwyżej 75cm.
+Funkcji łóżeczka dostawnego można używać tylko dla łóżek, w których możliwe jest zdjęcie materaca (jest to niezbędne aby odpowiednio zamontować pasy łączące produkt i łóżko rodzica). Materac nie może być szerszy niż 180 cm, a także bok materaca powinien być równy z bokiem łóżka. Łóżko rodzica powinno mieć pod spodem przestrzeń umożliwiającą częściowe wsunięcie nóg pod łózko. Nie używać dla łóżek o nieregularnej konstrukcji i łóżek wodnych.
+Używaj tylko systemu łączenia sugerowanego przez producenta. Nie używaj innych systemów łączenia.
+Nigdy nie używaj funkcji łóżeczka dostawnego dla ustawienia łóżeczka z pochyloną powierzchnią. Przy regulacji wysokości – ustaw ten sam poziom po obu stronach.
+Aby uniknąć niebezpieczeństwa uduszenia się dziecka (w przypadku zaklinowania się dziecka pomiędzy łóżeczkiem dostawnym i łóżkiem rodzica) łóżeczko dostawne musi być odpowiednio zamontowane do łóżka rodzica korzystając z dołączonego systemu łączenia.
+Nigdy nie może występować szczelina pomiędzy opuszczonym bokiem łóżeczka dostawnego, a materacem łóżka rodzica.
+Przed użyciem – sprawdź ciasność połączenia łóżka dostawnego i łóżka rodzica poprzez odciąganie łóżka dostawnego od łóżka rodzica.
+Jeśli występuje jakakolwiek szczelina pomiędzy łóżeczkiem dostawnym i łóżkiem rodzica NIE UŻYWAJ tej funkcji produktu.
+Jakiekolwiek szczeliny nie mogą być wypełniane poduszkami, kocami lub innymi przedmiotami.
+
+Gdy dziecko potrafi siedzieć, klęczeć lub podciągać się, nie należy dłużej używać łóżeczka dla takiego dziecka.
+Nie używaj korpusu łóżeczka bez ramy.
+Nie należy pozostawiać dziecka bez opieki.
+Nigdy nie przenoś produktu z dzieckiem w środku. Nie zmieniaj wysokości łóżeczka, jeśli dziecko znajduje się w środku.
+Możliwość splątania i uduszenia:
+• Nie należy umieszczać sznurków, kabli, pasków lub podobnych przedmiotów, które mogą zostać owinięte wokół szyi dziecka w pobliżu tego produktu.
+Zagrożenie uduszeniem, gdy dziecko:
+• Przedostanie się w szczelinę między brzegiem materacyka a bokiem łóżeczka
+• Położy się twarzą na miękkim podłożu
+W celu uniknięcia śmierci łóżeczkowej, kładź swoje dziecko do snu na plecach lub zgodnie z wskazówkami Twojego pediatry.
+Aby uniknąć zagrożenia uduszenia się dziecka, przed użyciem wyrobu zdjąć z niego plastikową osłonę. Opakowanie to należy następnie zniszczyć albo trzymać w miejscu niedostępnym dla dzieci i niemowląt.
+Produkt przeznaczony do użytku domowego.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+www.pminvestment.pl/manual/nino_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114787-1.jpg https://marini.pl/b2b/pictures/59114787-2.jpg https://marini.pl/b2b/pictures/59114787-3.jpg https://marini.pl/b2b/pictures/59114787-4.jpg https://marini.pl/b2b/pictures/59114787-5.jpg https://marini.pl/b2b/pictures/59114787-6.jpg https://marini.pl/b2b/pictures/59114787-7.jpg https://marini.pl/b2b/pictures/59114787-8.jpg https://marini.pl/b2b/pictures/59114787-9.jpg https://marini.pl/b2b/pictures/59114787-10.jpg https://marini.pl/b2b/pictures/59114787-11.jpg https://marini.pl/b2b/pictures/59114787-12.jpg https://marini.pl/b2b/pictures/59114787-13.jpg https://marini.pl/b2b/pictures/59114787-14.jpg https://marini.pl/b2b/pictures/59114787-15.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114788</kod>
@@ -230932,7 +231944,144 @@ www.pminvestment.pl/manual/PRIME_manual.pdf</opis>
 <stan>mała ilość</stan>
 <EAN>5907090701235</EAN>
 <grupa>MILLY MALLY/ŁÓŻECZKA KOJCE KOŁYSKI</grupa>
-<opis/>
+<opis>Łóżeczko dostawne Nino Milly Mally zostało stworzone z myślą o rodzicach, którzy chcą mieć maluszka blisko siebie przez całą noc. Model 2w1 może pełnić funkcję dostawki do łóżka rodziców oraz samodzielnego łóżeczka dla niemowlęcia, zapewniając komfort, bezpieczeństwo i wygodę codziennej opieki.
+Dzięki opuszczanemu bokowi i regulacji wysokości łóżeczko można łatwo dopasować do większości łóżek. Bliskość dziecka ułatwia nocne karmienie, pielęgnację i uspokajanie maluszka bez konieczności wstawania.
+
+Dlaczego warto wybrać łóżeczko Nino?
+funkcja łóżeczka dostawnego i samodzielnego
+6-stopniowa regulacja wysokości
+opuszczany bok z siatką
+miękki materacyk w zestawie
+pasy mocujące do łóżka rodziców
+lekkie i łatwe w transporcie
+stabilne nogi z kółkami i hamulcami
+nowoczesny design marki Milly Mally
+
+Komfort dla dziecka i wygoda dla rodziców
+Łóżeczko NINO zapewnia niemowlęciu bezpieczną przestrzeń do snu, a rodzicom szybki dostęp do dziecka w nocy. Siatkowe boki poprawiają cyrkulację powietrza i pozwalają stale obserwować maluszka.
+Miękki materacyk zwiększa komfort snu, a możliwość delikatnego pochylenia łóżeczka może być pomocna podczas kataru lub ulewania.
+
+Bezpieczeństwo i stabilna konstrukcja
+Model został wyposażony w specjalne pasy mocujące, które stabilnie łączą łóżeczko z łóżkiem rodziców. Wszystkie kółka posiadają blokadę, co zwiększa bezpieczeństwo podczas użytkowania.
+Łóżeczko spełnia europejskie normy bezpieczeństwa EN 1130:2019, a materacyk zgodny jest z normą EN 16890.
+
+Charakterystyka produktu
+funkcja dostawki do łóżka rodziców
+funkcja samodzielnego łóżeczka
+6-stopniowa regulacja wysokości
+opuszczany bok z siatką
+pasy mocujące do łóżka
+lekkie i stabilne
+odpinane kółka z hamulcami
+miękki materacyk w zestawie
+możliwość delikatnego pochylenia
+łatwe utrzymanie w czystości
+szybki system składania
+przedział wiekowy: 0–6 miesięcy
+maksymalne obciążenie: 9 kg
+
+Idealne łóżeczko na pierwsze miesiące życia
+Łóżeczko dostawne Nino Milly Mally to praktyczne rozwiązanie dla rodziców noworodków i niemowląt. Łączy bezpieczeństwo, funkcjonalność i komfort użytkowania, zapewniając spokojny sen dziecka i wygodę opieki każdego dnia.
+
+DANE TECHNICZNE:
+
+WYMIARY GONDOLI:
+długość wewnętrzna: 80 cm
+wysokość wewnętrzna: 35 cm
+szerokość wewnętrzna: 47,5 cm
+
+WYMIARY MATERACA:
+długość: 79 cm
+szerokość: 46,5 cm
+grubość: 2,5 cm
+
+REGULACJA POZIOMÓW:
+Wysokość regulacji poziomów – podana od podłogi
+ 
+poziom 1. (najniższy): 81 cm
+poziom 2: 83 cm
+poziom 3: 85 cm
+poziom 4: 87 cm
+poziom 5: 89 cm
+poziom 6 (najwyższy): 91 cm
+Wysokość regulacji poziomów – podana od podłogi do materacyka łóżeczka
+poziom 1. (najniższy): 51 cm
+poziom 2: 53 cm
+poziom 3: 55 cm
+poziom 4: 57 cm
+poziom 5: 59 cm
+poziom 6 (najwyższy): 61 cm
+WYMIARY OPAKOWANIA:
+Długość: 90 cm
+Szerokość: 10 cm
+Wysokość: 53 cm
+Waga netto: 7,4 kg
+Waga brutto: 8,6 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Łóżeczko-Łóżeczko dostawne Nino
+
+Łóżeczko przeznaczone jest dla dzieci od urodzenia do 6. miesiąca życia. Maksymalna dopuszczalna waga dziecka to 9kg. Łóżeczko jest zgodne z normą EN 1130:2019. Materacyk jest zgodny z normą EN 16890:2017:A1:2021.
+OSTRZEŻENIE Produkt nie jest odpowiedni dla dzieci, które potrafią siedzieć, klęczeć lub podciągać się!
+OSTRZEŻENIE Nie używaj tego produktu bez przeczytania i zapoznania się z instrukcją!
+OSTRZEŻENIE Przestań używać produktu jak tylko dziecko zaczyna unosić się na rączkach i kolanach, podciągać się lub jest w stanie siedzieć samodzielnie!
+OSTRZEŻENIE Umieszczanie czegokolwiek (dodatkowych przedmiotów/sprzętów) w kołysce może spowodować uduszenie!
+OSTRZEŻENIE Nie umieszczaj produktu w pobliżu elementów/sprzętów, które mogą nieść ze sobą niebezpieczeństwo uduszenia lub powieszenia jak np. sznurki, żaluzje, zasłony, przewody itp.
+OSTRZEŻENIE Nie używaj w produkcie więcej niż jednego materaca!
+OSTRZEŻENIE Bądź świadom ryzyka, jakie stanowi otwarty ogień oraz inne silne źródła ciepła, takie jak promienniki elektryczne lub gazowe itp. umieszczone w pobliżu produktu!
+OSTRZEŻENIE Używaj wyłącznie materaca sprzedawanego z tym łóżeczkiem, nie dodawaj drugiego materaca, grozi uduszeniem.
+Łóżeczko należy ustawić na podłożu poziomym.
+Małym dzieciom nie wolno bawić się bez nadzoru w pobliżu łóżeczka.
+W przypadku pozostawienia dziecka bez opieki należy zablokować łóżeczka w pozycji nieruchomej i upewnić się że bok łóżeczka nie jest opuszczony.
+Zawsze blokuj wszystkie kółka gdy nie przesuwasz produktu. Kółka zawsze muszą być zablokowane przed położeniem dziecka w kołysce!
+Zaleca się, aby wszystkie okucia montażowe były zawsze odpowiednio dokręcone i aby żadne wkręty nie były poluzowane, ponieważ dziecko mogłoby zahaczyć o nie częścią ciała lub odzieżą (np. sznurkiem, naszyjnikiem, tasiemką od smoczka itp.) co mogłoby spowodować zagrożenie uduszeniem.
+Jeśli używasz innego materaca – upewnij się, że materac jest połączony ze sztywną podstawą materaca (porównaj z materacem dołączonym do produktu), a cały materac został wykonany zgodnie z normą EN 16890:2017:A1:2021. Dodatkowo upewnij się, że łączna szczelina między materacem a bokami i końcami łóżeczka nie przekracza 2,5 cm, oraz że wysokość materaca nie przekracza czerwonej linii ostrzegawczej zaznaczonej wewnątrz produktu.  Materac musi być tak dobrany, aby wewnętrzna wysokość łóżeczka (mierzona od górnej płaszczyzny materaca do górnej krawędzi boku łóżka) wynosiła, co najmniej 200 mm w najwyższym położeniu dna łóżeczka – po włożeniu – musi być poniżej czerwonej linii ostrzegawczej zaznaczonej wewnątrz produktu.
+Producent zaleca używanie materacyka dołączonego do produktu, którego grubość nie przekracza 4 cm, a wymiar materaca jest idealnie dopasowany do wymiarów łóżeczka. Maksymalna grubość materacyka to 4cm.
+Bądź świadom ryzyka, jakie stanowią palące się papierosy, otwarty ogień oraz inne silne źródła ciepła, takie jak promienniki elektryczne lub gazowe itp. umieszczone w pobliżu produktu W celu uniknięcia ryzyka pożaru nie umieszczać łóżeczka/kołyski w pobliżu otwartego ognia i innych silnych źródeł ciepła. Nie wolno palić papierosów w pobliżu produktu.
+Dopuszczalne największe pochylenie produktu to 2 poziomy – np. jeśli pozycja na jednej nodze to 4 – to dopuszczalna pozycja na drugiej nodze może być najniżej 2, a najwyżej 6. Głowa dziecka musi zawsze być po stronie materaca z wyższą pozycją nogi.
+NIE UŻYWAĆ łóżeczka i materacyka jeśli jakiejkolwiek części brakuje, jakakolwiek część jest uszkodzona, pęknięta, złamana lub rozdarta. Skontaktuj się z producentem: PM INVESTMENT GROUP Napert, Soszyński Sp.k. w celu uzyskania części zamiennych lub dodatkowych informacji. NIE STOSUJ innych części niż te dostarczone przez producenta.
+FUNKCJA ŁÓŻECKA DOSTAWNEGO:
+OSTRZEŻENIE – Aby uniknąć niebezpieczeństwa, że szyja dziecka zostanie uwięziona na opuszczonym boku w funkcji łóżeczka dostawnego (gdy łóżeczko jest dołączone do łóżka rodzica) – górna część opuszczanego boku, nie może być wyżej niż materac rodzica.
+OSTRZEŻENIE – Aby uniknąć ryzyka, że Twoje dziecko udusi się – system łączący (łóżko rodzica z łóżeczkiem dostawnym) zawsze musi być trzymany z dala od łóżeczka i z dala od dziecka.
+NIEBIEZPIECZEŃSTWO! Gdy łóżeczko nie jest zamontowane do łóżka rodzica – nigdy nie opuszczaj boku łóżeczka dostawnego!
+
+Do skorzystania z funkcji łóżeczka dostawnego niezbędne są 2 pasy mocujące kołyskę/łóżeczko do łóżka rodzica (element G) i klamry do montażu pasów (zamontowane na ramie). NIE UŻYWAĆ funkcji łóżeczka dostawnego jeśli jakiejkolwiek części brakuje, jakakolwiek część jest uszkodzona, pęknięta, złamana lub rozdarta. Skontaktuj się z producentem: PM INVESTMENT GROUP Napert, Soszyński Sp.k. w celu uzyskania części zamiennych lub dodatkowych informacji. NIE STOSUJ innych części niż te dostarczone przez producenta.
+Funkcji łóżeczka dostawnego można używać jeśli wysokość łóżka rodzica (mierzona od podłogi) wynosi co najmniej 65 cm, a najwyżej 75cm.
+Funkcji łóżeczka dostawnego można używać tylko dla łóżek, w których możliwe jest zdjęcie materaca (jest to niezbędne aby odpowiednio zamontować pasy łączące produkt i łóżko rodzica). Materac nie może być szerszy niż 180 cm, a także bok materaca powinien być równy z bokiem łóżka. Łóżko rodzica powinno mieć pod spodem przestrzeń umożliwiającą częściowe wsunięcie nóg pod łózko. Nie używać dla łóżek o nieregularnej konstrukcji i łóżek wodnych.
+Używaj tylko systemu łączenia sugerowanego przez producenta. Nie używaj innych systemów łączenia.
+Nigdy nie używaj funkcji łóżeczka dostawnego dla ustawienia łóżeczka z pochyloną powierzchnią. Przy regulacji wysokości – ustaw ten sam poziom po obu stronach.
+Aby uniknąć niebezpieczeństwa uduszenia się dziecka (w przypadku zaklinowania się dziecka pomiędzy łóżeczkiem dostawnym i łóżkiem rodzica) łóżeczko dostawne musi być odpowiednio zamontowane do łóżka rodzica korzystając z dołączonego systemu łączenia.
+Nigdy nie może występować szczelina pomiędzy opuszczonym bokiem łóżeczka dostawnego, a materacem łóżka rodzica.
+Przed użyciem – sprawdź ciasność połączenia łóżka dostawnego i łóżka rodzica poprzez odciąganie łóżka dostawnego od łóżka rodzica.
+Jeśli występuje jakakolwiek szczelina pomiędzy łóżeczkiem dostawnym i łóżkiem rodzica NIE UŻYWAJ tej funkcji produktu.
+Jakiekolwiek szczeliny nie mogą być wypełniane poduszkami, kocami lub innymi przedmiotami.
+
+Gdy dziecko potrafi siedzieć, klęczeć lub podciągać się, nie należy dłużej używać łóżeczka dla takiego dziecka.
+Nie używaj korpusu łóżeczka bez ramy.
+Nie należy pozostawiać dziecka bez opieki.
+Nigdy nie przenoś produktu z dzieckiem w środku. Nie zmieniaj wysokości łóżeczka, jeśli dziecko znajduje się w środku.
+Możliwość splątania i uduszenia:
+• Nie należy umieszczać sznurków, kabli, pasków lub podobnych przedmiotów, które mogą zostać owinięte wokół szyi dziecka w pobliżu tego produktu.
+Zagrożenie uduszeniem, gdy dziecko:
+• Przedostanie się w szczelinę między brzegiem materacyka a bokiem łóżeczka
+• Położy się twarzą na miękkim podłożu
+W celu uniknięcia śmierci łóżeczkowej, kładź swoje dziecko do snu na plecach lub zgodnie z wskazówkami Twojego pediatry.
+Aby uniknąć zagrożenia uduszenia się dziecka, przed użyciem wyrobu zdjąć z niego plastikową osłonę. Opakowanie to należy następnie zniszczyć albo trzymać w miejscu niedostępnym dla dzieci i niemowląt.
+Produkt przeznaczony do użytku domowego.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+
+Link do instrukcji:
+www.pminvestment.pl/manual/nino_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/59114788-1.jpg https://marini.pl/b2b/pictures/59114788-2.jpg https://marini.pl/b2b/pictures/59114788-3.jpg https://marini.pl/b2b/pictures/59114788-4.jpg https://marini.pl/b2b/pictures/59114788-5.jpg https://marini.pl/b2b/pictures/59114788-6.jpg https://marini.pl/b2b/pictures/59114788-7.jpg https://marini.pl/b2b/pictures/59114788-8.jpg https://marini.pl/b2b/pictures/59114788-9.jpg https://marini.pl/b2b/pictures/59114788-10.jpg https://marini.pl/b2b/pictures/59114788-11.jpg https://marini.pl/b2b/pictures/59114788-12.jpg https://marini.pl/b2b/pictures/59114788-13.jpg https://marini.pl/b2b/pictures/59114788-14.jpg https://marini.pl/b2b/pictures/59114788-15.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5904665</kod>
@@ -244628,7 +245777,7 @@ waga produktu: 3/3,7 kg</opis>
 <nazwa>NATTOU 876834 Miękkie silikonowe łyżeczki 2szt. z etui</nazwa>
 <cena>33.23</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5414673876834</EAN>
 <grupa>NATTOU</grupa>
 <opis>Zestaw 2 łyżeczek od Nattou wykonanych z miękkiego i elastycznego silikonu, który ułatwi Twojemu dziecku jedzenie. Dzięki swojej miękkości i elastyczności, łyżeczki są delikatne dla dziąseł.
@@ -246405,11 +247554,11 @@ Pakowane po 3szt.
 </b2b>
 <b2b>
 <kod>5903172</kod>
-<nazwa>NOVITI RM001-G-10 Rajstopy micro 40 den fioletowe 128/134</nazwa>
+<nazwa>NOVITI RM001-G-10 Rajstopy micro 40 den fioletowe 116/122</nazwa>
 <cena>5.20</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN>5905204313169</EAN>
+<EAN>5905204313152</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5903172-1.jpg</zdjecia>
@@ -246567,7 +247716,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM002-G-01 Rajstopy lycra 20 den białe 104/110</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5905204300411</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -246589,7 +247738,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM002-G-01 Rajstopy lycra 20 den białe 128/134</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905204300435</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis>92% polyamide, 8% elastane</opis>
@@ -246622,7 +247771,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM002-G-01 Rajstopy lycra 20 den białe 68/74</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905204348260</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -246633,7 +247782,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI RM002-G-01 Rajstopy lycra 20 den białe 80/86</nazwa>
 <cena>5.68</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905204348277</EAN>
 <grupa>NOVITI/RAJSTOPY</grupa>
 <opis/>
@@ -248529,17 +249678,6 @@ Smoczek NUK XL to sprawdzony wybór dla rodziców, którzy cenią jakość, funk
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Niestety, niemowlęta nie mogą wyjaśnić, dlaczego kochają swój NUK Star tak bardzo. Ale podejrzewamy, że przyczyną jest miłe uczucie w buzi - górna część smoczka dopasowuje się delikatnie do podniebienia. Znajduje się tam miękka strefa, materiał smoczka jest bardzo cienki i wyjątkowo gładki. Jednocześnie dolna część smoczka pozostawia wystarczająco dużo miejsca dla naturalnych ruchów ssących. Ponieważ gumka smoczka jest wąska i spłaszczona, prawie nie ma nacisku na zęby oraz szczękę. Smoczek świeci w ciemności. W zestawie znajduje się wytrzymałe pudełko wielokrotnego użytku do bezpiecznego i czystego przechowywania. Unikalne wzory i kolory. Opakowanie zawiera 2 sz. silikonowych smoczków od 0-6m wraz z pudełkiem. Wymiary/waga: wymiary opakowania (dł. x wys. x gł.)[cm]: 6x14x5, waga produktu w opakowaniu [kg]: 0,04 kg. Produkt przeznaczony dla dzieci w wieku: 0-6m. Pakowany w pudełeczko z zawieszką. Wyprodukowano w Niemczech.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914486-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5907805</kod>
-<nazwa>NUK 175311 Smoczek uspokajający silikonowy 0-9m Mommy Ful 2 szt popiel</nazwa>
-<cena>28.20</cena>
-<VAT>5</VAT>
-<stan>mała ilość</stan>
-<EAN>4008600425472</EAN>
-<grupa>NUK/SMOCZKI I USTNIKI/USTNIKI I SŁOMKI</grupa>
-<opis>Smoczek uspokajający Mammy Ful posiada anatomiczny kształt dopasowujący się do podniebienia dziecka, zapewnia optymalny przepływ powietrza. Bardziej spłaszczona i gładka od spodu gumka to przyjemne odczucie w buzi i więcej miejsca dla naturalnych ruchów ssących. W zestawie znajduje się wytrzymałe pudełko wielokrotnego użytku do bezpiecznego i czystego przechowywania. Smoczek posiada unikalny kształt i wygląd. Opakowanie zawiera 2 sz. silikonowych smoczków 0-9m wraz z pudełkiem. Wymiary/waga: wymiary opakowania (dł. x wys. x gł.)[cm]: 6x14x6, waga produktu w opakowaniu [kg]: 0,04 kg. Produkt przeznaczony dla dzieci w wieku: 0-9m. Pakowany w pudełeczko z zawieszką. Wyprodukowano w Niemczech.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907805-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910640</kod>
@@ -251615,36 +252753,6 @@ Właściwości bambusa:
 Oprócz uroczego króliczka Hugo, w kolekcji z bambusowego muślinu dostępne są również pieluszki bambusowe Moussy oraz otulacze Misty.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913672-1.jpg https://marini.pl/b2b/pictures/5913672-2.jpg https://marini.pl/b2b/pictures/5913672-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913671</kod>
-<nazwa>PETITE&amp;MARS 416820 Bambusowa muślinowa przytulanka Hugo Dusty Rose</nazwa>
-<cena>20.38</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>8596202005919</EAN>
-<grupa>PETITE&amp;MARS/ZABAWKI</grupa>
-<opis>Najlepszy kompan na drzemkę
-Słodki króliczek Hugo, wykonany z delikatnego muślinu bambusowego, ma jedno sekretne hobby. Najbardziej lubi leżeć w łóżku i spać. Jest świetnym kompanem i przytulanką dla najmłodszych. Hugo uwielbia się przytulać, przynosząc uczucie ciepła i bezpieczeństwa. Jest bardzo delikatny i miękki w dotyku, potrafi ukoić zmęczonego maluszka.
-Jest to zabawka całkowicie bezpieczna dla dzieci już od urodzenia. Dzięki swojemu praktycznemu kształtowi, króliczek może być z łatwością trzymany przez małe dziecięce rączki. Dodatkowo w główce ukryta jest mała grzechotka, która wydaje przyjemny dźwięk.
-Materiał, z którego uszyty jest Hugo, jest wysokiej jakości i spełnia wymagania Oeko-tex® Standard 100. Oznacza to, że każdy element składowy materiału jest bezpieczny dla dziecka i nie zawiera szkodliwych substancji.
-Włókna bambusa są bardzo delikatne, porównywane w swojej miękkości do jedwabiu. Ich właściwości antybakteryjne i kojące dla skóry sprawiają, że są to materiały, które niwelują brzydkie zapachy oraz idealnie nadają się dla alergików. Bambusowe produkty wymagają odpowiedniej temperatury podczas prania, aby móc zachować swoją strukturę.
-
-Rozmiar: 34 x 30 cm
-Materiał: 70% bambus, 30% bawełna.
-
-Właściwości bambusa:
-- Wysoka absorpcja wody
-- Bardzo lekki
-- Hipoalergiczny – odpowiedni dla wrażliwej skóry
-- Niezwykle miękki w dotyku
-- Właściwości termoregulujące – latem lekko chłodzi, zimą lekko ogrzewa
-- Przewiewny
-- Odporny na zapachy
-
-Oprócz uroczego króliczka Hugo, w kolekcji z bambusowego muślinu dostępne są również pieluszki bambusowe Moussy oraz otulacze Misty.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913671-1.jpg https://marini.pl/b2b/pictures/5913671-2.jpg https://marini.pl/b2b/pictures/5913671-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>59114623</kod>
@@ -269916,7 +271024,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-007-107 Nocnik krzesełko LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>21.05</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071897</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -269981,7 +271089,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-007-112 Nocnik krzesełko LEŚNA OPOWIEŚĆ j.zielony</nazwa>
 <cena>21.05</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963071859</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -270605,7 +271713,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA ME-002-164 Nakładka sedesowa antypoślizgowa METEO granatowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963002389</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>• Nakładka sedesowa dwukomponentowa z oparciem.
@@ -273689,7 +274797,7 @@ Gdy dziecko próbuje sięgać zabawki znajdując się w pozycji na brzuszku, ćw
 <nazwa>TINY LOVE 14044000 Łuk z zabawkami Świat małej księżniczki</nazwa>
 <cena>78.03</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>7290108861440</EAN>
 <grupa>TINY LOVE/PAŁĄKI</grupa>
 <opis>Łuk z zabawkami to jedyny w swoim rodzaju produkt, który dołączony do fotelika, leżaczka czy wózka urozmaica czas maluchowi.
@@ -279379,7 +280487,7 @@ Wszystkie ceny podane w systemie są cenami jednostkowymi za sztukę/parę,oznac
 <nazwa>TREFL 00239 Gra Kalambury 6+</nazwa>
 <cena>21.59</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511002393</EAN>
 <grupa>TREFL</grupa>
 <opis>Kalambury to popularna gra towarzyska dla młodszych i starszych. Proste zasady, interakcja i duża dawka humoru sprawiają, że Kalambury sprawdzą się na spotkaniu w gronie przyjaciół, rodzinnym pikniku i jako zabawa integracyjna. Gracze tworzą drużyny, które podążają do mety odgadując po drodze pokazane lub narysowane przez przeciwników hasła. W tej grze liczy się wyobraźnia, refleks i duża dawka kreatywności. Kalambury to doskonały sposób na rozbudzenie w dzieciach śmiałości do występów przed publicznością i ćwiczenie wyrażania myśli.
@@ -279501,7 +280609,7 @@ Gra przyjazna dziecku! Elementy gry wykonane są z płótnowanego papieru pokryt
 <nazwa>TREFL 01904 Gra Skoczki Paw Patrol</nazwa>
 <cena>32.71</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511019049</EAN>
 <grupa>TREFL</grupa>
 <opis>Skoczki na licencji bajki "Psi Patrol" to prosta gra zręcznościowa dla całej rodziny. Kto okaże się najlepszym strzelcem i trafi swoimi skoczkami w środek specjalnej tarczy? Przekonajcie się już teraz! Bohaterowie znanej bajki "Psi Patrol" zapraszają do wspólnej zabawy. 
@@ -279614,7 +280722,7 @@ instrukcja</opis>
 <nazwa>TREFL 01957 Gra Ciało człowieka/Mistrz Wiedzy</nazwa>
 <cena>19.20</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511019575</EAN>
 <grupa>TREFL</grupa>
 <opis>Ciało człowieka to gra edukacyjna dla dzieci, które interesują się zdobywaniem wiedzy na temat ludzkiego ciała. Dzięki grze mogą poznać zagadnienia związane z anatomią człowieka. Jest to świetne rozwiązanie na zdobywanie wiedzy poprzez zabawę.
@@ -280977,7 +282085,7 @@ Waga opakowania zbiorczego (kg): 0.410000</opis>
 <nazwa>TREFL 02807 Gra Świat / Mały Odkrywca</nazwa>
 <cena>16.35</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511028072</EAN>
 <grupa>TREFL</grupa>
 <opis>Świat to edukacyjna gra dla przedszkolaków, która w przyjazny sposób wprowadza dzieci w świat zwierząt. Poprzez zabawę maluchy uczą się zabytków i charakterystycznych elementów każdego z kontynentów. Gra rozwija pamięć, pobudza wyobraźnię oraz wzbogaca słownictwo, wspierając naukę czytania.
@@ -281309,23 +282417,6 @@ Specjalny kalandrowany papier odbija światło, co ułatwia układanie.
 
 Wiek:+12</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5910281-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905518</kod>
-<nazwa>TREFL 11110 Puzzle 600 Oko w oko z tygrysem</nazwa>
-<cena>15.49</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>590051111101</EAN>
-<grupa>TREFL</grupa>
-<opis>Crazy Shapes to najbardziej szalona seria puzzli na świecie, w której:
-
-puzzle mają zwariowany, niestandardowy kształt
-nie ma żadnych prostych linii
-krawędź obrazu jest zakręcona i nieregularna
-puzzle wykonane są ze specjalnej grubej tektury
-Pudełko zawiera 600 elementów.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905518-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>783833</kod>
@@ -282144,7 +283235,7 @@ Waga opakowania zbiorczego (kg): 0.31</opis>
 <nazwa>TREFL 16486 Puzzle 100 Smok Diplodok i przyjaciele</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511164862</EAN>
 <grupa>TREFL</grupa>
 <opis>Smok Diplodok i Przyjaciele to puzzle składające się z 100 elementów, zaprojektowane z myślą o małych fanach bajki Smok Diplodok. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm.
@@ -282157,7 +283248,7 @@ Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego k
 <nazwa>TREFL 16487 Puzzle 100 Poznaj Smerfy</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511164879</EAN>
 <grupa>TREFL</grupa>
 <opis>Poznaj Smerfy to puzzle składające się z 100 elementów, zaprojektowane z myślą o małych fanach przygód Smerfów. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm.
@@ -282286,7 +283377,7 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <nazwa>TREFL 16494 Puzzle 100 Maszyny rolnicze - traktor z przyczepą</nazwa>
 <cena>10.78</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511164947</EAN>
 <grupa>TREFL</grupa>
 <opis>Maszyny rolinicze - traktor z przyczepą to puzzle składające się ze 100 elementów, zaprojektowane z myślą o małych fanach pojazdów rolniczych. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm, przedstawiający traktor z przyczepą na polu pszenicy.
@@ -282821,7 +283912,7 @@ Waga opakowania zbiorczego (kg): 0.31</opis>
 <nazwa>TREFL 16566 Puzzle 100 Kapibary na wakacjach</nazwa>
 <cena>10.78</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511165661</EAN>
 <grupa>TREFL</grupa>
 <opis>Kapibary na wakacjach to puzzle składające się ze 100 elementów, zaprojektowane z myślą o małych fanach tych uroczych zwierzaków. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm, przedstawiający Kapibary bawiące się w wesołym miasteczku.
@@ -282859,7 +283950,7 @@ Waga opakowania zbiorczego (kg): 0.31</opis>
 <nazwa>TREFL 16570 Puzzle 100 Małpki i przyjaciele / Rodzina Treflików</nazwa>
 <cena>10.78</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5900511165708</EAN>
 <grupa>TREFL</grupa>
 <opis>Małpki i przyjaciele to puzzle składające się z 100 elementów, zaprojektowane z myślą o małych fanach bajki Rodzina Treflików. Po ułożeniu układanki powstanie obrazek o wymiarach 410x275 mm.
@@ -283450,27 +284541,6 @@ Kraj pochodzenia: Polska</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914001-1.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5914003</kod>
-<nazwa>TREFL 17412 Puzzle 60 Trzy kociaki</nazwa>
-<cena>8.49</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5900511174120</EAN>
-<grupa>TREFL</grupa>
-<opis>Trzy kociaki to puzzle składające się z 60 elementów, zaprojektowane z myślą o małych fanach zwierząt. Puzzle przedstawiają małe kotki wpatrzone w kolorowe motyle. Po ułożeniu układanki powstanie obrazek o wymiarach 330x220 mm.
-
-Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego kalandrowanego papieru, który odbija światło, co ułatwia układanie. Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały użyte materiały ekologiczne.
-Informacje
-
-OSTRZEŻENIE! Nieodpowiednie dla dzieci w wieku poniżej 3 lat. Istnieje ryzyko zadławienia się małymi elementami.
-Szczegółowe dane
-EAN: 5900511174120
-Kod produktu: 17412
-Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
-Kraj pochodzenia: Polska</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5914003-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5914004</kod>
 <nazwa>TREFL 17415 Puzzle 60 Gabby i kocie przygody</nazwa>
 <cena>8.49</cena>
@@ -283518,7 +284588,7 @@ Kraj pochodzenia: Polska</opis>
 <nazwa>TREFL 18286 Puzzle 30 Psi Patrol zawsze na czas</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511182866</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle Psi Patrol zawsze na czas zostały zaprojektowane z myślą o wszystkich małych wielbicielach bajki Paw Patrol. Układanka składa się z 30 elementów. Po ułożeniu puzzli powstanie obrazek o wymiarach 270x200 mm.
@@ -284119,7 +285189,7 @@ Waga opakowania zbiorczego (kg): 0.46</opis>
 <nazwa>TREFL 30071 Gra Matura to Bzdura quiz</nazwa>
 <cena>18.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5900511300710</EAN>
 <grupa>TREFL</grupa>
 <opis>Gotowi na najbardziej absurdalną, zaskakującą i pełną śmiechu rozgrywkę? MaturaToBzdura Quiz to wyjątkowa gra towarzyska inspirowana popularnym kanałem MaturaToBzdura. W środku znajdziesz 400 nieprzewidywalnych pytań, na które… prawie nikt nie zna odpowiedzi!
@@ -285337,7 +286407,7 @@ Kraj pochodzenia: Polska</opis>
 <nazwa>TREFL 40053 Puzzle 160 Przygoda nad jeziorem</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511400533</EAN>
 <grupa>TREFL</grupa>
 <opis>Przygoda nad jeziorem to puzzle składające się ze 160 elementów, które zachwycą małych fanów Kaczora Donalda. Wchodzą w skład jubileuszowej serii układanek na 40-lecie firmy. Po ich ułożeniu powstanie obrazek o wymiarach 410x275 mm.
@@ -286775,17 +287845,6 @@ Dziecko układa puzzle, dopasowując je do przygotowanych żłobień.
 Zabawka wspomaga rozwój motoryki małej oraz umiejętność dopasowywania kształtów.
 
 Zabawka zaprojektowana z myślą o harmonijnym rozwoju dziecka.</opis>
-</b2b>
-<b2b>
-<kod>5912261</kod>
-<nazwa>TREFL 61888 Piłka Blue - Jurassic World 23 cm</nazwa>
-<cena>7.73</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5900511618884</EAN>
-<grupa>TREFL</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912261-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5910170</kod>
@@ -289375,7 +290434,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30116 Zestaw sortuj i układaj</nazwa>
 <cena>30.82</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905692301167</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis/>
@@ -289704,7 +290763,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30136 Zręcznościowy Roluś pastelowy</nazwa>
 <cena>35.73</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>brak</stan>
 <EAN>5905692301365</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
 <opis>Stylowa zabawka w pięknych, pastelowych kolorach, w której tak wiele się dzieje! Na małe rączki czekają obrazki zwierzątek do obracania i kwiatek do przesuwania, a także koraliki, które po przekręceniu rolera do góry nogami, przesypią się, wydając przy tym wesoły, grzechoczący dźwięk. Znajduje się tu też obrotowe lustereczko do samopoznania malucha. Klocki umieszczone na ściance zabawki posiadają fakturowaną powierzchnię, przez co, podczas zabawy, stymulować będą zmysł dotyku malucha.
@@ -304722,28 +305781,6 @@ Charakterystyka:
 Wymiary opakowania	20 x 20 x 21 (cm)
 Waga:	0.7 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5907216-1.jpg https://marini.pl/b2b/pictures/5907216-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5907053</kod>
-<nazwa>WOOPIE 47221 Wyrzutnia samochodów auto katapulta zestaw</nazwa>
-<cena>24.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>WOOPIE</grupa>
-<opis>Samochód z wyrzutnią w marki WOOPIE to świetny pomysł dla dzieci.  W środku auta mamy 2 mniejsze pojazdy na kółkach. Do całości zestawu dołączona jest wyrzutnia która pozwala jeszcze bardziej urozmaicić zabawę. Umieść autko w katapulcie, zakręć kierownicą i naciśnij klakson, a Twoje autko wyskoczy z pojazdu! Samochód posiada też elementy sensoryczne takie jak dźwięki w kołach, gdy się obracają. Świetna opcja zabawy z przyjaciółmi bądź samemu.
-
-Charakterystyka produktu:
-
-- zabawka od 18 miesiąca życia,
-- w zestawie 2 mniejsze pojazdy na kółkach,
-- wyposażony w wyrzutnię do katapultowania pojazdów,
-- posiada elementy sensoryczne: dźwięki generowane przez obracające się koła,
-- świetna zabawa dla jednej lub więcej osób,
-- stymuluje zmysły dziecka: rozwija koordynację ręka-oko i promuje aktywną zabawę
-Wymiary produktu	duże auto: 16 x 13,3 x 11 (cm) małe auto: 3,7 x 4,6 x 3,7 (cm)
-Wymiary opakowania	23 x 14,5 x 14,5 (cm)</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5907053-1.jpg https://marini.pl/b2b/pictures/5907053-2.jpg https://marini.pl/b2b/pictures/5907053-3.jpg https://marini.pl/b2b/pictures/5907053-4.jpg https://marini.pl/b2b/pictures/5907053-5.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5907046</kod>
