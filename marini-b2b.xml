@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-06-18T20:55:05.183">
+<MARINI timestamp="2026-06-19T19:55:05.310">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -1712,43 +1712,6 @@ CHARAKTERYSTYKA PRODUKTU:
 <zdjecia>https://marini.pl/b2b/pictures/5907734-1.jpg https://marini.pl/b2b/pictures/5907734-2.jpg https://marini.pl/b2b/pictures/5907734-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5902709</kod>
-<nazwa>4 BABY Wózek spacerowy STINGER XXIII GRAPHITE</nazwa>
-<cena>509.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901691958258</EAN>
-<grupa>4BABY/WÓZKI/STINGER</grupa>
-<opis>STINGER Stinger XXIII to odświeżona wersja popularnego modelu spacerówki 4BABY o maksymalnym obciążeniu do 22 kg. To połączenie klasyki, elegancji i funkcjonalności. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja bezobsługowych kół piankowych EVA odnajdą się nawet na spacerach w trudnym terenie. Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem.
-Maksymalne obciążenie 22kg
-Aluminiowa rama
-Amortyzowane koła piankowe EVA o niskiej ścieralności
-Wygodny i prosty system składania
-Mały rozmiar po złożeniu
-Uchwyt na kubek
-5-cio punktowe pasy bezpieczeństwa
-Blokada obrotu kół przednich
-Hamulec kół tylnych
-Przedłużana budka z wentylacją - moskitiera
-Pojemna kieszonka zapinana na zamek
-Okienko z podglądem na dziecko
-Regulowany podnóżek
-Barierka bezpieczeństwa 360°
-Regulowane oparcie
-Pojemny kosz
-Uchwyt na napoje
-Ocieplana osłona na nogi
-Wymiary (szerokość / wysokość / głębokość cm):
-Złożony: 56/36/76
-Rozłożony: 56/103/93
-Siedzisko: 38/23/48
-Waga: 10 kg
-Rozmiar kółek:
-Tył: 23 cm (9")
-Przód: 16,5 cm (6,5")</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902709-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5902710</kod>
 <nazwa>4 BABY Wózek spacerowy STINGER XXIV GREEN</nazwa>
 <cena>509.00</cena>
@@ -2518,7 +2481,7 @@ Opakowanie zawiera 70 szt. chusteczek.</opis>
 <nazwa>AKUKU A0033 Bidon ze słomką z odważnikiem MIĘTOWY</nazwa>
 <cena>18.15</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644000333</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon ze słomką z odważnikiem.
@@ -2532,7 +2495,7 @@ WAŻNE: Aby bidon NIE ZAMYKAŁ się podczas picia, należy go otworzyć maksymal
 <nazwa>AKUKU A0034 Bidon ze słomką z odważnikiem SZARY</nazwa>
 <cena>18.15</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644000340</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis>Bidon ze słomką z odważnikiem.
@@ -4415,7 +4378,7 @@ Rekomendowana dla dzieci 6m+</opis>
 <nazwa>AKUKU A0516 Siateczka do podawania pokarmów GWIAZDKA</nazwa>
 <cena>10.68</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644005161</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Siateczka do podawania pokarmu
@@ -5885,7 +5848,7 @@ W opakowaniu 1 szt.</opis>
 <nazwa>AKUKU A0683 Kompres żelowy do okolic intymnych</nazwa>
 <cena>9.21</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907644006830</EAN>
 <grupa>AKUKU/DLA MAMY</grupa>
 <opis>Kompres żelowy „akuku” do okolic intymnych – ulga, komfort i szybka regeneracja.
@@ -7039,7 +7002,7 @@ Uwaga! Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym dla dzie
 <nazwa>AKUKU A0715 Tasiemka / zawieszka do smoczka bawełna ecru</nazwa>
 <cena>9.30</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5907644007158</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Uniwersalna tasiemka do smoczków uspokajających
@@ -7690,7 +7653,7 @@ Specyfikacja techniczna:
 <nazwa>AKUKU A1512 Śliniak - Apaszka na rzep Serduszka</nazwa>
 <cena>5.66</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907644015122</EAN>
 <grupa>AKUKU/ŚLINIAKI</grupa>
 <opis>Śliniak-apaszka chroni ubranie Twojego maluszka przed zabrudzeniem podczas karmienia, nadmiernym ślinieniem czy ulewaniem, a dodatkowo stanowi atrakcyjny element ubioru, osłaniający szyję. Śliniak posiada regulowane zapięcie na rzep – od niemowlaka do przedszkolaka! Produkt wykonany jest z dwóch warst miękkiej bawełny. Przyjazny dla delikatnej skóry dziecka.
@@ -7955,7 +7918,7 @@ Tkanina: double gauze - 100% bawełna</opis>
 <nazwa>ALBERO MIO Baldachim Cotton color CC2 beż</nazwa>
 <cena>63.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165685551</EAN>
 <grupa>ALBERO MIO/AKCESORIA/BALDACHIMY I MOSKITIERY</grupa>
 <opis>Baldachim do łóżeczka wykonany z jednokolorowego muślinu bawełnianego to idealny dodatek do pokoju każdego malucha. Ten lekki i przewiewny materiał zapewni komfortowy sen oraz tworzy przytulne i magiczne otoczenie w pokoju dziecka.
@@ -12442,7 +12405,7 @@ Korzystaj wyłącznie z czystego i suchego produktu.</opis>
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak 80x35 Wild Flowers CM2</nazwa>
 <cena>43.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907001942047</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
 <opis>Prześcieradło do gondoli 2-pak CM2 Wild Flowers
@@ -13377,7 +13340,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak podróżny NEW CP7 Krabik i przyjaciele</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165687258</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak podróżny (PP), czyli inaczej składana mata do przewijania. Wymiar rozłożonej maty to długość 77 cm i szerokość 44 cm (+/-2 cm), w łatwy sposób składa się ją do mniejszych wymiarów, które wynoszą po złożeniu około długość 20 cm i szerokość 29 cm. Zajmuje mało miejsca w torbie dziecięcej.
@@ -13440,7 +13403,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam, MDF</opis>
 <nazwa>ALBERO MIO Przewijak twardy długi 420 KRÓLICZEK</nazwa>
 <cena>64.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5904165682093</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak niemowlęcy twardy / Hard changing mat
@@ -15006,7 +14969,7 @@ Tkanina:  frotta bambusowa - 90% bambus, 10% poliester, kapturek - 100% bawełna
 <nazwa>ALBERO MIO Rożek Cotton color CC8 brąz</nazwa>
 <cena>67.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907001941941</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis>Rożek 
@@ -22105,7 +22068,7 @@ Taka właśnie jest pościel flanelowa.  Idealny wybór dla dzieci utuli do snu 
 <nazwa>ATK Prześcieradło 120X80 frotte /jersey nieprzemakalne</nazwa>
 <cena>25.61</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>mała ilość</stan>
 <EAN/>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis>Prześcieradło z jerseyu z gumką jest praktyczne, wygodne, przyjemne  w dotyku, łatwe w użyciu i trwałe. W pełni bezpieczne dla delikatnej skóry dziecka. Idealne na lato. Wykonane z  najwyższej jakości dzianiny bawełnianej, która dzięki swej sprężystej strukturze idealnie dopasowuje się do materaca, co daje odpowiedni komfort podczas snu.   Wszyta  w obwodzie gumka powoduje, że prześcieradło doskonale dopasowuje się do kształtu materaca, będzie zawsze utrzymywało się na swoim miejscu, zapobiegając ściąganiu. Nie zmienia formy nawet podczas długiego używania. Kolory trwałe w użytkowaniu. Bogata kolorystyka, sprawia, że każdy dobierze odpowiedni kolor dla swojej pociechy. Nie wymaga prasowania.</opis>
@@ -23234,7 +23197,7 @@ Zawartość zestawu - Smoczek Ultra Air 2  szt.
 <nazwa>AVENT SCF080/26 Smoczek Ultra Air 6-18m małpka / banan</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689042383</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Philips Avent Pacifier Smoczki ultra air - Pozwala skórze Twojego dziecka oddychać
@@ -23407,7 +23370,7 @@ Nasze smoczki Ultra Soft i Ultra Air zaprojektowano i wyprodukowano w Holandii.
 <nazwa>AVENT SCF085/31 Smoczek Ultra Air 6-18m granat/zieleń</nazwa>
 <cena>22.16</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689016513</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Pozwala skórze Twojego dziecka oddychać
@@ -25265,7 +25228,7 @@ Zadbaj o rozwój uzębienia dziecka z symetrycznym smoczkiem, który dostosowuje
 <nazwa>AVENT SCF349/18 Smoczek Ultra Air 18m+ słoń/hello</nazwa>
 <cena>20.76</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>8720689017091</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Pozwala skórze Twojego dziecka oddychać
@@ -26020,76 +25983,6 @@ Zawartość zestawu - smoczki uspokajające Ultra Air Nighttime, 2 szt.
 <zdjecia>https://marini.pl/b2b/pictures/5913580-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5912456</kod>
-<nazwa>AVENT SCF395/31 Elektryczny laktator pojedynczy Natural Motion</nazwa>
-<cena>378.90</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>8720689021869</EAN>
-<grupa>AVENT/ELEKTRONIKA/LAKTATORY</grupa>
-<opis>Zainspirowany potrzebami dziecka, stworzony z myślą o mamach
-Technologia NaturalMotion naśladuje ssanie dziecka podczas odciągania*
-Pojedynczy laktator elektryczny
-Uniwersalna nakładka dostosowująca się do kształtu i rozmiaru piersi
-8 poziomów stymulacji, 16 poziomów odciągania pokarmu
-2-fazowy: stymulacja i odciąganie
-
-Technologia NaturalMotion
-Technologia Natural Motion zapewnia szybszy wypływ pokarmu*
-W laktatorze NaturalMotion, dzięki unikatowej technologii wymasowującej Natural Motion, która odzwierciedla naturalny proces ssania piersi przez dziecko, wypływ pokarmu zaczyna się już po jednej minucie**. Delikatne przyssanie, idealna intensywność masażu oraz odpowiednia moc ssania sprawiają, że aż 97% mam uważa, że laktator jest skuteczny***
-
-Miękka silikonowa nakładka zapewnia maksymalny komfort
-Miękka i elastyczna nakładka silikonowa gwarantuje komfort w miejscach styku z piersią i brodawką, niezależnie od jej kształtu. Zapewnia delikatne, ale skuteczne przyssanie, dopasowując się do 99,98%**** rozmiarów piersi***.
-
-Dobierz odpowiedni przepływ smoczka w butelce
-Jeśli Twój noworodek nie wypija wystarczającej ilości mleka podczas karmienia lub ma trudności z jego pobieraniem, warto spróbować smoczka o większym przepływie. Jeśli problemy z karmieniem utrzymują się, skonsultuj się ze specjalistą.
-
-Odciągaj pokarm bez konieczności pochylania się do przodu
-Zrelaksuj się podczas odciągania pokarmu dzięki innowacyjnej konstrukcji, która umożliwia siedzenie prosto, bez konieczności pochylania się do przodu. To klinicznie udowodniona, wygodna pozycja do odciągania pokarmu*. Badania przeprowadzone na 20 uczestniczkach (2019) wykazały, że 90% uznało tę pozycję za komfortową podczas odciągania pokarmu (pojedynczy laktator elektryczny), a 95% przyznało, że jest ona wygodna przy podwójnym laktatorze elektrycznym.
-
-8 poziomów stymulacji i 16 poziomów odciągania pokarmu
-Dostosuj każdą sesję do swoich potrzeb, wybierając spośród 8 poziomów stymulacji i 16 poziomów odciągania pokarmu. Laktator pozwala na pełną personalizację ustawień, które można regulować w trakcie pracy urządzenia, zapewniając maksymalny komfort i efektywność.
-
-
-Cichy silnik zapewnia spokojne i bezstresowe odciąganie pokarmu
-Silnik laktatora działa niemal bezgłośnie, umożliwiając dyskretne odciąganie pokarmu, niezależnie od tego, czy jesteś w domu, czy w podróży.
-
-Łatwe czyszczenie i składanie dzięki mniejszej liczbie elementów
-Laktator został zaprojektowany z myślą o maksymalnej prostocie użytkowania. Minimalistyczna liczba elementów ułatwia zarówno składanie, jak i czyszczenie. Dzięki innowacyjnemu systemowi zamkniętego odciągania, mleko nie gromadzi się w rurce, co eliminuje konieczność jej mycia.
-
-Wstrzymywanie lub wznawianie jednym przyciskiem
-Wstrzymywanie/wznawianie za naciśnięciem jednego przycisku umożliwia zrobienie przerwy i wznowienie odciągania w dowolnym momencie.
-
-
-Rozpocznij sesję z automatycznie zapamiętanymi ustawieniami
-Funkcja pamięci automatycznie zapisuje ostatnie ustawienia stymulacji i odciągania, dzięki czemu możesz rozpocząć sesję jednym przyciskiem. Usiądź wygodnie, naciśnij Start i ciesz się komfortem.
-
-
-Dobierz odpowiedni przepływ smoczka do butelki
-Każde dziecko ma swój unikalny rytm i sposób jedzenia. Dlatego stworzyliśmy smoczki o różnej szybkości przepływu pokarmu, aby łatwo dopasować je do indywidualnych potrzeb maluszka. Dzięki temu butelka doskonale odpowiada na jego wymagania. Smoczki responsywne Natural wykonane są z miękkiego, delikatnego silikonu, gwarantując komfort i naturalne wrażenia podczas karmienia.
-
-Zawartość zestawu
-
-Jednorazowe wkładki laktacyjne
-2  szt.
-Zestaw do odciągania pokarmu
-1  szt.
-Część silnikowa (tylko zasilanie sieciowe)
-1  szt.
-Pokrywka zamykająca
-1  szt.
-Zasilacz micro-USB (zasilanie sieciowe)
-1  szt.
-Woreczki na mleko
-5 szt.
-Butelka 4 uncje
-1 szt.
-Smoczek wolny
-1 szt.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912456-1.jpg https://marini.pl/b2b/pictures/5912456-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5909773</kod>
 <nazwa>AVENT SCF396/31 Laktator elektryczny</nazwa>
 <cena>473.66</cena>
@@ -26154,28 +26047,6 @@ Dopasowuje się do kształtu i rozmiaru 99,89% brodawek piersiowych*
 <zdjecia>https://marini.pl/b2b/pictures/5909773-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909255</kod>
-<nazwa>AVENT SCF397/31 Podwójny Laktator Elektryczny Premium</nazwa>
-<cena>676.65</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>8720689021852</EAN>
-<grupa>AVENT/ELEKTRONIKA</grupa>
-<opis>Zainspirowany przez dziecko, stworzony dla mam
-
-Elektryczny podwójny laktator Premium Philips Avent utrzymuje optymalny wypływ pokarmu i delikatnie dostosowuje się do rozmiaru i kształtu brodawki sutkowej. Charakteryzuje go najnowsza technologia odciągania pokarmu, w której ssanie i nacisk na sutek perfekcyjnie przypominają zachowanie dziecka w trakcie karmienia.
-
-Technologia naturalnego ruchu zapewnia szybszy wypływ pokarmu*
-Laktator Podwójny
-Uniwersalna nakładka dostosowująca się do kształtu i rozmiaru piersi
-8 poziomów stymulacji, 16 poziomów odciągania pokarmu
-2-fazowy: stymulacja i odciąganie
-Działanie przewodowe
-
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909255-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>782959</kod>
 <nazwa>AVENT SCF430/10 Laktator manualny standard</nazwa>
 <cena>147.04</cena>
@@ -26193,28 +26064,6 @@ Zrelaksuj się i usiądź wygodnie podczas odciągania pokarmu — dzięki konst
 Ponieważ składa się tylko z kilku części, nasz nowy laktator łatwo się przygotowuje i czyści.
 Aby nakarmić dziecko odciągniętym pokarmem, wystarczy zamocować miękki smoczek do pojemnika na butelkę. Aby przechowywać mleko do późniejszego karmienia, zamknij butelkę za pomocą dysku uszczelniającego.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/782959-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>782960</kod>
-<nazwa>AVENT SCF430/13 Laktator manualny Basic</nazwa>
-<cena>130.28</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>8710103944010</EAN>
-<grupa>AVENT</grupa>
-<opis>Wygodne odciąganie w każdym miejscu
-Korzystaj z delikatnego przenośnego laktatora ręcznego Philips Avent. Technologia Natural Motion, zainspirowana ssaniem dziecka, pozwala na szybki wypływ pokarmu. Umożliwia łatwą regulację rytmu i podciśnienia. Pasuje praktycznie do wszystkich brodawek sutkowych.
-Łatwo odciągaj, przechowuj i karm
-Zestaw podstawowy
-Innowacyjna silikonowa tarcza, zainspirowana wyjątkowym ruchem ssącym dziecka, stymuluje sutek, aby ułatwić szybki wypływ mleka. Zapewnia wygodne i skuteczne odciąganie pokarmu.
-Jeden rozmiar pasujący do wszystkich brodawek. Każda z nas ma różne kształty i rozmiary, ale silikonowa nakładka delikatnie wygina się i dostosowuje do każdej anatomii ciała. Pasuje do 99,98% rozmiarów brodawek* (do 30 mm).
-Niewielkie rozmiary i mała waga laktatora umożliwiają jego łatwe przechowywanie i przenoszenie oraz prostsze i bardziej dyskretne odciąganie pokarmu w podróży.
-Wyjątkowy przenośny laktator ręczny – idealny dla matek, które muszą delikatnie odciągnąć pokarm w podróży lub przed karmieniem piersią.
-Dostosuj rytm odciągania pokarmu i ssania do swoich potrzeb i wypływu mleka.
-Zrelaksuj się i usiądź wygodnie podczas odciągania pokarmu — dzięki konstrukcji, która pozwala siedzieć prosto, zamiast pochylać się do przodu.
-Ponieważ składa się tylko z kilku części, nasz nowy laktator łatwo się przygotowuje i czyści.
-Odciągaj pokarm bezpośrednio do pojemnika na pokarm, bez rozlewania go. Gdy dziecko jest głodne, zamocuj miękki smoczek do pojemnika, aby je nakarmić. Zostaw mleko w lodówce lub zamrażarce i wybierz preferowane rozwiązanie do przechowywania – worki lub kubki.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/782960-1.jpg https://marini.pl/b2b/pictures/782960-2.jpg https://marini.pl/b2b/pictures/782960-3.jpg https://marini.pl/b2b/pictures/782960-4.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5903530</kod>
@@ -28284,7 +28133,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9552 Zabawka z dźwiękiem Panda niebieska 17 cm</nazwa>
 <cena>14.20</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904209895526</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -30096,7 +29945,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB001376 Mini Lunchbox Sugar Plum</nazwa>
 <cena>49.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965013761</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mały rozmiar, pełna funkcjonalność każdego dnia!
@@ -32665,7 +32514,7 @@ Każda z pozycji/części zamiennych do dokupienia osobno.</opis>
 <nazwa>B.BOX BB00660 Mini Lunchbox Ocean Breeze</nazwa>
 <cena>49.62</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965006602</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -32829,7 +32678,7 @@ Każda z pozycji/części zamiennych do dokupienia osobno.</opis>
 <nazwa>B.BOX BB00664 Mini lunchbox Blue Slate</nazwa>
 <cena>49.62</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965006640</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -33410,7 +33259,7 @@ Kolory przedstawione na zdjęciach ze względu na przekaz elektroniczny mogą ni
 <nazwa>B.BOX BB00708 Mini Lunchbox Spearmint</nazwa>
 <cena>49.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007081</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -33510,7 +33359,7 @@ OSTRZEŻENIA! Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadz
 <nazwa>B.BOX BB00709 Mini lunchbox Blush Crush</nazwa>
 <cena>49.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007098</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -33610,7 +33459,7 @@ OSTRZEŻENIA! Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadz
 <nazwa>B.BOX BB00737 Mini lunchbox Lemon Twist</nazwa>
 <cena>49.63</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007371</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -33707,7 +33556,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB00738 Mini lunchbox Chill Out</nazwa>
 <cena>49.62</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007388</EAN>
 <grupa>B.BOX</grupa>
 <opis>Mini lunchbox b.box dla dzieci ma dwie szczelne przegródki w tym jedną flex przeznaczoną na całe owoce. W przegrody te można włożyć także takie przekąski jak jogurt, humus, gęsty przecier, dip, owoce i warzywa. Obok znajduje się przegroda bez uszczelki z przesuwanym i wyjmowanym elementem dzielącym ułatwiającym dopasowanie do potrzeb. Lunchbox b.box ma kształt poręcznej walizeczki w wygodnym uchwytem i prostym w obsłudze zatrzaskiem.
@@ -33913,7 +33762,7 @@ OSTRZEŻENIA! Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadz
 <nazwa>B.BOX BB00747 Lunchbox Spearmint</nazwa>
 <cena>67.68</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007470</EAN>
 <grupa>B.BOX</grupa>
 <opis>Duży lunchbox z uchwytem do przenoszenia, posiada kilka przegródek różnej wielkości, które można dopasować do pakowanego jedzenia. Wyposażony w miejsce na wkład chłodzący (w zestawie) świetnie sprawdzi się jako lunchbox do szkoły, przedszkola czy na wycieczkę.
@@ -34024,7 +33873,7 @@ OSTRZEŻENIA! Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadz
 <nazwa>B.BOX BB00748 Lunchbox Blush Crush</nazwa>
 <cena>72.89</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007487</EAN>
 <grupa>B.BOX</grupa>
 <opis>Duży lunchbox z uchwytem do przenoszenia, posiada kilka przegródek różnej wielkości, które można dopasować do pakowanego jedzenia. Wyposażony w miejsce na wkład chłodzący (w zestawie) świetnie sprawdzi się jako lunchbox do szkoły, przedszkola czy na wycieczkę.
@@ -34446,7 +34295,7 @@ Każda z pozycji/części zamiennych do dokupienia osobno.</opis>
 <nazwa>B.BOX BB00769 Lunchbox Chill Out</nazwa>
 <cena>72.89</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965007692</EAN>
 <grupa>B.BOX</grupa>
 <opis>Duży lunchbox z uchwytem do przenoszenia, posiada kilka przegródek różnej wielkości, które można dopasować do pakowanego jedzenia. Wyposażony w miejsce na wkład chłodzący (w zestawie) świetnie sprawdzi się jako lunchbox do szkoły, przedszkola czy na wycieczkę.
@@ -34753,7 +34602,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB00868 Butelka ze słomką Junior Spearmint</nazwa>
 <cena>38.02</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965008682</EAN>
 <grupa>B.BOX</grupa>
 <opis>Butelka do picia Junior b.box – Mały krok, wielka przygoda!
@@ -34841,7 +34690,7 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB00870 Sportowa butelka tritanowa 450ml Blush Crush</nazwa>
 <cena>51.57</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965008705</EAN>
 <grupa>B.BOX</grupa>
 <opis>Butelka sportowa na wodę dla dziecka do przedszkola i szkoły
@@ -35025,7 +34874,7 @@ Dla bezpieczeństwa i zdrowia Twojego dziecka. OSTRZEŻENIA! Produkt nie jest za
 <nazwa>B.BOX BB00872 Sportowa butelka tritanowa 450ml Chill Out</nazwa>
 <cena>51.57</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>9353965008729</EAN>
 <grupa>B.BOX</grupa>
 <opis>Butelka sportowa na wodę dla dziecka do przedszkola i szkoły
@@ -46250,45 +46099,6 @@ czas pracy na w pełni nakładowej baterii: około 120 min</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5905460-1.jpg https://marini.pl/b2b/pictures/5905460-2.jpg https://marini.pl/b2b/pictures/5905460-3.jpg https://marini.pl/b2b/pictures/5905460-4.jpg https://marini.pl/b2b/pictures/5905460-5.jpg https://marini.pl/b2b/pictures/5905460-6.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>790470</kod>
-<nazwa>B.O.1494 Zabawka edukacyjna DREAM MILL blue**</nazwa>
-<cena>59.91</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435413968</EAN>
-<grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
-<opis>Zabawka edukacyjna DREAM MILL zapoznaje dziecko z różnorodnym światem kolorów, dźwięków i kształtów. Dzięki uniwersalnym otworom i możliwości układania elementów w kształt wieży, można stymulować myślenie kreatywne.
-
-KOLEKCJA PLAY MORE
-Ideą kolekcji jest pobudzenie ciekawości dziecka i zachęcenie go do działania poprzez zabawę. Nabywa ono nowych umiejętności. Kolekcja do aktywności sensorycznej i mentalnej.
-NAUKA EMOCJI
-Zabawka daje dziecku poczucie bezpieczeństwa i wspomaga rozwój emocjonalny poprzez responsywność funkcjonalności w interakcji.
-ROZWÓJ MANUALNY
-Zabawka wspomaga rozwój manualny dziecka poprzez zachęcanie do chwytania i budowania nowych struktur. Dziecko może łatwo przekładać zabawki z rączki do rączki, ćwicząc chwyt dłoni.
-
-CECHY:
-MOŻLIWOŚĆ UKŁADANIA
-Zabawka składa się z kilku części, które można ułożyć w wieżyczkę. Dzięki temu dziecko stymuluje swój mózg i rozwija zdolności poznawcze, a także uczy myślenia przestrzennego.
-MIĘKKIE GRYZAKI
-Dołączony do zabawki miękki silikonowy gryzak koi podrażnione dziąsła podczas ząbkowania.
-DŹWIĘK DZWONECZKA
-Dźwięk dzwoneczka działa na dziecko kojąco.
-SUPEŁKI
-Kolorowe supełki stymulują zmysł dotyku dziecka.
-SZELESZCZĄCE ELEMENTY
-Szeleszczące elementy ukryte w listkach zaciekawią dziecko i przykują na chwilę jego uwagę.
-BEZPIECZEŃSTWO
-Zabawka jest zgodna z normami bezpieczeństwa obowiązującymi w Unii Europejskiej.
-
-WŁAŚCIWOŚCI TECHNICZNE:
-Materiał: 100% poliester
-Waga : 0,70 kg
-Przeznaczone dla dzieci w wieku od 0 miesięcy (0m+)
-Wymiary wieżyczki: 18,5 x 30 x 18,5 cm
-Wymiary opakowania: 20 x 32 x 20 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790470-1.jpg https://marini.pl/b2b/pictures/790470-2.jpg https://marini.pl/b2b/pictures/790470-3.jpg https://marini.pl/b2b/pictures/790470-4.jpg https://marini.pl/b2b/pictures/790470-5.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5906851</kod>
 <nazwa>B.O.1511 Książeczka sensoryczna SEASONS</nazwa>
 <cena>19.80</cena>
@@ -46916,7 +46726,7 @@ Wymiar: 25 x 25 cm</opis>
 <nazwa>B.O.1542 Gryzak do podawania pokarmów Flower</nazwa>
 <cena>10.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435415849</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Gryzak do podawania pokarmów to niezastąpiony pomocnik podczas nauki jedzenia dla maluchów. Jest idealny w procesie rozszerzania diety dziecka i zachęca do próbowania nowych przysmaków. Dzięki gryzakowi możesz bezpiecznie podać swojemu dziecku świeże warzywa, owoce oraz inne pokarmy. Wytrzymały silikon jest łatwy do czyszczenia oraz zapewnia bezpieczeństwo podczas gryzienia pokarmów, eliminując ryzyko zakrztuszenia. Co więcej, gryzak delikatnie ukoi dziąsła dziecka podczas ząbkowania i przyniesie ulgę dla obolałych dziąseł. Dzięki kompaktowemu rozmiarowi możesz zabrać gryzak gdziekolwiek się udasz, a poręczny uchwyt zachęci Twoje dziecko do samodzielnego jedzenia.
@@ -47429,7 +47239,7 @@ wymiary opakowania
 <nazwa>B.O.1554 Przytulanka GOOSE ZOE</nazwa>
 <cena>20.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901435416068</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Poznaj maskotkę Goose Zoe, wykonaną z pluszowego, miłego w dotyku materiału.
@@ -49686,7 +49496,7 @@ Zapakowany w kartonik z okienkiem – doskonały pomysł na prezent.</opis>
 <nazwa>B.O.1648/02 Kocyk z wełny merino ciemny beż</nazwa>
 <cena>119.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435417263</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
 <opis>Ten cudownie miękki kocyk, wykonany w 100% z naturalnej wełny merino, łączy w sobie luksus, funkcjonalność i troskę o wygodę najmłodszych. Wełna merino pozyskiwana jest z runa owiec merynosów, żyjących w ekologicznym środowisku i słynących z cienkich, sprężystych włókien.
@@ -50576,7 +50386,7 @@ wykonana z bezpiecznych materiałów</opis>
 <nazwa>B.O.1665/01 Sztućce dla dzieci ze stali nierdzewnej niebieskie</nazwa>
 <cena>10.82</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435417669</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/SZTUĆCE</grupa>
 <opis>W życiu każdego dziecka przychodzi moment na samodzielne korzystanie ze sztućców. Pierwsze próby związane są z nauką nakładania, trzymania w pozycji poziomej czy trafiania do buzi. Dla dziecka jest to kolejny etap rozwoju, w którym możemy go wesprzeć wybierając akcesoria bezpieczne dla jego nieokiełznanych rączek i ich delikatnej skóry. Dlatego stworzyliśmy serię pierwszych sztućców, które pomagają ćwiczyć koordynację w sposób w pełni bezpieczny dla maluszka.
@@ -51092,7 +50902,7 @@ Pielęgnacja: pierz w temperaturze 30°C, nie stosuj wybielaczy ani silnych dete
 <nazwa>B.O.1672/01 Torba dla mamy /do wózka CAMI czarna</nazwa>
 <cena>98.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435417935</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
 <opis>Stylowa i wygodna torba dla aktywnej mamy? To nasza torba do wózka CAMI – odzwierciedlenie sportowej elegancji. Dołączyliśmy do niej delikatną apaszkę ze zwierzęcym wzorem, którą zawiążesz na różne sposoby.
@@ -55200,22 +55010,6 @@ sprzyja nauce chwytania</opis>
 <zdjecia>https://marini.pl/b2b/pictures/775439-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5905456</kod>
-<nazwa>B.O.720/01 Szczotka do butelek i smoczków z gąbką i mini szczoteczką  *</nazwa>
-<cena>4.19</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5901435414354</EAN>
-<grupa>BABYONO/BUTELKI I KUBKI/SZCZOTKI DO BUTELEK</grupa>
-<opis>Szczotka do butelek i smoczków pomaga w ich dokładnym czyszczeniu. Odpowiednio wyprofilowane końcówki docierają do trudno dostępnych miejsc, a wygodne rączki zapewniają stabilny uchwyt.
-
-Właściwości:
-• odpowiednio wyprofilowane końcówki szczotek docierają do trudno dostępnych miejsc
-• poręczny system przechowywania szczoteczki do smoczków
-• gąbka na końcu szczotki ułatwia czyszczenie dna butelki</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905456-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5905457</kod>
 <nazwa>B.O.720/02 Szczoteczka do butelek i smoczków z gąbką i mini szczoteczką</nazwa>
 <cena>4.19</cena>
@@ -55669,7 +55463,7 @@ W zestawie:
 <nazwa>B.O.737 Przytulanka dla niemowląt OTTER MAGGIE</nazwa>
 <cena>19.04</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901435411377</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Wydra MAGGIE najbardziej lubi się tulić. Jej milutkie futerko jest wprost do tego stworzone! Z Maggie wszystko staje się bardziej przyjazne, oswojone i niegroźne. To najbardziej troskliwa towarzyszka przygód dla każdego Maleństwa.
@@ -71837,7 +71631,7 @@ Waga opakowania zbiorczego (kg): 2.364000</opis>
 <nazwa>CANPOL 0295 Zestaw Royal Baby set boy</nazwa>
 <cena>68.50</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691857919</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Zestaw akcesoriów niemowlęcych , niezbędnych „na start”. Stanowi idealną wyprawkę dla noworodka. W jego skład wchodzą butelki do karmienia w dwóch rozmiarach oraz smoczek usp. dla noworodka z tasiemką. Zapakowany w eleganckie opakowanie może posłużyć jako prezent powitalny dla Malucha. 0m+
@@ -72331,7 +72125,7 @@ Pojemniki mogą służyć do przechowywania różnego rodzaju pokarmów:
 <nazwa>CANPOL 12/216 Laktator ręczny Basic light</nazwa>
 <cena>32.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691876590</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Laktator ręczny Canpol babies to doskonałe rozwiązanie dla mam okazjonalnie odciągających pokarm. Ergonomiczny uchwyt umożliwia wygodne trzymanie laktatora podczas odciągania pokarmu. Prosty mechanizm laktatora z pompką pozwala na komfortowe odciąganie pokarmu jedną ręką przy zastosowaniu dość niewielkiej siły. Wyprofilowany kształt lejka sprawia, że lejek szczelnie przylega do piersi, a silikonowa nakładka zapewnia delikatne i skuteczne odciąganie. Laktator ręczny Canpol babies jest bardzo cichy, podczas korzystania z urządzenia nie jest wytwarzany hałas mogący obudzić śpiącego maluszka lub wywołać u niego niepokój. Bardzo prosta budowa laktatora pozwala na precyzyjne umycie urządzenia oraz łatwy montaż. Niewielka waga i rozmiar laktatora ułatwiają przechowywanie w domu i w podróży. Canpol laktator ręczny Basic jest kompatybilny ze wszystkimi butelkami standardowymi i antykolkowymi w ofercie Canpol babies.
@@ -72986,7 +72780,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/440 Łańcuszek do smoczka uspokajającego GOLD pink</nazwa>
 <cena>7.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691802773</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Łańcuszek do smoczka Canpol babies z kolekcji Gold skutecznie zabezpieczy ulubiony smoczek do uspokajania Twojego Maluszka przed upadkiem, zabrudzeniem lub zgubieniem. Solidny klips umożliwia przypięcie łańcuszka do ubrania dziecka, a dzięki prostej konstrukcji można go łatwo zamocować jedną ręką. Produkt jest bezpieczny i trwały, a zaokrąglone krawędzie eliminują ryzyko zadrapania czy skaleczenia. Dodatkowo, łańcuszek do smoczka Canpol jest delikatny dla ubrań – dobrze się trzyma, nie zostawia śladów i nie powoduje uszkodzenia materiału.</opis>
@@ -73066,7 +72860,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/606 Grzechotka Nowa Sztanga różowa</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691812048</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Grzechotka przeznaczona dla najmłodszych dzieci. Lekka, łatwa do utrzymania w małych rączkach, idealna jako pierwsza grzechotka. Różnorodne kształty i kolory zachęcają maluszka do ćwiczeń i zabawy, stymulując jego rozwój. Wprowadzają dziecko w świat dźwięku, ruchów i pięknych barw. Grzechotka jest wykonana z trwałych i bezpiecznych materiałów. Nie posiada ostrych krawędzi.</opis>
@@ -73588,7 +73382,7 @@ Zachowaj szczególną ostrożność podczas ogrzewania w kuchence mikrofalowej. 
 <nazwa>CANPOL 21/753 Smoczek dwustrefowy Natural Shape 12 m + 2 szt</nazwa>
 <cena>12.00</cena>
 <VAT>5</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903407360621</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Antykolkowy smoczek dwustrefowy z technologią DuoFlex posiada elastyczną końcówkę, która naśladuje brodawkę, stabilna baza umożliwia szczelne ułożenie ust na smoczku. Umożliwia naturalne i szerokie ułożenie warg na smoczku "jak u rybki", płynne ssanie bez przerw i połykania powietrza wpływa na redukcję kolki i rozdrażnienia. Wzmocniona strefa dolna przypomina kształt piersi. Jest akceptowany przez niemowlęta karmione piersią, zmniejsza ryzyko odrzucenia piersi i wspiera karmienie naprzemienne. Smoczek do butelki jest dostępny w czterech rozmiarach: 0m+, 3m+, 6m+ i 12m+.</opis>
@@ -73732,7 +73526,7 @@ Nie można używać w sterylizatorze parowym</opis>
 <nazwa>CANPOL 22/562 Smoczek uspokajający silikonowy okrągły 0-6 m-cy Newborn baby różowy</nazwa>
 <cena>6.38</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901691887732</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający NEWBORN BABY wykonany z najwyższej jakości, bezzapachowego i bezsmakowego silikonu. Wyposażony w gumkę o okrągłym kształcie. Zapewnia swobodne oddychanie i połykanie śliny. Dzięki specjalnym otworom wentylacyjnym na tarczce, smoczek nie odparza delikatnej buzi dziecka. Nie zawiera BPA. Dostępny w kilku kolorach. Przeznaczony dla dzieci w wieku 0-6 miesięcy.</opis>
@@ -75000,7 +74794,7 @@ Można używać w zmywarce
 <nazwa>CANPOL 34/920 Smoczek silikonowy 0-6m symetryczny EXOTIC Koala</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691870130</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 0-6m EXOTIC (panda) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -75045,7 +74839,7 @@ Proponowany wiek od 0 do 6 miesięcy</opis>
 <nazwa>CANPOL 34/920 Smoczek silikonowy 0-6m symetryczny EXOTIC Panda</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691870161</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający Exotic Animals zrelaksuje i wyciszy Maluszka. Gumka o symetrycznym kształcie została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu, bezzapachowego i bezsmakowego, co ułatwia akceptację smoczka przez dziecko. Otwory wentylacyjne w tarcze zapewniają swobodne oddychanie i połykanie śliny. Specjalnie zaprojektowany kształt tarczki, minimalizuje odciskanie się smoczka na delikatnej buzi dziecka, zapobiegając podrażnieniom. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Świecący w ciemności dysk smoczka ułatwia odnalezienie smoczka nocą. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest trwały i odporny na odkształcenia. Nie zawiera BPA. Smoczek silikonowy Canpol babies symetryczny 0-6m EXOTIC (panda) jest bezpieczny i łatwy do utrzymania w czystości – można dezynfekować we wrzącej wodzie oraz w sterylizatorze. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny i wspierający utrzymanie naturalnego rytmu ssania oraz prawidłowego rozwoju mowy. Smoczek rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m EXOTIC (panda) jest dostępny w kilku wyjątkowych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem. 
@@ -75176,7 +74970,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/924 Smoczek uspokajający silikonowy 0-6 m symetryczny Cute Animals niebieski</nazwa>
 <cena>5.60</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901691889392</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający w kolekcji Cute Animals zrelaksuje i wyciszy Maluszka. Smoczek symetryczny dobrze dopasowuje się do buzi dziecka niezależnie od sposobu umieszczenia, a jego kształt uważany jest za najbardziej fizjologiczny. Gumka została wykonana z najwyższej jakości, bezpiecznego i delikatnego silikonu. Jest bezzapachowa i bezsmakowa, co ułatwia akceptację smoczka przez dziecko. Specjalnie wyprofilowana tarczka umożliwia Maluszkowi swobodne oddychanie przez nosek i minimalizuje odciskanie się smoczka na delikatnej buzi dziecka. Dodatkowe otworki wentylacyjne pozwalają skórze oddychać i zapobiegają podrażnieniom. Wygodny uchwyt smoczka ułatwia podanie go dziecku oraz pozwala na przymocowanie łańcuszka lub tasiemki, które zabezpieczą smoczek przed zgubieniem czy upadkiem na ziemię i zabrudzeniem. Smoczek symetryczny Canpol babies 0-6m Cute Animals jest trwały i odporny na odkształcenia oraz bezpieczny i łatwy do utrzymania w czystości. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Smoczek silikonowy Canpol babies symetryczny rekomendowany dla dzieci w wieku 0-6 miesięcy. Smoczek symetryczny Canpol babies 0-6m Cute Animals jest dostępny w trzech uroczych wzorach i różnych rozmiarach – rośnie razem z Twoim Maluszkiem.
@@ -75452,7 +75246,7 @@ Proponowany wiek: od 18. miesiąca</opis>
 <nazwa>CANPOL 34/935 Smoczek uspokajający silikonowy18 m+ okrągły EXOTIC ANIMALS leni</nazwa>
 <cena>6.72</cena>
 <VAT>5</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407177427</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający z gumką o okrągłym kształcie zrelaksuje i wyciszy Maluszka. Gumka została wykonana z 100% hipoalergicznego silikonu, który jest bezzapachowy i bezsmakowy, co ułatwia akceptację smoczka przez dziecko. Gumka silikonowa jest trwała i odporna na odkształcenia. Wyprofilowany kształt pod noskiem zapewnia swobodne oddychanie, a otwory wentylacyjne w tarczce przepuszczają powietrze, zapobiegając podrażnieniom delikatnej skóry dziecka. Smoczek jest bezpieczny i łatwy do utrzymania w czystości – nadaje się do wielokrotnej dezynfekcji. Dodatkowo smoczek ma elementy świecące w ciemności, które ułatwiają odnalezienie smoczka nocą. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Wygodny uchwyt smoczka pozwala na przymocowanie łańcuszka i ułatwia podanie go dziecku. Smoczek rekomendowany dla dzieci w wieku powyżej18 miesięcy. Smoczek uspokajający silikonowy Canpol babies 18m+ okrągły EXOTIC ANIMALS jest dostępny w czterech wesołych wzorach – wybierz swój ulubiony!?</opis>
@@ -78177,7 +77971,7 @@ Produkt nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/154 Silikonowa gruszka do nosa</nazwa>
 <cena>7.40</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407561547</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Przeznaczona do higienicznego usuwania wydzieliny z nosa u niemowląt i małych dzieci.
@@ -80030,7 +79824,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 75/201 Karuzela z pozytywką nad łóżeczko FOX</nazwa>
 <cena>119.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901691880504</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Karuzela nad łóżeczko FOX wspiera rozwój Maluszka już od pierwszych dni życia – doskonale stymuluje koordynację wzrokowo-słuchową i motoryczną dziecka. Kolorowe zabawki przyciągają uwagę Maluszka i wspierają rozwój zmysłu wzroku. Miłe i spokojne dźwięki pozytywki uspokoją Maluszka i ułatwią zasypianie. Karuzela do łóżeczka posiada wygodny uchwyt, dzięki któremu można ją łatwo i stabilnie przymocować. Karuzela dla niemowlaka nie wymaga baterii, ponieważ pozytywka jest nakręcana ręcznie. Każda zabawka posiada inną atrakcję dla dziecka: elementy szeleszczące, piszczek czy grzechotkę. Karuzela jest przeznaczona dla dzieci, które jeszcze nie poruszają się samodzielnie.
@@ -80495,7 +80289,7 @@ XL – 78/016?
 <nazwa>CANPOL 78/021 Jednorazowa podpaska chłodząca po porodzie 1 szt</nazwa>
 <cena>7.60</cena>
 <VAT>8</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407172606</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
 <opis>Chłodząca podpaska poporodowa to innowacyjne i niezwykle skuteczne rozwiązanie dla kobiet, które potrzebują ulgi w dyskomforcie po porodzie. Dzięki wbudowanemu aktywatorowi zimna przynosi natychmiastowe uczucie chłodu bez konieczności wcześniejszego chłodzenia. Świetnie sprawdzi się również po zabiegach ginekologicznych czy w przypadku hemoroidów. Terapia zimnem łagodzi dyskomfort, zmniejsza obrzęk i wspomaga naturalny proces regeneracji.
@@ -81123,7 +80917,7 @@ Dostępne w kilku wersjach kolorystycznych.</opis>
 <nazwa>CANPOL 9/809 Nożyczki + cążki + pilniczek</nazwa>
 <cena>9.30</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903407098098</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Praktyczny zestaw ułatwi każdej troskliwej mamie pielęgnację paznokietków jej dziecka.
@@ -82271,7 +82065,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-781 Przewijak twardy krótki 50x70 Basic Elephant Family</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672345130</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -82282,7 +82076,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-784 Przewijak twardy krótki 50x70 Basic Glamour Style</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672345147</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -82337,7 +82131,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-813 Przewijak twardy krótki 50x70 Basic Nature Harmony</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5907672346373</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Basic od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -84822,19 +84616,6 @@ Wymiary produktu: 10,5 x 14 x 9 cm</opis>
 <zdjecia>https://marini.pl/b2b/pictures/777594-1.jpg https://marini.pl/b2b/pictures/777594-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>773647</kod>
-<nazwa>CHICCO 00009863000000 Projektor na łóżeczko SPECIAL EDITION</nazwa>
-<cena>91.00</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>8058664112463</EAN>
-<grupa>CHICCO/ZABAWKI Z PROJEKTOREM</grupa>
-<opis>Projektor Next2Stars
-Z ulubionej serii prezentowej First Dreams! Wielofunkcyjna zabawka dla noworodka i niemowlęcia pracujaca w 3 trybach: delikatna poświata, lampka nocna i nocny projektor gwiazdek + pozytywka. Dzięki wbudowanemu sensorowi, zabawka automatyczne włącza  się na dźwięk płaczu dziecka. To aż 30 minut efektów świetlnych i dźwiękowych. Maskotka - przytulanka dołączona do projektora jest odczepiana. Projektor można zamontować na łóżeczku Next2Me lub dowolnym kojcu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/773647-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>779109</kod>
 <nazwa>CHICCO 00010037000000 Ośmiorniczka Billy</nazwa>
 <cena>53.51</cena>
@@ -85087,31 +84868,6 @@ ERGONOMICZNY UCHWYT: Wygodny uchwyt ma idealny rozmiar dla małych rączek. Pase
 ODPOWIEDNIE I ZMYWALNE W KUCHENCE MIKROFALOWEJ: można używać w kuchence mikrofalowej i myć w zmywarce
 ZERO BPA: Miska nie zawiera BPA, zgodnie z obowiązującymi przepisami</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5904175-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905615</kod>
-<nazwa>CHICCO 00010242000000 Oliwka do masażu 200ml 0m+</nazwa>
-<cena>17.89</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>8058664129331</EAN>
-<grupa>CHICCO/AKCESORIA/AKCESORIA DO HIGIENY NIEMOWLĄT</grupa>
-<opis>Oliwka do masażu, przeznaczona dla wrażliwej skóry dziecka od pierwszych dni życia.
-
-Formuła w 74% ze składników pochodzenia naturalnego pozostawia skórę gładką i aksamitnie miękką. Produkt wzbogacony został o odżywcze właściwości oleju bawełnianego i witaminę E.
-
-• Olej bawełniany: łagodzi, nawilża, regeneruje skórę.
-
-• Witamina E: ma działanie antyoksydacyjne i łagodzące.
-
-Produkt testowany dermatologicznie, oftalmologicznie i pediatrycznie.
-
-Sposób użycia: nanieść odpowiednią ilość oliwki na dłoń, nałożyć na czystą, suchą skórę dziecka, delikatnie masując.
-
-Oliwka zalecana i skuteczna w usuwaniu ciemieniuchy. Szybko się wchłania.
-
-Wyprodukowano we Włoszech.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5905615-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>789072</kod>
@@ -90607,7 +90363,7 @@ Kod EAN 5908214730032
 Wysokość opakowania 71 cm
 Długość opakowania 45 cm
 Szerokość opakowania 45 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910775-1.jpg https://marini.pl/b2b/pictures/5910775-2.jpg https://marini.pl/b2b/pictures/5910775-3.jpg https://marini.pl/b2b/pictures/5910775-4.jpg https://marini.pl/b2b/pictures/5910775-5.jpg https://marini.pl/b2b/pictures/5910775-6.jpg https://marini.pl/b2b/pictures/5910775-7.jpg https://marini.pl/b2b/pictures/5910775-8.jpg https://marini.pl/b2b/pictures/5910775-9.jpg https://marini.pl/b2b/pictures/5910775-10.jpg https://marini.pl/b2b/pictures/5910775-11.jpg https://marini.pl/b2b/pictures/5910775-12.</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5910775-1. https://marini.pl/b2b/pictures/5910775-2.jpg https://marini.pl/b2b/pictures/5910775-3.jpg https://marini.pl/b2b/pictures/5910775-4.jpg https://marini.pl/b2b/pictures/5910775-5.jpg https://marini.pl/b2b/pictures/5910775-6.jpg https://marini.pl/b2b/pictures/5910775-7.jpg https://marini.pl/b2b/pictures/5910775-8.jpg https://marini.pl/b2b/pictures/5910775-9.jpg https://marini.pl/b2b/pictures/5910775-10.jpg https://marini.pl/b2b/pictures/5910775-11.jpg https://marini.pl/b2b/pictures/5910775-12.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911043</kod>
@@ -90704,7 +90460,7 @@ Kod EAN 5908214730001
 Wysokość opakowania 71 cm
 Długość opakowania 45 cm
 Szerokość opakowania 45 cm</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5910774-1.jpg https://marini.pl/b2b/pictures/5910774-2.jpg https://marini.pl/b2b/pictures/5910774-3.jpg https://marini.pl/b2b/pictures/5910774-4. https://marini.pl/b2b/pictures/5910774-5.jpg https://marini.pl/b2b/pictures/5910774-6.jpg https://marini.pl/b2b/pictures/5910774-7.jpg https://marini.pl/b2b/pictures/5910774-8.jpg https://marini.pl/b2b/pictures/5910774-9.jpg https://marini.pl/b2b/pictures/5910774-10.jpg</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5910774-1.jpg https://marini.pl/b2b/pictures/5910774-2.jpg https://marini.pl/b2b/pictures/5910774-3.jpg https://marini.pl/b2b/pictures/5910774-4.jpg https://marini.pl/b2b/pictures/5910774-5.jpg https://marini.pl/b2b/pictures/5910774-6.jpg https://marini.pl/b2b/pictures/5910774-7.jpg https://marini.pl/b2b/pictures/5910774-8.jpg https://marini.pl/b2b/pictures/5910774-9.jpg https://marini.pl/b2b/pictures/5910774-10.</zdjecia>
 </b2b>
 <b2b>
 <kod>5910797</kod>
@@ -100361,7 +100117,7 @@ Cechy zabawki:
 <nazwa>DUMEL DD 4301 Pływające zwierzątka</nazwa>
 <cena>35.90</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>672552430101</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis/>
@@ -104303,6 +104059,16 @@ Waga: 7,9 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912037-1.jpg https://marini.pl/b2b/pictures/5912037-2.jpg https://marini.pl/b2b/pictures/5912037-3.jpg https://marini.pl/b2b/pictures/5912037-4.jpg https://marini.pl/b2b/pictures/5912037-5.jpg https://marini.pl/b2b/pictures/5912037-6.jpg https://marini.pl/b2b/pictures/5912037-7.jpg https://marini.pl/b2b/pictures/5912037-8.jpg https://marini.pl/b2b/pictures/5912037-9.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114812</kod>
+<nazwa>EASY GO Wózek dziecięcy HERO MOKKA</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907573550855</EAN>
+<grupa>EURO CART/EASY GO/WÓZKI</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5910788</kod>
 <nazwa>EASY GO Wózek dziecięcy OPTIMO TAUPE wersja spacerowa</nazwa>
 <cena>599.00</cena>
@@ -105433,6 +105199,16 @@ www.euro-cart.pl
 Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
  instrukcja_obslugi_EASYGO_ZOYA.pdf</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912929-1.jpg https://marini.pl/b2b/pictures/5912929-2.jpg https://marini.pl/b2b/pictures/5912929-3.jpg https://marini.pl/b2b/pictures/5912929-4.jpg https://marini.pl/b2b/pictures/5912929-5.jpg https://marini.pl/b2b/pictures/5912929-6.jpg https://marini.pl/b2b/pictures/5912929-7.jpg https://marini.pl/b2b/pictures/5912929-8.jpg https://marini.pl/b2b/pictures/5912929-9.jpg https://marini.pl/b2b/pictures/5912929-10.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59114813</kod>
+<nazwa>EASY GO Wózek dziecięcy ZOYA MOKKA</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<stan>brak</stan>
+<EAN>5907573550862</EAN>
+<grupa>EURO CART/EASY GO/WÓZKI</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>785254</kod>
@@ -110203,16 +109979,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785090-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5906670</kod>
-<nazwa>EWA 730527 MELLOW Pajac biały 74</nazwa>
-<cena>27.77</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356730527</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>785095</kod>
 <nazwa>EWA 730633 MELLOW Pajac niebieski 50</nazwa>
 <cena>33.60</cena>
@@ -110255,16 +110021,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785098-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5906671</kod>
-<nazwa>EWA 730749 MELLOW Pajac niebieski 74</nazwa>
-<cena>27.77</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
-<opis/>
 </b2b>
 <b2b>
 <kod>785851</kod>
@@ -110311,16 +110067,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785106-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5906673</kod>
-<nazwa>EWA 730848 MELLOW Pajac szary 74</nazwa>
-<cena>27.77</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356730848</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>785091</kod>
 <nazwa>EWA 730909 MELLOW Pajac mięta 50</nazwa>
 <cena>33.60</cena>
@@ -110363,16 +110109,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785094-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5906669</kod>
-<nazwa>EWA 730947 MELLOW Pajac mięta 74</nazwa>
-<cena>27.77</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
-<opis/>
 </b2b>
 <b2b>
 <kod>785099</kod>
@@ -110419,16 +110155,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785103-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5906672</kod>
-<nazwa>EWA 731074 MELLOW Pajac róż 74</nazwa>
-<cena>27.77</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731074</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>785107</kod>
 <nazwa>EWA 731135 MELLOW Półśpioch biały 50</nazwa>
 <cena>18.33</cena>
@@ -110471,17 +110197,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785110-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>785111</kod>
-<nazwa>EWA 731173 MELLOW Półśpioch biały 74</nazwa>
-<cena>15.15</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/785111-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>785117</kod>
@@ -110528,17 +110243,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785120-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>785121</kod>
-<nazwa>EWA 731241 MELLOW Półśpioch niebieski 74</nazwa>
-<cena>15.15</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731241</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/785121-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>785127</kod>
 <nazwa>EWA 731272 MELLOW Półśpioch szary 50</nazwa>
 <cena>18.33</cena>
@@ -110581,17 +110285,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785130-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>785131</kod>
-<nazwa>EWA 731319 MELLOW Półśpioch szary 74</nazwa>
-<cena>15.15</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731319</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/785131-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>785132</kod>
@@ -110638,17 +110331,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785136-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>787231</kod>
-<nazwa>EWA 731524 MELLOW Śpioch biały 74</nazwa>
-<cena>19.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/787231-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>785141</kod>
 <nazwa>EWA 731555 MELLOW Śpioch niebieski 50</nazwa>
 <cena>23.67</cena>
@@ -110680,17 +110362,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785143-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>787238</kod>
-<nazwa>EWA 731593 MELLOW Śpioch niebieski 74</nazwa>
-<cena>19.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731593</EAN>
-<grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/787238-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>785149</kod>
@@ -110737,17 +110408,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785359-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>787240</kod>
-<nazwa>EWA 731661 MELLOW Śpioch szary 74</nazwa>
-<cena>19.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731661</EAN>
-<grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/787240-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>785112</kod>
 <nazwa>EWA 731692 MELLOW Półśpioch mięta 50</nazwa>
 <cena>14.79</cena>
@@ -110790,17 +110450,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785115-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>785116</kod>
-<nazwa>EWA 731739 MELLOW Półśpioch mięta 74</nazwa>
-<cena>15.15</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731739</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/785116-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>785145</kod>
@@ -110847,17 +110496,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785148-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>787239</kod>
-<nazwa>EWA 731944 MELLOW Śpioch róż 74</nazwa>
-<cena>19.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356731944</EAN>
-<grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/787239-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>785122</kod>
 <nazwa>EWA 731975 MELLOW Półśpioch róż 50</nazwa>
 <cena>18.33</cena>
@@ -110902,17 +110540,6 @@ WAGA [kg]: 7,60</opis>
 <zdjecia>https://marini.pl/b2b/pictures/785125-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>785126</kod>
-<nazwa>EWA 732019 MELLOW Półśpioch róż 74</nazwa>
-<cena>15.15</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356732019</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PÓŁŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/785126-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>785137</kod>
 <nazwa>EWA 732040 MELLOW Śpioch mięta 50</nazwa>
 <cena>23.67</cena>
@@ -110955,17 +110582,6 @@ WAGA [kg]: 7,60</opis>
 <grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/785140-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>787232</kod>
-<nazwa>EWA 732088 MELLOW Śpioch mięta 74</nazwa>
-<cena>19.57</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5904356732088</EAN>
-<grupa> UBRANKA/EWA KLUCZE/ŚPIOCHY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/787232-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911015</kod>
@@ -113835,7 +113451,7 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 933113 Body CEREMONY kołnierz biały 62</nazwa>
 <cena>26.39</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5905359933113</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -113942,18 +113558,6 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <zdjecia>https://marini.pl/b2b/pictures/791634-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>791640</kod>
-<nazwa>EWA 934080 Piżama Sweet night granat 110</nazwa>
-<cena>41.64</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Piżama dziecięca z kolekcji "Sweet Night" uszyta z miękkiej i przyjemnej w dotyku kolorowej dzianiny. Góra piżamki drukowana w nasz autorski wzór. Długie spodenki są gładkie. W pasie spodni wszyta guma nie uwierająca brzuszka dziecka. Piżama wykończoan kontrasującą lamówką oraz ściągaczami. Piżamki z długimi spodniami i rękawami idealnie sprawdzą się w chłodne jesienne i zimowe wieczory. Ściągacze zapobiegają podciąganiu się piżamki przez co dziecku jest cały czas ciepło w nocy.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/791640-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>791647</kod>
 <nazwa>EWA 934103 Piżama Sweet night jeans 86</nazwa>
 <cena>41.64</cena>
@@ -113964,18 +113568,6 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <opis>Piżama dziecięca z kolekcji "Sweet Night" uszyta z miękkiej i przyjemnej w dotyku kolorowej dzianiny. Góra piżamki drukowana w nasz autorski wzór. Długie spodenki są gładkie. W pasie spodni wszyta guma nie uwierająca brzuszka dziecka. Piżama wykończoan kontrasującą lamówką oraz ściągaczami. Piżamki z długimi spodniami i rękawami idealnie sprawdzą się w chłodne jesienne i zimowe wieczory. Ściągacze zapobiegają podciąganiu się piżamki przez co dziecku jest cały czas ciepło w nocy.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/791647-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>791649</kod>
-<nazwa>EWA 934127 Piżama Sweet night jeans 98</nazwa>
-<cena>41.64</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Piżama dziecięca z kolekcji "Sweet Night" uszyta z miękkiej i przyjemnej w dotyku kolorowej dzianiny. Góra piżamki drukowana w nasz autorski wzór. Długie spodenki są gładkie. W pasie spodni wszyta guma nie uwierająca brzuszka dziecka. Piżama wykończoan kontrasującą lamówką oraz ściągaczami. Piżamki z długimi spodniami i rękawami idealnie sprawdzą się w chłodne jesienne i zimowe wieczory. Ściągacze zapobiegają podciąganiu się piżamki przez co dziecku jest cały czas ciepło w nocy.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/791649-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>791643</kod>
@@ -114118,45 +113710,6 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <zdjecia>https://marini.pl/b2b/pictures/5904819-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5913735</kod>
-<nazwa>EWA 944348 Kombinezon przejściowy C&amp;B dres kaptur ecru 56</nazwa>
-<cena>80.52</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359944348</EAN>
-<grupa> UBRANKA/EWA KLUCZE/KOMBINEZONY</grupa>
-<opis>Dziecięcy kombinezon dresowy z kapturem. Kombinezony dziecięce z kapturem świetnie sprawdzą się na wyjście ze szpitala. Kombinezonik dresowy ubieramy dziecku pod kombinezon zimowy. Będzie to kolejna ciepła warstwa. Kombinezon dresowy z kapturem jest to must have każdej wyprawki niemowlęcej. 
- 
-Wiek dziecka: Od 0 do 6 miesięcy
- 
-Kolekcja: Cars&amp;Bears
- 
-Materiał: 100% bawełna wysokogatunkowa
- 
-Struktura/rodzaj materiału: Dzianina
- 
-Wskazówki pielęgnacyjne: Pranie w pralce w 40°C, nie suszyć w suszarce bębnowej
- 
-Wzór: Kolor w misie - ecru
- 
-Rękaw: Długi rękaw
- 
-Zapięcie: Na całej długości zamek
- 
-Wykończenie:  Miękki ściągacz
- 
-Pochodzenie: Produkt 100% Polski
- 
-Certyfikaty: „Bezpieczny dla dziecka”, „Bezpieczny dla niemowląt”
- 
- 
-Ubrania niemowlęce Eevi są tworzone z troską o komfort i bezpieczeństwo skóry Twojego dziecka.
- 
-
-Dlaczego mamy od lat darzą markę Eevi dużym zaufaniem?</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913735-1.jpg https://marini.pl/b2b/pictures/5913735-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5913736</kod>
 <nazwa>EWA 944355 Kombinezon przejściowy C&amp;B dres kaptur ecru 62</nazwa>
 <cena>78.61</cena>
@@ -114200,17 +113753,6 @@ Hafty w naszych wyrobach są zabezpieczone od wewnątrz tak, aby nie podrażnia�
 Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Niklu.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913736-1.jpg https://marini.pl/b2b/pictures/5913736-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5905830</kod>
-<nazwa>EWA 944355 Kombinezon przejściowy C&amp;B dres kaptur ecru 62</nazwa>
-<cena>73.21</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa>&lt;nie określono&gt;</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5905830-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913737</kod>
@@ -114440,72 +113982,12 @@ Certyfikaty:
 <zdjecia>https://marini.pl/b2b/pictures/5907318-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5913338</kod>
-<nazwa>EWA 956808 Czapka Run&amp;Fun prążek jasny róż XS</nazwa>
-<cena>17.67</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359956808</EAN>
-<grupa> UBRANKA/CZAPKI</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>59114811</kod>
 <nazwa>EWA 957218 Mucha CEREMONY kratka szara 68/74</nazwa>
 <cena>10.41</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5905359957218</EAN>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5913345</kod>
-<nazwa>EWA 957270 Mucha CEREMONY Pepitka czarna/biała 68/74</nazwa>
-<cena>10.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359957270</EAN>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5913343</kod>
-<nazwa>EWA 957287 Mucha CEREMONY Pepitka czarna/biała 80/86</nazwa>
-<cena>10.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359957287</EAN>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5913347</kod>
-<nazwa>EWA 957294 Mucha CEREMONY Pepitka granat 56/62</nazwa>
-<cena>10.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359957294</EAN>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5913350</kod>
-<nazwa>EWA 957300  Mucha CEREMONY Pepitka granat 68/74</nazwa>
-<cena>10.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359957300</EAN>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5913351</kod>
-<nazwa>EWA 957317  Mucha CEREMONY Pepitka granat 80/86</nazwa>
-<cena>10.41</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359957317</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis/>
 </b2b>
@@ -114585,436 +114067,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5908798-1.jpg https://marini.pl/b2b/pictures/5908798-2.jpg https://marini.pl/b2b/pictures/5908798-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5908799</kod>
-<nazwa>EWA 961741 EMILY Koszula ciążowa brudny różowy kwiat XL</nazwa>
-<cena>61.61</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908799-1.jpg https://marini.pl/b2b/pictures/5908799-2.jpg https://marini.pl/b2b/pictures/5908799-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908805</kod>
-<nazwa>EWA 961758 EMILY Koszula ciążowa jasny beżowy groszki L</nazwa>
-<cena>69.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961758</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908805-1.jpg https://marini.pl/b2b/pictures/5908805-2.jpg https://marini.pl/b2b/pictures/5908805-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908806</kod>
-<nazwa>EWA 961765 EMILY Koszula ciążowa jasny beżowy groszki M</nazwa>
-<cena>69.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961765</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908806-1.jpg https://marini.pl/b2b/pictures/5908806-2.jpg https://marini.pl/b2b/pictures/5908806-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908807</kod>
-<nazwa>EWA 961772 EMILY Koszula ciążowa jasny beżowy groszki S</nazwa>
-<cena>69.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961772</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908807-1.jpg https://marini.pl/b2b/pictures/5908807-2.jpg https://marini.pl/b2b/pictures/5908807-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908809</kod>
-<nazwa>EWA 961789 EMILY Koszula ciążowa jasny beżowy groszki XL</nazwa>
-<cena>69.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961789</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908809-1.jpg https://marini.pl/b2b/pictures/5908809-2.jpg https://marini.pl/b2b/pictures/5908809-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909921</kod>
-<nazwa>EWA 961796 EMILY Koszula ciążowa różowa kwiaty L</nazwa>
-<cena>61.61</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909921-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909922</kod>
-<nazwa>EWA 961802 EMILY Koszula ciążowa różowa kwiaty M</nazwa>
-<cena>61.61</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909922-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909923</kod>
-<nazwa>EWA 961819 EMILY Koszula ciążowa różowa kwiaty S</nazwa>
-<cena>61.61</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909923-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909721</kod>
-<nazwa>EWA 961826 EMILY Koszula ciążowa różowa kwiaty XL</nazwa>
-<cena>59.56</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909721-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908811</kod>
-<nazwa>EWA 961833 LINDA Koszula ciążowa beżowa stokrotki L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961833</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908811-1.jpg https://marini.pl/b2b/pictures/5908811-2.jpg https://marini.pl/b2b/pictures/5908811-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908812</kod>
 <nazwa>EWA 961840 LINDA Koszula ciążowa beżowa stokrotki M</nazwa>
 <cena>76.37</cena>
@@ -115058,49 +114110,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5908812-1.jpg https://marini.pl/b2b/pictures/5908812-2.jpg https://marini.pl/b2b/pictures/5908812-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5908814</kod>
-<nazwa>EWA 961857 LINDA Koszula ciążowa beżowa stokrotki S</nazwa>
-<cena>74.55</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961857</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908814-1.jpg https://marini.pl/b2b/pictures/5908814-2.jpg https://marini.pl/b2b/pictures/5908814-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908817</kod>
 <nazwa>EWA 961864 LINDA Koszula ciążowa beżowa stokrotki XL</nazwa>
 <cena>76.37</cena>
@@ -115142,264 +114151,6 @@ Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfort
 Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
 Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5908817-1.jpg https://marini.pl/b2b/pictures/5908817-2.jpg https://marini.pl/b2b/pictures/5908817-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908818</kod>
-<nazwa>EWA 961871 LINDA Koszula ciążowa różowa serca L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961871</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908818-1.jpg https://marini.pl/b2b/pictures/5908818-2.jpg https://marini.pl/b2b/pictures/5908818-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908819</kod>
-<nazwa>EWA 961888 LINDA Koszula ciążowa różowa serca M</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961888</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908819-1.jpg https://marini.pl/b2b/pictures/5908819-2.jpg https://marini.pl/b2b/pictures/5908819-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908820</kod>
-<nazwa>EWA 961895 LINDA Koszula ciążowa różowa serca S</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961895</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908820-1.jpg https://marini.pl/b2b/pictures/5908820-2.jpg https://marini.pl/b2b/pictures/5908820-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908821</kod>
-<nazwa>EWA 961901 LINDA Koszula ciążowa różowa serca XL</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905959961905</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908821-1.jpg https://marini.pl/b2b/pictures/5908821-2.jpg https://marini.pl/b2b/pictures/5908821-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908822</kod>
-<nazwa>EWA 961918 LINDA Koszula ciążowa winogronowa L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961918</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908822-1.jpg https://marini.pl/b2b/pictures/5908822-2.jpg https://marini.pl/b2b/pictures/5908822-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908824</kod>
-<nazwa>EWA 961925 LINDA Koszula ciążowa winogronowa M</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961925</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908824-1.jpg https://marini.pl/b2b/pictures/5908824-2.jpg https://marini.pl/b2b/pictures/5908824-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5908823</kod>
@@ -115488,92 +114239,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5908825-1.jpg https://marini.pl/b2b/pictures/5908825-2.jpg https://marini.pl/b2b/pictures/5908825-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5908826</kod>
-<nazwa>EWA 961956 MARY Koszula ciążowa bordo serca L</nazwa>
-<cena>55.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961956</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908826-1.jpg https://marini.pl/b2b/pictures/5908826-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908827</kod>
-<nazwa>EWA 961963 MARY Koszula ciążowa bordo serca M</nazwa>
-<cena>55.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359961963</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908827-1.jpg https://marini.pl/b2b/pictures/5908827-2.jpg https://marini.pl/b2b/pictures/5908827-3.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5908828</kod>
 <nazwa>EWA 961970 MARY Koszula ciążowa bordo serca S</nazwa>
 <cena>55.45</cena>
@@ -115617,314 +114282,12 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5908828-1.jpg https://marini.pl/b2b/pictures/5908828-2.jpg https://marini.pl/b2b/pictures/5908828-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5908830</kod>
-<nazwa>EWA 961987 MARY Koszula ciążowa bordo serca XL</nazwa>
-<cena>55.45</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Różowa w kwiaty
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908830-1.jpg https://marini.pl/b2b/pictures/5908830-2.jpg https://marini.pl/b2b/pictures/5908830-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913337</kod>
-<nazwa>EWA 962090 Czapka Run&amp;Fun prążek j.niebieska XS</nazwa>
-<cena>17.67</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359962090</EAN>
-<grupa> UBRANKA/EWA KLUCZE/CZAPKI</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5908760</kod>
-<nazwa>EWA 967002 Chustka muślin beż</nazwa>
-<cena>23.99</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5908762</kod>
-<nazwa>EWA 967019 Chustka muślin ecru</nazwa>
-<cena>23.99</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis>Dziewczęca chustka z daszkiem uszyta z miękkiej i przyjemnej w dotyku tkaniny muślinowej. Chustkę można wiązać na dwa sposoby, które ukazane są na zdjęciu produktowym. Warto wybrać takie nakrycie które będzie wygodne, ale również i bezpieczne dla delikatnej skóry dziecka. Uniwersalny krój dopasowany jest do głowy zarówno noworodka jak i dziecka do 4 roku życia.
- 
-Wiek dziecka: Od 0 miesięcy do 4 lat
- 
-Kolekcja: Basic
- 
-Materiał: 100% bawełna muślinowa
- 
-Wymiary podane na płasko: dłuższy bok 77 cm, krótszy bok: 50 cm
- 
-Struktura/rodzaj materiału: Tkanina
- 
-Wskazówki pielęgnacyjne: Pranie w pralce w 40°C, nie suszyć w suszarce bębnowej
- 
-Wzór: Kolor gładki - ciemny róż
- 
-Zapięcie: Wiązanie
- 
-Pochodzenie: Produkt 100% Polski</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908762-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5908763</kod>
-<nazwa>EWA 967026 Chustka muślin błękit</nazwa>
-<cena>23.99</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis>Dziewczęca chustka z daszkiem uszyta z miękkiej i przyjemnej w dotyku tkaniny muślinowej. Chustkę można wiązać na dwa sposoby, które ukazane są na zdjęciu produktowym. Warto wybrać takie nakrycie które będzie wygodne, ale również i bezpieczne dla delikatnej skóry dziecka. Uniwersalny krój dopasowany jest do głowy zarówno noworodka jak i dziecka do 4 roku życia.
- 
-Wiek dziecka: Od 0 miesięcy do 4 lat
- 
-Kolekcja: Basic
- 
-Materiał: 100% bawełna muślinowa
- 
-Wymiary podane na płasko: dłuższy bok 77 cm, krótszy bok: 50 cm
- 
-Struktura/rodzaj materiału: Tkanina
- 
-Wskazówki pielęgnacyjne: Pranie w pralce w 40°C, nie suszyć w suszarce bębnowej
- 
-Wzór: Kolor gładki - ciemny róż
- 
-Zapięcie: Wiązanie
- 
-Pochodzenie: Produkt 100% Polski</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5908763-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5909067</kod>
-<nazwa>EWA 967033 Chustka muślin j.niebieska</nazwa>
-<cena>23.99</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5909067-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912411</kod>
 <nazwa>EWA 967767 Chustka muślin gumka biała L</nazwa>
 <cena>26.51</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5905359967767</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912412</kod>
-<nazwa>EWA 967774 Chustka muślin gumka biała M</nazwa>
-<cena>26.51</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967774</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912413</kod>
-<nazwa>EWA 967781 Chustka muślin gumka biała S</nazwa>
-<cena>26.51</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967781</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5909924</kod>
-<nazwa>EWA 967859 LINDA Koszula ciążowa bordo L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967859</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5909924-1.jpg https://marini.pl/b2b/pictures/5909924-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913111</kod>
-<nazwa>EWA 967866 LINDA Koszula ciążowa bordo M</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967866</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912887</kod>
-<nazwa>EWA 967873 LINDA Koszula ciążowa bordo S</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967873</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Granatowy w stokrotki
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912887-1.jpg https://marini.pl/b2b/pictures/5912887-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912888</kod>
-<nazwa>EWA 967880 LINDA Koszula ciążowa bordo XL</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967880</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Granatowy w stokrotki
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912888-1.jpg https://marini.pl/b2b/pictures/5912888-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912425</kod>
-<nazwa>EWA 967972 Chustka muślin gumka beż L</nazwa>
-<cena>26.51</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359967972</EAN>
 <grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
 <opis/>
 </b2b>
@@ -115946,26 +114309,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <stan>mała ilość</stan>
 <EAN>5905359968016</EAN>
 <grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912416</kod>
-<nazwa>EWA 968023 Chustka muślin gumka ecru S</nazwa>
-<cena>26.51</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359968023</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912885</kod>
-<nazwa>EWA 968436 EMILY Koszula ciążowa jasny beżowy groszki XXL</nazwa>
-<cena>69.43</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359968436</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
 <opis/>
 </b2b>
 <b2b>
@@ -116187,92 +114530,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5912891-1.jpg https://marini.pl/b2b/pictures/5912891-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5912890</kod>
-<nazwa>EWA 970439 LINDA Koszula ciążowa granatowa stokrotki M</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359970439</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Granatowy w stokrotki
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912890-1.jpg https://marini.pl/b2b/pictures/5912890-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912889</kod>
-<nazwa>EWA 970446 LINDA Koszula ciążowa granatowa stokrotki L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359970446</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Granatowy w stokrotki
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912889-1.jpg https://marini.pl/b2b/pictures/5912889-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912892</kod>
 <nazwa>EWA 970453 LINDA Koszula ciążowa granatowa stokrotki XL</nazwa>
 <cena>76.37</cena>
@@ -116314,49 +114571,6 @@ Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfort
 Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
 Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912892-1.jpg https://marini.pl/b2b/pictures/5912892-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912893</kod>
-<nazwa>EWA 970460 LINDA Koszula ciążowa granatowa stokrotki XXL</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359970460</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Granatowy w stokrotki
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912893-1.jpg https://marini.pl/b2b/pictures/5912893-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911016</kod>
@@ -116560,94 +114774,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5912901-1.jpg https://marini.pl/b2b/pictures/5912901-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5912900</kod>
-<nazwa>EWA 974413 LINDA Koszula ciążowa rozpinana czarna M</nazwa>
-<cena>82.05</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359974413</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912900-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912899</kod>
-<nazwa>EWA 974420 LINDA Koszula ciążowa rozpinana czarna L</nazwa>
-<cena>82.05</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>59053599974420</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912899-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912883</kod>
 <nazwa>EWA 974437 LINDA Koszula ciążowa rozpinana czarna XL</nazwa>
 <cena>82.05</cena>
@@ -116689,149 +114815,6 @@ Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfort
 Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
 Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912883-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912902</kod>
-<nazwa>EWA 974444 LINDA Koszula ciążowa rozpinana czarna XXL</nazwa>
-<cena>82.05</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359974444</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912902-1.jpg https://marini.pl/b2b/pictures/5912902-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912896</kod>
-<nazwa>EWA 974451 LINDA Koszula ciążowa rozpinana ecru łączka S</nazwa>
-<cena>82.05</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359974451</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912896-1.jpg https://marini.pl/b2b/pictures/5912896-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912895</kod>
-<nazwa>EWA 974468 LINDA Koszula ciążowa rozpinana ecru łączka M</nazwa>
-<cena>82.05</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359974468</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912895-1.jpg https://marini.pl/b2b/pictures/5912895-2.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912894</kod>
-<nazwa>EWA 974475 LINDA Koszula ciążowa rozpinana ecru łączka L</nazwa>
-<cena>82.05</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359974475</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912894-1.jpg https://marini.pl/b2b/pictures/5912894-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5912897</kod>
@@ -116965,104 +114948,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <opis/>
 </b2b>
 <b2b>
-<kod>5913113</kod>
-<nazwa>EWA 978510 LINDA Koszula ciążowa w margaretki niebieska L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978510</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912904</kod>
-<nazwa>EWA 978527 LINDA Koszula ciążowa w margaretki niebieska M</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978527</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912904-1.jpg https://marini.pl/b2b/pictures/5912904-2.jpg https://marini.pl/b2b/pictures/5912904-3.jpg https://marini.pl/b2b/pictures/5912904-4.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912905</kod>
-<nazwa>EWA 978534 LINDA Koszula ciążowa w margaretki niebieska S</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978534</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912905-1.jpg https://marini.pl/b2b/pictures/5912905-2.jpg https://marini.pl/b2b/pictures/5912905-3.jpg https://marini.pl/b2b/pictures/5912905-4.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912906</kod>
 <nazwa>EWA 978541 LINDA Koszula ciążowa w margaretki niebieska XL</nazwa>
 <cena>76.37</cena>
@@ -117151,104 +115036,6 @@ Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produ
 <zdjecia>https://marini.pl/b2b/pictures/5912907-1.jpg https://marini.pl/b2b/pictures/5912907-2.jpg https://marini.pl/b2b/pictures/5912907-3.jpg https://marini.pl/b2b/pictures/5912907-4.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5912908</kod>
-<nazwa>EWA 978565 LINDA Koszula ciążowa w serduszka beż L</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978565</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912908-1.jpg https://marini.pl/b2b/pictures/5912908-2.jpg https://marini.pl/b2b/pictures/5912908-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912909</kod>
-<nazwa>EWA 978572 LINDA Koszula ciążowa w serduszka beż M</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978572</EAN>
-<grupa> UBRANKA/EWA KLUCZE</grupa>
-<opis>Koszule dla kobiet w ciąży - komfort i funkcjonalność dla przyszłych mam. Nasze koszule dla kobiet w ciąży zapewniają nie tylko wygodę w trakcie ciąży, ale również funkcjonalność podczas porodu i karmienia. Ich starannie zaprojektowany krój oraz elastyczne materiały sprawiają, że są idealnym wyborem na każdy etap macierzyństwa.
- 
-Skład:95% bawełna, 5% elastan
- 
-Rozmiar: Dostępne rozmiarach od S do XL, dopasowane do zmieniających się kształtów ciała
- 
-Kroj: Elastyczny i dopasowany do rosnącego brzucha
- 
-Kolor:Winogronowy
- 
-Materiał: Miękki i przewiewny, zapewniający komfort noszenia
- 
-Struktura/rodzaj materiału: Bawełniana dzianina dopasowująca się do zmieniającej się sylwetki
- 
-Instrukcje pielęgnacyjne:Prać w pralce w 40 stopniach Celsjusza, nie szusz w suszarce bębnowej, a koszula posłuży ci znacznie dłużej
- 
-Rękaw:Krótki
- 
-Zapięcie: Funkcjonalne zapięcie ułatwiające karmienie piersią
- 
-Wykończenie: Starannie wykończone detale, zapewniające trwałość i wygodę noszenia
- 
-Pochodzenie: Produkt z Polski, gwarancja jakości wykonania
- 
-Dodatkowe informacje: Odpowiednie dla skóry delikatnej
- 
- 
-Koszule dla kobiet w ciąży marki Eevi to gwarancja komfortu i funkcjonalności. Dlaczego warto zaufać naszym produktom?
- 
-Nasze koszule są starannie zaprojektowane z myślą o wygodzie przyszłych mam na każdym etapie ciąży, porodu i karmienia piersią.
-Wykorzystujemy tylko miękkie, przewiewne materiały, które zapewniają komfortowe noszenie przez cały dzień.
-Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmienie piersią w każdej sytuacji.
-Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912909-1.jpg https://marini.pl/b2b/pictures/5912909-2.jpg https://marini.pl/b2b/pictures/5912909-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913115</kod>
-<nazwa>EWA 978589 LINDA Koszula ciążowa w serduszka beż S</nazwa>
-<cena>76.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978589</EAN>
-<grupa> UBRANKA/EWA KLUCZE/PIŻAMKI I SZLAFROKI</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>5912910</kod>
 <nazwa>EWA 978596 LINDA Koszula ciążowa w serduszka beż XL</nazwa>
 <cena>76.37</cena>
@@ -117335,52 +115122,6 @@ Zapięcia w naszych koszulach są specjalnie zaprojektowane, aby ułatwić karmi
 Dbamy o każdy detal, aby zapewnić trwałość i wygodę noszenia naszych produktów nawet po wielokrotnym praniu.
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912911-1.jpg https://marini.pl/b2b/pictures/5912911-2.jpg https://marini.pl/b2b/pictures/5912911-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5913738</kod>
-<nazwa>EWA 978718 RUN&amp;FUN Kombinezon ocieplany szary chłop.56</nazwa>
-<cena>64.38</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359978718</EAN>
-<grupa> UBRANKA/EWA KLUCZE/KOMBINEZONY</grupa>
-<opis>Kombinezon dziecięcy szary wykonany z bawełny i wypełnienia antyalergicznego. Kombinezon dziecięcy posiada kaptur. Podszewka w kombinezonie wykonana jest w 100% z bawełny. Pajacyk z kapturem będzie idelany na wyjście ze szpitala w chłodne miesiące. W wyprawce dla dzieci rodzących się zimą i jesienią to obowiązkowy element. 
- 
-Wiek dziecka: Od 0 do 9 miesięcy
- 
-Kolekcja: RUN&amp;FUN
- 
-Materiał: Wierzch: 100% bawełna, podszewka: 100% bawełna wysokogatunkowa, wypełnienie: 100% poliester
- 
-Struktura/rodzaj materiału: Dzianina
- 
-Wskazówki pielęgnacyjne: Pranie w pralce w 40°C, nie suszyć w suszarce bębnowej
- 
-Wzór: Kolor melange - szary
- 
-Zapięcie: napy
- 
-Wykończenie:  Haft zwierzątka
- 
-Pochodzenie: Produkt 100% Polski
- 
-Certyfikaty: „Bezpieczny dla dziecka”, „Bezpieczny dla niemowląt”
- 
- 
-Ubrania niemowlęce Eevi są tworzone z troską o komfort i bezpieczeństwo skóry Twojego dziecka.
- 
-
-Dlaczego mamy od lat darzą markę Eevi dużym zaufaniem?
-
- 
-
-
-Produkty szyte są z dokładnością i z wykorzystaniem najlepszych jakościowo materiałów. 
-Przy produkcji ubrań niemowlęcych używamy wyłącznie farb ekologicznych, bezpiecznych dla skóry dzieci i niemowląt.
-Hafty w naszych wyrobach są zabezpieczone od wewnątrz tak, aby nie podrażniać delikatnej skóry dziecka.
-Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Niklu.
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5913738-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5913750</kod>
@@ -117609,70 +115350,6 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <opis/>
 </b2b>
 <b2b>
-<kod>5912406</kod>
-<nazwa>EWA 981824 Chustka MEADOW muślin druk ecru M</nazwa>
-<cena>26.51</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359981824</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912407</kod>
-<nazwa>EWA 981831 Chustka MEADOW muślin druk ecru S</nazwa>
-<cena>26.51</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359981831</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912081</kod>
-<nazwa>EWA 982043 Opaska MEADOW druk róż L</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359982043</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912081-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912082</kod>
-<nazwa>EWA 982050 Opaska MEADOW druk róż M</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359982050</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912082-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912083</kod>
-<nazwa>EWA 982067 Opaska MEADOW druk róż S</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359982067</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912083-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912084</kod>
-<nazwa>EWA 982784 Opaska MEADOW fiolet L</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359982784</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912084-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5912085</kod>
 <nazwa>EWA 982791 Opaska MEADOW fiolet M</nazwa>
 <cena>11.37</cena>
@@ -117682,107 +115359,6 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5912085-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912086</kod>
-<nazwa>EWA 982807 Opaska MEADOW fiolet S</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359982807</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5912086-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5912420</kod>
-<nazwa>EWA 985273 Opaska EEVI Basic j.beż L</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985273</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912421</kod>
-<nazwa>EWA 985280 Opaska EEVI Basic j.beż M</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985280</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912422</kod>
-<nazwa>EWA 985297 Opaska EEVI Basic j.beż S</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985297</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912089</kod>
-<nazwa>EWA 985303 Opaska MEADOW j.róż L</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985303</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912087</kod>
-<nazwa>EWA 985303 Opaska MEADOW j.róż M</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985310</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912088</kod>
-<nazwa>EWA 985327 Opaska MEADOW j.róż S</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985327</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912078</kod>
-<nazwa>EWA 985334 Opaska EEVI Basic wrzos L</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985334</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912079</kod>
-<nazwa>EWA 985341 Opaska EEVI Basic wrzos M</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985341</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912080</kod>
-<nazwa>EWA 985358 Opaska EEVI Basic wrzos S</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985358</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
 </b2b>
 <b2b>
 <kod>5912408</kod>
@@ -117811,36 +115387,6 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <VAT>23</VAT>
 <stan>mała ilość</stan>
 <EAN>5905359985501</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912417</kod>
-<nazwa>EWA 985631 Opaska EEVI Basic ecru L</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985631</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912418</kod>
-<nazwa>EWA 985648 Opaska EEVI Basic ecru M</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985648</EAN>
-<grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
-<opis/>
-</b2b>
-<b2b>
-<kod>5912419</kod>
-<nazwa>EWA 985655 Opaska EEVI Basic ecru S</nazwa>
-<cena>11.37</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905359985655</EAN>
 <grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
 <opis/>
 </b2b>
@@ -118028,17 +115574,6 @@ Certyfikaty:
 „Bezpieczny dla dziecka”
 „Bezpieczny dla niemowląt”</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912404-1.jpg https://marini.pl/b2b/pictures/5912404-2.jpg https://marini.pl/b2b/pictures/5912404-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>789488</kod>
-<nazwa>EWA KLUCZE 772541 Body Big Bear paski niebieski 74</nazwa>
-<cena>19.71</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN/>
-<grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/789488-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>789543</kod>
@@ -119600,7 +117135,7 @@ GAGAGU zadbało o to, aby wszystkie produkty były estetyczne, funkcjonalne i pr
 <nazwa>GAGAGU GGG0834 Książeczka Ogonki</nazwa>
 <cena>20.48</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5904754608343</EAN>
 <grupa>GAGAGU</grupa>
 <opis>Książeczka sensoryczna „Gagagu” od Tm Toys to interesujący produkt stworzony z myślą o najmłodszych. Model jest wykonany z wysokiej jakości materiałów, co zapewnia bezpieczeństwo i komfort w użytkowaniu. Produkt ma kolorowe wzory i różnorodne tekstury, które stymulują wzrok dziecka oraz rozwijają jego zdolności sensoryczne.
@@ -121755,7 +119290,7 @@ TAPICERKA
 <nazwa>GRACO Fotelik JUNIOR MAXI R129 Midnight</nazwa>
 <cena>148.10</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5060624773174</EAN>
 <grupa>GRACO</grupa>
 <opis>Junior Maxi i-Size R129, ulubiony model maluchów, który dzięki wprowadzonym innowacjom technologicznym, odpowiadającym obecnym restrykcjom i trendom, zapewnia dodatkowe bezpieczeństwo rosnącemu dziecku bez poświęcania jego komfortu podczas podróży. Ten lekki fotelik samochodowy, ważący zaledwie 3,4 kg, został wyposażony w funkcje takie jak zwiększona ochrona przed uderzeniami bocznymi, wysokiej jakości tapicerka i 10-pozycyjny zagłówek. A przy tym nadal posiada 2 wbudowane, wysuwane uchwyty na napoje, które pozwalają utrzymać tak napoje, jak i ulubione zabawki czy gadżety w zasięgu ręki.
@@ -125759,45 +123294,6 @@ Wymiary produktu	69 x 27,5 x 49 (cm)
 Dopuszczalne obciążenie	do 30 kg
 Produkt wprowadzony do obrotu na terenie UE przed 13.12.2024	Tak</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914041-1.jpg https://marini.pl/b2b/pictures/5914041-2.jpg https://marini.pl/b2b/pictures/5914041-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>782183</kod>
-<nazwa>INNOGIO GIO-110 Lampka silikonowa GIO Dino</nazwa>
-<cena>64.23</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903317816584</EAN>
-<grupa>INNOGIO</grupa>
-<opis>InnoGIO Lampka GIOdino GIO-110
-Doskonała do pokoju dziecięcego jak i idealnie sprawdzi się także w podróży. GIOdino będzie doskonałym kompanem dla Twojego dziecka podczas dorastania. Przyjazny i wesoły design lampki sprawi, że Twoje dziecko od razu ją pokocha. A miękki i uspakajający blask światła wprowadzi odpowiednią atmosferę do pokoju dziecka. Zmieniające się kolory świateł pomogą bez trudu zasnąć Twojemu dziecku, pokonując wszelkie koszmary ciemności.
-
-Miękki materiał z jakiego wykonana została lampeczka zapewnia bezpieczeństwo użytkowania nawet najmniejszych dzieci. Natomiast zmiana kolorów za pomocą dotknięcia lampki ręką zapewni świetną zabawę nie tylko podczas wieczornego rytuału zasypiania.
-
-Idealna do pokoju noworodka, niemowlaka, niezastąpiona podczas nocnego przewijania i karmienia. Również dla starszych dzieci będzie najlepszym przyjacielem, zapewniając spokojny sen i chroniąc przed strachem związanym z ciemnościami.
-Wykonana z miękkiego i bezpiecznego silikonu o zaokrąglonych kształtach i gładkich krawędziach, które pozwolą dziecku na bezpieczną zabawę.
-Bardzo przyjemne w dotyku tworzywo sprawi, że lampka stanie się również ulubioną przytulanką.
-Lampka doskonale sprawdzi się jako prezent, z pewnością wywoła uśmiech na twarzy każdego dziecka.
-Lampka ładnie opakowana w oryginalny kartonik
-Zasilanie bezprzewodowe umożliwi dziecku zabranie swojej ulubionej lampki na każdą wyprawę.
-Wbudowany akumulator (ładowany przez USB) zapewni nawet 10 godzin nieprzerwanej zabawy.
-Lampka po włączeniu świeci „ciepłym”, stonowanym światłem, które po dotknięciu ręką zaczyna zmieniać się przechodząc płynnie przez 8 kolorów. Kolejne dotknięcie lampki powoduje zatrzymanie wybranego koloru.
-
-Charakterystyka (właściwości):
-Użycie na jednym naładowaniu: do 10 godzin
-3 tryby świecenia
-Świeci w 8 kolorach, zmienia kolor stopniowo co 3 sekundy
-Nie nagrzewa się
-Zasilanie: przewód micro USB ( w zestawie) 
-Napięcie ładowania: 220-240V
-Bateria: litowo-jonowa o poj. 1000 mAh
-Materiał: bezpieczny silikon
-Rodzaj światła: LED
-Max moc: 1,5 W
-Auto OFF po 1 godzinie
-Typ włącznika: dotykowy
-Wymiary: 149 x 100 x 158mm
-Waga: 300 g</opis>
-<zdjecia>https://marini.pl/b2b/pictures/782183-1.jpg https://marini.pl/b2b/pictures/782183-2.jpg https://marini.pl/b2b/pictures/782183-3.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>782659</kod>
@@ -130862,7 +128358,7 @@ Zakres dostawy: 1 taboret Igor, dwupoziomowy, dekoracja Peppa, 10032, wymiary (d
 <nazwa>KEEEPER IGOR RAINBOW Podest dwustopniowy antypoślizgowy biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4052396093162</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Dwupoziomowy taboret do chodzenia Rainbow dla dzieci w wieku od ok. 3 do ok. 14 lat, zapewnia bezpieczne wchodzenie i siedzenie – idealnie nadaje się do dotarcia do umywalki lub toalety
@@ -130877,7 +128373,7 @@ Zakres dostawy: 1 taboret Igor, dwupoziomowy, tęczowy dekor, wymiary (dł. x sz
 <nazwa>KEEEPER IGOR STARS Podest dwustopniowy antypoślizgowy kosmiczny szary</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>4052396044867</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -131832,7 +129328,7 @@ UWAGA! Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd
 <nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% beż</nazwa>
 <cena>44.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907501483859</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>MimiNu Soft to Luksus, Wygoda i Przyjemność Dotyku.
@@ -131967,7 +129463,7 @@ Polski produkt antyalergiczny</opis>
 <nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% mokka</nazwa>
 <cena>44.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907378105779</EAN>
 <grupa>KIECZMERSKI- MIMINU</grupa>
 <opis>Kocyk dla dziecka z kolekcji MimiNu Soft
@@ -132003,7 +129499,7 @@ Polski produkt antyalergiczny</opis>
 <nazwa>KIECZMERSKI Kocyk 75x100 cm MIMINU SOFT interlock bawełna 100% pudrowy róż</nazwa>
 <cena>44.51</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907501483866</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>MimiNu Soft to Luksus, Wygoda i Przyjemność Dotyku.
@@ -134935,7 +132431,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 <nazwa>KIECZMERSKI Otulacz muślinowy - kocyk do nosidełka, fotelika kubełkowego 75x75 cm MUŚLIN bawełna 100% pudrowy róż</nazwa>
 <cena>46.34</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907378101528</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
 <opis>Otulacz muślinowy - kocyk do nosidełka, fotelika kubełkowego 75x75 cm MUŚLIN BAWEŁNIANY BAWEŁNA 100% PUDROWY RÓŻ
@@ -135980,7 +133476,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</opis>
 <cena>41.46</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN>5907378111053</EAN>
+<EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis>Pościel bawełniana - komplet 135x100 cm + 60x40 cm
 
@@ -136011,7 +133507,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 <cena>41.46</cena>
 <VAT>23</VAT>
 <stan>mała ilość</stan>
-<EAN>5907378111077</EAN>
+<EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
 <opis>Pościel bawełniana - komplet 135x100 cm + 60x40 cm
 
@@ -137830,7 +135326,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 </b2b>
 <b2b>
 <kod>59114796</kod>
-<nazwa>KIECZMERSKI Rożek standard 75x75 cm MIMINU DESIGN Misiowe Sny błękit</nazwa>
+<nazwa>KIECZMERSKI Rożek standard 75x75 cm MIMINU DESIGN Misiowe Sny błękit bawełna 100%</nazwa>
 <cena>0.00</cena>
 <VAT>23</VAT>
 <stan>brak</stan>
@@ -155217,7 +152713,7 @@ Prowadnice kulkowe</opis>
 <nazwa>KLUPŚ Komoda DALIA biel-popiel</nazwa>
 <cena>481.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5901912244863</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Rozmiar zewnętrzny (cm): 80x81x45
@@ -155274,7 +152770,7 @@ Kod EAN: 5901912245747</opis>
 <nazwa>KLUPŚ Komoda LAURA szampan - buk</nazwa>
 <cena>584.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912245815</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda LAURA w kolorze szampańskim to elegancki i funkcjonalny dodatek do każdego wnętrza. Wyposażona w trzy pojemne szuflady z cichym domykiem, zapewnia nie tylko mnóstwo miejsca na przechowywanie, ale także komfort codziennego użytkowania. Uchwyty wykonane z drewna bukowego dodają jej naturalnego uroku, a wysokie nóżki ułatwiają utrzymanie czystości, umożliwiając łatwy dostęp podczas sprzątania. Dodatkowo, możliwość nałożenia nakładki do przewijania czyni z niej idealne rozwiązanie dla rodziców małych dzieci, łącząc styl z praktycznością. Komoda LAURA to doskonały wybór dla tych, którzy cenią sobie zarówno estetykę, jak i funkcjonalność mebli.
@@ -155846,7 +153342,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko KAROLINA II biel-sosna 120x60</nazwa>
 <cena>261.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912244931</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko Karolina II
@@ -156330,7 +153826,7 @@ Produkt spełnia wymagania normy PN-EN 716-1+AC:2019-07.</opis>
 <nazwa>KLUPŚ Łóżko-domek 160x80 LIV biel</nazwa>
 <cena>651.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245679</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżko dziecięce 160x80 Liv
@@ -156576,7 +154072,7 @@ wymiary zewnętrzne :119x17x62</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 buk</nazwa>
 <cena>96.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245457</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Pojemnik na pościel 120×60 w kolorze bukowym to dodatkowe miejsce do przechowywania idealne do mniejszych wnętrz. Pokrywa zabezpiecza przed zakurzeniem i pomaga uporządkować wizualnie przestrzeń.</opis>
@@ -156816,7 +154312,7 @@ wnętrze: 2 półki i 1 drążek na ubranka
 <nazwa>KLUPŚ Szafa 3-drzwiowa DALIA biel-popiel</nazwa>
 <cena>907.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5901912243781</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Opis produktu:
@@ -156834,7 +154330,7 @@ Funkcjonalne szuflady.</opis>
 <nazwa>KLUPŚ Szafa 3-drzwiowa DALIA buk-popiel</nazwa>
 <cena>925.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901912245419</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Szafa – wysoka, przestronna i delikatna. Idealna na pomieszczenie Twoich ubrań i najpotrzebniejszych rzeczy. Pasuje do pokoju młodzieżowego jak i dziecięcego.
@@ -172183,7 +169679,7 @@ dopuszczalny wiek: 0-6 miesięcy dopuszczalny ciężar: max. 8 kg</opis>
 <nazwa>MALTEX Krzesełko do kąpieli Konik /wkładka stalowy szary</nazwa>
 <cena>45.26</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903067015848</EAN>
 <grupa>MALTEX/KRZESEŁKA DO KAPIELI</grupa>
 <opis/>
@@ -173503,7 +170999,7 @@ polipropylen</opis>
 <nazwa>MALTEX SET LUNA MADAGASKAR Stolik dla dzieci + krzesełko biały/beżowy</nazwa>
 <cena>140.00</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5903067008468</EAN>
 <grupa>MALTEX</grupa>
 <opis>Zestaw Luna to funkcjonalny komplet dziecięcy: ergonomiczne krzesełko i poręczny stoliczek stworzone z myślą o wygodzie i bezpieczeństwie malucha. Idealne do zabawy, rysowania i nauki samodzielnego jedzenia.
@@ -177354,33 +174850,6 @@ Dla dzieci w wieku od 3 lat</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5906285-1.jpg https://marini.pl/b2b/pictures/5906285-2.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5906291</kod>
-<nazwa>MARIOINEX 906118 Mini waffle nature (Tukan) 50 el.</nazwa>
-<cena>24.68</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5903033906118</EAN>
-<grupa>MARIOINEX</grupa>
-<opis>Mini Waffle Nature – Tukan
-Ten duży, kolorowy i pojemny dziób nie przemknie niezauważony. Tukan to jeden z najpopularniejszych ptaków na świecie – właśnie ze względu na swój charakterystyczny wygląd.
-
-Teraz możesz zbudować go samodzielnie! Konstrukcja tukana składa się z 50 elementów – złożysz go dzięki książeczce z instrukcją.
-
-Pokaż swojemu dziecku, że natura potrafi być fascynująca. Rozwijajcie wspólnie wyobraźnię i zdobywajcie wiedzę o zwierzętach poprzez świetną zabawę.
-A na koniec pomknij jak tukan po błękitnym niebie!
-
- 
-
-Specyfikacja zestawu:
-
-?     50 elementów
-?     Książeczka z instrukcją
-?     Klocki wyprodukowane w Polsce
-?     Klocki i opakowania wytworzone z materiałów odnawialnych w recyklingu
-?     Dla dzieci w wieku od 3 lat</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5906291-1.jpg https://marini.pl/b2b/pictures/5906291-2.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911903</kod>
 <nazwa>MARKO BC -KOS-002 Walizka podróżna Planety mała Ukł. Słoneczny</nazwa>
 <cena>83.29</cena>
@@ -178609,48 +176078,6 @@ Trwałe materiały:
 Wykonana z wysokiej jakości materiałów ABS, PC i silikonu, lampka jest odporna na uszkodzenia i bezpieczna w użytkowaniu.
 Mary's Lampka Nocna LED Dino w różowym kolorze to idealne połączenie funkcjonalności i uroku, stanowiące doskonały wybór dla osób poszukujących wyjątkowej i praktycznej lampki nocnej do swojego domu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5910912-1.jpg https://marini.pl/b2b/pictures/5910912-2.jpg https://marini.pl/b2b/pictures/5910912-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911291</kod>
-<nazwa>MARY'S MW20539 Lampka nocna led Piesek</nazwa>
-<cena>31.50</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5905036205397</EAN>
-<grupa>MARY'S</grupa>
-<opis>Mary's Lampka Nocna LED Piesek to urocza i funkcjonalna lampka nocna w kształcie psa, która oferuje przyjemne oświetlenie zarówno w ciepłej jak i zimnej barwie światła. Idealna do sypialni, pokoju dziecięcego lub jako dodatek do każdego wnętrza, gdzie potrzebne jest delikatne, regulowane światło.
-
-Specyfikacje techniczne:
-Moc: 1.5W
-Barwa światła: 3000K (ciepła biała) i 6500K (biała dzienna)
-Czas ładowania: 3 godziny
-Czas pracy: 6 - 24 godzin
-Pojemność akumulatora: 1200mAh / 3.7V
-Napięcie wejściowe: 5V DC 1A
-Materiał: ABS + PC + Silikon
-Kolor: Biały
-Zestaw zawiera: Kabel USB
-Cechy i zalety:
-Design psa:
-
-Lampka ma uroczy kształt psa, co czyni ją atrakcyjną zarówno dla dzieci, jak i dorosłych miłośników zwierząt.
-Biały kolor dodaje lampce elegancji i pasuje do różnych stylów wnętrz.
-Regulowana barwa światła:
-
-Możliwość wyboru między ciepłą (3000K) a zimną (6500K) barwą światła pozwala dostosować oświetlenie do różnych potrzeb i nastrojów.
-Długi czas pracy:
-
-Przy pełnym naładowaniu akumulatora lampka może świecić przez 6 godzin przy wysokiej jasności lub do 24 godzin przy niskiej jasności, co zapewnia długotrwałe użytkowanie bez konieczności częstego ładowania.
-Łatwe ładowanie i mobilność:
-
-Czas ładowania wynosi tylko 3 godziny, co pozwala szybko przygotować lampkę do ponownego użycia.
-Zestaw zawiera kabel USB, umożliwiający ładowanie z różnych źródeł zasilania, takich jak komputer, powerbank czy adapter sieciowy.
-Bezpieczeństwo i trwałość:
-
-Materiały użyte do produkcji, takie jak ABS, PC i Silikon, gwarantują trwałość i odporność na uszkodzenia.
-Lampka jest bezpieczna w użytkowaniu dzięki niskiemu poborowi mocy i stabilnemu napięciu pracy.
-Mary's Lampka Nocna LED Piesek to doskonały wybór dla każdego, kto szuka nie tylko funkcjonalnego źródła światła nocnego, ale także estetycznego dodatku do wnętrza. Jej wyjątkowy design, możliwość regulacji barwy światła oraz długi czas pracy na baterii czynią ją idealnym rozwiązaniem zarówno dla dzieci, jak i dorosłych.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911291-1.jpg https://marini.pl/b2b/pictures/5911291-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910908</kod>
@@ -186411,7 +183838,7 @@ Brutto: 4 kg</opis>
 <nazwa>MILLY MALLY 2193 Koń Polly Dark Brown</nazwa>
 <cena>199.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761123982</EAN>
 <grupa>MILLY MALLY/KONIKI NA BIEGUNACH</grupa>
 <opis>Mięciutki konik na biegunach Polly zaprojektowany został z myślą o najmłodszych dzieciach (12m+) dla których tradycyjne koniki na biegunach są za duże. Wygodne, wyprofilowane siedzisko w kształcie kanapy i regulowane pasy zapewnią komfort i bezpieczeństwo podczas beztroskiego bujania i przemieszczania maluszka.
@@ -187842,7 +185269,7 @@ Waga z opakowaniem 2 kg</opis>
 <nazwa>MILLY MALLY 2721 Wózek dla lalek Julia Candy</nazwa>
 <cena>24.93</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761124934</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
 <opis>Wózek dla lalek Julia marki Milly Mally, to wykonany z wysokiej jakości materiałów uroczy wózeczek, który wytrzyma nawet wielogodzinne zabawy na dworze lub w domu. Funkcje i wygląd wózka dla lalek przypominają prawdziwy wózek dziecięcy, dzięki czemu Twoje dziecko pobudzi swoją wyobraźnię i poczuje się jak prawdziwy rodzic ukochanej lalki lub pluszaka.
@@ -193898,7 +191325,7 @@ Waga brutto: 13,5 kg</opis>
 <nazwa>MILLY MALLY 445 Łóżeczko turystyczne Mirage Dark Grey</nazwa>
 <cena>98.95</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5901761121902</EAN>
 <grupa>MILLY MALLY/ŁÓŻECZKA KOJCE KOŁYSKI</grupa>
 <opis>Łóżeczko Turystyczne Mirage Milly Mally – komfort snu i zabawy w każdym miejscu!
@@ -241056,7 +238483,7 @@ www.pminvestment.pl/manual/milly_manual.pdf</opis>
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Bear Pink</nazwa>
 <cena>61.60</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5907090700474</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Nasz pluszak to połączenie zabawki z projektorem. Projektory przedstawiają dobrze znane postacie zwierząt: mięciutkiego misia, liska, misia koalę, pandę, słonia, przytulaną owcę, jednorożca i uroczą żyrafę. Wspaniała zabawka, która przekształci pokój Twojego dziecka w rozgwieżdżone niebo z mnóstwem gwiazd. Maluszek może przy nich zasypiać słuchając wyciszających dźwięków.                                                                                                                                                 
@@ -248089,7 +245516,7 @@ Pakowane po 3szt.
 <nazwa>NOVITI SB018-U-01 Skarpety bawełna niemowlęce bezuciskowe wywijane białe 6-9m</nazwa>
 <cena>2.61</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>brak</stan>
 <EAN>5905204307779</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis>Opakowanie zbiorcze:6par/cena podana za 1parę</opis>
@@ -249838,7 +247265,7 @@ Niania elektroniczna NUK Eco Control Audio Display 530D posiada też inne przyda
 <nazwa>NUK 730763 Smoczek uspokajający silikonowy 0-6 m FOR NATURE 2 szt</nazwa>
 <cena>29.80</cena>
 <VAT>5</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>4008600420576</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Naturalne uspokaja najlepiej. Dlatego wykorzystujemy ponad 98% naturalnych surowców przy produkcji naszego smoczka NUK for Nature. Do produkcji części twardych użyto odnawialnego plastiku. Naturalne pochodzenie zostało potwierdzone niezależnym certyfikatem. Miękki smoczek wykonano z czystego, naturalnego kauczuku odnawialnego materiału pochodzenia roślinnego, który jest bardzo miękki, ciepły i niezwykle elastyczny. W przypadku NUK for Nature, nie tylko smoczek jest ekologiczny. Smoczki pakowane są w 100% w certyfikowany papier FSC, który z łatwością można poddać recyklingowi. Aby zmniejszyć ślad węglowy, wszystko, począwszy od surowców do produkcji wykorzystującej odnawialną energię, zostało zoptymalizowane tak, aby było przyjazne dla środowiska. Oryginalny kształt smoczka NUK został także zainspirowany przez naturę, okrągły na górze i płaski od spodu. Smoczek dopasowuje się do podniebienia zostawiając wystarczająco dużo miejsca dla naturalnych ruchów ssących, nie powoduje zniekształcenia zębów ani wad zgryzu. Dlatego, oraz z wielu innych powodów, smoczek NUK for Nature jest polecany przez ekspertów medycznych i jest ulubionym smoczkiem ekologicznie świadomych rodziców. Opakowanie jednostkowe zawiera 2 szt. silikonowych smoczków od 0-6 m. Smoczki występują w mixie kolorów. Produkt sprzedawany w mixie. Wymiary/waga: wymiary opakowania (wys. x szer. x gł.)[cm]: 14x6x5, waga produktu w opakowaniu [kg]: 0,03 kg. Zestaw pakowany w ekologiczny kartonik. Wyprodukowano w Niemczech.</opis>
@@ -256251,7 +253678,7 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <nazwa>POLDAUN Komplet Sensidream całoroczny100x135 +40x60</nazwa>
 <cena>52.00</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5903753003012</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
@@ -270595,7 +268022,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA KR-001-104 Nocnik antypoślizgowy KRÓLICZKI j.różowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963007971</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -272022,7 +269449,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA PK-006-102 Podnóżek antypoślizgowy PIES I KOT żółty WYPRZEDAŻ</nazwa>
 <cena>17.33</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5902963009265</EAN>
 <grupa>TEGA/STOPNIE</grupa>
 <opis/>
@@ -272157,7 +269584,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-047-106 Nocnik antypoślizgowy z pozytywką SOWA szary</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5902963010018</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -272280,7 +269707,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-058-105 Nocnik antypoślizgowy z pozytywką KRÓLICZKI miętowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<stan>średnia ilość</stan>
+<stan>mała ilość</stan>
 <EAN>5902963010278</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -273576,7 +271003,7 @@ Cechy produktu:
 <nazwa>TEGA TI-001-106/103 Nocnik teggi szary/biały</nazwa>
 <cena>19.74</cena>
 <VAT>23</VAT>
-<stan>duża ilość</stan>
+<stan>średnia ilość</stan>
 <EAN>5905489408048</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Specjalnie zaprojektowany symetryczny i ergonomiczny kształt nocnika Teggi jest wynikiem współpracy fizjoterapeutów, rodziców i projektantów wzornictwa. Jego anatomiczny kształt i rozmiar są idealnie dopasowane do budowy ciała dziecka. Dzięki wysokości siedziska dzieciom łatwiej siadać i wstawać z nocnika. Zdejmowana wewnętrzna część nocnika ułatwia czyszczenie. Dolna krawędź posiada wykończenie antypoślizgowe, co zapewnia stabilność nocnika na podłodze.
@@ -284448,25 +281875,6 @@ Waga opakowania zbiorczego (kg): 0.46</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914861-1.png https://marini.pl/b2b/pictures/5914861-2.png https://marini.pl/b2b/pictures/5914861-3.png https://marini.pl/b2b/pictures/5914861-4.png https://marini.pl/b2b/pictures/5914861-5.png</zdjecia>
 </b2b>
 <b2b>
-<kod>5914862</kod>
-<nazwa>TREFL 30069 Gra towarzyska Państwa-miasta. Babski wieczór</nazwa>
-<cena>15.43</cena>
-<VAT>23</VAT>
-<stan>mała ilość</stan>
-<EAN>5900511300697</EAN>
-<grupa>TREFL</grupa>
-<opis>Państwa Miasta to kultowa gra towarzyska, która od lat rozkręca spotkania z rodziną i znajomymi. Proste zasady, szybkie rundy i mnóstwo śmiechu sprawiają, że to idealna propozycja na każdą okazję - od domówki po spokojny wieczór przy stole. W wersji Babski wieczór otrzymujesz gotowe arkusze do gry, dzięki którym możecie zacząć zabawę od razu, wystarczy długopis i dobra energia. Jeśli szukasz gry, która łączy pokolenia, nie wymaga przygotowań i zawsze wywołuje emocje, Państwa Miasta to strzał w dziesiątkę.
-
-Szczegółowe dane
-EAN: 5900511300697
-Kod produktu: 30069
-Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
-Kraj pochodzenia: Polska
-Liczba pudełek w opakowaniu zbiorczym (szt): szt
-Waga opakowania zbiorczego (kg): 0.46</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5914862-1.png https://marini.pl/b2b/pictures/5914862-2.png https://marini.pl/b2b/pictures/5914862-3.png https://marini.pl/b2b/pictures/5914862-4.png https://marini.pl/b2b/pictures/5914862-5.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5914863</kod>
 <nazwa>TREFL 30070 Gra towarzyska Państwa-miasta. Lata 90-te</nazwa>
 <cena>15.43</cena>
@@ -284616,7 +282024,7 @@ Produkt został wykonany z wysokiej jakości naturalnych materiałów, z zastoso
 <nazwa>TREFL 34383 Puzzle 4w1 Ciekawe dinozaury</nazwa>
 <cena>16.03</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5900511343830</EAN>
 <grupa>TREFL</grupa>
 <opis>Ciekawe Dinozaury to puzzle dla dzieci składające się z 4 niezależnych układanek, zaprojektowane z myślą o wszystkich fanach i fankach dinozaurów. Po ułożeniu puzzli powstaną cztery obrazki o wymiarach 285 x 205 mm każdy. Zróżnicowana liczba elementów (35, 48, 54, 70) pozwala na zabawę zarówno młodszym, jak i nieco starszym fanom puzzli.
@@ -287585,7 +284993,7 @@ Wiek: 4 lata +
 <nazwa>TREFL 62604 Skillmatics Foil Fun Zestaw kreatywny Świat Zwierząt</nazwa>
 <cena>45.11</cena>
 <VAT>23</VAT>
-<stan>brak</stan>
+<stan>duża ilość</stan>
 <EAN>5900511626049</EAN>
 <grupa>TREFL</grupa>
 <opis>Zestaw Skillmatics Foil Fun – Świat Zwierząt
@@ -287663,7 +285071,7 @@ Waga opakowania zbiorczego (kg): 0.686000</opis>
 <nazwa>TREFL 62606 Skillmatics Foil Fun Kraina Dinozaurów</nazwa>
 <cena>45.11</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>duża ilość</stan>
 <EAN>5900511626063</EAN>
 <grupa>TREFL</grupa>
 <opis>Zestaw Skillmatics Foil Fun – Kraina Dinozaurów
@@ -298282,19 +295690,6 @@ Zabawka rozwija:
 - Umiejętności językowe
 - Koordynację wzrokowo-ruchową</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913888-1.jpg https://marini.pl/b2b/pictures/5913888-2.jpg https://marini.pl/b2b/pictures/5913888-3.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>790048</kod>
-<nazwa>VTECH 60670 Bam bam w kształty gram</nazwa>
-<cena>50.46</cena>
-<VAT>23</VAT>
-<stan>brak</stan>
-<EAN>5900511606706</EAN>
-<grupa>V-TECH</grupa>
-<opis>Bam bam w kształty gram to kolorowy bębenek marki VTech, na którym dziecko wybije każdy rytm. Pomaga w nauce kształtów, cyfr i nazw zwierząt. Dopasowanie kształtu do otworu wspomaga rozwój manualny dziecka. Zdejmowane wieko bębenka umożliwia wyciągnięcie wrzuconych klocków i rozpoczęcie zabawy od nowa. Możliwość zmiany stopnia czułości bębenka na uderzenia poprzez przesunięcie.
-
-</opis>
-<zdjecia>https://marini.pl/b2b/pictures/790048-1.png https://marini.pl/b2b/pictures/790048-2.png</zdjecia>
 </b2b>
 <b2b>
 <kod>790054</kod>
@@ -312632,7 +310027,7 @@ Waga:	0.7 kg</opis>
 <nazwa>WOOPIE 57093 Walizka Dinosaur World - edukacyjny zestaw</nazwa>
 <cena>29.58</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280657093</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Przenieś swoje dziecko w czasy prehistoryczne z wyjątkowym zestawem Dinosaur World od marki Woopie — walizką pełną przygód i nauki. W środku znajdziesz realistyczne figurki dinozaurów, jaja, wulkany i elementy scenografii, które pobudzają wyobraźnię. Poręczna walizka ułatwia przechowywanie i zabranie zabawki w podróż, a solidne, bezpieczne materiały gwarantują wielokrotne zabawy. Zestaw zachęca do kreatywnej zabawy, odkrywania skamielin i poznawania świata prehistorycznego. To idealny prezent dla małego paleontologa i fana dinozaurów od 3+ roku życia.
@@ -313765,7 +311160,7 @@ Waga:	0.6 kg
 <nazwa>WOOPIE 58090 Przytulanka Miś z Projektorem</nazwa>
 <cena>49.00</cena>
 <VAT>23</VAT>
-<stan>mała ilość</stan>
+<stan>brak</stan>
 <EAN>5906280658090</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Mięciutki Miś Polarny z Projektorem od marki Woopie to idealny towarzysz snu dla każdego maluszka. Ta urocza przytulanka, wykonana z bezpiecznej, bawełnianej tkaniny, łączy w sobie funkcje projektora świetlnego i uspokajacza z muzyką. Miś pomaga ukoić dziecko do snu, emitując na suficie gwieździste niebo z księżycami w różnych efektach świetlnych. Moduł świetlny posiada wbudowaną ,klasyczną nakręcaną pozytywkę z przyjemną melodyjką. Dodatkową zaletą jest możliwość prania misia w pralce (po wyjęciu modułu elektronicznego).
