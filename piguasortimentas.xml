@@ -6469,7 +6469,7 @@
     <ean>4779030060112</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>1000</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -6653,7 +6653,7 @@
     <ean>4779030060358</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>0</stock>
+    <stock>700</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
