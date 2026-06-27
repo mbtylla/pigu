@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-06-26T19:55:12.833">
+<MARINI timestamp="2026-06-27T19:55:05.263">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -20842,7 +20842,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 175947 Jeżdżący kurczak</nazwa>
 <cena>3.60</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901811175947</EAN>
 <grupa>ARTYK</grupa>
@@ -27253,7 +27253,7 @@ Wielorazowy pojemnik nadaje się do sterylizacji i można go używać z laktator
 <nazwa>AVENT SCF796/01 Kubek ze słomką 200 ml boy</nazwa>
 <cena>27.44</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103781899</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
@@ -54877,8 +54877,8 @@ Właściwości:
 <nazwa>B.O.511/S Poporodowy pas brzuszny S- profilowany</nazwa>
 <cena>53.00</cena>
 <VAT>8</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5906699072944</EAN>
 <grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
 <opis>Poporodowy pas brzuszny profilowany przeznaczony jest dla kobiet po porodach operacyjnych (tzw: cesarskie cięcie) w celu wzmocnienia nadmiernie rozciągniętych powłok brzusznych oraz zmniejszenia ryzyka występowania przepukliny. Pas łagodzi bóle rany pooperacyjnej, daje poczucie bezpieczeństwa i komfort oraz ułatwia wcześniejsze wykonywanie ćwiczeń gimnastycznych wzmacniających mięśnie brzucha. W celu prawidłowego dopasowania rozmiaru należy zmierzyć obwód brzucha i wybrać rozmiar z tabeli.
@@ -72466,8 +72466,8 @@ Centra zabaw Bestway® oferują wspaniałe zajęcia na podwórku, które zapewni
 <nazwa>BESTWAY 53156 Basen dmuchany/Plac zabaw Arktyka 1,34mx1,31mx73cm</nazwa>
 <cena>65.52</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>6941607352120</EAN>
 <grupa>BESTWAY</grupa>
 <opis>Przygotuj się na "wyluzowane" lato zabawy z Bestway® Polar Pals™ Play Center! Wyposażone w przyjazne arktyczne zwierzęta, Polar Pals Play Center ma duży basen do zabawy, posiada on wbudowaną dmuchaną grę w rzucanie pierścieniami w kształcie ryby z 2 możliwymi celami. Dzieci w wieku od 2 lat mogą celować w róg narwala lub rzucać pierścieniami na dmuchaną fokę. Aby zwiększyć trudność gry w rzucanie pierścieniem, fokę można przesuwać wokół centrum zabaw, aby uzyskać większą odległość od celu. W zestawie znajduje się również dmuchany pingwin z 2 piankowymi rybami tak aby dzieci mogły się z nimi pluskać lub karmić pingwina. Centrum zabaw Polar Pals to idealny rozmiar do Twojego ogrodu i można je łatwo skonfigurować, podłączając go do najbliższego węża ogrodowego. Złożenie jest równie łatwe jak dzięki łatwemu w użyciu zaworowi spustowemu. Po zakończonym dniu zabawy, centum zabaw można złożyć i przechowywać przez kolejne lata. Odkryj całą zabawę, jaką oferuje Arktyka dzięki Bestway Polar Pals Play Center.
@@ -80585,7 +80585,7 @@ W opakowaniu 2 szt.</opis>
 <nazwa>CANPOL 56/109_blu2 Bidon ze składaną rurką silikonową 270 ml niebieski</nazwa>
 <cena>10.12</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691802667</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -102158,8 +102158,8 @@ Cechy produktu:
 <nazwa>DUMEL DB 50594 Rybka maszynka do baniek</nazwa>
 <cena>27.15</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904316150594</EAN>
 <grupa>DUMEL/BUBBLES</grupa>
 <opis/>
@@ -102182,7 +102182,7 @@ Cechy produktu:
 <nazwa>DUMEL DB 50631 Płyn do baniek 946 ml</nazwa>
 <cena>8.25</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904316150631</EAN>
 <grupa>DUMEL/BUBBLES</grupa>
@@ -111166,6 +111166,64 @@ Instrukcja</opis>
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5902863</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
+<cena>1548.32</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5906724206559</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -111216,64 +111274,6 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902863</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
-<cena>1548.32</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5906724206559</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -156527,6 +156527,17 @@ Materiał bumpera: plastik
 
 Materiał kół: EVA</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912210-1.jpg https://marini.pl/b2b/pictures/5912210-2.jpg https://marini.pl/b2b/pictures/5912210-3.jpg https://marini.pl/b2b/pictures/5912210-4.png</zdjecia>
+</b2b>
+<b2b>
+<kod>59114829</kod>
+<nazwa>KINDERKRAFT Wózek spacerowy Siesta 2 Moonlight Grey</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5902533930869</EAN>
+<grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>788202</kod>
@@ -213372,7 +213383,7 @@ www.pminvestment.pl/manual/mercedes_c_class_manual.pdf</opis>
 <nazwa>MILLY MALLY 6109 Pojazd z rączką Mercedes C-Class Deluxe White</nazwa>
 <cena>167.40</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761127225</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -267698,7 +267709,7 @@ Podana cena za 1 parę</opis>
 <nazwa>SCORPIO SK-08 Skarpety Stopki wzorowane boy</nazwa>
 <cena>2.38</cena>
 <VAT>23</VAT>
-<ilosc>121</ilosc>
+<ilosc>115</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907617926929</EAN>
 <grupa>YO CLUB- SCORPIO- OP. HURTOWE/SKARPETKI</grupa>
@@ -279987,7 +279998,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA TG-206-106 Huśtawka kubełkowa szara</nazwa>
 <cena>30.50</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963001931</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
@@ -309014,8 +309025,8 @@ Zestaw czterech statków, którymi dziecko może się, bawić na plaży, w piask
 <nazwa>WADER 73400 Konewka</nazwa>
 <cena>3.37</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900694734005</EAN>
 <grupa>WADER</grupa>
 <opis>Wader 73400 Konewka mała
@@ -309030,7 +309041,7 @@ Produkt idealny do zabawy w ogrodzie.</opis>
 <nazwa>WADER 73660 Konewka duża</nazwa>
 <cena>9.42</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900694736603</EAN>
 <grupa>WADER</grupa>
