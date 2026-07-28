@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-07-27T19:55:04.803">
+<MARINI timestamp="2026-07-28T19:55:04.950">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -1360,7 +1360,7 @@ Przód: 18 CM</opis>
 <nazwa>4 BABY Wózek spacerowy STINGER PRO BLACK</nazwa>
 <cena>599.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691958364</EAN>
 <grupa>4BABY/WÓZKI/STINGER</grupa>
@@ -2034,7 +2034,7 @@ wysokość: 25 cm</opis>
 <nazwa>AKUKU A0002 Pachnące woreczki na zużyte pieluszki</nazwa>
 <cena>4.55</cena>
 <VAT>23</VAT>
-<ilosc>28</ilosc>
+<ilosc>25</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000029</EAN>
 <grupa>AKUKU</grupa>
@@ -2048,7 +2048,7 @@ Opakowanie zawiera 100 szt. woreczków.</opis>
 <nazwa>AKUKU A0003 Płatki kosmetyczne dla niemowląt 60 szt</nazwa>
 <cena>4.94</cena>
 <VAT>23</VAT>
-<ilosc>70</ilosc>
+<ilosc>55</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000036</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2095,7 +2095,7 @@ Pojemność 250 ml
 <nazwa>AKUKU A0011 Sterylne woreczki do przechowywania pokarmu 150 ml</nazwa>
 <cena>12.15</cena>
 <VAT>23</VAT>
-<ilosc>36</ilosc>
+<ilosc>29</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000111</EAN>
 <grupa>AKUKU/DLA MAMY</grupa>
@@ -2139,7 +2139,7 @@ Opakowanie zawiera 30 szt. woreczków.</opis>
 <nazwa>AKUKU A0015 Zestaw pielęgnacyjny Grey HOOLIGANS</nazwa>
 <cena>26.52</cena>
 <VAT>23</VAT>
-<ilosc>40</ilosc>
+<ilosc>38</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000159</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2158,7 +2158,7 @@ Przechowywać w miejscu niewidocznym i niedostępnym dla dzieci.</opis>
 <nazwa>AKUKU A0030 Nawilżany papier toaletowy 50 szt</nazwa>
 <cena>3.80</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000302</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2204,7 +2204,7 @@ Pamiętaj: nawilżany papier toaletowy marki „akuku” można wrzucać do toal
 <nazwa>AKUKU A0031 Jednorazowe chusteczki nawilżane wodą 70 szt</nazwa>
 <cena>3.43</cena>
 <VAT>23</VAT>
-<ilosc>40</ilosc>
+<ilosc>37</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000319</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2708,7 +2708,7 @@ Wyprodukowany w UE</opis>
 <nazwa>AKUKU A0157 Szczoteczka do zębów 0-2 lat mint</nazwa>
 <cena>4.38</cena>
 <VAT>23</VAT>
-<ilosc>57</ilosc>
+<ilosc>54</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644001576</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2872,8 +2872,8 @@ BPA FREE</opis>
 <nazwa>AKUKU A0168 Zabawki kąpielowe Farma 4 szt</nazwa>
 <cena>9.11</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907644001682</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
 <opis>Zestaw 4 kolorowych zabawek do kąpieli Farma. Idealne do zabawy w kąpieli. Wyjątkowe i unikalne wzornictwo. Żywa kolorystyka przyciąga uwagę maluchów. Dziecko poprzez zabawę poznaje otaczający go świat.
@@ -3156,7 +3156,7 @@ Rozmiar 55x70 cm</opis>
 <nazwa>AKUKU A0258 Podkład Peva 55x70 Sowy Szare</nazwa>
 <cena>5.87</cena>
 <VAT>23</VAT>
-<ilosc>58</ilosc>
+<ilosc>57</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644002580</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
@@ -3194,7 +3194,7 @@ Rozmiar: 55 × 70 cm</opis>
 <nazwa>AKUKU A0265 Szczoteczka silikonowa w etui pink</nazwa>
 <cena>3.32</cena>
 <VAT>23</VAT>
-<ilosc>33</ilosc>
+<ilosc>31</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644002658</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -3219,7 +3219,7 @@ Pojemność butelki 150 ml</opis>
 <nazwa>AKUKU A0307 Szczotka i grzebień z naturalnym włosiem biała</nazwa>
 <cena>5.54</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003075</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -3293,8 +3293,8 @@ Fikuśny kształt, oraz atrakcyjne kolory przyciągną dziecięcą uwagę – z 
 <nazwa>AKUKU A0354 Wkładki laktacyjne ultracienkie</nazwa>
 <cena>5.54</cena>
 <VAT>5</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907644003549</EAN>
 <grupa>AKUKU/DLA MAMY</grupa>
 <opis>Ultra Cienkie wkładki laktacyjne Akuku to wyjątkowo wygodne i niezawodne wkładki dla karmiącej mamy.
@@ -3341,7 +3341,7 @@ W celu regularnego utrzymania czystości, po każdym użyciu produkt myć ręczn
 <nazwa>AKUKU A0357 Gryzak wodny Słonik</nazwa>
 <cena>4.43</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>26</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003570</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -3425,7 +3425,7 @@ Pojemność 280 ml</opis>
 <nazwa>AKUKU A0394 Termometr do kąpieli Żyrafa</nazwa>
 <cena>4.93</cena>
 <VAT>23</VAT>
-<ilosc>67</ilosc>
+<ilosc>66</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003945</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -3449,7 +3449,7 @@ Pojemność 280 ml</opis>
 <nazwa>AKUKU A0399 Kolektor na mleko</nazwa>
 <cena>11.09</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003990</EAN>
 <grupa>AKUKU/DLA MAMY</grupa>
@@ -3527,7 +3527,7 @@ Opakowanie zawiera 1 szt.</opis>
 <nazwa>AKUKU A0418 Nożyczki do paznokci</nazwa>
 <cena>3.32</cena>
 <VAT>23</VAT>
-<ilosc>65</ilosc>
+<ilosc>63</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004188</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -3710,7 +3710,7 @@ W zestawie znajduje się sitko – kosz i 3 kulki zwierzątka.</opis>
 <nazwa>AKUKU A0458 Zestaw pielęgnacyjny pink</nazwa>
 <cena>18.85</cena>
 <VAT>23</VAT>
-<ilosc>26</ilosc>
+<ilosc>25</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004584</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -3811,7 +3811,7 @@ Wymiary:
 <nazwa>AKUKU A0471 Pluszowa zawieszka krówka czarno biała</nazwa>
 <cena>12.91</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>26</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004713</EAN>
 <grupa>AKUKU/POZYTYWKI I ZAWIESZKI</grupa>
@@ -3865,7 +3865,7 @@ Składa się aż z 10 stron.</opis>
 <nazwa>AKUKU A0475 Książeczka edukacyjna Literki</nazwa>
 <cena>5.15</cena>
 <VAT>5</VAT>
-<ilosc>48</ilosc>
+<ilosc>41</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004751</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -3924,7 +3924,7 @@ Wymiary: 12 × 12 cm
 <nazwa>AKUKU A0480 Książeczka sensoryczna MARINE ANIMALS</nazwa>
 <cena>18.65</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907644004805</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -3939,7 +3939,7 @@ Wymiary: 12 × 12 cm
 <nazwa>AKUKU A0481 Książeczka sensoryczna ANIMAL KINGDOM</nazwa>
 <cena>18.65</cena>
 <VAT>23</VAT>
-<ilosc>53</ilosc>
+<ilosc>47</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004812</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -3952,7 +3952,7 @@ Wymiary: 12 × 12 cm</opis>
 <nazwa>AKUKU A0482 Grzechotka pluszowa HANTEL</nazwa>
 <cena>10.83</cena>
 <VAT>23</VAT>
-<ilosc>85</ilosc>
+<ilosc>84</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004829</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -4062,7 +4062,7 @@ Termometr do mierzenia temperatury wody „akuku” dzięki czytelnej skali pozw
 <nazwa>AKUKU A0497 Kubek SŁONIK</nazwa>
 <cena>4.63</cena>
 <VAT>23</VAT>
-<ilosc>61</ilosc>
+<ilosc>60</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004973</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -4088,8 +4088,8 @@ Pojemność 250 ml</opis>
 <nazwa>AKUKU A0500 Podkład jednorazowy 40x60 Baby Soft 15 szt</nazwa>
 <cena>7.78</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
-<stan>duża ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907644005000</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
 <opis>Baby Soft to jednorazowy podkład z wysoko chłonnym wkładem.
@@ -4107,7 +4107,7 @@ Rozmiar 40 x 60 cm.
 <nazwa>AKUKU A0501 Podkład jednorazowy 60x90 cm SENSITIVE 10 szt</nazwa>
 <cena>9.72</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005017</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
@@ -4171,7 +4171,7 @@ Wymiary: 30 × 3,5 cm
 <nazwa>AKUKU A0512 Szczotka silikonowa z wymienną końcówką</nazwa>
 <cena>16.29</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005123</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -4289,7 +4289,7 @@ pojemność: 240 ml
 <nazwa>AKUKU A0532 Pudełko na nawilżane chusteczki</nazwa>
 <cena>5.90</cena>
 <VAT>23</VAT>
-<ilosc>97</ilosc>
+<ilosc>85</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005321</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -4428,7 +4428,7 @@ A0552 – rozmiar XL, obwód bioder ? 112 ??</opis>
 <nazwa>AKUKU A0552 Majtki jednorazowe poporodowe XL</nazwa>
 <cena>5.93</cena>
 <VAT>23</VAT>
-<ilosc>42</ilosc>
+<ilosc>41</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005529</EAN>
 <grupa>AKUKU/DLA MAMY</grupa>
@@ -4495,7 +4495,7 @@ Produkt całkowicie wolny od bisfenolu A (0% BPA).</opis>
 <nazwa>AKUKU A0575 Szczotka do czyszczenia butelek i smoczków z gąbką pink</nazwa>
 <cena>4.39</cena>
 <VAT>23</VAT>
-<ilosc>32</ilosc>
+<ilosc>31</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005758</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -4782,7 +4782,7 @@ Zestaw zawiera:
 <nazwa>AKUKU A0640 Zestaw piłeczek sensorycznych soft</nazwa>
 <cena>18.56</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006403</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -4794,7 +4794,7 @@ Zestaw zawiera:
 <nazwa>AKUKU A0641 Szczoteczka do mycia zębów 12m+</nazwa>
 <cena>3.32</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907644006410</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -4876,7 +4876,7 @@ Mocowana do szyby za pomocą przyssawki.
 <nazwa>AKUKU A0646 Lusterko do auta 360'</nazwa>
 <cena>22.87</cena>
 <VAT>23</VAT>
-<ilosc>226</ilosc>
+<ilosc>225</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006465</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -5060,7 +5060,7 @@ Zestaw zawiera 4 szt. zabezpieczeń.
 <nazwa>AKUKU A0653 Zabezpieczenia narożników owalne</nazwa>
 <cena>3.96</cena>
 <VAT>23</VAT>
-<ilosc>85</ilosc>
+<ilosc>84</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006533</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -5087,7 +5087,7 @@ Zestaw zawiera 4 szt. zabezpieczeń.</opis>
 <nazwa>AKUKU A0655 Mata antypoślizgowa do wanny 69x39 cm</nazwa>
 <cena>12.94</cena>
 <VAT>23</VAT>
-<ilosc>40</ilosc>
+<ilosc>38</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006557</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -5111,7 +5111,7 @@ Wymiary maty: 69 x 39 cm</opis>
 <nazwa>AKUKU A0656 Składany kosz na zabawki</nazwa>
 <cena>8.77</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006564</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -5289,8 +5289,8 @@ Przeznaczony dla dzieci 0m+</opis>
 <nazwa>AKUKU A0664 Ręcznik kąpielowy frotte z kapturkiem róż</nazwa>
 <cena>29.96</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907644006649</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Okrycie kąpielowe – ręcznik z kapturkiem 100×100cm Gwiazdki
@@ -5530,7 +5530,7 @@ organizer, kieszeń: 34 x 23 cm
 <nazwa>AKUKU A0676 Bidon ze słomką z odważnikiem różowy</nazwa>
 <cena>14.40</cena>
 <VAT>23</VAT>
-<ilosc>32</ilosc>
+<ilosc>29</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006762</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -5556,7 +5556,7 @@ Ostrzeżenie! Zawsze używać wyrobu pod nadzorem dorosłych. Ciągłe i przedł
 <nazwa>AKUKU A0677 Szczoteczka do zębów 0-2 lat różowa</nazwa>
 <cena>4.10</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006779</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -5630,7 +5630,7 @@ W opakowaniu jedna sztuka.</opis>
 <nazwa>AKUKU A0679 Grzechotka Krówka</nazwa>
 <cena>7.16</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006793</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -5650,7 +5650,7 @@ W opakowaniu 1 szt.</opis>
 <nazwa>AKUKU A0680 Grzechotka Klucze jasne</nazwa>
 <cena>6.80</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907644006809</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -5670,7 +5670,7 @@ W opakowaniu 1 szt.</opis>
 <nazwa>AKUKU A0681 Grzechotka Klucze ciemne</nazwa>
 <cena>6.80</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006816</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -5855,7 +5855,7 @@ Rozmiar: 110 x 105 cm (+/- 2cm)
 <nazwa>AKUKU A0687 Jednorazowe chusteczki bambusowe 18x25 cm 100 szt</nazwa>
 <cena>8.10</cena>
 <VAT>23</VAT>
-<ilosc>215</ilosc>
+<ilosc>214</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006878</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -6187,7 +6187,7 @@ Pojemność kubeczka: 150 ml</opis>
 <nazwa>AKUKU A0696 Kubek pochyły do nauki picia różowy</nazwa>
 <cena>4.80</cena>
 <VAT>23</VAT>
-<ilosc>56</ilosc>
+<ilosc>55</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006960</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -6316,7 +6316,7 @@ Opakowanie zawiera 2 szt. osłonek w etui.
 <nazwa>AKUKU A0699 Osłonki na piersi 2 szt / etui L</nazwa>
 <cena>4.74</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006991</EAN>
 <grupa>AKUKU/DLA MAMY</grupa>
@@ -6734,7 +6734,7 @@ Wyrzuć, gdy zauważysz pierwsze oznaki uszkodzenia lub zużycia.</opis>
 <nazwa>AKUKU A0708 Magiczna książeczka edukacyjna Farma</nazwa>
 <cena>6.35</cena>
 <VAT>5</VAT>
-<ilosc>81</ilosc>
+<ilosc>78</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644007080</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -6782,8 +6782,8 @@ Ostrzeżenie! Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym d
 <nazwa>AKUKU A0710 Bezpieczne patyczki do uszu dla niemowląt</nazwa>
 <cena>2.16</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
-<stan>duża ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907644007103</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Zadbaj o codzienną higienę swojego maluszka z pełnym spokojem!
@@ -6844,7 +6844,7 @@ Ostrzeżenie! Nigdy nie pozostawiaj dziecka bez opieki podczas kąpieli.</opis>
 <nazwa>AKUKU A0712 Żel do mycia butelek i smoczków 500ml</nazwa>
 <cena>7.12</cena>
 <VAT>23</VAT>
-<ilosc>57</ilosc>
+<ilosc>41</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644007127</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -6986,8 +6986,8 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>AKUKU A0720 Myjka ecru XL 100% bawełna</nazwa>
 <cena>3.29</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907644007202</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis/>
@@ -7030,8 +7030,8 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>AKUKU A0724 Bidon ze słomką szkolny zielony 480ml</nazwa>
 <cena>17.65</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907644007240</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
 <opis/>
@@ -7041,7 +7041,7 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>AKUKU A0725 Bidon ze słomką szkolny różowy</nazwa>
 <cena>17.65</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907644007257</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -7052,7 +7052,7 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>AKUKU A0726 Bidon ze słomką szkolny mocha 480 ml</nazwa>
 <cena>17.65</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907644007264</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -7250,7 +7250,7 @@ Skład: 100% bawełna</opis>
 <nazwa>AKUKU A1128 Rękawica frotte szara, opakowanie zbiorcze 6 szt.</nazwa>
 <cena>3.15</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644011285</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -7266,7 +7266,7 @@ Skład: 100% bawełna</opis>
 <nazwa>AKUKU A1130 Gąbka zabawka kąpielowa mix</nazwa>
 <cena>3.76</cena>
 <VAT>23</VAT>
-<ilosc>26</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000388</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -7282,7 +7282,7 @@ Skład: obszycie 82% bawełna, 18% poliester / atestowana, ekologiczna gąbka po
 <nazwa>AKUKU A1132 Gąbka kąpielowa zwykła żółta</nazwa>
 <cena>2.28</cena>
 <VAT>23</VAT>
-<ilosc>44</ilosc>
+<ilosc>43</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644011322</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -7312,8 +7312,8 @@ Kolor różowy.
 <nazwa>AKUKU A1134 Gąbka kąpielowa zwykła zielona</nazwa>
 <cena>2.44</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907644011346</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
 <opis>Delikatna gąbeczka została wykonana z atestowanej, ekologicznej gąbki specjalnie do wrażliwej skóry dziecka. Idealna podczas codziennych kąpieli. Przeznaczona jest zarówno dla dzieci, jak i niemowląt. Różnorodna kolorystyka przyciąga uwagę malucha, umożliwiając dokładne umycie. Poza tym zachęca dziecko do nauki samodzielnego dbania o higienę. Wyprodukowana w Polsce.
@@ -7358,7 +7358,7 @@ Skład: 82% bawełna, 18% poliester / atestowana, ekologiczna pianka poliuretano
 <nazwa>AKUKU A1231 Okrycie kąpielowe 80x80 cm 100% bawełna ecru</nazwa>
 <cena>25.40</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644012312</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -7428,7 +7428,7 @@ Wymiary okrycia: 100 x 100 cm</opis>
 <nazwa>AKUKU A1248 Okrycie kąpielowe 100x100 cm 100% bawełna szary</nazwa>
 <cena>28.35</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644012480</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -8104,8 +8104,8 @@ Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie 
 <nazwa>ALBERO MIO Baldachim uniwersalny z kokardą biały</nazwa>
 <cena>52.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901571379821</EAN>
 <grupa>ALBERO MIO/AKCESORIA</grupa>
 <opis>Wymiary: 150x200
@@ -8118,8 +8118,8 @@ Skład: górna część - bawełna 100% (kolor biały)
 <nazwa>ALBERO MIO Baldachim uniwersalny z kokardą brudny róż</nazwa>
 <cena>52.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904165684004</EAN>
 <grupa>ALBERO MIO/AKCESORIA/BALDACHIMY I MOSKITIERY</grupa>
 <opis>Baldachim / Canopy
@@ -8515,7 +8515,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania miękka  423 MARZYCIEL</nazwa>
 <cena>51.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904165684271</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -8621,8 +8621,8 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam
 <nazwa>ALBERO MIO Mata do przewijania miękka 420 KRÓLICZEK</nazwa>
 <cena>51.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5904165682123</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
 <opis>Mata do przewijania miękka / Soft changing mat
@@ -9397,7 +9397,7 @@ Skład surowcowy: folia PVC bez zawartości ftalanów (100% poliester), pianka (
 <nazwa>ALBERO MIO Mata do przewijania miękka CP9 Pudrowe kokardki</nazwa>
 <cena>51.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907001941743</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -9601,7 +9601,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 424 Safari team</nazwa>
 <cena>39.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904165684462</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -12556,7 +12556,7 @@ Korzystaj wyłącznie z czystego i suchego produktu.</opis>
 <nazwa>ALBERO MIO Prześcieradło do gondoli 2-pak 80x35 Wild Flowers CM2</nazwa>
 <cena>43.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907001942047</EAN>
 <grupa>ALBERO MIO/AKCESORIA/PRZEŚCIERADŁA</grupa>
@@ -13564,7 +13564,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak twardy długi 416 AUTKA</nazwa>
 <cena>64.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904165682079</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
@@ -14751,7 +14751,7 @@ Skład surowcowy: folia PVC bez zawartości ftalanów (100% poliester), pianka (
 <nazwa>ALBERO MIO Przewijak twardy krótki CP2 Gąska Gaja</nazwa>
 <cena>57.00</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904165685926</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
@@ -18839,7 +18839,7 @@ Kupując ten komplet otrzymasz w zestawie: kocyk z wypełnieniem 75x65cm. Poszew
 <b2b>
 <kod>779392</kod>
 <nazwa>ANEK SP83349 Ciasto masa plastyczna 8 szt</nazwa>
-<cena>10.13</cena>
+<cena>9.79</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
 <stan>brak</stan>
@@ -20808,7 +20808,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 177033 Auto / Robot koparka</nazwa>
 <cena>36.41</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901811177033</EAN>
 <grupa>ARTYK</grupa>
@@ -22075,7 +22075,7 @@ Różne wzory, wysyłane losowo</opis>
 <nazwa>ATK (MINIANIA) Pielucha tetrowa 80x70 cena za 1szt /pakowane po 10szt</nazwa>
 <cena>3.41</cena>
 <VAT>5</VAT>
-<ilosc>540</ilosc>
+<ilosc>530</ilosc>
 <stan>duża ilość</stan>
 <EAN>5906269344044</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
@@ -22152,7 +22152,7 @@ Różne wzory, wysyłane losowo</opis>
 <nazwa>ATK (MINIANIA) Pielucha z tetry druk cena za 1szt / pakowane po 5szt</nazwa>
 <cena>4.82</cena>
 <VAT>5</VAT>
-<ilosc>146</ilosc>
+<ilosc>111</ilosc>
 <stan>duża ilość</stan>
 <EAN>5906269344082</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
@@ -22245,7 +22245,7 @@ Dostępne kolory: biały lub fango</opis>
 <nazwa>ATK (MINIANIA) Prześcieradło 140x70 jersey</nazwa>
 <cena>18.90</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5906269344204</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
@@ -23233,8 +23233,8 @@ Zawartość zestawu - Smoczek ultra start Nighttime 2 szt.
 <nazwa>AVENT SCF080/05 Smoczek Ultra Air Animals 0-6M chłopiec słonik/pingwin</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8710103949336</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI USPAKAJAJĄCE</grupa>
 <opis>Ukołysz dziecko dzięki smoczkowi, który pozwala skórze oddychać. Kolekcja Philips Avent Ultra Air wyposażona jest w bardzo duże otwory, które pozwalają skórze oddychać. Lekka osłonka zapewnia maksymalny przepływ powietrza. Dostępny w różnych kolorach i wzorach.
@@ -25458,7 +25458,7 @@ Jednorazowe wkładki laktacyjne Philips Avent ułatwiają karmienie piersią. Fa
 <nazwa>AVENT SCF263/61 Kubek treningowy z Responsywnym smoczkiem Natural 125 ml 6+</nazwa>
 <cena>30.49</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>8710103990819</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
@@ -26809,7 +26809,7 @@ Unikalny i niezwykle atrakcyjny design zachęca do picia.</opis>
 <nazwa>AVENT SCF798/01 Kubek ze słomką 300 ml boy</nazwa>
 <cena>24.59</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>8710103781974</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/KUBKI</grupa>
@@ -27096,7 +27096,7 @@ Butelka dla niemowląt 125 ml: 1 pcs</opis>
 <nazwa>AVENT SCY900/01 Butelka Natural Responsywna 125 ml</nazwa>
 <cena>27.74</cena>
 <VAT>23</VAT>
-<ilosc>50</ilosc>
+<ilosc>48</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103990444</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27134,7 +27134,7 @@ Smoczek z regulacją przepływu (2 prędkości): 1szt.
 <nazwa>AVENT SCY903/01 Butelka Natural Responsywna 260 ml</nazwa>
 <cena>30.49</cena>
 <VAT>23</VAT>
-<ilosc>89</ilosc>
+<ilosc>88</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103989639</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27431,7 +27431,7 @@ Butelka dla niemowląt 330 ml: 1 pcs</opis>
 <nazwa>AVENT SCY930/01 Butelka Responsywna Natural szklana 120 ml</nazwa>
 <cena>36.06</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>32</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103990758</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27750,19 +27750,6 @@ Smoczek z regulacją przepływu (2 prędkości) 1 szt.</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>771062</kod>
-<nazwa>AXIOM 4815/2 Słonik Trąbuś szary 30 cm</nazwa>
-<cena>15.78</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904042048158</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis>Słoń Salim ujmie każdego rodzica za serce, a tym bardziej malucha, który od pierwszych dni potrzebuje wiele czułości i miłości. Ten uroczy pluszowy słoń dostarczy dziecku zmysłowych bodźców, które będą sprzyjać prawidłowemu rozwojowi malucha. Tym samym dziecko będzie odczuwać ogromną potrzebę przytulania się czy popołudniowego leżakowania na dużej pluszowej zabawce.
-
-Kategoria wiekowa: 0+</opis>
-</b2b>
-<b2b>
 <kod>778879</kod>
 <nazwa>AXIOM 5093 Kryształowa kolekcja Kurczak 30cm</nazwa>
 <cena>19.09</cena>
@@ -27913,18 +27900,6 @@ Kategoria wiekowa: 3+</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5909880-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5909881</kod>
-<nazwa>AXIOM 9333 Miś Maksiu kremowy 37 cm</nazwa>
-<cena>43.90</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904209893331</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5909881-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5908951</kod>
 <nazwa>AXIOM 9341 Kot Alex 30 cm</nazwa>
 <cena>35.90</cena>
@@ -27972,18 +27947,6 @@ Kategoria wiekowa: 3+</opis>
 <opis/>
 </b2b>
 <b2b>
-<kod>5910860</kod>
-<nazwa>AXIOM 9370 Zabawka z dźwiękiem Pingwin miętowo-niebieski 17 cm</nazwa>
-<cena>12.43</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904209893706</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5910860-1.jpg</zdjecia>
-</b2b>
-<b2b>
 <kod>5911249</kod>
 <nazwa>AXIOM 9407 Zabawka z dźwiękiem Jeżyk 17 cm</nazwa>
 <cena>12.43</cena>
@@ -28024,7 +27987,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9412 Miluś Miś z balonikiem 25x25 cm</nazwa>
 <cena>18.38</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209894123</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28071,7 +28034,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9437 Ręczniczek odpinany Słonik miętowy 35x35 cm</nazwa>
 <cena>23.54</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904209894376</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28125,18 +28088,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5911606-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911607</kod>
-<nazwa>AXIOM 9458 Pozytywka Świnka różowa 20 cm</nazwa>
-<cena>26.74</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904209894581</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911607-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911608</kod>
@@ -28209,30 +28160,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5911623-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911624</kod>
-<nazwa>AXIOM 9478 Miś Kropek beżowy 25 cm</nazwa>
-<cena>26.50</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904209894789</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911624-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911625</kod>
-<nazwa>AXIOM 9479 Miś Kropek szary 30 cm</nazwa>
-<cena>32.90</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904209894796</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911625-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911626</kod>
@@ -28357,7 +28284,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9512 Miluś Królik różowy 25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904209895120</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28369,8 +28296,8 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9513 Miluś Królik niebieski 25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5904209895137</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -28561,7 +28488,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9550 Miluś Koala szara 25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209895502</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28693,7 +28620,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9564 Miluś Miś beżowy 25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209895649</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -30026,8 +29953,8 @@ Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadzorem osoby dor
 <nazwa>B.BOX 63044 Zestaw sportowa butelka tritanowa 450ml + Mini Lunchbox Lemon Twist</nazwa>
 <cena>96.67</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905450163044</EAN>
 <grupa>B.BOX</grupa>
 <opis>Zestaw zawiera:
@@ -43885,7 +43812,7 @@ Dostępne kolory:
 <nazwa>B.O.065/04 Cążki do paznokci beżowe TAKE CARE</nazwa>
 <cena>3.89</cena>
 <VAT>23</VAT>
-<ilosc>50</ilosc>
+<ilosc>48</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417874</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -43914,7 +43841,7 @@ Wiek dziecka
 <nazwa>B.O.066 Bezpieczne nożyczki TAKE CARE</nazwa>
 <cena>5.67</cena>
 <VAT>23</VAT>
-<ilosc>145</ilosc>
+<ilosc>140</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341200868</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -44043,7 +43970,7 @@ płynna regulacja szelek umożliwia dopasowanie ich do wzrostu dziecka</opis>
 <nazwa>B.O.072 Moskitiera do wózka TAKE CARE</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<ilosc>43</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341200486</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -44057,7 +43984,7 @@ płynna regulacja szelek umożliwia dopasowanie ich do wzrostu dziecka</opis>
 <nazwa>B.O.072/01 Moskitiera na wózek uniwersalna czarna</nazwa>
 <cena>10.49</cena>
 <VAT>23</VAT>
-<ilosc>26</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415344</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -44319,7 +44246,7 @@ czas pracy na w pełni nakładowej baterii: około 120 min.
 <nazwa>B.O.1008/01 Silikonowy gryzak dla niemowląt niebieski</nazwa>
 <cena>9.51</cena>
 <VAT>23</VAT>
-<ilosc>74</ilosc>
+<ilosc>72</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435409367</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
@@ -44405,7 +44332,7 @@ Wiek dziecka
 <nazwa>B.O.1009 Gryzak elastyczny</nazwa>
 <cena>7.00</cena>
 <VAT>23</VAT>
-<ilosc>80</ilosc>
+<ilosc>77</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341207126</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
@@ -44491,7 +44418,7 @@ nie zawiera Bisfenolu A</opis>
 <nazwa>B.O.1022 Pojemnik na mleko w proszku</nazwa>
 <cena>6.53</cena>
 <VAT>23</VAT>
-<ilosc>132</ilosc>
+<ilosc>129</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341207157</EAN>
 <grupa>BABYONO/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -44566,7 +44493,7 @@ W zestawie:
 <nazwa>B.O.1028/01 Pojemniki do mrożenia pokarmu z ustnikiem</nazwa>
 <cena>13.26</cena>
 <VAT>23</VAT>
-<ilosc>133</ilosc>
+<ilosc>132</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418222</EAN>
 <grupa>BABYONO/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -44623,7 +44550,7 @@ WORECZKI DO STERYLIZACJI:
 <nazwa>B.O.1052 Woreczki pachnące na zużyte pieluchy TAKE CARE</nazwa>
 <cena>4.51</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>34</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435402498</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -44887,7 +44814,7 @@ Dane techniczne:
 <nazwa>B.O.1071/02 Uniwersalna suszarka do butelek i smoczków TAKE CARE</nazwa>
 <cena>16.70</cena>
 <VAT>23</VAT>
-<ilosc>60</ilosc>
+<ilosc>59</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435409411</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -45009,7 +44936,7 @@ pojemność 230 ml</opis>
 <nazwa>B.O.1079 Waga elektroniczna dla niemowląt</nazwa>
 <cena>68.00</cena>
 <VAT>23</VAT>
-<ilosc>22</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415337</EAN>
 <grupa>BABYONO/ELEKTRONIKA/WAGI</grupa>
@@ -45494,7 +45421,7 @@ Wymiary: 16 x 17 x 5 cm
 <nazwa>B.O.1419 Szczoteczki do słomek i rurek</nazwa>
 <cena>5.05</cena>
 <VAT>23</VAT>
-<ilosc>68</ilosc>
+<ilosc>65</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435411841</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -45904,7 +45831,7 @@ Waga: 36 g</opis>
 <nazwa>B.O.1469/01 Silikonowa zawieszka do smoczka</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<ilosc>47</ilosc>
+<ilosc>46</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435413210</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -45931,7 +45858,7 @@ Wykonana z miękkiego silikonu, wolnego od szkodliwych substancji. W pełni bezp
 <nazwa>B.O.1469/02 Silikonowa zawieszka do smoczka</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<ilosc>44</ilosc>
+<ilosc>41</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417164</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -45958,7 +45885,7 @@ Wykonana z miękkiego silikonu, wolnego od szkodliwych substancji. W pełni bezp
 <nazwa>B.O.1469/03 Silikonowa zawieszka do smoczka</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<ilosc>36</ilosc>
+<ilosc>33</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417171</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -45985,7 +45912,7 @@ Wykonana z miękkiego silikonu, wolnego od szkodliwych substancji. W pełni bezp
 <nazwa>B.O.1469/04 Silikonowa zawieszka do smoczka</nazwa>
 <cena>11.43</cena>
 <VAT>23</VAT>
-<ilosc>66</ilosc>
+<ilosc>65</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417188</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -46297,7 +46224,7 @@ Silikonowy materiał ułatwia utrzymanie czystości. Miseczkę można bezpieczni
 <nazwa>B.O.1481/04 Silikonowa miseczka z przyssawką beżowa</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>29</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417058</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
@@ -46433,7 +46360,7 @@ Talerzyk z silikonu jest łatwy do czyszczenia. Można go bezpiecznie myć w zmy
 <nazwa>B.O.1482/04 Silikonowy talerzyk z przyssawką beżowy</nazwa>
 <cena>12.66</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417072</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
@@ -46509,7 +46436,7 @@ Pojemność butelki 150 ml</opis>
 <nazwa>B.O.1485 Laktator elektryczny PICO  (wkładki 296 GRATIS)</nazwa>
 <cena>100.00</cena>
 <VAT>23</VAT>
-<ilosc>41</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435413876</EAN>
 <grupa>BABYONO/ELEKTRONIKA/LAKTATORY</grupa>
@@ -46627,7 +46554,7 @@ Wiek dziecka
 <nazwa>B.O.1512 Książeczka sensoryczna FARM</nazwa>
 <cena>20.79</cena>
 <VAT>23</VAT>
-<ilosc>41</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435414668</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -46803,7 +46730,7 @@ Dane techniczne:
 <nazwa>B.O.1523 Przytulanka z zawieszką do smoczka DOG WILLY</nazwa>
 <cena>14.19</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901435414590</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -46830,7 +46757,7 @@ Wymiary: 26x21 cm.</opis>
 <nazwa>B.O.1524 Piszczek z gryzakiem DOG WILLY</nazwa>
 <cena>14.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901435414606</EAN>
 <grupa>BABYONO/ZABAWKI/PISZCZKI</grupa>
@@ -47016,7 +46943,7 @@ Wiek dziecka: 0 m+</opis>
 <nazwa>B.O.1533 Przytulanka - szeleścik HAPPY PANDA BLINK &amp; SHINE</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<ilosc>35</ilosc>
+<ilosc>34</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415542</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -47100,7 +47027,7 @@ Wymiar: 26 x 9 cm</opis>
 <nazwa>B.O.1535 Przytulanka - szeleścik KITTY BLINK &amp; SHINE</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>21</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415566</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -47142,7 +47069,7 @@ Wymiar: 17,5 x 15 cm</opis>
 <nazwa>B.O.1536 Przytulanka - szeleścik LITTLE BIRDIE BLINK &amp; SHINE</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>21</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415573</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -47184,7 +47111,7 @@ Wymiar: 26,5 x 27 cm</opis>
 <nazwa>B.O.1537 Przytulanka kocyk LITTLE BIRDIE</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<ilosc>22</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415580</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -47421,7 +47348,7 @@ Wymiar opakowania: 8,5 x 2,5 x 12,5 cm</opis>
 <nazwa>B.O.1546 Grzechotka BEAR</nazwa>
 <cena>6.90</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415887</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
@@ -47574,7 +47501,7 @@ Wymiar: 5x16 cm
 <nazwa>B.O.1553/04 Okrycie kąpielowe bambusowe z kapturkiem 100x100cm różowe</nazwa>
 <cena>47.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901435418000</EAN>
 <grupa>BABYONO/KĄPIEL/OKRYCIA I RĘCZNIKI</grupa>
@@ -47803,8 +47730,8 @@ Wymiar: 7,5 x 18,5 x 19 cm</opis>
 <nazwa>B.O.1557/01 Przytulanka -szeleścik LLAMA LULU-różowy</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901435416099</EAN>
 <grupa>BABYONO</grupa>
 <opis>Poznaj szeleścik Llama Lulu, która ma miękkie futerko, idealne do przytulania.
@@ -47835,7 +47762,7 @@ Wymiar: 16 x 23 cm</opis>
 <nazwa>B.O.1557/02 Przytulanka - szeleścik LLAMA LULU-niebieski</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901435416518</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -47985,7 +47912,7 @@ Wymiar: 21 x 15 cm</opis>
 <nazwa>B.O.1565 Zestaw naczyń dla dzieci FARMER 3szt.</nazwa>
 <cena>23.51</cena>
 <VAT>23</VAT>
-<ilosc>46</ilosc>
+<ilosc>45</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416174</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
@@ -48055,7 +47982,7 @@ Nie zaleca się używania w kuchence mikrofalowej</opis>
 <nazwa>B.O.1567/01 Kocyk z przytulanką śmietankowy</nazwa>
 <cena>37.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901435418703</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
@@ -48138,7 +48065,7 @@ Poza pojemnikiem na smoczek innym przydatnym akcesorium jest zawieszka do smoczk
 <nazwa>B.O.1569/03 Pojemnik na smoczek beżowy</nazwa>
 <cena>9.99</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417638</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -48160,7 +48087,7 @@ Poza pojemnikiem na smoczek innym przydatnym akcesorium jest zawieszka do smoczk
 <nazwa>B.O.1571/01 Torba dla mamy / do wózka CARMEN czarna</nazwa>
 <cena>82.00</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901435416396</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
@@ -48225,8 +48152,8 @@ Kolor torby – czarny. Może delikatnie różnić się od prezentowanego na zdj
 <nazwa>B.O.1571/02 Torba dla mamy / do wózka CARMEN beżowa</nazwa>
 <cena>82.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901435416402</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
 <opis>Torba dla mamy/do wózka CARMEN to modna, miejska torba, idealna towarzyszka każdej mamy. Łączy w sobie kompaktowe wymiary z niezwykłą pojemnością i stylem.
@@ -48292,7 +48219,7 @@ Kolor torby – beżowy. Może delikatnie różnić się od prezentowanego na zd
 <nazwa>B.O.1571/03 Torba dla mamy / do wózka CARMEN szara</nazwa>
 <cena>82.00</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417027</EAN>
 <grupa>BABYONO/DLA MAMY</grupa>
@@ -48356,7 +48283,7 @@ Kolor torby – czarny. Może delikatnie różnić się od prezentowanego na zdj
 <nazwa>B.O.1575 Termometr elektryczny bezdotykowy</nazwa>
 <cena>65.00</cena>
 <VAT>23</VAT>
-<ilosc>46</ilosc>
+<ilosc>41</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416433</EAN>
 <grupa>BABYONO/ELEKTRONIKA/TERMOMETRY</grupa>
@@ -48752,8 +48679,8 @@ Wymiar opakowania: 10x19 cm</opis>
 <nazwa>B.O.1591 Grzechotka z gryzakiem</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901435416655</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
 <opis>Nasza grzechotka to idealna pierwsza zabawka dla Twojego malucha. Wykonana została w całości z bezpiecznych i przyjemnych w dotyku materiałów.
@@ -48907,7 +48834,7 @@ Wymiar opakowania: 10x14 cm</opis>
 <nazwa>B.O.1596/01 Gryzak silikonowy FLOWER</nazwa>
 <cena>10.80</cena>
 <VAT>23</VAT>
-<ilosc>32</ilosc>
+<ilosc>30</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416709</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
@@ -48948,7 +48875,7 @@ Wymiary opakowania 9 × 15 cm</opis>
 <nazwa>B.O.1596/02 Gryzak silikonowy FLOWER</nazwa>
 <cena>10.80</cena>
 <VAT>23</VAT>
-<ilosc>33</ilosc>
+<ilosc>31</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416716</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
@@ -49178,7 +49105,7 @@ Wymiar opakowania: 15,5 x 17,5 cm</opis>
 <nazwa>B.O.1629 Grzechotka BARBELL</nazwa>
 <cena>6.00</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416846</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
@@ -49198,7 +49125,7 @@ Wymiar opakowania: 15,5 x 17,5 cm</opis>
 <nazwa>B.O.1630 Grzechotka TRUMPET</nazwa>
 <cena>6.00</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416853</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
@@ -49276,7 +49203,7 @@ Wymiar: 12 x 12 cm</opis>
 <nazwa>B.O.1639/01 Silikonowy śliniak z regulowanym zapięciem</nazwa>
 <cena>10.00</cena>
 <VAT>23</VAT>
-<ilosc>26</ilosc>
+<ilosc>25</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417089</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -49306,7 +49233,7 @@ Wymiar opakowania: 30 x 33 cm</opis>
 <nazwa>B.O.1639/02 Silikonowy śliniak z regulowanym zapięciem</nazwa>
 <cena>10.00</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417096</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -49500,7 +49427,7 @@ Fartuszek jest dostępny w dwóch rozmiarach: dla dzieci od 6 miesięcy do 2 lat
 <nazwa>B.O.1642/02 Fartuszek FOREST</nazwa>
 <cena>9.66</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416983</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -49798,7 +49725,7 @@ Zapakowany w kartonik z okienkiem – doskonały pomysł na prezent.
 <nazwa>B.O.1647/03 Kocyk dzianinowy bawełniany beżowy</nazwa>
 <cena>55.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901435417249</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
@@ -50224,7 +50151,7 @@ Kolor torby- szary. Może delikatnie różnić się od prezentowanego na zdjęci
 <nazwa>B.O.1651 Zabezpieczenia do mebli narożniki 12szt.</nazwa>
 <cena>11.50</cena>
 <VAT>23</VAT>
-<ilosc>71</ilosc>
+<ilosc>70</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416440</EAN>
 <grupa>BABYONO/ZABEZPIECZENIA</grupa>
@@ -51103,7 +51030,7 @@ Wiek dziecka: 0-6 m
 <nazwa>B.O.1670/02 Smoczki anatomiczne silikonowe 6-18m</nazwa>
 <cena>12.00</cena>
 <VAT>5</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417850</EAN>
 <grupa>BABYONO/SMOCZKI</grupa>
@@ -51529,7 +51456,7 @@ Wymiary torby: 45 x 12 x 30 cm
 <nazwa>B.O.1673/01 Kocyk bambusowy różowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<ilosc>32</ilosc>
+<ilosc>31</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418048</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
@@ -52445,7 +52372,7 @@ Doskonali koordynację wzrokowo-ruchową
 <nazwa>B.O.1692 Pozytywka Cow Bingo</nazwa>
 <cena>36.75</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418468</EAN>
 <grupa>BABYONO/ZABAWKI/POZYTYWKI</grupa>
@@ -52539,7 +52466,7 @@ Etui ochronne w zestawie
 <nazwa>B.O.216 Podgrzewacz Natural Nursing z funkcją sterylizacji 2w1</nazwa>
 <cena>53.14</cena>
 <VAT>23</VAT>
-<ilosc>102</ilosc>
+<ilosc>99</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435407394</EAN>
 <grupa>BABYONO/ELEKTRONIKA/PODGRZEWACZE</grupa>
@@ -52676,8 +52603,8 @@ Wymiary myjki: 12 × 22 cm</opis>
 <nazwa>B.O.347/11 Bambusowa myjka kąpielowa NATURAL BAMBOO jasny beż</nazwa>
 <cena>6.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901435418147</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Naszą myjkę kąpielową wykonaliśmy z wysokiej jakości delikatnego bambusa z domieszką puszystej bawełny. Wygodna forma rękawicy sprawdzi się podczas kąpieli, a także w codziennej pielęgnacji maluszka. Jest to dobry wybór dla dzieci z problemami skórnymi ponieważ włóknina bambusowa ma właściwości hypoalergiczne.
@@ -52733,7 +52660,7 @@ Właściwości:
 <nazwa>B.O.348/07 Pieluszki muślinowe super miękkie</nazwa>
 <cena>16.90</cena>
 <VAT>5</VAT>
-<ilosc>42</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435414507</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -52757,7 +52684,7 @@ Wymiar: 70x70 cm</opis>
 <nazwa>B.O.348/08 Pieluszki muślinowe super miękkie beżowe</nazwa>
 <cena>16.90</cena>
 <VAT>5</VAT>
-<ilosc>19</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435414514</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -52839,7 +52766,7 @@ Wymiar: 70 x 70 cm</opis>
 <nazwa>B.O.348/11 Pieluszki muślinowe super miękkie</nazwa>
 <cena>16.90</cena>
 <VAT>5</VAT>
-<ilosc>46</ilosc>
+<ilosc>45</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415771</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -52873,7 +52800,7 @@ Wymiar: 70 x 70 cm</opis>
 <nazwa>B.O.348/12 Pieluszki muślinowe super miękkie</nazwa>
 <cena>16.90</cena>
 <VAT>5</VAT>
-<ilosc>36</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415788</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -52907,7 +52834,7 @@ Wymiar: 70 x 70 cm</opis>
 <nazwa>B.O.397/02 Naturalne pieluszki z włókien bambusa organicznego szare TAKE CARE</nazwa>
 <cena>21.75</cena>
 <VAT>5</VAT>
-<ilosc>48</ilosc>
+<ilosc>47</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435409749</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -52936,7 +52863,7 @@ Waga opakowania: 0,18 kg</opis>
 <nazwa>B.O.397/04 Naturalne pieluszki z włókien bambusa organicznego miętowe TAKE CARE</nazwa>
 <cena>21.75</cena>
 <VAT>5</VAT>
-<ilosc>44</ilosc>
+<ilosc>43</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435409763</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -52994,7 +52921,7 @@ Wymiary opakowania: 15x25 cm.</opis>
 <nazwa>B.O.397/09 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO</nazwa>
 <cena>25.00</cena>
 <VAT>5</VAT>
-<ilosc>93</ilosc>
+<ilosc>92</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435414491</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -53063,7 +52990,7 @@ Wymiar: 70x70 cm</opis>
 <nazwa>B.O.397/12 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO</nazwa>
 <cena>25.00</cena>
 <VAT>5</VAT>
-<ilosc>63</ilosc>
+<ilosc>62</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415757</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -53103,7 +53030,7 @@ Wymiar: 70x70 cm</opis>
 <nazwa>B.O.397/13 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO beżowy</nazwa>
 <cena>25.00</cena>
 <VAT>5</VAT>
-<ilosc>80</ilosc>
+<ilosc>79</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418475</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -53139,7 +53066,7 @@ Wymiary opakowania: 15x25 cm.</opis>
 <nazwa>B.O.397/14 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO różowy</nazwa>
 <cena>25.00</cena>
 <VAT>5</VAT>
-<ilosc>60</ilosc>
+<ilosc>59</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418482</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -53249,7 +53176,7 @@ etui</opis>
 <nazwa>B.O.398/03 Zestaw do pielęgnacji paznokci dla dzieci i niemowląt SZARY TAKE CARE</nazwa>
 <cena>15.10</cena>
 <VAT>23</VAT>
-<ilosc>28</ilosc>
+<ilosc>25</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435410783</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -53470,7 +53397,7 @@ Wymiar opakowania: 7 x 22 cm</opis>
 <nazwa>B.O.500/L Jednorazowe Majtki poporodowe L</nazwa>
 <cena>8.60</cena>
 <VAT>23</VAT>
-<ilosc>88</ilosc>
+<ilosc>87</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341203623</EAN>
 <grupa>BABYONO/DLA MAMY/MAJTKI POPORODOWE</grupa>
@@ -53506,7 +53433,7 @@ JEDNORAZOWE MAJTKI POPORODOWE:
 <nazwa>B.O.500/XL Jednorazowe Majtki poporodowe XL</nazwa>
 <cena>8.00</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>36</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341203630</EAN>
 <grupa>BABYONO/DLA MAMY/MAJTKI POPORODOWE</grupa>
@@ -54012,8 +53939,8 @@ wymiary pojemnika 7cm x 13cm
 <nazwa>B.O.529/04 Pojemnik na smoczek Słonik beżowy</nazwa>
 <cena>7.00</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435418208</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
 <opis>Pojemnik w kształcie słonika służy do przenoszenia i przechowywania smoczka. Niezbędny podczas każdego spaceru, chroni smoczek przed zgubieniem i zabrudzeniem. Pojemnik dzięki elastycznemu uchwytowi można zawiesić na rączce wózka, fotelika lub torby spacerowej. Nie zawiera Bisfenolu A.
@@ -54246,7 +54173,7 @@ Sposób czyszczenia:wyparzać polewając wrzątkiem
 <nazwa>B.O.567/03 Szczotka i grzebień do włosów naturalne miękkie włosie MIĘTOWA TAKE CARE</nazwa>
 <cena>9.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901435411698</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -55652,7 +55579,7 @@ Właściwości:
 <nazwa>B.O.733 Szczotka do słomek i rurek TAKE CARE</nazwa>
 <cena>5.67</cena>
 <VAT>23</VAT>
-<ilosc>46</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435400487</EAN>
 <grupa>BABYONO/BUTELKI I KUBKI/SZCZOTKI DO BUTELEK</grupa>
@@ -55741,7 +55668,7 @@ W zestawie:
 <nazwa>B.O.735/05 Szczoteczki do butelek i smoczków z wymiennąrączką różowe</nazwa>
 <cena>9.99</cena>
 <VAT>23</VAT>
-<ilosc>27</ilosc>
+<ilosc>25</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418291</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -55865,7 +55792,7 @@ TERMOMETR DO KĄPIELI:
 <nazwa>B.O.776/02 Termometr do wody żyrafa szara TAKE CARE</nazwa>
 <cena>6.58</cena>
 <VAT>23</VAT>
-<ilosc>188</ilosc>
+<ilosc>187</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435408711</EAN>
 <grupa>BABYONO/KĄPIEL/TERMOMETRY</grupa>
@@ -55907,7 +55834,7 @@ TERMOMETR DO KĄPIELI:
 <nazwa>B.O.777/01 Termomert do wody szary TAKE CARE</nazwa>
 <cena>7.20</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435408872</EAN>
 <grupa>BABYONO/KĄPIEL/TERMOMETRY</grupa>
@@ -56094,8 +56021,8 @@ Wymiar opakowania:7,5 x 1,5 x 19,5 cm</opis>
 <nazwa>B.O.785/03 Elastyczna silikonowa łyżeczka różowa</nazwa>
 <cena>6.83</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901435415795</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/SZTUĆCE</grupa>
 <opis>Elastyczna łyżeczka z miękkiego silikonu idealnie nadaje się do nauki jedzenia. Elastyczność materiału pozwala na nadawanie łyżeczce różnych kształtów, co ułatwia naukę samodzielnego trzymania i jedzenia. Jest bezpieczna dla dziąseł i ząbków dziecka dzięki zastosowaniu miękkiego silikonu. Produkt można myć ręcznie lub w zmywarce.
@@ -56463,7 +56390,7 @@ WŁAŚCIWOŚCI TECHNICZNE
 <nazwa>B.O.799 Szczotka z naturalnego włosia</nazwa>
 <cena>13.91</cena>
 <VAT>23</VAT>
-<ilosc>27</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435412299</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -56523,7 +56450,7 @@ Waga opakowania: 0,02 kg</opis>
 <nazwa>B.O.823/S Silikonowe osłonki na piersi NATURAL NURSING</nazwa>
 <cena>7.34</cena>
 <VAT>23</VAT>
-<ilosc>22</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435412671</EAN>
 <grupa>BABYONO/DLA MAMY/OSŁONKI</grupa>
@@ -56627,8 +56554,8 @@ Wymiary opakowania: 10 × 14 cm.
 <nazwa>B.O.827 Dmuchana mata wodna</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
-<stan>duża ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435414446</EAN>
 <grupa>BABYONO/ZABAWKI/DO KĄPIELI</grupa>
 <opis>Mata wodna sensoryczna zapewnia Twojemu dziecku nie tylko świetną zabawę, ale także efektywny trening. Maluch zmienia pozycję, by zaobserwować, jak w wodzie poruszają się kolorowe kształty. Dzięki temu ćwiczy utrzymywanie równowagi i poruszanie się. Matę z łatwością napełnisz powietrzem i wodą, a po skończonej zabawie opróżnisz ją i zwiniesz.
@@ -56723,8 +56650,8 @@ Wysoka chłonność</opis>
 <nazwa>B.O.828/03 Pieluszki muślinowe marszczone szare</nazwa>
 <cena>20.00</cena>
 <VAT>5</VAT>
-<ilosc>14</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435416273</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
 <opis>Pieluszki z marszczonego muślinu to obowiązkowy element w wyprawce mamy i dziecka. Wykonaliśmy je w 100% z naturalnej bawełny – przewiewnej i delikatnej dla skóry Twojego maleństwa.
@@ -57155,8 +57082,8 @@ Właściwości:
 <nazwa>B.O.958 Blokada drzwi zwierzątka</nazwa>
 <cena>4.66</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901435403655</EAN>
 <grupa>BABYONO/ZABEZPIECZENIA</grupa>
 <opis>Zabezpieczenia na drzwi. Łatwe w montażu, chronią dzieci przed przytrzaśnięciem paluszków podczas zamykania.
@@ -63496,7 +63423,7 @@ Zalety :
 <nazwa>BADUM Wkładka wannowa MAXI</nazwa>
 <cena>11.94</cena>
 <VAT>23</VAT>
-<ilosc>562</ilosc>
+<ilosc>557</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907556800144</EAN>
 <grupa>BADUM</grupa>
@@ -63517,7 +63444,7 @@ Trzy rozmiary w jakich produkowane są gąbki pozwalają dobrać je do wielkośc
 <nazwa>BADUM Wkładka wannowa MAXI kolorowa</nazwa>
 <cena>14.01</cena>
 <VAT>23</VAT>
-<ilosc>38</ilosc>
+<ilosc>37</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907556800236</EAN>
 <grupa>BADUM</grupa>
@@ -63538,7 +63465,7 @@ Trzy rozmiary w jakich produkowane są gąbki pozwalają dobrać je do wielkośc
 <nazwa>BADUM Wkładka wannowa MIDI</nazwa>
 <cena>11.45</cena>
 <VAT>23</VAT>
-<ilosc>133</ilosc>
+<ilosc>128</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907556800137</EAN>
 <grupa>BADUM</grupa>
@@ -63703,7 +63630,7 @@ Gdzie kupić</opis>
 <nazwa>BALIBAZOO BB 80181 Zawieszka pies z grzechotką</nazwa>
 <cena>19.33</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>6925783801818</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -64626,7 +64553,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 81969 Sowa Nela dzwoneczek</nazwa>
 <cena>20.06</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>6925783819691</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -65719,8 +65646,8 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82586 Zawieszka Pszczółka na łące</nazwa>
 <cena>31.11</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
-<stan>mała ilość</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>6925783825869</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Wesoła zawieszka bawi, kryjąc w sobie wiele niespodzianek! Na plastrze miodu, wyposażonym w kryty dzwoneczek, buja się, zabawnie popiskując, uśmiechnięta pszczółka. Towarzyszy jej szeleszcząca beczułka miodu i piszczący kwiatek. Zabawka posiada praktyczną zawieszkę w kształcie gwiazdki, która umożliwia przymocowanie jej w dowolnym miejscu.
@@ -67133,7 +67060,7 @@ Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.)[cm]: 14x12x5, wymiar
 <b2b>
 <kod>5906191</kod>
 <nazwa>BAM BAM 482394 Zabawka sensoryczna kule 6szt.</nazwa>
-<cena>18.44</cena>
+<cena>16.98</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
 <stan>brak</stan>
@@ -71182,7 +71109,7 @@ Bardzo niewiele dzieci jest uczulonych na naturalny kauczuk hevea, jakkolwiek pr
 <nazwa>BIBS 100224 smoczek uspokajający PINEAPPLE S</nazwa>
 <cena>18.32</cena>
 <VAT>5</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5713795010196</EAN>
 <grupa>BIBS</grupa>
@@ -72597,7 +72524,7 @@ Nie zawiera BPA</opis>
 <nazwa>CANPOL 1/500 Ekologiczny płyn do mycia smoczków i butelek 500 ml</nazwa>
 <cena>8.90</cena>
 <VAT>23</VAT>
-<ilosc>130</ilosc>
+<ilosc>124</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407015002</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -72685,7 +72612,7 @@ Dostępne są w opakowaniach zawierających 40 sztuk i 60 sztuk.</opis>
 <nazwa>CANPOL 1/653 Wkładki laktacyjne 30 szt</nazwa>
 <cena>8.90</cena>
 <VAT>5</VAT>
-<ilosc>28</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407016535</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -72702,7 +72629,7 @@ Wysokochłonne - wkład żelujący absorbuje płyn i zatrzymuje go w środku
 <nazwa>CANPOL 1/654 Wkładki laktacyjne z paskiem samoprzylepnym 140szt.</nazwa>
 <cena>26.00</cena>
 <VAT>5</VAT>
-<ilosc>17</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691860865</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -72808,7 +72735,7 @@ W opakowaniu znajduje się 100 szt. Numer serii i data ważności podane na opak
 <nazwa>CANPOL 1/661 Ręczniczki bambusowe dla niemowląt 120szt.</nazwa>
 <cena>10.50</cena>
 <VAT>23</VAT>
-<ilosc>41</ilosc>
+<ilosc>37</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407363127</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -73085,7 +73012,7 @@ Zestaw zawiera pojemnik do przechowywania pokarmu oraz kompletną butelkę szero
 <nazwa>CANPOL 12/204 Pojemniki do przechowywania mleka / pokarmu 4szt 180ml</nazwa>
 <cena>13.90</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>21</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407122045</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -73165,8 +73092,8 @@ Mix wzorów i kolorów- wysyłamy losowo</opis>
 <nazwa>CANPOL 14/000 Maść lanolinowa do brodawek sutkowych 7 g</nazwa>
 <cena>9.50</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901691879881</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>W pierwszych dniach i tygodniach karmienia piersią wiele kobiet doświadcza bólu brodawek sutkowych. Maść lanolinowa Canpol babies przynosi szybką ulgę w bólu i wspiera regenerację skóry podrażnionych brodawek sutkowych. Lanolina jest głęboko nawilżającą substancją naturalnie występującą w runie owiec. Dzięki naturalnej formule jest bardzo skuteczna – tworzy warstwę ochronną na powierzchni skóry i zapewnia nawilżenie od wewnątrz.
@@ -73181,7 +73108,7 @@ Maść na brodawki Canpol babies jest dostępna w poręcznym opakowaniu 7g, któ
 <nazwa>CANPOL 14/200 Chusteczki nawilżana dla niemowląt i dzieci 60 szt.</nazwa>
 <cena>5.00</cena>
 <VAT>23</VAT>
-<ilosc>49</ilosc>
+<ilosc>38</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407178554</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -73394,8 +73321,8 @@ Podczas pracy etui musi stać na równej powierzchni. Przed wyjęciem etui z mik
 <nazwa>CANPOL 2/100 Kubek antypoślizgowy z uchem 170 ml Exotic Animals transparent</nazwa>
 <cena>5.76</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903407162393</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Kubek z wesołym wzorem będzie wspaniałą zachętą do picia wody i wyrabiania prawidłowych nawyków. Jest lekki i poręczny, idealnie pasuje do dziecięcych dłoni. Dzieci podpatrując dorosłych chcą korzystać z podobnych naczyń, dlatego kubeczek dla niemowląt z uchem jest idealnym rozwiązaniem i bezpieczniejszym w użyciu. Kubek antypoślizgowy jest wytrzymały, odporny na uszkodzenia i nie tłucze się jak szkło czy ceramika. Canpol kubek antypoślizgowy o pojemności 170 ml jest przeznaczony dla dzieci powyżej 12 miesiąca życia, które potrafią już samodzielnie pić. Uniwersalny kubeczek dla niemowląt z uchem doskonale nadaje się do codziennego użytku. Wesołe zwierzaki w kolekcji Exotic Animals umilą każdy posiłek Twojemu dziecku – sprawdź inne wzory.
@@ -73480,7 +73407,7 @@ Bez Bisfenolu A
 <nazwa>CANPOL 2/103 Śliniak ceratowo-bawełniany 3 szt Bunny &amp; Company</nazwa>
 <cena>7.90</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903407021034</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -73593,7 +73520,7 @@ Do lodówki</opis>
 <nazwa>CANPOL 2/410 Szczotka do butelek z gąbką</nazwa>
 <cena>4.10</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407024103</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -73665,7 +73592,7 @@ Szczotka przeznaczona dla dzieci w wieku 0m+. Zestaw dostępny jest w kilku wari
 <nazwa>CANPOL 2/419 Szczotka + grzebień do włosów  twarda różowy</nazwa>
 <cena>4.90</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407162584</EAN>
 <grupa>CANPOL</grupa>
@@ -73678,7 +73605,7 @@ Szczotka przeznaczona dla dzieci w wieku 0m+. Zestaw dostępny jest w kilku wari
 <nazwa>CANPOL 2/421 Zestaw szczoteczek do zębów</nazwa>
 <cena>8.40</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407024219</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -74035,8 +73962,8 @@ Zabawki są łatwe do utrzymania w czystości, mogą być też używane podczas 
 <nazwa>CANPOL 2/890 Miękka zabawka z grzechotką Piłka</nazwa>
 <cena>9.20</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903407028903</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękkie zabawki z kolorowego weluru zachęcą maluszka do zabawy stymulując jego prawidłowy rozwój. Schowany w zabawce dzwoneczek uatrakcyjni niejedną zabawę.
@@ -74224,7 +74151,7 @@ Wyjątkowo lekki i cichy, zdecydowanie jeden z najlżejszych laktatorów tego ty
 <nazwa>CANPOL 20/121 Elektryczny aspirator do nosa dla niemowląt i dzieci</nazwa>
 <cena>105.00</cena>
 <VAT>23</VAT>
-<ilosc>58</ilosc>
+<ilosc>57</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407180472</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -74615,8 +74542,8 @@ Nie można używać w sterylizatorze parowym</opis>
 <nazwa>CANPOL 22/502_pin new Smoczek uspokajający silikonowy anatomiczny 18m+ NIGHT DREAMS</nazwa>
 <cena>5.80</cena>
 <VAT>5</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903407164625</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Smoczek uspokajający NIGHT DREAMS wykonany z najwyższej jakości, bezzapachowego i bezsmakowego silikonu. Wyposażony został w gumkę o anatomicznym kształcie. Smoczek dobrze odpowietrza się, dzięki specjalnym otworom wentylacyjnym na tarczce. Posiada świecącą tarczkę, która ułatwia znalezienie smoczka w ciemności. Nie zawiera BPA. Dostępny w kilku kolorach. Przeznaczony dla dzieci w wieku 18 m+.
@@ -75093,7 +75020,7 @@ Nie zawiera BPA</opis>
 <nazwa>CANPOL 22/659 Smoczek silikonowy 6-18m symetryczny Sleepy Koala 2 szt. różowy</nazwa>
 <cena>16.50</cena>
 <VAT>5</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691856073</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
@@ -75910,8 +75837,8 @@ Można używać w zmywarce
 <nazwa>CANPOL 31/419 Zestaw pierwszych łyżeczek do karmienia 3szt niebieski</nazwa>
 <cena>7.50</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901691850002</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Przyszła pora na rozszerzanie diety Malucha? Zestaw pierwszych łyżeczek do karmienia idealnie sprawdzi się podczas przygody z nowymi smakami i pierwszych posiłków. Specjalnie wyprofilowany, kształt łyżeczek ułatwia dziecku pobieranie pokarmu, a wydłużona rączka gwarantuje wygodę podczas karmienia, i ułatwia wybieranie pokarmów ze słoiczków. Zaokrąglone krawędzie nie podrażniają delikatnych dziąseł maluszka, dlatego łyżeczki sprawdzą się też w pierwszych próbach samodzielnego jedzenia. Zestaw zawiera 3 różnokolorowe łyżeczki o matowym wykończeniu, przeznaczony jest dla dzieci powyżej 4. miesiąca życia</opis>
@@ -76097,7 +76024,7 @@ Proponowany wiek od 6 do 18 miesięcy</opis>
 <nazwa>CANPOL 34/921 Smoczek silikonowy 6-18m symetryczny EXOTIC Panda</nazwa>
 <cena>6.10</cena>
 <VAT>5</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691870208</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
@@ -76848,7 +76775,7 @@ Standardowo wyposażony w miękki ustnik treningowy 6m+</opis>
 <nazwa>CANPOL 35/207 Kubek treningowy EasyStart 120ml - Sweet fun różowy</nazwa>
 <cena>10.23</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691813366</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -77847,8 +77774,8 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 4/411_pin2 Talerz plastikowy Cute Animals róż</nazwa>
 <cena>7.30</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
-<stan>duża ilość</stan>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901691885714</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Talerz dla dzieci Cute Animals jest lekki i poręczny. Zaokrąglone kształty oraz wygodny szeroki rant ułatwiają trzymanie i przenoszenie talerza. Naczynia plastikowe są wytrzymałe, odporne na uderzenia i upadki oraz nie tłuką się jak szkło czy ceramika. Talerzyk dla niemowląt jest łatwy do czyszczenia i odporny na wysokie temperatury – można podgrzewać w mikrofalówce oraz myć w zmywarce. Talerzyk dla dzieci został wyprodukowany ze sprawdzonych i bezpiecznych materiałów. W produkcji nie stosowano BPA ani innych szkodliwych substancji. Naczynia z motywem uroczych zwierzątek zachwycą każdego Maluszka i umilą mu posiłki – stwórz zestaw z pozostałymi produktami z kolekcji Cute Animals.
@@ -78088,7 +78015,7 @@ Mniejsza łyżeczka sprawdzi się przy rozszerzaniu diety malucha, większa przy
 <nazwa>CANPOL 4/530 Łyżeczki z melaminy 2szt Exotic Animals turkus</nazwa>
 <cena>5.40</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691861510</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -78146,7 +78073,7 @@ Do użytku w mikrofali</opis>
 <nazwa>CANPOL 5/119 Aspirator do nosa - wyrób medyczny</nazwa>
 <cena>23.30</cena>
 <VAT>8</VAT>
-<ilosc>30</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691807570</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -78427,8 +78354,8 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 51/030_cre Śliniak silikonowy z kieszonką MOUNTAINS</nazwa>
 <cena>12.50</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
-<stan>duża ilość</stan>
+<ilosc>7</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901691880382</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Wodoodporny śliniak silikonowy z kieszonką jest niezbędny podczas rozszerzania diety Maluszka i pierwszych samodzielnych posiłkach. Doskonale zabezpieczy ubranko dziecka przed zabrudzeniem i przemoczeniem podczas jedzenia. Jest lekki, miękki, elastyczny i przyjemny w dotyku. Został wykonany w 100% z wysokiej jakości silikonu przeznaczonego do kontaktu z żywnością, dzięki czemu jest bezpieczny i bezzapachowy. Praktyczna głęboka kieszonka zatrzymuje resztki jedzenia, które nie trafiło do buzi dziecka. Kieszonka jest tak zaprojektowana, aby wypełniona jedzeniem zachowała swój kształt i dziecko nie opróżniło jej przez przypadek podczas poruszania się czy naciskania na nią. Śliniak jest łatwy do czyszczenia – można przepłukać go pod bieżącą wodą, przetrzeć lub umyć w zmywarce.
@@ -78455,8 +78382,8 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 51/034 Tasiemka do smoczka uspokajającego MOUNTAINS green</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901691890299</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
 <opis>Tasiemka do smoczka z kolekcji Mountains zabezpieczy ulubiony smoczek do uspokajania Twojego Maluszka przed upadkiem na ziemię, zabrudzeniem lub zgubieniem. Posiada uniwersalny system mocowania do smoczka, który pasuje do każdego modelu, zarówno z uchwytem, jak i bez uchwytu – wystarczy przełożyć sznurek przez uchwyt i gotowe! Posiada solidny klips, który umożliwia przypięcie tasiemki do ubrania dziecka i jest delikatny dla ubrań – dobrze się trzyma, ale nie zostawia śladów i nie powoduje uszkodzenia materiału. Tasiemka do smoczka Canpol jest bezpieczna i trwała.</opis>
@@ -78467,7 +78394,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 51/034 Tasiemka do smoczka uspokajającego MOUNTAINS yellow</nazwa>
 <cena>9.90</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691890305</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
@@ -78724,7 +78651,7 @@ Nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/000 Kubeczki do kąpieli HELLO LITTLE</nazwa>
 <cena>14.00</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407560007</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -78751,7 +78678,7 @@ W opakowaniu 1 szt.</opis>
 <nazwa>CANPOL 56/007 Basic - Aspirator do nosa</nazwa>
 <cena>9.20</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407560076</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -79188,7 +79115,7 @@ Pozwala rodzicom bezpiecznie czyścić delikatne dziąsła/ząbki dziecka, bez o
 <nazwa>CANPOL 56/161 Gryzak wodny z grzechotką Gwiazda turkus</nazwa>
 <cena>6.80</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691840140</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
@@ -79460,7 +79387,7 @@ Produkt wolny od BPA. Przeznaczony dla dzieci powyżej 4. miesiąca życia.</opi
 <nazwa>CANPOL 56/606 Kubek niekapek z rurką i odważnikiem 270 ml Exotic pink</nazwa>
 <cena>20.90</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691852754</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -79517,7 +79444,7 @@ Dostępne wymienne rurki.</opis>
 <nazwa>CANPOL 56/609 Niekapiąca rurka silikonowa z odważnikiem 1szt. róż</nazwa>
 <cena>5.60</cena>
 <VAT>23</VAT>
-<ilosc>83</ilosc>
+<ilosc>59</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691860858</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -79589,8 +79516,8 @@ Stymuluje zmysły - pozwala Maluszkowi ćwiczyć koordynację wzrokowo-ruchową.
 <nazwa>CANPOL 56/610 Sensoryczna grzechotka z gryzakiem zielona</nazwa>
 <cena>9.50</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901691860964</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Sensoryczna grzechotka z gryzakiem to doskonały wybór dla najmłodszych dzieci. Specjalny kształt i niewielkie rozmiary ułatwiają trzymanie w malutkich rączkach i wspierają naukę chwytania. Zabawka wspomaga także rozwój koordynacji wzrokowo-ruchowej i stymuluje zmysły Maluszka. Elastyczne elementy grzechotki przyniosą ulgę w czasie ząbkowania, a elementy grzechoczące zachęcą do wesołej zabawy. Grzechotka wykonana jest z bezpiecznych materiałów, odpowiednia dla dzieci w wieku 0m+.
@@ -80305,7 +80232,7 @@ Kształt spirali - pozwala zamontowac zabawkę w zależności od potrzeb (wózek
 <nazwa>CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys</nazwa>
 <cena>213.40</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903407680774</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -80525,7 +80452,7 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo</nazwa>
 <cena>40.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691870680</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -80791,7 +80718,7 @@ W opakowaniu znajdują się:
 <nazwa>CANPOL 70/003 Woreczki zapachowe na zużyte pieluszki 100szt</nazwa>
 <cena>5.00</cena>
 <VAT>23</VAT>
-<ilosc>50</ilosc>
+<ilosc>44</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407175478</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -80803,7 +80730,7 @@ W opakowaniu znajdują się:
 <nazwa>CANPOL 73/001 Wielorazowe majtki poporodowe siateczkowe 2szt S/M</nazwa>
 <cena>7.50</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407730011</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -80839,7 +80766,7 @@ W pudełku 2 sztuki zapakowane osobno w woreczkach.</opis>
 <nazwa>CANPOL 73/003 (opak.10szt.)Wysokochłonne podkłady poporodowe</nazwa>
 <cena>7.26</cena>
 <VAT>5</VAT>
-<ilosc>95</ilosc>
+<ilosc>86</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407730035</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -80882,7 +80809,7 @@ grubość podkładu: 5 mm.</opis>
 <nazwa>CANPOL 74/018 Gryzak wodny z grzechotką Konik</nazwa>
 <cena>5.76</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903407740188</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
@@ -80963,7 +80890,7 @@ Kompaktowa - pomieści 8 butelek z akcesoriami.
 <nazwa>CANPOL 74/027 Śliniak silikonowy z kieszonką Bonjour Paris bordowy</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691852334</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -81149,7 +81076,7 @@ W opakowaniu znajduje się 10 sztuk w rozmiarze: 60x60 cm.</opis>
 <nazwa>CANPOL 78/007 Dyskretne podpaski poporodowe ze skrzydełkami Day</nazwa>
 <cena>8.99</cena>
 <VAT>5</VAT>
-<ilosc>25</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691879058</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -81163,7 +81090,7 @@ W opakowaniu znajduje się 10 sztuk.</opis>
 <nazwa>CANPOL 78/008 Dyskretne podpaski poporodowe ze skrzydełkami Night</nazwa>
 <cena>8.99</cena>
 <VAT>5</VAT>
-<ilosc>17</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691879065</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -81211,7 +81138,7 @@ Majtki 2w1 stanowią niezastąpione wsparcie dla każdej kobiety po porodzie, of
 <nazwa>CANPOL 78/012 Oddychające majtki poporodowe 2w1 z podkładem L/XL</nazwa>
 <cena>11.90</cena>
 <VAT>5</VAT>
-<ilosc>78</ilosc>
+<ilosc>73</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407174952</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -81263,8 +81190,8 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/014 Mum fit biustonosz do karmienia i odciągania M</nazwa>
 <cena>48.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903407172538</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Komfort noszenia poprzez 360° dopasowania i uniesienia biustu.?
@@ -81297,8 +81224,8 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/015 Mum fit biustonosz do karmienia i odciągania L</nazwa>
 <cena>48.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903407172545</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Komfort noszenia poprzez 360° dopasowania i uniesienia biustu.?
@@ -81331,8 +81258,8 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/016 Mum fit biustonosz do karmienia i odciągania XL</nazwa>
 <cena>48.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903407172552</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Komfort noszenia poprzez 360° dopasowania i uniesienia biustu.?
@@ -81399,7 +81326,7 @@ XL – 78/020</opis>
 <nazwa>CANPOL 78/018 Mum fit majtki ciążowe pod brzuch rozmiar S/M 2 szt.</nazwa>
 <cena>19.99</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903407172576</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -81523,7 +81450,7 @@ To wyrób medyczny. Dla bezpieczeństwa stosuj zgodnie z instrukcją lub etykiet
 <nazwa>CANPOL 78/023 Kompresy żelowe na piersi 2 szt</nazwa>
 <cena>13.90</cena>
 <VAT>8</VAT>
-<ilosc>15</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407172668</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -81650,8 +81577,8 @@ Opakowanie zawiera 12 szt.</opis>
 <nazwa>CANPOL 79/103 Sensoryczna układanka piramidka</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903407791036</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Sensoryczna zabawka układanka Canpol babies piramidka składa się z 6 elementów o różnych wielkościach i kolorach. Układanie kolorowych elementów jeden na drugim od największego do najmniejszego w kształt piramidy ćwiczy zręczność i cierpliwość dziecka. Sensoryczna układanka Canpol babies piramidka pomaga w nauce rozróżniania kolorów i wielkości, wspiera koordynację oko-ręka u dziecka. Każda warstwa piramidy ma wypustki o różnych kształtach – cyfry, literki, kropki itp., dzięki czemu Maluszek może dotykać je paluszkami poznając nowe faktury aktywizując zmysł dotyku lub „smakować” – poszczególne elementy świetnie sprawdzą się jako gryzaki. Sensoryczna układanka Canpol babies piramidka to klasyczna zabawka edukacyjna, dzięki której dziecko poprzez zabawę ćwiczy zdolności manualne, pamięć oraz wyobraźnię, a także logiczne i strategiczne myślenie – jak z porozrzucanych elementów ułożyć wieżę. Układanie sensorycznej piramidki to wspaniała wciągająca zabawa dla Maluszków. Sensoryczna układanka Canpol babies piramidka jest rekomendowana dla dzieci od 6 miesiąca życia.
@@ -81691,7 +81618,7 @@ Nie zawiera BPA
 <nazwa>CANPOL 80/001 Mata kąpielowa Love&amp;Sea niebieska</nazwa>
 <cena>19.90</cena>
 <VAT>23</VAT>
-<ilosc>38</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407800011</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -81708,7 +81635,7 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>CANPOL 80/002 Mata kąpielowa Love&amp;Sea różowa Seahorse</nazwa>
 <cena>19.90</cena>
 <VAT>23</VAT>
-<ilosc>33</ilosc>
+<ilosc>30</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407800028</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -81850,7 +81777,7 @@ Do użytku w mikrofali
 <nazwa>CANPOL 80/309 Silikonowy talerz z przyssawką SERCE niebieski</nazwa>
 <cena>18.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691873629</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -82041,7 +81968,7 @@ Aspirator jest łatwy do utrzymania w czystości – zbiorniczek na wydzielinę 
 <nazwa>CANPOL 9/477_blu2 Zestaw sztućców ze stali nierdzewnej EXOTIC ANIMALS niebieski</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>21</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407162294</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -82067,7 +81994,7 @@ Aspirator jest łatwy do utrzymania w czystości – zbiorniczek na wydzielinę 
 <nazwa>CANPOL 9/581 Zestaw magicznych łyżeczek zmieniających kolor 2 szt róż</nazwa>
 <cena>6.76</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691885370</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -82145,7 +82072,7 @@ Dostępne w kilku wersjach kolorystycznych.</opis>
 <nazwa>CANPOL 9/809 Nożyczki + cążki + pilniczek</nazwa>
 <cena>9.30</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407098098</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -82160,8 +82087,8 @@ Zestaw do pielęgnacji paznokci zawiera: nożyczki, cążki oraz pilniczek.</opi
 <nazwa>CANPOL 9/813 Nożyczki dla niemowląt</nazwa>
 <cena>6.30</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903407098135</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
 <opis>Praktyczne nożyczki umożliwiające bezpieczne obcinanie malutkich paznokci dziecka. Cienkie, metalowe ostrza pozwalają na bardziej precyzyjne i sprawne ruchy.
@@ -82476,7 +82403,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 102-000-724 Przewijak miękki profilowany krótki 50x70 Basic Woodland</nazwa>
 <cena>40.60</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672342269</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
@@ -82512,8 +82439,8 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 102-000-728 Przewijak miękki profilowany krótki 50x70 Basic Dreamer</nazwa>
 <cena>40.59</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907672342290</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -82524,7 +82451,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 102-000-731 Przewijak miękki profilowany krótki 50x70 Basic Goose</nazwa>
 <cena>40.59</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672342320</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
@@ -82560,7 +82487,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 102-000-783 Przewijak miękki profilowany krótki 50x70 Basic Forest Friends</nazwa>
 <cena>40.60</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672345314</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI PROFILOWANY</grupa>
@@ -82632,7 +82559,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 102-000-811 Przewijak miękki profilowany krótki 50x70 Basic Hedgehog JEŻ</nazwa>
 <cena>40.60</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672346441</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI PROFILOWANY</grupa>
@@ -82692,7 +82619,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 143-000-725 Przewijak miękki mały 50x70 Basic Spots</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672342498</EAN>
 <grupa>CEBA/PRZEWIJAKI</grupa>
@@ -82848,7 +82775,7 @@ z kartonem: 3,6 kg</opis>
 <nazwa>CEBA 143-000-812 Przewijak miękki mały 50x70 Basic Meadow Fairy</nazwa>
 <cena>34.43</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672346519</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI</grupa>
@@ -83078,7 +83005,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-749 Przewijak twardy krótki 50x70 Ultra Light Pilot Bear</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672341897</EAN>
 <grupa>&lt;nie określono&gt;</grupa>
@@ -83174,8 +83101,8 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-782 Przewijak twardy krótki 50x70 Ultra Light Crazy Lama</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907672345185</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Ultra Light od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -83234,7 +83161,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-811 Przewijak twardy krótki 50x70 Ultra Light Hedgehog the Dreamer</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672346311</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
@@ -83258,8 +83185,8 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 204-000-819 Przewijak twardy krótki 50x70 Ultra Light Ocean Adventure OCEAN PRZYGÓD</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907672346335</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
 <opis>Czas na NOWY STANDARD BEZPIECZEŃSTWA. Przewijak Ultra Light od Ceba Baby to komfortowy i przyjazny produkt dla niemowląt - wyposażony w rzepy, które umożliwiają dodatkowe zamocowanie przewijaka na łóżeczku. Ta funkcja zwiększa stabilność i bezpieczeństwo podczas użytkowania naszych produktów. Przewijaki Ceba Baby doskonale nadają się do użytku już od pierwszych chwil życia, a dzięki temu, że zostały wykonane ze starannie wyselekcjonowanych atestowanych materiałów, są nie tylko łatwe w czyszczeniu, ale przede wszystkim bezpieczne w kontakcie z delikatną i wrażliwą skórą maluszka.</opis>
@@ -83438,7 +83365,7 @@ GRATIS pokrowiec na przewijak, składana mata do przewijania</opis>
 <nazwa>CEBA 216-000-812 Przewijak twardy krótki 50x70 Basic Meadow Fairy ŁĄKOWA WRÓŻKA</nazwa>
 <cena>51.06</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672346366</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
@@ -83619,8 +83546,8 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-640 Składana mata do przewijania 60x40 Retro Cars</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907672333076</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm.</opis>
@@ -83691,8 +83618,8 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-781 Składana mata do przewijania 40x60 Basic Elephant Family</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907672345482</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -83823,8 +83750,8 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 305-000-820 Składana mata do przewijania 40x60 Basic Rocking Horse</nazwa>
 <cena>17.80</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907672346656</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Mata turystyczna to wygodny gadżet, który przyda się na spacerze czy w czasie podróży. Wykonana została z bezpiecznej dla skóry dziecka folii z miękkim wypełnieniem. Mata jest wyjątkowo praktyczna – po złożeniu i spięciu napami zajmuje niewiele miejsca. Wymiary: 40x60 cm, po złożeniu 13x29 cm. Posiada Certyfikat OEKO-TEX® STANDARD 100.</opis>
@@ -83907,7 +83834,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 307-000-783 Składana mata do przewijania duża 50x80 Basic Forest Friends</nazwa>
 <cena>21.48</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672345567</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
@@ -84015,7 +83942,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 709-000-739 Cebuszka Huggy Basic Grey Stars</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672341989</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84039,7 +83966,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 709-000-743 Cebuszka Huggy Basic Hoya</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672342023</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84051,7 +83978,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 709-000-744 Cebuszka Huggy Basic Chamomile</nazwa>
 <cena>60.91</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672342030</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84155,7 +84082,7 @@ Wkład do krzesełka jest kompatybilny również z modelem krzesełka Antilop.</
 <nazwa>CEBA 745-000-000 Mikroperła styropianowa granulat - wypełnienie do poduszek</nazwa>
 <cena>15.34</cena>
 <VAT>23</VAT>
-<ilosc>33</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907672317656</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84282,7 +84209,7 @@ Głębokość w opakowaniu mm
 <nazwa>CEBA 880-000-742 Wielofunkcyjna poduszka Cebuszka Multi Jersey Wildflowers</nazwa>
 <cena>98.01</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672347844</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84294,7 +84221,7 @@ Głębokość w opakowaniu mm
 <nazwa>CEBA 880-000-744 Wielofunkcyjna poduszka Cebuszka Multi Jersey Chamomile</nazwa>
 <cena>98.01</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672347837</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84306,7 +84233,7 @@ Głębokość w opakowaniu mm
 <nazwa>CEBA 880-000-745 Wielofunkcyjna poduszka Cebuszka Multi Jersey Forget-me-not</nazwa>
 <cena>98.00</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672347820</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -84799,7 +84726,7 @@ SUGEROWANY WIEK 0M+</opis>
 <nazwa>CHICCO 00002257300000 Torebki do przechowywania mleka 30 szt</nazwa>
 <cena>28.50</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>8058664144006</EAN>
 <grupa>CHICCO/AKCESORIA/KARMIENIE NATURALNE - KOMFORT MAMY</grupa>
@@ -85797,8 +85724,8 @@ PASMO CZĘSTOTLIWOŚCI: Pasmo częstotliwości transmisji tego samochodu RC wyno
 <nazwa>CHICCO 00009165000000 Chusteczki do pielęgnacji piersi 16 szt</nazwa>
 <cena>7.31</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8058664080700</EAN>
 <grupa>CHICCO/DLA MAMY</grupa>
 <opis>Chusteczki do pielęgnacji piersi Chicco są całkowicie bezpieczne. Można je stosować przed i po karmieniu i nie trzeba spłukiwać skóry po ich użyciu.
@@ -86862,8 +86789,8 @@ Ideą STEM jest ułatwienie dzieciom przyswajania wiedzy w szerszej perspektywie
 <nazwa>CHICCO 00011211000000 BILLY pchacz i jeździdło</nazwa>
 <cena>137.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8058664152865</EAN>
 <grupa>CHICCO/ZABAWKI</grupa>
 <opis>Billy Pchacz i Jeździdło 2w1 Chicco to pojazd, który czerpie inspirację z Billy’ego – kultowego zdalnie sterowanego autka od Chicco.
@@ -87560,7 +87487,7 @@ Dodatkowo, nasza szczoteczka jest dostępna w wygodnym zestawie, idealnym do pod
 <nazwa>CHICCO 00012084000000 Szczotki do mycia zębów Hipcio Panda 3-6l</nazwa>
 <cena>9.74</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>8058664174744</EAN>
 <grupa>CHICCO/AKCESORIA/HIGIENA JAMY USTNEJ</grupa>
@@ -90806,7 +90733,7 @@ Kategoria ochrony: IP 20</opis>
 <nazwa>CLOUD B CLTT-1200 Lampka nocna CUBE B-JEDNOROŻEC LILY</nazwa>
 <cena>44.32</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>3700552320614</EAN>
 <grupa>CLOUD B</grupa>
@@ -92704,7 +92631,7 @@ Waga: 5,70 kg</opis>
 <nazwa>COLIBRO Krzesełko do karmienia SCANDI ALMOND</nazwa>
 <cena>204.76</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214739684</EAN>
 <grupa>COLIBRO</grupa>
@@ -92798,7 +92725,7 @@ Waga: 5,70 kg</opis>
 <nazwa>COLIBRO Krzesełko do karmienia SCANDI DOVE</nazwa>
 <cena>204.76</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214739691</EAN>
 <grupa>COLIBRO</grupa>
@@ -93634,9 +93561,9 @@ Waga: 1 kg</opis>
 <b2b>
 <kod>5911827</kod>
 <nazwa>COLIBRO Nocnik dziecięcy SOLO CLOUD szary</nazwa>
-<cena>17.86</cena>
+<cena>18.07</cena>
 <VAT>23</VAT>
-<ilosc>141</ilosc>
+<ilosc>168</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214730186</EAN>
 <grupa>COLIBRO</grupa>
@@ -93697,9 +93624,9 @@ Waga: 0,4 kg
 <b2b>
 <kod>5911829</kod>
 <nazwa>COLIBRO Nocnik dziecięcy SOLO COOL zielony</nazwa>
-<cena>17.86</cena>
+<cena>18.07</cena>
 <VAT>23</VAT>
-<ilosc>71</ilosc>
+<ilosc>122</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214730193</EAN>
 <grupa>COLIBRO</grupa>
@@ -93751,7 +93678,7 @@ Waga: 0,4 kg</opis>
 <nazwa>COLIBRO Nocnik dziecięcy SOLO LILA fiolet</nazwa>
 <cena>17.86</cena>
 <VAT>23</VAT>
-<ilosc>50</ilosc>
+<ilosc>49</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214730209</EAN>
 <grupa>COLIBRO</grupa>
@@ -93822,9 +93749,9 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>5911828</kod>
 <nazwa>COLIBRO Nocnik dziecięcy SOLO ROSE różowy</nazwa>
-<cena>17.86</cena>
+<cena>18.07</cena>
 <VAT>23</VAT>
-<ilosc>82</ilosc>
+<ilosc>108</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214730216</EAN>
 <grupa>COLIBRO</grupa>
@@ -94215,7 +94142,7 @@ Waga: 5,9 kg</opis>
 <nazwa>COLIBRO Rowerek dziecięcy 6w1 TREMIXUP MAGNETIC</nazwa>
 <cena>246.43</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214736157</EAN>
 <grupa>COLIBRO</grupa>
@@ -95425,7 +95352,7 @@ stosowany w rehabilitacji leczniczej</opis>
 <nazwa>DANPOL Materac gryko-kokos 120x60x9 T18</nazwa>
 <cena>98.70</cena>
 <VAT>8</VAT>
-<ilosc>59</ilosc>
+<ilosc>58</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907645897000</EAN>
 <grupa>DANPOL</grupa>
@@ -95761,7 +95688,7 @@ Każdy rozmiar smoczka zapewnia inną szybkość przepływu. Wymienne smoczki pa
 <nazwa>Dr.Browns 322 Smoczek silikonowy do butelki Standard poziom 2 2-pak</nazwa>
 <cena>22.82</cena>
 <VAT>5</VAT>
-<ilosc>45</ilosc>
+<ilosc>44</ilosc>
 <stan>duża ilość</stan>
 <EAN>072239304945</EAN>
 <grupa>DR. BROWN'S/SMOCZKI/SMOCZKI DO BUTELEK</grupa>
@@ -95774,7 +95701,7 @@ Każdy rozmiar smoczka zapewnia inną szybkość przepływu. Wymienne smoczki pa
 <nazwa>Dr.Browns 332 Smoczek silikonowy do butelki Standard poziom 3 2-pak</nazwa>
 <cena>22.82</cena>
 <VAT>5</VAT>
-<ilosc>37</ilosc>
+<ilosc>36</ilosc>
 <stan>duża ilość</stan>
 <EAN>072239304952</EAN>
 <grupa>DR. BROWN'S/SMOCZKI/SMOCZKI DO BUTELEK</grupa>
@@ -97877,7 +97804,7 @@ Niektórzy rodzice uważają, że gdy dziecko jest starsze i bardziej rozwinięt
 <nazwa>Dr.Browns WB91601 Butelka szeroka szyjka 270 ml PP OPTIONS PLUS różowa</nazwa>
 <cena>44.35</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>072239318218</EAN>
 <grupa>DR. BROWN'S/BUTELKI I KUBKI/SZEROKIE</grupa>
@@ -98198,7 +98125,7 @@ Opakowanie:
 <nazwa>Dr.Browns WR201 Komplet części zamiennych do butelki szeroka szyjka 270 ml OPTIONS+</nazwa>
 <cena>22.56</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>072239317341</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
@@ -98739,8 +98666,8 @@ skład	poliester 100% / bawełna 100%</opis>
 <nazwa>DUET BABY 010 Myjka kąpielowa termofrota</nazwa>
 <cena>3.95</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907180608109</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
 <opis>myjka kąpielowa termofrota
@@ -98877,7 +98804,7 @@ Poliester 18%</opis>
 <nazwa>DUET BABY 050 Okrycie kąpielowe STANDARD II 80x80</nazwa>
 <cena>21.84</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907180608505</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
@@ -98933,7 +98860,7 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 110 Prześcieradło jersey 120x60 beżowy</nazwa>
 <cena>18.27</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5908268748243</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
@@ -98978,7 +98905,7 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 110 Prześcieradło jersey 120x60 szary</nazwa>
 <cena>18.27</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5908268742753</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
@@ -99134,8 +99061,8 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 115 Prześcieradło jersey nieprzemakalne 120x60 biały</nazwa>
 <cena>28.54</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5908268742913</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
 <opis/>
@@ -99302,7 +99229,7 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 214 Prześcieradło bawełna druk 82x50</nazwa>
 <cena>15.37</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907180602145</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
@@ -102259,7 +102186,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 44567 Boombox</nazwa>
 <cena>35.12</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>672552445679</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
@@ -106456,8 +106383,8 @@ TORBA *:
 <nazwa>EASY GO Wózek dziecięcy SIMPLE CLOUDY GRAY</nazwa>
 <cena>262.82</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907573550817</EAN>
 <grupa>EURO CART</grupa>
 <opis>EASYGO SIMPLE to idealny tak zwany „drugi” wózek spacerowy dla Twojego dziecka. Mimo niskiej ceny posiada wszystkie niezbędne dla spacerówki funkcje, a nawet wykracza ponad standard. Idealnie sprawdzi się jako lekki wózek spacerowy na krótkie trasy. Zmieści się w bagażniku każdego samochodu, bez problemu wniesiesz go po schodach i rozłożysz go jednym szybkim ruchem. Jeśli więc posiadasz już spacerówkę od wózka 2w1 i chcesz mieć drugi wózek na szybkie spacery, który nie zrujnuje rodzinnego budżetu, EASYGO SIMPLE jest właśnie dla Ciebie.
@@ -106776,7 +106703,7 @@ www.euro-cart.pl</opis>
 <nazwa>EASY GO Wózek dziecięcy SIMPLE SAVANA BEIGE</nazwa>
 <cena>262.82</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907573550831</EAN>
 <grupa>EURO CART/EASY GO/WÓZKI</grupa>
@@ -111107,10 +111034,10 @@ Siedzisko: 3,9</opis>
 <b2b>
 <kod>5908132</kod>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO CAMEL</nazwa>
-<cena>900.00</cena>
+<cena>999.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
 <EAN>5908214739714</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
@@ -111176,9 +111103,9 @@ Szerokość opakowania 75 cm</opis>
 <b2b>
 <kod>5908130</kod>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO IRON</nazwa>
-<cena>900.00</cena>
+<cena>999.00</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908214739721</EAN>
 <grupa>EURO CART/EURO CART</grupa>
@@ -111247,8 +111174,8 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy DOBLO JUNGLE</nazwa>
 <cena>900.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5908214739738</EAN>
 <grupa>EURO CART/EURO CART</grupa>
 <opis>DOBLO marki EURO-CART jest wózkiem dziecięcym przeznaczonym dla dwójki dzieci. Doskonale sprawdzi się zarówno dla bliźniąt jak i dzieci rok po roku (noworodka i dziecka starszego do wagi 22 kg). Siedziska przeznaczone są dla dzieci o wadze do 22 kg, co daje możliwość długiego czasu użytkowania wózka.
@@ -111385,8 +111312,8 @@ Szerokość opakowania 75 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy EZZO camel</nazwa>
 <cena>295.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5908214738342</EAN>
 <grupa>EURO CART/EURO CART/WÓZKI</grupa>
 <opis>Wózek dziecięcy Euro-Cart Ezzo Camel
@@ -111500,7 +111427,7 @@ Szerokość opakowania 29 cm</opis>
 <nazwa>EURO-CART Wózek dziecięcy EZZO jungle</nazwa>
 <cena>295.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5908214738366</EAN>
 <grupa>EURO CART/EURO CART/WÓZKI</grupa>
@@ -114551,8 +114478,8 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 852526 NEWBORN Pajac ecru 50</nazwa>
 <cena>36.66</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904356852526</EAN>
 <grupa> UBRANKA/EWA KLUCZE/PAJACYKI</grupa>
 <opis/>
@@ -115004,8 +114931,8 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 884633 Prześcieradło bawełna jersey 120x60 jasny róż 30</nazwa>
 <cena>18.46</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904356884633</EAN>
 <grupa> UBRANKA/EWA KLUCZE/POZOSTAŁE</grupa>
 <opis>Prześcieradło bawełniane 120x60 uszyte z miękkiej i przyjemnej w dotyku dzianiny w kilkunastu wariantach kolorystycznych. Prześcieradło posiada gumkę, która zapobiega zsuwaniu się z łóżeczka. Nasze prześcieradło zapewnia dziecku bezpieczyny i przyjemy sen. Wyprodukowane w Polsce, posiada certyfikat "Bezpieczny dla dziecka". 100% bawełna</opis>
@@ -118769,8 +118696,8 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 985358 Opaska EEVI Basic wrzos S</nazwa>
 <cena>11.37</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905359985358</EAN>
 <grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
 <opis/>
@@ -118868,8 +118795,8 @@ Wszelkie zatrzaski i napy, które stosujemy w naszych wyrobach nie zawierają Ni
 <nazwa>EWA 985655 Opaska EEVI Basic ecru S</nazwa>
 <cena>11.37</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905359985655</EAN>
 <grupa> UBRANKA/EWA KLUCZE/OPASKI I TURBANY</grupa>
 <opis/>
@@ -120230,7 +120157,7 @@ Do wyboru dwa kolory: biały lub szary</opis>
 <nazwa>FIKI MIKI Prześcieradło Jersey 140x70 Lawendowe</nazwa>
 <cena>27.41</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907572378269</EAN>
 <grupa>FIKI MIKI/KOCYKI I PRZEŚCIERADŁA</grupa>
@@ -120646,7 +120573,7 @@ Grzechotka GAGAGU Piesek to świetny wybór dla rodziców, którzy szukają atra
 <nazwa>GAGAGU GGG0829 Szeleścik Szop Pingwin</nazwa>
 <cena>12.18</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904754608299</EAN>
 <grupa>GAGAGU</grupa>
@@ -121224,7 +121151,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 19012 Gryzak pierścień rybka silikon drewno</nazwa>
 <cena>18.92</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>755907190124</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
@@ -122705,8 +122632,8 @@ Wymiary	dł. 42,5 x szer. 36,8 x w.21,1 cm
 <nazwa>GRACO Fotelik BOOSTER BASIC R129 Midnight (black)</nazwa>
 <cena>76.95</cena>
 <VAT>5</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5060624773198</EAN>
 <grupa>GRACO</grupa>
 <opis>Booster Basic R129 i-Size 
@@ -125521,7 +125448,7 @@ Kraj pochodzenia: Polska</opis>
 <nazwa>HENCZ 840 Puzzle sensoryczne kółeczka XL</nazwa>
 <cena>53.99</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907784468406</EAN>
 <grupa>MOM'S CARE</grupa>
@@ -129125,7 +129052,7 @@ InnoGIO Global sp. z o. o.</opis>
 </b2b>
 <b2b>
 <kod>5904113</kod>
-<nazwa>INNOGIO GIO-455BLUE Soniczna szczoteczka dla dzieci GIOrabbit niebieska + wymienne główki GIO-450BHB GRATIS</nazwa>
+<nazwa>INNOGIO GIO-455BLUE Soniczna szczoteczka dla dzieci GIOrabbit niebieska</nazwa>
 <cena>90.30</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
@@ -129291,7 +129218,7 @@ Instrukcja</opis>
 </b2b>
 <b2b>
 <kod>5914676</kod>
-<nazwa>INNOGIO GIO-460CAPYBARA Soniczna szczoteczka + wymienne główki GIO-460BH2 gratis</nazwa>
+<nazwa>INNOGIO GIO-460CAPYBARA Soniczna szczoteczka</nazwa>
 <cena>52.37</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
@@ -129337,7 +129264,7 @@ InnoGIO Global sp. z o. o.</opis>
 </b2b>
 <b2b>
 <kod>5905206</kod>
-<nazwa>INNOGIO GIO-460CROCODILE Soniczna szczoteczka + wymienne główki GIO-460BH2 gratis</nazwa>
+<nazwa>INNOGIO GIO-460CROCODILE Soniczna szczoteczka</nazwa>
 <cena>52.37</cena>
 <VAT>23</VAT>
 <ilosc>71</ilosc>
@@ -129388,7 +129315,7 @@ Zasilanie: kabel USB, Napięcie/moc znamionowa DC 3,7 V–0,5 W?</opis>
 </b2b>
 <b2b>
 <kod>5905207</kod>
-<nazwa>INNOGIO GIO-460GIRAFFE Soniczna szczoteczka + wymienne główki GIO-460BH2 gratis</nazwa>
+<nazwa>INNOGIO GIO-460GIRAFFE Soniczna szczoteczka</nazwa>
 <cena>52.37</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
@@ -129519,7 +129446,7 @@ InnoGIO Global sp. z o. o.</opis>
 <nazwa>INNOGIO GIO-758HEART Lusterko kosmetyczne GIOperfect Pink Heart</nazwa>
 <cena>37.18</cena>
 <VAT>23</VAT>
-<ilosc>35</ilosc>
+<ilosc>34</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904405021583</EAN>
 <grupa>INNOGIO</grupa>
@@ -131143,8 +131070,8 @@ Możesz nim również rozcieńczać leki stosowane do inhalacji. Sól fizjologic
 <nazwa>KATAREK Roztwór soli hipertoniczny 18x4ml NaCI 3%</nazwa>
 <cena>15.85</cena>
 <VAT>8</VAT>
-<ilosc>10</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905279336292</EAN>
 <grupa>ASPIRATORY DO NOSA/KATAREK</grupa>
 <opis>Sól hipertoniczna 3% to sterylny hipertoniczny roztwór chlorku sodu (NaCl 3%), który jest  przeznaczony do nebulizacji oraz udrażniania dróg oddechowych. Katarek Roztwór soli hipertoniczny  wspomaga usuwanie wydzieliny z dolnych dróg oddechowych dzięki działaniu osmotycznemu, co jest szczególnie przydatne w przypadku mukowiscydozy, rozstrzeni oskrzeli czy zapalenia oskrzelików. Zapobiega również wysuszaniu błon śluzowych oskrzeli. Może być stosowany u niemowląt, dzieci i dorosłych z użyciem nebulizatorów pneumatycznych lub ultradźwiękowych – najlepiej po konsultacji z lekarzem.
@@ -131321,7 +131248,7 @@ Kosmetyczkę podróżną – opakowanie</opis>
 <nazwa>KEEEPER 10031 IGOR STARS Podest dwustopniowy antypoślizgowy kosmiczny biały</nazwa>
 <cena>24.38</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>4052396044874</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
@@ -131426,8 +131353,8 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER 18642 TOMEK STARS Podest antypoślizgowy kosmiczny szary</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>4052396045000</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -131464,7 +131391,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER 18650 EWA STARS Nakładka sedesowa antypoślizgowa kosmiczny biały</nazwa>
 <cena>8.82</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>4052396044898</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
@@ -131595,7 +131522,7 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM FUNNY FARM Nocnik z funkcją antypoślizgową light green</nazwa>
 <cena>11.74</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>4052396134650</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
@@ -131639,8 +131566,8 @@ PP/TPE</opis>
 <nazwa>KEEEPER ADAM LION KING Nocnik z funkcją antypoślizgową biały</nazwa>
 <cena>15.72</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396117400</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Produkt jest wykonany z bezpiecznego tworzywa PP/TPE, które nie zawiera BPA, dzięki czemu jest przyjazny dla zdrowia dziecka.</opis>
@@ -131728,7 +131655,7 @@ Zakres dostawy: 1 doniczka dla niemowląt Adam, dekoracja Peppa, 18670, wymiary 
 <nazwa>KEEEPER ADAM STARS Nocnik antypoślizgowy kosmiczny biały</nazwa>
 <cena>14.70</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>4052396045031</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
@@ -131779,7 +131706,7 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM WINNIE THE POOH Nocnik z funkcją antypoślizgową biały</nazwa>
 <cena>15.72</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>4052396071757</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
@@ -131847,7 +131774,7 @@ wymiary: 125x64x34,5cm</opis>
 <nazwa>KEEEPER EWA CUTE CAPYBARA Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>8.82</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>4052396136173</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
@@ -131891,7 +131818,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA FUNNY FARM Nakładka sedesowa antypoślizgowa light green</nazwa>
 <cena>8.82</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>27</ilosc>
 <stan>duża ilość</stan>
 <EAN>4052396134667</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
@@ -131932,8 +131859,8 @@ PP/TPE</opis>
 <nazwa>KEEEPER EWA LION KING Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396117417</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Produkt wyposażony jest w wygodne uchwyty, które zapewniają dziecku dodatkowe wsparcie i stabilność.</opis>
@@ -131993,7 +131920,7 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA PAW PATROL Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>4052396092899</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
@@ -132083,7 +132010,7 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <nazwa>KEEEPER IGOR CUTE CAPYBARA Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>24.38</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>4052396136197</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
@@ -132110,7 +132037,7 @@ Kolorowe motywy z bajek – Kolorowe motywy z bajek przyczynią się do chętnie
 <nazwa>KEEEPER IGOR FUNNY FARM Podest dwustopniowy light green</nazwa>
 <cena>24.38</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>4052396134681</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
@@ -132176,8 +132103,8 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR MINNIE MOUSE Podest dziecięcy dwustopniowy antypoślizgowy nordic pink</nazwa>
 <cena>30.11</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396080827</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -132378,7 +132305,7 @@ TPE
 <nazwa>KEEEPER Maja Wanienka składana dla dziecka nordic grey</nazwa>
 <cena>101.32</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>4052396088045</EAN>
 <grupa>KEEEPER/AKCESORIA</grupa>
@@ -132403,7 +132330,7 @@ TPE
 <nazwa>KEEEPER Maja Wanienka składana dla dziecka nordic pink</nazwa>
 <cena>72.95</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>4052396088069</EAN>
 <grupa>KEEEPER/AKCESORIA</grupa>
@@ -132623,8 +132550,8 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER TOMEK LION KING Podest dziecięcy z funkcją antypoślizgową biały</nazwa>
 <cena>16.77</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396117424</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Wykonany z bardzo mocnego materiału z ciekawym wzornictwem, zachęca dzieci do samodzielnej nauki higieny.</opis>
@@ -132648,7 +132575,7 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER TOMEK MINNIE MOUSE Podest  antypoślizgowy nordic pink</nazwa>
 <cena>16.70</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>4052396080810</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
@@ -138037,7 +137964,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</opis>
 <nazwa>KIECZMERSKI Pościel C-2 100x135 cm ROYAL z falbanką pudrowy róż</nazwa>
 <cena>54.27</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907501430860</EAN>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
@@ -138230,7 +138157,7 @@ KOLOR - VELVET PIKOWANY ZIELEŃ NEPALSKA</opis>
 <nazwa>KIECZMERSKI Prześcieradło jersey do wózka / gondolki z gumką 80x35 beż</nazwa>
 <cena>15.85</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -139151,7 +139078,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 <nazwa>KIECZMERSKI Rożek standard 75x75 cm MIMINU DESIGN Dobranocka szary</nazwa>
 <cena>28.66</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
@@ -143029,7 +142956,7 @@ Waga: 6 kg</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 PLUS i-Size beige</nazwa>
 <cena>244.75</cena>
 <VAT>5</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902533931460</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
@@ -143082,7 +143009,7 @@ Wymiary po złożeniu / najmniejsze wymia</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 PLUS i-Size black</nazwa>
 <cena>244.76</cena>
 <VAT>5</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902533931422</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
@@ -143628,9 +143555,9 @@ KNIT FABRIC (Dzianina) – przyjemna w dotyku dzianina</opis>
 <b2b>
 <kod>5914510</kod>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-360 2 PLUS i-Size black</nazwa>
-<cena>523.88</cena>
+<cena>529.17</cena>
 <VAT>5</VAT>
-<ilosc>26</ilosc>
+<ilosc>34</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902533929795</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
@@ -147883,10 +147810,10 @@ Wymiary i waga produktu z opakowaniem: 84x53x8cm/7,4kg.</opis>
 <b2b>
 <kod>784290</kod>
 <nazwa>KINDERKRAFT Krzesełko do karmienia ENOCK natural 15071</nazwa>
-<cena>281.88</cena>
+<cena>284.72</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
-<stan>mała ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902533915071</EAN>
 <grupa>KINDERKRAFT/KRZESEŁKA</grupa>
 <opis>Ponadczasowe, wielofunkcyjne krzesełko do karmienia KINDERKRAFT ENOCK
@@ -150147,10 +150074,10 @@ Waga: 5 kg</opis>
 <b2b>
 <kod>5908718</kod>
 <nazwa>KINDERKRAFT Łóżeczko turystyczne JOY 2 BEIGE</nazwa>
-<cena>198.00</cena>
+<cena>200.00</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>12</ilosc>
+<stan>duża ilość</stan>
 <EAN>5902533925124</EAN>
 <grupa>KINDERKRAFT/ŁÓŻECZKA I KOJCE</grupa>
 <opis>JOY 2 to składane łóżeczko, które zostało stworzone z myślą o rodzicach, kochających wielofunkcyjne rozwiązania. JOY 2 to łóżeczko dziecięce 2 w 1: posłuży Wam jako łóżko dla starszego dziecka oraz łóżeczko turystyczne. Dzięki smukłej konstrukcji i uniwersalnym kolorom szybko stanie się ulubionym meblem w Waszym domu.
@@ -150187,10 +150114,10 @@ JOY 2 ma piękne, uniwersalne kolory, dzięki którym wpasuje się niemal w każ
 <b2b>
 <kod>5908717</kod>
 <nazwa>KINDERKRAFT Łóżeczko turystyczne JOY 2 DARK GREY</nazwa>
-<cena>198.00</cena>
+<cena>200.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902533925117</EAN>
 <grupa>KINDERKRAFT/ŁÓŻECZKA I KOJCE</grupa>
 <opis>JOY 2 to składane łóżeczko, które zostało stworzone z myślą o rodzicach, kochających wielofunkcyjne rozwiązania. JOY 2 to łóżeczko dziecięce 2 w 1: posłuży Wam jako łóżko dla starszego dziecka oraz łóżeczko turystyczne. Dzięki smukłej konstrukcji i uniwersalnym kolorom szybko stanie się ulubionym meblem w Waszym domu.
@@ -153778,7 +153705,7 @@ Wysokość rączki rodzica: 92–100 cm</opis>
 <nazwa>KINDERKRAFT Rowerek trójkołowy JAZZ 3 pink</nazwa>
 <cena>446.88</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902533930012</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
@@ -154822,10 +154749,10 @@ Waga: 11 kg</opis>
 <b2b>
 <kod>5914502</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy INDY 3 Coal Black</nazwa>
-<cena>297.00</cena>
+<cena>300.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902533926879</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>INDY 3 – kompaktowa spacerówka miejska
@@ -154924,10 +154851,10 @@ EN 1888-1 do 15 kg</opis>
 <b2b>
 <kod>5914504</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy INDY 3 Misty Beige</nazwa>
-<cena>297.00</cena>
+<cena>300.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902533926831</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>INDY 3 – kompaktowa spacerówka miejska
@@ -155026,10 +154953,10 @@ EN 1888-1 do 15 kg</opis>
 <b2b>
 <kod>5914503</kod>
 <nazwa>KINDERKRAFT Wózek spacerowy INDY 3 Urban Grey</nazwa>
-<cena>297.00</cena>
+<cena>300.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902533926824</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
 <opis>INDY 3 – kompaktowa spacerówka miejska
@@ -155578,7 +155505,7 @@ Wymiary opakowania: 110 x 22 x 27 cm</opis>
 <nazwa>KINDERKRAFT Wózek spacerowy TIK GREEN</nazwa>
 <cena>237.88</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902533922857</EAN>
 <grupa>KINDERKRAFT/WÓZKI SPACEROWE</grupa>
@@ -156360,6 +156287,85 @@ NIP 7811861679</opis>
 <EAN>5902533928941</EAN>
 <grupa>KINDERKRAFT/WÓZKI WIELOFUNKCYJNE</grupa>
 <opis/>
+</b2b>
+<b2b>
+<kod>5914455</kod>
+<nazwa>KINDERKRAFT Wózek wielofunkcyjny 3w1 PRIME 3 SAND DUNE</nazwa>
+<cena>1650.00</cena>
+<VAT>23</VAT>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
+<EAN>5902533928958</EAN>
+<grupa>KINDERKRAFT/WÓZKI WIELOFUNKCYJNE</grupa>
+<opis>PRIME 3 to nowoczesny wózek dziecięcy 3w1, który udowadnia, że codzienna logistyka z dzieckiem może być lekka, stylowa i całkowicie bezstresowa. Zaprojektowany z myślą o dynamicznych rodzicach, którzy balansują między porannym wyjściem do żłobka, szybkim zakupami a relaksującym spacerem w parku. Ten lekki wózek wielofunkcyjny łączy w sobie cechy zwrotnej miejskiej spacerówki oraz solidnego wózka głębokiego z doskonałą amortyzacją. Jeśli szukasz rozwiązania, które nie tylko dba o komfort Twojego maluszka od pierwszych dni życia, ale także świetnie wygląda w miejskiej dżungli i bez trudu mieści się w bagażniku, PRIME 3 jest stworzony właśnie dla Ciebie.
+
+Do czego służy i co go wyróżnia? To kompletny system podróżny, który rośnie razem z dzieckiem - od bezpiecznej, przytulnej gondoli, przez zwrotne siedzisko spacerowe, aż po funkcjonalne nosidło MINK PRO 2. Dzięki smukłej ramie i intuicyjnym systemom obsługi, PRIME 3 zmienia się w Twojego najlepszego asystenta podczas rodzinnych rytuałów. Zapomnij o siłowaniu się z ciężkim stelażem na schodach - niska waga i kompaktowe rozmiary sprawiają, że ten wózek 3w1 wnosi nową jakość do Twojej codzienności, pozwalając Ci cieszyć się każdą chwilą z maluchem bez zbędnego wysiłku.
+
+W zestawie
+Wózek Kinderkraft Prime 3;
+fotelik samochodowy Kinderkraft Mink PRO 2;
+adaptery do wpięcia fotelika;
+torba z matą do przewijania;
+osłonka na nóżki;
+osłonka gondoli;
+pokrowiec przeciwdeszczowy;
+moskitiera;
+
+Cechy charakterystyczne
+System 3w1 z nosidłem MINK PRO 2
+Ten wszechstronny zestaw wózek 2w1 plus fotelik obejmuje obszerną gondolę, komfortowe siedzisko spacerowe oraz bezpieczny fotelik samochodowy, co sprawia, że jest to wózek na lata, towarzyszący Wam od narodzin aż do końca okresu wózkowania. Dzięki tak spójnej konfiguracji nie musisz martwić się o dokupowanie dodatkowych elementów, zyskując pełną gotowość do drogi w każdych warunkach.
+
+Intuicyjne przyciski Memory Buttons
+Innowacyjny system wypinania gondoli i siedziska za pomocą jednej ręki to prawdziwy przełom w mobilności, który docenisz, gdy druga dłoń będzie zajęta trzymaniem starszaka lub torby. Mechanizm działa płynnie i bezszelestnie, co pozwala na błyskawiczną zmianę konfiguracji wózka nawet w ciasnej windzie czy w trakcie szybkiego pakowania do auta.
+
+Amortyzowane koła z bieżnikiem
+Duże, bezobsługowe koła (8” i 12”) z wyraźnym bieżnikiem gwarantują płynną jazdę po kostce brukowej, żwirze czy leśnych ścieżkach, skutecznie niwelując wszelkie drgania. Dzięki doskonałej amortyzacji Twój maluch może kontynuować drzemkę bez względu na nawierzchnię, a Ty prowadzisz wózek lekko i pewnie, nawet przy użyciu tylko jednej ręki. Wózek z kołami, których nie trzeba pompować to łatwiejsza codzienność.
+
+Kompaktowe składanie z siedziskiem
+PRIME 3 został zaprojektowany z myślą o oszczędności czasu, dlatego składa się do kompaktowych rozmiarów bez konieczności demontażu spacerówki. To idealne rozwiązanie dla posiadaczy mniejszych bagażników oraz osób ceniących porządek w przedpokoju, gdzie każda zaoszczędzona przestrzeń jest na wagę złota. Ten wózek Kinderkraft naprawdę łatwo się składa.
+
+Regulacja dla maksymalnego komfortu
+Wielostopniowa regulacja budki, oparcia oraz podnóżka pozwala na błyskawiczne dopasowanie wózka do aktualnych potrzeb dziecka, chroniąc je przed słońcem lub zapewniając idealną pozycję do spania. Płynne mechanizmy sprawiają, że każda zmiana ustawienia odbywa się naturalnie, nie przerywając spokoju małego pasażera podczas spaceru.
+
+Design Premium i stylowe akcesoria
+Wyjątkowa paleta stonowanych barw, dopracowane detale oraz elegancka torba pielęgnacyjna w zestawie sprawiają, że PRIME 3 to stylowy wózek, który przyciąga spojrzenia nowoczesną estetyką. Wysokiej jakości tkaniny są nie tylko miłe w dotyku, ale i trwałe, co w połączeniu ze smukłą linią ramy tworzy produkt, który dumnie reprezentuje Twój styl życia.
+
+Szczegóły
+Wymiary
+Wózek rozłożony: 100 × 59 × 106 cm
+Wymiary po złożeniu
+Wózek złożony: 87 × 59 × 49 cm
+Stelaż
+aluminiowy
+Składanie
+Na płasko
+Maksymalna waga dziecka (kg)
+22
+Rodzaj kół
+Bezobsługowe
+Regulowana rączka
+Tak
+Regulowany podnóżek
+Tak
+Przekładane siedzisko
+Tak
+Przekładana rączka
+Nie
+Pełna rączka
+Tak
+Pałąk bezpieczeństwa
+Tak
+Rodzaj hamulca
+hamulec nożny
+Trójkołowiec
+Nie
+Możliwość zamontowania gondoli
+Tak
+Możliwość zamontowania fotelika
+Tak
+Gwarancja (mc)
+24</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914455-1.jpg https://marini.pl/b2b/pictures/5914455-2.jpg https://marini.pl/b2b/pictures/5914455-3.jpg https://marini.pl/b2b/pictures/5914455-4.jpg https://marini.pl/b2b/pictures/5914455-5.jpg https://marini.pl/b2b/pictures/5914455-6.jpg https://marini.pl/b2b/pictures/5914455-7.jpg https://marini.pl/b2b/pictures/5914455-8.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914947</kod>
@@ -157571,7 +157577,7 @@ Kod EAN: 5901912245877</opis>
 <nazwa>KLUPŚ Komoda PAULINE grafit-dąb</nazwa>
 <cena>546.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912245327</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -157633,7 +157639,7 @@ Opcjonalna nakładka do przewijania.</opis>
 <nazwa>KLUPŚ Komoda z przewijakiem KAROLINA biel-sosna</nazwa>
 <cena>440.00</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912244948</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
@@ -157749,7 +157755,7 @@ Opcja dołączenia pojemnika na pościel (należy dokupić osobno)</opis>
 <nazwa>KLUPŚ Łóżeczko AMELIA dąb z barierką 120x60</nazwa>
 <cena>593.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912245174</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -157793,7 +157799,7 @@ opcja dołączenia pojemnika na pościel, 2 wyjmowane szczeble, 3 poziomy matera
 <nazwa>KLUPŚ Łóżeczko AMELIA II dąb 120x60</nazwa>
 <cena>375.00</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912245273</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -157972,7 +157978,7 @@ Kod EAN: 5901912245693</opis>
 <nazwa>KLUPŚ Łóżeczko FRANIA biel 120x60</nazwa>
 <cena>330.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912246003</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -158040,8 +158046,8 @@ Między listwami dna znajdują się wolne przestrzenie dzięki czemu powietrze m
 <nazwa>KLUPŚ Łóżeczko KAROLINA I biała</nazwa>
 <cena>227.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912244702</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis/>
@@ -158070,7 +158076,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko KAROLINA II biel-sosna 120x60</nazwa>
 <cena>261.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912244931</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -158127,8 +158133,8 @@ Wyciągane szczeble</opis>
 <nazwa>KLUPŚ Łóżeczko NEL Chmurka biała</nazwa>
 <cena>414.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901912244405</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko Nel Chmurka białe
@@ -158171,7 +158177,7 @@ Wyciągane szczeble okrągłe</opis>
 <nazwa>KLUPŚ Łóżeczko OLIVIA biel 120x60</nazwa>
 <cena>333.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245464</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -158213,8 +158219,8 @@ wyjmowane szczebelki
 <nazwa>KLUPŚ Łóżeczko PAULA biała 120x60</nazwa>
 <cena>256.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912241978</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -158231,7 +158237,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA białe 120x60</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>30</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912240421</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -158252,7 +158258,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA biel-orzech</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>47</ilosc>
+<ilosc>45</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912244832</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -158509,8 +158515,8 @@ Wyciągane szczeble okrągłe
 <nazwa>KLUPŚ Łóżko młodzieżowe 160x80 AMELIA biel</nazwa>
 <cena>430.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901912245341</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżko młodzieżowe AMELIA w rozmiarze 160×80 jest wykonane z materiałów najwyższej jakości. Każdy, nawet najmniejszy detal, został tak dopracowany, by cieszyć oko nie tylko rodzica, ale i zachwycił każde dziecko. Barierka ochronna to gwarancja bezpiecznego snu dla każdego starszaka.
@@ -158633,7 +158639,7 @@ funkcje
 <nazwa>KLUPŚ Łóżko PAULINE z barierką grafit-sosna 120x60</nazwa>
 <cena>363.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245150</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -158709,7 +158715,7 @@ Funkcja tapczanika
 <nazwa>KLUPŚ Łóżko-tapczanik 140x70 DALIA biel</nazwa>
 <cena>361.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912244795</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -158791,7 +158797,7 @@ Kod EAN: 5901912245853</opis>
 <nazwa>KLUPŚ Nakładka na komodę Pauline grafit</nazwa>
 <cena>65.00</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912245020</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
@@ -158821,7 +158827,7 @@ Kod EAN: 5901912245822</opis>
 <nazwa>KLUPŚ Nakładka na łóżeczko 120x60 biel</nazwa>
 <cena>99.00</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912245914</EAN>
 <grupa>KLUPŚ/AKCESORIA</grupa>
@@ -158902,7 +158908,7 @@ Kod EAN: 5901912245921</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 biały</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912241084</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
@@ -158930,7 +158936,7 @@ wymiary zewnętrzne :119x17x62</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 grafit</nazwa>
 <cena>96.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245167</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
@@ -158957,7 +158963,7 @@ OPIS POJEMNIKA:
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 popiel</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912241114</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
@@ -159401,7 +159407,7 @@ Funkcjonalne szuflady.</opis>
 <nazwa>KLUPŚ Szafa dwudrzwiowa Pauline grafit-dąb</nazwa>
 <cena>659.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245334</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -159588,7 +159594,7 @@ Kod EAN: 5901912245761
 <nazwa>KORANDO Stojak pod baldachim</nazwa>
 <cena>14.20</cena>
 <VAT>23</VAT>
-<ilosc>398</ilosc>
+<ilosc>395</ilosc>
 <stan>duża ilość</stan>
 <EAN/>
 <grupa>KORANDO</grupa>
@@ -168890,7 +168896,7 @@ płyta MDF, płyta meblowa
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę biel</nazwa>
 <cena>68.00</cena>
 <VAT>23</VAT>
-<ilosc>44</ilosc>
+<ilosc>36</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912244528</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -168912,7 +168918,7 @@ płyta meblowa</opis>
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę buk</nazwa>
 <cena>68.00</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912245594</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -169095,7 +169101,7 @@ funkcje
 <nazwa>LOVI 0273 Butelka Medical+ 150ml duopack</nazwa>
 <cena>22.86</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407904948</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
@@ -169417,7 +169423,7 @@ Aby jeszcze bardziej wspierać dzieci w nauce samodzielności, zaprojektowany pr
 <nazwa>LOVI 10/886 Łańcuszek do smoczka Indian Summer Boy</nazwa>
 <cena>12.36</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903407108865</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -169462,7 +169468,7 @@ W zestawie:
 <nazwa>LOVI 10/892 Łańcuszek do smoczka Jungle Vibes</nazwa>
 <cena>12.36</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691876859</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -169581,7 +169587,7 @@ uniwersalny - pasuje do większości typów smoczków</opis>
 <nazwa>LOVI 14/001 Maść lanolinowa do brodawek sutkowych 37g.</nazwa>
 <cena>28.00</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691879898</EAN>
 <grupa>LOVI/KARMIENIE PIERSIĄ</grupa>
@@ -169877,7 +169883,7 @@ W zestawie:
 <nazwa>LOVI 18/753 Smoczek dynamiczny do karmienia kaszka 2szt</nazwa>
 <cena>18.59</cena>
 <VAT>5</VAT>
-<ilosc>21</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407187532</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
@@ -170015,7 +170021,7 @@ koordynacja ssania, połykania i oddychania</opis>
 <nazwa>LOVI 21/563 Butelka Medical+ 250ml</nazwa>
 <cena>26.00</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407215631</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
@@ -170879,7 +170885,7 @@ kapsuła do higienicznego przechowywania smoczków</opis>
 <nazwa>LOVI 22/881 Smoczek silikonowy dynamiczny 0-2m 2 szt Wild Soul Boy</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903407228815</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -170897,7 +170903,7 @@ MINIsmoczek dynamiczny LOVI został zaprojektowany z myślą o noworodkach. Ma m
 <nazwa>LOVI 22/881 Smoczek silikonowy dynamiczny 0-2m 2 szt Wild Soul Girl</nazwa>
 <cena>24.67</cena>
 <VAT>5</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691835092</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -171292,7 +171298,7 @@ Dynamiczny smoczek uspokajający LOVI został stworzony we współpracy z neurol
 <nazwa>LOVI 22/900 Smoczek silikonowy dynamiczny 0-2m 2 szt Baby Shower Boy</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691853713</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -171314,7 +171320,7 @@ nie zaburza prawidłowego rozwoju mowy i zgryzu*
 <nazwa>LOVI 22/900 Smoczek silikonowy dynamiczny 0-2m 2 szt Baby Shower Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691853706</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -171593,8 +171599,8 @@ Skóra dziecka jest wyjątkowo narażona na wszelkie odparzenia, tarczka smoczka
 <nazwa>LOVI 22/907 Smoczek silikonowy dynamiczny 6-18m 2 szt Harmony Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901691853850</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
 <opis>Lovi Harmony Smoczek Silikonowy Dynamiczny 6-18 m
@@ -172420,7 +172426,7 @@ Jeden ze smoczków w zestawie posiada uchwyt, a drugi kapsel świecący w ciemno
 <nazwa>LOVI 22/935 Smoczek silikonowy dynamiczny 0-6m 2 szt Teddy Love</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407365466</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -172951,7 +172957,7 @@ Dodatkowo smoczek LOVI Prime to atrakcyjny, modny design - stanowi idealny dodat
 <nazwa>LOVI 34/416 Smoczek silikonowy dynamiczny Prime 0-6m 1 szt Baby Blue</nazwa>
 <cena>17.50</cena>
 <VAT>5</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691890473</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -174660,8 +174666,8 @@ Wiek 8+.</opis>
 <nazwa>MALTEX Fotelik do kąpieli Classic beżowy</nazwa>
 <cena>10.14</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN/>
 <grupa>MALTEX/FOTELIKI DO KĄPIELI</grupa>
 <opis>Leżaczek do kąpieli od Maltex Baby przeznaczony jest dla niemowlaka do około 6 miesiąca życia. Produkt został odpowiednio zaprojektowany uwzględniając anatomię dziecka i jego bezpieczną pozycję podczas kąpieli. Leżaczek jest szczególnie polecany z matą antypoślizgową która stanowi dodatkowe zabezpieczenie podczas kąpieli dziecka.
@@ -174944,8 +174950,8 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Krzesełko do kąpieli Smerfy/zabawki, różowy/biały</nazwa>
 <cena>52.09</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903067006525</EAN>
 <grupa>MALTEX/KRZESEŁKA DO KAPIELI</grupa>
 <opis/>
@@ -174980,7 +174986,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miękka nakladka Misiu Leśna Ferajna szary</nazwa>
 <cena>27.92</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067007577</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
@@ -175112,7 +175118,7 @@ Przeznaczony dla dzieci od 7 mc życia.</opis>
 <nazwa>MALTEX Miska higieniczna b/o, biały</nazwa>
 <cena>9.82</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903067018115</EAN>
 <grupa>MALTEX</grupa>
@@ -175181,8 +175187,8 @@ dzięki grubszym ściankom podest jest wyjątkowo stabilny i nie ulega deformacj
 <nazwa>MALTEX Nakładka 2K Jeżyk Leśna Ferajna zielony</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5903067007454</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -175279,7 +175285,7 @@ Wymiary dł/szer/wys: 39 cm / 30 cm/ 13,5 cm</opis>
 <nazwa>MALTEX Nakładka 2K na sedes Zebra/szary</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009267</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
@@ -175293,7 +175299,7 @@ Wymiary dł/szer/wys: 39 cm / 30 cm/ 13,5 cm
 <nazwa>MALTEX Nakładka 2K Słonik brzoskwiniowy róż</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067017156</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
@@ -175421,8 +175427,8 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nocnik 2K Jeżyk Leśna Ferajna zielony</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903067007485</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -175433,7 +175439,7 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nocnik 2K Konik stalowy szary</nazwa>
 <cena>16.73</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067017095</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -175445,8 +175451,8 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nocnik 2K Lama szałwiowa zieleń</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903067017088</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -175457,8 +175463,8 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nocnik 2K Lisek Leśna Ferajna beżowy</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903067007492</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
 <opis/>
@@ -175469,7 +175475,7 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nocnik 2K Madagaskar biały/beżowy</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067007119</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -175493,7 +175499,7 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nocnik 2K Słonik brzoskwiniowy róż</nazwa>
 <cena>16.55</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067017118</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -175569,7 +175575,7 @@ dopuszczalny wiek: 18 miesięcy + dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Nocnik 2K z pozytywką Słonik brzoskwiniowy róż</nazwa>
 <cena>20.56</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067018030</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -175812,7 +175818,7 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <nazwa>MALTEX Nocnik Zebra różowy</nazwa>
 <cena>10.19</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009465</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -175838,7 +175844,7 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <nazwa>MALTEX Podnóżek 2K Jeżyk Leśna Ferajna zielony</nazwa>
 <cena>19.29</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903067007720</EAN>
 <grupa>MALTEX/PODNÓŻKI</grupa>
@@ -175922,7 +175928,7 @@ Wymiary dł/szer/wys: 29 cm/ 29 cm/ 22 cm</opis>
 <nazwa>MALTEX Podnóżek 2K Smerfy biały/ niebieski</nazwa>
 <cena>20.81</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903067004446</EAN>
 <grupa>MALTEX/PODNÓŻKI</grupa>
@@ -176612,7 +176618,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100 Konik stalowy szary</nazwa>
 <cena>31.17</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067015930</EAN>
 <grupa>MALTEX/WANNY</grupa>
@@ -176648,7 +176654,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm Lisek Leśna Ferajna beżowy</nazwa>
 <cena>34.76</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067007669</EAN>
 <grupa>MALTEX/WANNY</grupa>
@@ -176828,7 +176834,7 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 84cm Lisek Leśna Ferajna beżowy</nazwa>
 <cena>26.58</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067007638</EAN>
 <grupa>MALTEX/WANNY</grupa>
@@ -179235,7 +179241,7 @@ Pasuje do wszystkich kubków MAM</opis>
 <nazwa>MAM 875915 Butelka antykolkowa Perfect Star 160ml Grounding in Nature unisex zielona</nazwa>
 <cena>39.99</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>9001616875915</EAN>
 <grupa>MAM/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -180241,7 +180247,7 @@ Dla dzieci w wieku od 3 lat</opis>
 <nazwa>MARKO BC-KOS-001 Walizka podróżna Planety duża Ukł. Słoneczny</nazwa>
 <cena>85.38</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901885741741</EAN>
 <grupa>MARKO</grupa>
@@ -181231,8 +181237,8 @@ montowane na taśmie dwustronnej</opis>
 <nazwa>MARKO SRPP-012 Dekoracja ścienna duża Psi Patrol 3 Postacie nr.1</nazwa>
 <cena>7.35</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901885738840</EAN>
 <grupa>MARKO</grupa>
 <opis>Piękne, kolorowe dekoracje z wizerunkami głównych bohaterów bajki Psi Patrol, dzięki którym pokój dziecka stanie się przytulny i wyjątkowy, a dziecko chętnie będzie spędzało w nim czas.
@@ -181318,7 +181324,7 @@ EAN: 5901885740256</opis>
 <nazwa>MARKO STPP-001 Osłonka przeciwsłoneczna Psi Patrol 2 szt</nazwa>
 <cena>7.19</cena>
 <VAT>23</VAT>
-<ilosc>30</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901885738314</EAN>
 <grupa>MARKO</grupa>
@@ -184842,8 +184848,8 @@ Rozmiar:
 <nazwa>MATEX Kocyk MILLY dziecięcy z mikrofazy 75x100 [TB0294_K42] kropki szary</nazwa>
 <cena>28.10</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5902675045568</EAN>
 <grupa>BABYMATEX/KOCYKI I NARZUTY</grupa>
 <opis>Ciepły i bardzo miły w dotyku kocyk Milly zapewni dziecku zdrowy i spokojny sen w domu jak również na spacerze. Wykonany z 100% poliestru. Dostępny w kilku wzorach i kolorach.
@@ -186108,7 +186114,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Poduszka 60x36 AEROKLIN [TB0249_01]</nazwa>
 <cena>69.04</cena>
 <VAT>8</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675040693</EAN>
 <grupa>BABYMATEX/PODUSZKI</grupa>
@@ -187706,7 +187712,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60x120 [TB0241_09A] j.róż</nazwa>
 <cena>31.30</cena>
 <VAT>8</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675081368</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
@@ -188958,8 +188964,8 @@ Brutto: 4 kg</opis>
 <nazwa>MILLY MALLY 138 Łóżeczko turystyczne Mirage Grey</nazwa>
 <cena>98.95</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901761120196</EAN>
 <grupa>MILLY MALLY/ŁÓŻECZKA KOJCE KOŁYSKI</grupa>
 <opis/>
@@ -190042,7 +190048,7 @@ Waga z opakowaniem: 10,6 kg</opis>
 <nazwa>MILLY MALLY 2596 Pojazd JAKE NATURAL</nazwa>
 <cena>114.41</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761124705</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -191492,7 +191498,7 @@ Waga brutto: 7,4 kg</opis>
 <nazwa>MILLY MALLY 3130 Gokart na pedały Viper Yellow</nazwa>
 <cena>168.02</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761125863</EAN>
 <grupa>MILLY MALLY</grupa>
@@ -191539,7 +191545,7 @@ Waga brutto: 7,4 kg</opis>
 <nazwa>MILLY MALLY 3168 Gokart na pedały Thor Pink</nazwa>
 <cena>260.74</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761125757</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -195661,7 +195667,7 @@ Waga z opakowaniem: 5,5 kg
 <nazwa>MILLY MALLY 4103 Qplay Rowerek trójkołowy Premium Black</nazwa>
 <cena>416.32</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5061047480366</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
@@ -195748,8 +195754,8 @@ Waga z opakowaniem: 14,4 kg</opis>
 <nazwa>MILLY MALLY 4105 Qplay Rowerek trójkołowy Cosy Black</nazwa>
 <cena>211.74</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5061047480410</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Przytulny rowerek Cosy 4-w-1 QPlay rośnie wraz z dzieckiem od 10 do 72 miesięcy.
@@ -196345,8 +196351,8 @@ Waga brutto: 13,5 kg</opis>
 <nazwa>MILLY MALLY 445 Łóżeczko turystyczne Mirage Dark Grey</nazwa>
 <cena>98.95</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901761121902</EAN>
 <grupa>MILLY MALLY/ŁÓŻECZKA KOJCE KOŁYSKI</grupa>
 <opis>Łóżeczko Turystyczne Mirage Milly Mally – komfort snu i zabawy w każdym miejscu!
@@ -196507,7 +196513,7 @@ www.pminvestment.pl/manual/mirage_manual.pdf
 <nazwa>MILLY MALLY 4478 Pojazd na akumulator Quad HONDA ATV Blue</nazwa>
 <cena>180.06</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901761128062</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -198190,7 +198196,7 @@ Opakowanie kartonowe</opis>
 <nazwa>MILLY MALLY 5070 Mata piankowa zwijana Kinder Forest and City</nazwa>
 <cena>50.99</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761128369</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -198549,8 +198555,8 @@ Waga z opakowaniem: 8,7 kg
 <nazwa>MILLY MALLY 5249 Rowerek trójkołowy Movi gold 5w1</nazwa>
 <cena>270.30</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901761128437</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Movi zaprasza w podróż… „360 stopni dookoła przygody”
@@ -202534,6 +202540,17 @@ Waga z opakowaniem 6,1 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912033-1.jpg https://marini.pl/b2b/pictures/5912033-2.jpg https://marini.pl/b2b/pictures/5912033-3.jpg https://marini.pl/b2b/pictures/5912033-4.jpg https://marini.pl/b2b/pictures/5912033-5.jpg https://marini.pl/b2b/pictures/5912033-6.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59114996</kod>
+<nazwa>MILLY MALLY 5695 Wózek dla lalek Julia Prestige Black</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5901761129335</EAN>
+<grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5908873</kod>
 <nazwa>MILLY MALLY 5696 Rowerek trójkołowy Bobby golden</nazwa>
 <cena>86.51</cena>
@@ -203206,8 +203223,8 @@ Waga brutto: 5,3 kg
 <nazwa>MILLY MALLY 5703 Gokard na pedały Thor White</nazwa>
 <cena>260.74</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901761129342</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
 <opis>Twoje dziecko chce poczuć się jak prawdziwy kierowca rajdowy? Mamy dla Was świetna wiadomość – w naszej ofercie pojawił się gokart THOR.
@@ -204578,7 +204595,7 @@ Waga brutto: 5,9 kg
 <nazwa>MILLY MALLY 5721 Gokart na pedały Rider Orange</nazwa>
 <cena>130.28</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761129557</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -211409,7 +211426,7 @@ www.pminvestment.pl/manual/mercedes_c_class_manual.pdf</opis>
 <nazwa>MILLY MALLY 6108 Pojazd z rączką Mercedes C-Class Deluxe Red</nazwa>
 <cena>164.03</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761127218</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -212561,7 +212578,7 @@ www.pminvestment.pl/manual/ tinymini_manual.pdf</opis>
 <nazwa>MILLY MALLY 6146 TinyMini JL652-1A Mata edukacyjna 2w1 Kojec z piłeczkami</nazwa>
 <cena>61.60</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761123197</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -214108,7 +214125,7 @@ email: info@pminvestment.pl
 <nazwa>MILLY MALLY 6240 Wózek dla lalek Julia Nature</nazwa>
 <cena>25.14</cena>
 <VAT>23</VAT>
-<ilosc>56</ilosc>
+<ilosc>48</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700085</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -214186,7 +214203,7 @@ www.pminvestment.pl/manual/julia_manual.pdf</opis>
 <nazwa>MILLY MALLY 6241 Wózek dla lalek Natalie Nature</nazwa>
 <cena>59.79</cena>
 <VAT>23</VAT>
-<ilosc>153</ilosc>
+<ilosc>152</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700092</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -214350,7 +214367,7 @@ www.pminvestment.pl/manual/susie_manual.pdf
 <nazwa>MILLY MALLY 6243 Wózek dla lalek Dori Nature</nazwa>
 <cena>75.55</cena>
 <VAT>23</VAT>
-<ilosc>147</ilosc>
+<ilosc>143</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700115</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -219624,7 +219641,7 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <nazwa>MILLY MALLY 6301 Qplay Rowerek Trójkołowy Comfo Max Olive Green</nazwa>
 <cena>394.96</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>36</ilosc>
 <stan>duża ilość</stan>
 <EAN>5061047482124</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
@@ -219936,7 +219953,7 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <nazwa>MILLY MALLY 6303 Qplay Rowerek Trójkołowy Comfo Max Beige</nazwa>
 <cena>394.96</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>33</ilosc>
 <stan>duża ilość</stan>
 <EAN>5061047482148</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
@@ -221807,7 +221824,7 @@ www.pminvestment.pl/manual/qplay_comfo_max_manual.pdf</opis>
 <nazwa>MILLY MALLY 6342 Rowerek 5w1 OPTIMUS MAX green</nazwa>
 <cena>156.26</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700245</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
@@ -222996,8 +223013,8 @@ www.pminvestment.pl/manual/skippy_manual.pdf</opis>
 <nazwa>MILLY MALLY 6378 Rowerek trójkołowy Zippy Beige</nazwa>
 <cena>229.63</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907090700429</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
 <opis>Rowerek trójkołowy ZIPPY został stworzony z myślą o komforcie i bezpieczeństwie maluszków oraz wygodzie rodziców.
@@ -224115,7 +224132,7 @@ www.pminvestment.pl/manual/flixy_manual.pdf</opis>
 <nazwa>MILLY MALLY 6423 Pojazd Flixy mint</nazwa>
 <cena>80.28</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700511</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -226964,8 +226981,8 @@ www.pminvestment.pl/manual/guardy104_manual.pl</opis>
 <nazwa>MILLY MALLY 6579 Bramka zabezpieczająca - barierka na schody z rozszerzeniem Guardy 104 White</nazwa>
 <cena>98.95</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907090700801</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
 <opis>Bezpieczeństwo dziecka na pierwszym miejscu!
@@ -227090,7 +227107,7 @@ www.pminvestment.pl/manual/guardy104_manual.pl
 <nazwa>MILLY MALLY 6627 Toaletka Elly Pink</nazwa>
 <cena>186.07</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907090700887</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
@@ -228832,7 +228849,7 @@ www.pminvestment.pl/manual/patrol_manual.pdf
 <nazwa>MILLY MALLY 6838 Pojazd na akumulator Gokart Bolt White (akumulator 6)</nazwa>
 <cena>198.52</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700993</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -229087,7 +229104,7 @@ www.pminvestment.pl/manual/BOLT_manual.pdf</opis>
 <nazwa>MILLY MALLY 6839 Pojazd na akumulator Gokart Bolt Red (akumulator 6)</nazwa>
 <cena>198.52</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090701006</EAN>
 <grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
@@ -238048,8 +238065,8 @@ Waga z opakowaniem-1,4 kg</opis>
 <nazwa>MILLY MALLY Mata piankowa składana Play Pastel Deer T1</nazwa>
 <cena>61.84</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907090700665</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Dwustronna, składana mata piankowa od Milly Mally to komfort i bezpieczeństwo dla Twojego dziecka. Mata posiada właściwości antypoślizgowe oraz antyalergiczne. Gwarantuje to bezpieczeństwo podczas zabawy oraz nauki raczkowania i chodzenia. Dzięki ciekawym nadrukom pasuje ona do każdego pomieszczenia zarówno dla chłopca jak i dziewczynki. Produkt doskonale izoluje od chłodnej podłogi, a dzięki wodoodpornej powierzchni jest łatwy w czyszczeniu oraz idealnie nadaje się jako element wystroju pokoju. Duża elastyczność sprawia, że świetnie amortyzuje w razie upadku. Można jej używać także na zewnątrz na gładkich powierzchniach. Naszą matę można zabrać również ze sobą w podróż, wystarczy spakować ją do torby na zamek z wygodnymi rączkami.
@@ -238236,7 +238253,7 @@ Waga z opakowaniem-1,4 kg</opis>
 <nazwa>MILLY MALLY Mata piankowa składana Play Savanna and Tree</nazwa>
 <cena>49.73</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907090700627</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -238323,7 +238340,7 @@ www.pminvestment.pl/manual/play.jpg</opis>
 <nazwa>MILLY MALLY Mata piankowa składana Play Street T1cm</nazwa>
 <cena>61.84</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761127423</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -238475,8 +238492,8 @@ Waga z opakowaniem-1,7 kg
 <nazwa>MILLY MALLY Mata piankowa zwijana Kinder Sea and Africa</nazwa>
 <cena>50.99</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901761128109</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Dwustronna mata piankowa zwijana KINDER od Milly Mally to komfort i bezpieczeństwo dla Twojego dziecka. Mata posiada właściwości antypoślizgowe oraz antyalergiczne. Gwarantuje to bezpieczeństwo podczas zabawy oraz nauki raczkowania i chodzenia. Dzięki ciekawym nadrukom pasuje ona do każdego pomieszczenia zarówno dla chłopca jak i dziewczynki. 
@@ -241746,7 +241763,7 @@ www.pminvestment.pl/manual/qplay_elite_platinum_manual.pdf</opis>
 <nazwa>MILLY MALLY Qplay Rowerek trójkołowy Elite Pro Black</nazwa>
 <cena>148.73</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5061047480649</EAN>
 <grupa>MILLY MALLY/ROWERKI I HULAJNOGI</grupa>
@@ -245334,8 +245351,8 @@ Mömbella® to dynamicznie rozwijająca się marka założona w 2013 roku przez 
 <nazwa>Mombella 00140 Gryzak Grzybek Mushroom Chill Oat</nazwa>
 <cena>30.10</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5060666872378</EAN>
 <grupa>MOMBELLA</grupa>
 <opis>Mombella Gryzak Grzybek Mushroom Chill Oat
@@ -245379,8 +245396,8 @@ Mömbella® to dynamicznie rozwijająca się marka założona w 2013 roku przez 
 <nazwa>Mombella 00141 Gryzak Grzybek Mushroom Mocha Loca</nazwa>
 <cena>30.10</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5060666872385</EAN>
 <grupa>MOMBELLA</grupa>
 <opis>Mombella Gryzak Grzybek Mushroom Mocha Loca
@@ -245902,8 +245919,8 @@ Mömbella® to dynamicznie rozwijająca się marka założona w 2013 roku przez 
 <nazwa>Mombella 100136 Gryzak Uspokajający Mushroom Eucalyptus</nazwa>
 <cena>30.10</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5060666872323</EAN>
 <grupa>MOMBELLA</grupa>
 <opis>Mombella Gryzak Grzybek Mushroom Eucalyptus
@@ -246111,8 +246128,8 @@ Mömbella® to bardzo szybko rosnąca marka stworzona w 2013 roku przez Davida G
 <nazwa>Mombella 8053 Gryzak Mushroom Green</nazwa>
 <cena>30.10</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>6925338200561</EAN>
 <grupa>MOMBELLA</grupa>
 <opis>Specjalnie zaprojektowane silikonowe gryzaki dla dzieci przynoszą ulgę dziecku podczas ząbkowania. Poręczne gryzaki dla dzieci w kształcie grzybka, są łatwe do chwytania przez małe rączki. Dodatkowo gryzak może służyć również jako kubeczek na przekąski z przyssawką. Wystarczy przekręcić kapelusz na drugą stronę i kubeczek gotowy :) Gryzak dla niemowlaka rozwija zdolności chwytania u dziecka. Wyjątkowe gryzaki dla dzieci są super miękkie i elastyczne. Zabawa gryzakiem grzybkiem sprawi dziecku wiele radości.
@@ -246534,7 +246551,7 @@ Mömbella® to bardzo szybko rosnąca marka stworzona w 2013 roku przez Davida G
 <nazwa>Mombella 8101 Gryzak Mushroom Light Blue</nazwa>
 <cena>30.10</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5060666870336</EAN>
 <grupa>MOMBELLA</grupa>
@@ -247460,7 +247477,7 @@ nie</opis>
 <nazwa>MOOVKEE Jeździk RETRO cream</nazwa>
 <cena>79.00</cena>
 <VAT>23</VAT>
-<ilosc>94</ilosc>
+<ilosc>93</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904722259034</EAN>
 <grupa>MOOVKEE</grupa>
@@ -247514,7 +247531,7 @@ waga produktu: 2,3 / 3 kg</opis>
 <nazwa>MOOVKEE Jeździk RETRO pink</nazwa>
 <cena>79.00</cena>
 <VAT>23</VAT>
-<ilosc>83</ilosc>
+<ilosc>82</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904722259027</EAN>
 <grupa>MOOVKEE</grupa>
@@ -248107,7 +248124,7 @@ brutto:2,7 kg</opis>
 <nazwa>MOOVKEE Traktor z przyczepą CAT yellow</nazwa>
 <cena>105.00</cena>
 <VAT>23</VAT>
-<ilosc>57</ilosc>
+<ilosc>56</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904722259003</EAN>
 <grupa>TO-MA/POJAZDY</grupa>
@@ -252765,8 +252782,8 @@ Zestaw z adapterem do butelki Anti-Colic:
 <nazwa>NUK 256207 Pierwsza szczoteczka do mycia zębów</nazwa>
 <cena>16.60</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4008600083702</EAN>
 <grupa>NUK/AKCESORIA</grupa>
 <opis>Szczoteczka do zębów dla dzieci NUK
@@ -252956,8 +252973,8 @@ Niania elektroniczna NUK Eco Control Audio Display 530D posiada też inne przyda
 <nazwa>NUK 730692 Smoczek uspokajający 2 el. 0-6m STAR D&amp;N biały/różowy</nazwa>
 <cena>20.45</cena>
 <VAT>5</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4008600442394</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
 <opis>Niestety, niemowlęta nie mogą wyjaśnić, dlaczego kochają swój NUK Star tak bardzo. Ale podejrzewamy, że przyczyną jest miłe uczucie w buzi - górna część smoczka dopasowuje się delikatnie do podniebienia. Znajduje się tam miękka strefa, materiał smoczka jest bardzo cienki i wyjątkowo gładki. Jednocześnie dolna część smoczka pozostawia wystarczająco dużo miejsca dla naturalnych ruchów ssących. Ponieważ gumka smoczka jest wąska i spłaszczona, prawie nie ma nacisku na zęby oraz szczękę. Smoczek świeci w ciemności. W zestawie znajduje się wytrzymałe pudełko wielokrotnego użytku do bezpiecznego i czystego przechowywania. Opakowanie zawiera 2 sz. silikonowych smoczków w białym oraz różowym kolorze od 0-6m wraz z pudełkiem. Wymiary/waga: wymiary opakowania (dł. x wys. x gł.)[cm]: 6x14x5, waga produktu w opakowaniu [kg]: 0,04 kg. Produkt przeznaczony dla dzieci w wieku: 0-6m. Pakowany w pudełeczko z zawieszką. Wyprodukowano w Niemczech.</opis>
@@ -252985,7 +253002,7 @@ Niania elektroniczna NUK Eco Control Audio Display 530D posiada też inne przyda
 <nazwa>NUK 736726 Smoczek uspokajający 2 el. 6-18m STAR niebieski/biały</nazwa>
 <cena>19.33</cena>
 <VAT>5</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>4008600442448</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
@@ -253747,8 +253764,8 @@ Wybierając Oball Classic, zapewniasz swojemu dziecku zabawkę, która nie tylko
 <nazwa>OBALL 12289-6 Piłka Classic 10 cm różowo-fioletowa 0m+</nazwa>
 <cena>18.65</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>074451122895</EAN>
 <grupa>OBALL</grupa>
 <opis>Z marką Oball™ wiąże się długa tradycja i dziedzictwo nagradzanych projektów zabawek, począwszy od oryginalnych i łatwych do uchwycenia klasyków. Teraz Oball™ oferuje szereg wyjątkowych zabawek zarówno dla niemowląt, jak i małych dzieci.
@@ -254258,8 +254275,8 @@ Zabawki Oball™ to pewność, że Twoje dziecko bawi się bezpiecznymi i rozwij
 <nazwa>Odcisk Bobasa - Album Pierwszego Roku</nazwa>
 <cena>17.84</cena>
 <VAT>5</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>9788393449606</EAN>
 <grupa>ODCISK BOBASA</grupa>
 <opis>Radosne chwile spędzone razem z dzieckiem są niezwykle cenne, ale zarazem ulotne. Aby z nich zostało jak najwięcej proponujemy nasz Album Pierwszego Roku. Jest to jedyna w swoim rodzaju księga na pamiątkowe wpisy oraz zdjęcia. Kolorowa i bajeczna szata graficzna będzie stanowić idealne tło dla zdjęć Maluszka, a specjalnie przygotowane miejsca na wpisy rodziców ułatwią zapisywanie najważniejszych i najbardziej przyjemnych chwil spędzonych z dzieckiem. Album jest przygotowany tak, aby dokumentował i upamiętniał cały pierwszy rok z jego życia. Oprócz tego w Albumie znajduje się miejsce na umieszczenie pamiątkowego pukla włosków oraz opaskę ze szpitala. Dodatkowo w Albumie jest specjalne miejsce przeznaczone na odcisk rączki i stopy dziecka, które będą przypominały o wszystkich szczęśliwych chwilach spędzonych z Maluchem. Album Pierwszego Roku to wyjątkowa księga, która z pewnością stanowić będzie wzruszającą pamiątkę dla całej rodziny. Jest ona także doskonałym prezentem dla rodziców dziecka, jak i dla niego samego.</opis>
@@ -260775,7 +260792,7 @@ Wyjątkowe komplety dla niemowląt i małych dzieci z pokryciem z bawełny z bam
 <nazwa>POLDAUN Wypełnienie VITAMED 100x135+40x60 całoroczny</nazwa>
 <cena>40.28</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903753003326</EAN>
 <grupa>POLDAUN</grupa>
@@ -260820,7 +260837,7 @@ Wyjątkowe komplety dla niemowląt i małych dzieci z pokryciem z bawełny z bam
 <nazwa>POLDAUN Wypełnienie VITAMED 90x120+40x60 całoroczny</nazwa>
 <cena>37.07</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903753003319</EAN>
 <grupa>POLDAUN</grupa>
@@ -261094,8 +261111,8 @@ www.pminvestment.pl/manual/qppet_bobbie_manual.pdf</opis>
 <nazwa>Qppet Wózek dla zwierząt Pettie Pet Beige 6960 QP-11</nazwa>
 <cena>165.35</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5061047482568</EAN>
 <grupa>    STREFA DLA PUPILA/WÓZKI I TRANSPORTERY</grupa>
 <opis>Qppet Pettie Pet to nowoczesny wózek dla psa i kota stworzony z myślą o wygodnych spacerach i podróżach z pupilem. Lekka konstrukcja, szybkie składanie jedną ręką oraz możliwość ciągnięcia wózka jak walizki sprawiają, że jest doskonałym rozwiązaniem dla aktywnych opiekunów zwierząt.
@@ -267459,10 +267476,10 @@ logicznego myślenia,</opis>
 <b2b>
 <kod>781056</kod>
 <nazwa>SMILY PLAY 0185 Kluczyki gryzaki</nazwa>
-<cena>23.48</cena>
+<cena>19.67</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>4895038501850</EAN>
 <grupa>SMILY PLAY/GRZECHOTKI</grupa>
 <opis>Przyjemne, żywe kolory przyciągną uwagę każdego maluszka zachęcając do zabawy. Zabawka może pełnić również funkcję gryzaczka. To zawieszka przypominająca prawdziwe kluczyki samochodowe. Ma przyciski funkcyjny który uruchamia dźwięki, odgłosy i śmieszne melodyjki.
@@ -267771,8 +267788,8 @@ Zasilanie: 2 bateria AAA, dołączona do zestawu.</opis>
 <nazwa>SMILY PLAY 0723 Pilot TV</nazwa>
 <cena>22.90</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>4895038507234</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis/>
@@ -269394,7 +269411,7 @@ Sterowany samolot marki Hola (model HE999500) to innowacyjna zabawka, która ł�
 <nazwa>SMILY PLAY SN84586 Mata piankowa</nazwa>
 <cena>30.60</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375845865</EAN>
 <grupa>SMILY PLAY/MATY</grupa>
@@ -269554,10 +269571,10 @@ Bezpieczeństwo: EN71-1, EN71-2, ENT1-3, EN62115</opis>
 <b2b>
 <kod>789185</kod>
 <nazwa>SMILY PLAY SP83348 Ciasto-masa plastyczna 12 szt</nazwa>
-<cena>16.89</cena>
+<cena>16.31</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375833480</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Zestaw 12 pojemniczków ciasto-masy będzie idealnym prezentem dla każdego dziecka!
@@ -269643,10 +269660,10 @@ Specyfikacja:
 <b2b>
 <kod>780825</kod>
 <nazwa>SMILY PLAY SP83511 Lalka</nazwa>
-<cena>39.90</cena>
+<cena>34.09</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375835118</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>SMILY PLAY LALKA JULKA 39 CM W PUDEŁKU PREZENTOWYM ODGRYWANIE RÓL 2+
@@ -269847,10 +269864,10 @@ SPECYFIKACJA
 <b2b>
 <kod>784448</kod>
 <nazwa>SMILY PLAY SP83662 Piramidka Dino</nazwa>
-<cena>19.90</cena>
+<cena>20.36</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375836627</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>SMILY PLAY PIRAMIDKA DINO 6m+
@@ -270182,10 +270199,10 @@ SPECYFIKACJA
 <b2b>
 <kod>789814</kod>
 <nazwa>SMILY PLAY SP83869 Lalka Julka uczy, śpiewa</nazwa>
-<cena>34.90</cena>
+<cena>31.53</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375838690</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>Julka śpiewa 3 piosenki
@@ -270519,10 +270536,10 @@ SPECYFIKACJA:
 <b2b>
 <kod>790901</kod>
 <nazwa>SMILY PLAY SP83944 Lalka Julka uczy, śpiewa</nazwa>
-<cena>29.90</cena>
+<cena>26.59</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375839444</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>LALKA JULKA UCZY, ŚPIEWA, OPOWIADA SMILY PLAY
@@ -270743,8 +270760,8 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83976 Książeczka Wodne zabawy</nazwa>
 <cena>6.82</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375839765</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Mięciutka książeczka do kąpieli z motywem zwierzęcym. Podczas naciskania wydaje piszczący dźwięk.
@@ -270833,10 +270850,10 @@ SPECYFIKACJA:
 <b2b>
 <kod>5903267</kod>
 <nazwa>SMILY PLAY SP84004 Mata piankowa zwierzęta</nazwa>
-<cena>25.08</cena>
+<cena>25.76</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375840044</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Kolorowa mata piankowa może być używana jako dywanik- podkładka na podłogę oraz jako puzzle do układania.
@@ -270944,10 +270961,10 @@ SPECYFIKACJA:
 <b2b>
 <kod>5905790</kod>
 <nazwa>SMILY PLAY SP84355 Mata piankowa owoce</nazwa>
-<cena>15.25</cena>
+<cena>14.73</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375843557</EAN>
 <grupa>SMILY PLAY/MATY</grupa>
 <opis>Kolorowa mata piankowa może być używana jako dywanik- podkładka na podłogę oraz jako puzzle do układania.
@@ -270972,7 +270989,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP84356 Mata piankowa pojazdy</nazwa>
 <cena>14.73</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375843564</EAN>
 <grupa>SMILY PLAY/MATY</grupa>
@@ -271059,10 +271076,10 @@ SPECYFIKACJA:
 <b2b>
 <kod>5904763</kod>
 <nazwa>SMILY PLAY SP84375 Lalka Julka bobas</nazwa>
-<cena>33.50</cena>
+<cena>30.14</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375843755</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>Lalka Julka to idealna towarzyszka spacerów dla małej opiekunki.Włóż ją do wózka, zabierz na spacer, zaproś na herbatkę.
@@ -271254,8 +271271,8 @@ SPECYFIKACJA
 <nazwa>SMILY PLAY SP84490 Miękkie klocki sensoryczne</nazwa>
 <cena>19.67</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375844905</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
 <opis>Miękkie klocki sensoryczne z motywem zwierząt do zabawy dla maluszka,również w kąpieli. Dziecko chwytając klocki odkrywa różne kształty faktury oraz poznaje zwierzęta. Każda ze ścian klocka ma inną fakturę oraz inny motyw. klocki można układać jeden na drugim.
@@ -271911,10 +271928,10 @@ Dlaczego warto? Interaktywna zabawa: Funkcja chodzenia lalki dodaje realizmu do 
 <b2b>
 <kod>5910407</kod>
 <nazwa>SMILY PLAY SP84975 Lalka Julka Bobas 32 cm</nazwa>
-<cena>35.72</cena>
+<cena>31.53</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375849757</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>Lalka Julka to idealna towarzyszka spacerów dla małej opiekunki.Włóż ją do wózka, zabierz na spacer, zaproś na herbatkę.
@@ -271955,10 +271972,10 @@ Bezpieczeństwo: Wykonana z bezpiecznych i trwałych materiałów, lalka jest od
 <b2b>
 <kod>5910408</kod>
 <nazwa>SMILY PLAY SP84976 Lalka Julka Bobas 32 cm</nazwa>
-<cena>34.08</cena>
+<cena>31.53</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905375849764</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
 <opis>Lalka Julka to idealna towarzyszka spacerów dla małej opiekunki.Włóż ją do wózka, zabierz na spacer, zaproś na herbatkę.
@@ -272828,10 +272845,10 @@ Bezpieczeństwo: CE</opis>
 <b2b>
 <kod>5903017</kod>
 <nazwa>SMILY PLAY SPW83798 Układanka drewniana zwierzęta domowe</nazwa>
-<cena>10.90</cena>
+<cena>10.78</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5905375837983</EAN>
 <grupa>SMILY PLAY/ZABAWKI DREWNIANE</grupa>
 <opis>Puzzle można układać w specjalnie wyprofilowanych miejscach na przystosowanej do tego tablicy. Każdy element układanki posiada uchwyt, dzięki któremu dziecku łatwiej będzie układać puzzle.
@@ -272893,10 +272910,10 @@ SPECYFIKACJA:
 <b2b>
 <kod>5903019</kod>
 <nazwa>SMILY PLAY SPW83803 Układanka drewniana</nazwa>
-<cena>10.85</cena>
+<cena>12.75</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5905375838034</EAN>
 <grupa>SMILY PLAY/ZABAWKI DREWNIANE</grupa>
 <opis>Puzzle można układać w specjalnie wyprofilowanych miejscach na przystosowanej do tego tablicy. Każdy element układanki posiada uchwyt, dzięki któremu dziecku łatwiej będzie układać puzzle.
@@ -273629,7 +273646,7 @@ Opis produktu:
 <nazwa>TEGA DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>27</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071682</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -273644,7 +273661,7 @@ Opis produktu:
 <nazwa>TEGA DK-005-129 Wanna dziecięca 102 cm KACZKA j.niebieska</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071668</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -273674,7 +273691,7 @@ Opis produktu:
 <nazwa>TEGA DK-005-131 Wanna dziecięca 102 cm KACZKA j.zielona</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071705</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -273689,7 +273706,7 @@ Opis produktu:
 <nazwa>TEGA DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071712</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -273826,7 +273843,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA DK-091-130 Nocnik KACZKA j.różowy</nazwa>
 <cena>9.87</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071576</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -273947,7 +273964,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-018-103 Podstawa uniwersalna 102/102LUX  biała</nazwa>
 <cena>68.42</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901549198812</EAN>
 <grupa>TEGA/PODSTAWY POD WANNĘ</grupa>
@@ -273985,7 +274002,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-020-135 Leżaczek do kąpieli 100% bawełna j.niebieski</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963007087</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -273998,8 +274015,8 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-020-136 Leżaczek do kąpieli 100% bawełna j.różowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5902963007094</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
 <opis>Leżaczek kapielowy wysoki 100% bawełna biały
@@ -274024,7 +274041,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-020-138 Leżaczek do kąpieli 100% bawełna j.zielony</nazwa>
 <cena>12.50</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963007117</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -274037,7 +274054,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-020-140 Leżaczek do kąpieli 100% bawełna turkus</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963007124</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -274051,7 +274068,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-020-157 Leżaczek do kąpieli 100% bawełna ecru</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902963007131</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -274183,8 +274200,8 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DZ-002-103-LISEK-Nakładka sedesowa antypoślizgowa DZIKI ZACHÓD zielony</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5902963001313</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>• Nakładka sedesowa dwukomponentowa z oparciem.
@@ -274452,7 +274469,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DZ-026-103-JELONEK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>44</ilosc>
+<ilosc>42</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963001542</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -274466,7 +274483,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DZ-026-103-SŁONIK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>32</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963001559</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -274480,7 +274497,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA FB-004-106 Wanienka składana z odpływem szary</nazwa>
 <cena>44.74</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905489408925</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -274513,8 +274530,8 @@ Do wanienki można dokupić stojak.</opis>
 <nazwa>TEGA FB-004-119 Wanienka składana z odpływem beżowy</nazwa>
 <cena>44.74</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
-<stan>duża ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5905489408949</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>Składana plastikowa wanienka dla dzieci Tega Baby to bardzo praktyczne rozwiązanie w codziennej pielęgnacji maluszka. Przemyślana konstrukcja umożliwia łatwe składanie, co docenią klienci ceniący ergonomię.
@@ -274961,7 +274978,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-005-109 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071972</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -274976,7 +274993,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-005-111 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.beżowy</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071965</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -275101,7 +275118,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-007-109 Nocnik krzesełko LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>21.05</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963071873</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -275438,8 +275455,8 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902963008053</EAN>
 <grupa>TEGA/WANNY</grupa>
 <opis>• Fukcjonalna i wygodna wanienka o anatomicznym kształcie.
@@ -275714,7 +275731,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA KR-026-104 Leżaczek kąpielowy z wizerunkiem Króliczki j.róż</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071002</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -276489,7 +276506,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-005-LUX-118 Wanna dziecięca 102 cm  MIŚ biała perła</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>27</ilosc>
+<ilosc>25</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963008794</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -276558,8 +276575,8 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-012-119 Nocnik krzesełko MIŚ beżowy</nazwa>
 <cena>20.78</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5902963008879</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Wykonany z wysokiej jakości plastiku, stabilny nocnik krzesełko.                                      
@@ -276608,7 +276625,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-016-118 Nakładka sedesowa antypoślizgowa MIŚ biała perła</nazwa>
 <cena>12.99</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902963008961</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
@@ -276626,7 +276643,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-016-119 Nakładka sedesowa antypoślizgowa MIŚ beżowy</nazwa>
 <cena>12.99</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902963008978</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
@@ -276873,7 +276890,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-046-119 Nocnik antypoślizgowy z pozytywką MIŚ beżowy</nazwa>
 <cena>16.88</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963009999</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -276937,8 +276954,8 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-055-104 Nocnik z pozytywką ECO JEDNOROŻEC j.różowy</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902963010209</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>Nocnik ECO Jednorożec różowy
@@ -276971,7 +276988,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-056-138 Nocnik z pozytywką ECO DINOZAUR j.zielony</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963010223</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -276987,7 +277004,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-057-140 Nocnik ECO z pozytywką  SŁOŃ turkus</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963010230</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -277152,7 +277169,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-064-106 Nocnik krzesełko SOWA z pozytywką szary</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902963010421</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -277225,7 +277242,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-069-108 Nocnik z pozytywką antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963015600</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -277775,7 +277792,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-080-164 Nocnik z pozytywką ECO METEO granatowy</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963002921</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -277791,7 +277808,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-080-165 Nocnik z pozytywką ECO METEO turkusowy</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963002938</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -277807,7 +277824,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PW-001-106 Pojemnik wielofunkcyjny szary</nazwa>
 <cena>36.84</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963002273</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
@@ -277855,7 +277872,7 @@ Wymiary: 55x35x25cm</opis>
 <nazwa>TEGA PW-001-165 Pojemnik wielofunkcyjny turkusowy</nazwa>
 <cena>34.21</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963002310</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
@@ -278031,8 +278048,8 @@ Wymiary: 55x35x25cm</opis>
 <nazwa>TEGA SO-002-106 Nakładka sedesowa antypoślizgowa SOWA szary</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5902963011282</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>Nakładka sedesowa dwukomponentowa z oparciem.
@@ -278124,7 +278141,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-005-106 Wanna dziecięca 102 cm SOWA szary</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963011404</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -278155,7 +278172,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-006-106 Podnóżek antypoślizgowy SOWA szary</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963011466</EAN>
 <grupa>TEGA/STOPNIE</grupa>
@@ -278371,7 +278388,7 @@ Produkt zgodny z normą EN 71-3:2019.</opis>
 <nazwa>TEGA TG-206-124 Huśtawka kubełkowa żółta</nazwa>
 <cena>30.50</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963001979</EAN>
 <grupa>TEGA/AKCESORIA</grupa>
@@ -278428,7 +278445,7 @@ Cechy produktu:
 <nazwa>TEGA TI-001-106/103 Nocnik teggi szary/biały</nazwa>
 <cena>19.74</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905489408048</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -278527,7 +278544,7 @@ Cechy produktu:
 <nazwa>TEGA TI-001-165/103 Nocnik teggi turkusowy/biały</nazwa>
 <cena>18.29</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905489408000</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -279401,7 +279418,7 @@ Zawieszka jest na tyle mała, że można ją zabrać ze sobą wszędzie. Koala J
 <nazwa>TINY LOVE TL11186004 TINY SMARTS Zawieszka Panda DECOR czarno/biała</nazwa>
 <cena>28.51</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>7290108863215</EAN>
 <grupa>TINY LOVE/PRZYWIESZKI</grupa>
@@ -279754,8 +279771,8 @@ przesuwane pierścienie dla łatwiejszego przemieszczania zabawek na pałąkach<
 <nazwa>TINY LOVE TL12059068 Gimnastyka dla bobasa z pałąkiem Magiczna kraina cz/b</nazwa>
 <cena>209.77</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>7290108861808</EAN>
 <grupa>TINY LOVE/MATY EDUKACYJNE</grupa>
 <opis>Biało-czarne kolory od pierwszego dnia będą stymulować wzrok dziecka
@@ -283314,8 +283331,8 @@ Nasze torby termiczne na butelki znacznie ułatwiają karmienie w podróży.
 <nazwa>TOMMEE TIPPEE TTP43335896 Smoczek uspokajający FUN FRIENDS 6-18m 2pak</nazwa>
 <cena>19.30</cena>
 <VAT>5</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5010415333582</EAN>
 <grupa>TOMMEE TIPPEE/BUTELKI I SMOCZKI</grupa>
 <opis>Symetryczne wzornictwo ortopedyczne szczęki: Tommee Tippee Smoczek firmy Fun Style jest wyposażony w symetryczny silikonowy smoczek, a bez "niewłaściwej" strony do góry, zawsze jest prawidłowo włożony do ust dziecka
@@ -284081,7 +284098,7 @@ Wykonane z miękkiego i nietoksycznego tworzywa.
 <nazwa>TOPGAL 010060 Klips do smoczka koralik drewno niebieski</nazwa>
 <cena>6.46</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905127010060</EAN>
 <grupa>TOPGAL BAMBINO</grupa>
@@ -284691,7 +284708,7 @@ Organizer pasuje do wózka typu:
 <nazwa>TOPGAL 210873 Moskitiera do wózka czarna</nazwa>
 <cena>10.65</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905127210873</EAN>
 <grupa>TOPGAL BAMBINO</grupa>
@@ -286867,28 +286884,6 @@ Waga opakowania zbiorczego (kg): 0.41</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914389-1.jpg https://marini.pl/b2b/pictures/5914389-2.jpg https://marini.pl/b2b/pictures/5914389-3.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5912239</kod>
-<nazwa>TREFL 02811 Gra Abecadło / Mały Odkrywca</nazwa>
-<cena>16.35</cena>
-<VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
-<EAN>5900511028119</EAN>
-<grupa>TREFL</grupa>
-<opis>Abecadło to edukacyjna układanka dla przedszkolaków, która w przyjazny sposób wprowadza dzieci w świat liter. Poprzez zabawę maluchy uczą się rozpoznawać litery polskiego alfabetu oraz łączenia ich z obrazkami. To doskonały sposób na połączenie nauki z radością odkrywania alfabetu! Świetny pierwszy krok do nauki czytania i pisania.
-
-Informacje
-
-OSTRZEŻENIE! Nieodpowiednie dla dzieci w wieku poniżej 3 lat. Istnieje ryzyko zadławienia się małymi elementami.
-Szczegółowe dane
-EAN: 5900511028119
-Kod produktu: 02811
-Dane producenta: TREFL SA ul. Kontenerowa 25 81-155 Gdynia, Polska, trefl@trefl.com, www.trefl.com
-Kraj pochodzenia: Polska
-Waga opakowania zbiorczego (kg): 0.410000</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5912239-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5914390</kod>
 <nazwa>TREFL 02812 Gra Angielski / Mały Odkrywca</nazwa>
 <cena>16.35</cena>
@@ -288343,7 +288338,7 @@ Waga opakowania zbiorczego (kg): 0.310000</opis>
 <nazwa>TREFL 16495 Puzzle 100 Stitch i przyjaciele w akcji</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511164954</EAN>
 <grupa>TREFL</grupa>
@@ -288917,7 +288912,7 @@ Waga opakowania zbiorczego (kg): 0.31</opis>
 <nazwa>TREFL 16570 Puzzle 100 Małpki i przyjaciele / Rodzina Treflików</nazwa>
 <cena>10.78</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5900511165708</EAN>
 <grupa>TREFL</grupa>
@@ -289621,7 +289616,7 @@ Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specj
 <nazwa>TREFL 18289 Puzzle 30 Myszka Miki i Wesoły Domek</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511182897</EAN>
 <grupa>TREFL</grupa>
@@ -289781,7 +289776,7 @@ Produkt wykonano z wysokiej jakości materiałów, z zastosowaniem specjalnego k
 <nazwa>TREFL 18308 Puzzle 30 Piękny dzień księżniczek</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511183085</EAN>
 <grupa>TREFL</grupa>
@@ -289888,7 +289883,7 @@ Waga opakowania zbiorczego (kg): 0.15
 <nazwa>TREFL 18319 Puzzle 30 Świat pełen uśmiechu</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900511183191</EAN>
 <grupa>TREFL</grupa>
@@ -290108,8 +290103,8 @@ Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specj
 <nazwa>TREFL 23013 Puzzle 300 Ulubione dinozaury</nazwa>
 <cena>15.30</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900511230130</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle 300 elementów.
@@ -290404,8 +290399,8 @@ Produkt został wykonany w Polsce z dbałością o środowisko i przy użyciu wy
 <nazwa>TREFL 34434 Puzzle 2x24 Psi dzień zabaw / Paw Patrol</nazwa>
 <cena>10.21</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900511344349</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle 2x24 to aż dwie układanki 24 elementy w jednym opakowaniu! Układanie staje się jeszcze ciekawsze i może w nim uczestniczyć więcej maluchów.
@@ -290583,8 +290578,8 @@ Puzzle zostały wyprodukowane w Polsce, a do produkcji zostały wykorzystane eko
 <nazwa>TREFL 34619 Puzzle 4w1 Odjazdowy Tomek</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>12</ilosc>
+<stan>duża ilość</stan>
 <EAN>5900511346190</EAN>
 <grupa>TREFL</grupa>
 <opis>Odjazdowy Tomek to puzzle składające się z 4 niezależnych układanek, zaprojektowane z myślą o wszystkich fanach i fankach bajki Tomek i Przyjaciele. Po ułożeniu układanek powstaną obrazki o wymiarach 285x205 mm z głównymi bohaterami bajki.
@@ -290990,8 +290985,8 @@ Wiek: +3</opis>
 <nazwa>TREFL 34876 Puzzle 3x50 Poznajcie Gabby i kotki</nazwa>
 <cena>11.33</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900511348767</EAN>
 <grupa>TREFL</grupa>
 <opis>Puzzle 3x50 to aż trzy układanki 50 elementów w jednym opakowaniu! Układanie staje się jeszcze ciekawsze i może w nim uczestniczyć więcej maluchów.
@@ -291259,8 +291254,8 @@ Puzzle składające się z 4 niezależnych układanek, a zróżnicowana liczba e
 <nazwa>TREFL 36071 Puzzle Baby Classic Pojazdy i zawody 2+</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900511360714</EAN>
 <grupa>TREFL</grupa>
 <opis>cztery układanki
@@ -291277,7 +291272,7 @@ rozwijają zdolności manualne u dziecka</opis>
 <nazwa>TREFL 36072 Puzzle Baby Classic Pojazdy na budowie</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511360721</EAN>
 <grupa>TREFL</grupa>
@@ -291370,7 +291365,7 @@ Puzzle składają się z 4 niezależnych układanek, które rozwijają zdolnośc
 <nazwa>TREFL 36135 Puzzle Baby Classic Bobaskowe zwierzątka</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511361353</EAN>
 <grupa>TREFL</grupa>
@@ -291404,7 +291399,7 @@ Wiek: 2+</opis>
 <nazwa>TREFL 36137 Puzzle Baby Classic Mała świnka wśród przyjaciół / Peppa Pig</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511361377</EAN>
 <grupa>TREFL</grupa>
@@ -291426,7 +291421,7 @@ Waga opakowania zbiorczego (kg): 0.43</opis>
 <nazwa>TREFL 36138 Puzzle Baby Classic Urocze dinozaury</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>27</ilosc>
+<ilosc>26</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511361384</EAN>
 <grupa>TREFL</grupa>
@@ -291885,7 +291880,7 @@ Układanki zostały dopasowane do wieku dziecka i jego możliwości poznawczych.
 <nazwa>TREFL 43004 Puzzle Baby MAXI 2x10 Radosna drużyna Psiego Patrolu</nazwa>
 <cena>18.70</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511430042</EAN>
 <grupa>TREFL</grupa>
@@ -293515,7 +293510,7 @@ Waga opakowania zbiorczego (kg): 0.646000</opis>
 <nazwa>TREFL 62605 Skillmatics Foil Fun Zestaw kreatywny Modowe Kreacje</nazwa>
 <cena>45.11</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511626056</EAN>
 <grupa>TREFL</grupa>
@@ -299168,7 +299163,7 @@ Waga: 1.9 kg</opis>
 <nazwa>Viga 44085 PolarB Baby Gym</nazwa>
 <cena>82.38</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>6971608440854</EAN>
 <grupa>VIGA</grupa>
@@ -301489,7 +301484,7 @@ OSTRZEŻENIA! Przed użyciem zabawki usuń opakowanie. Przed użyciem zabawki sp
 <nazwa>VIGA 44273 PolarB Balansujący labirynt</nazwa>
 <cena>46.31</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>6971608442735</EAN>
 <grupa>VIGA</grupa>
@@ -303800,7 +303795,7 @@ Liczba elementów:21
 <nazwa>Viga 50078 Kurka z kurczaczkami do ciągnięcia</nazwa>
 <cena>37.94</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>6934510500788</EAN>
 <grupa>VIGA</grupa>
@@ -304807,7 +304802,7 @@ Zabawka VTech to ponad 70 wyrażeń, piosenek i melodii, a także 2 ekrany dotyk
 <nazwa>VTECH 61589 Książeczka Przygoda Kosmopiesków</nazwa>
 <cena>112.13</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900511615890</EAN>
 <grupa>V-TECH</grupa>
@@ -305565,7 +305560,7 @@ przeznaczona dla dzieci 3+</opis>
 <nazwa>WADER 32370 Middle Truck - Straż pożarna</nazwa>
 <cena>42.14</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900694323704</EAN>
 <grupa>WADER</grupa>
@@ -309912,7 +309907,7 @@ Waga
 <nazwa>WOOPIE 40406 Coffie Shop Zestaw Kawiarnia</nazwa>
 <cena>37.24</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
@@ -316448,7 +316443,7 @@ Waga:	1.3 kg</opis>
 <nazwa>WOOPIE 56034 Royal Wózek dla lalek Vintage Rose</nazwa>
 <cena>90.04</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280656034</EAN>
 <grupa>WOOPIE</grupa>
@@ -320226,8 +320221,8 @@ Waga:	0.6 kg</opis>
 <nazwa>WOOPIE BABY 49232 Mata piankowa</nazwa>
 <cena>62.10</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Mata Piankowa marki Woopie to idealny wybór dla rodziców dbających o bezpieczeństwo i komfort swojego dziecka. Zestaw, który umożliwia złożenie go na 3 różne sposoby: jako klasyczną matę, kojec oraz kojec z wyjściem. Dzięki formie puzzli, rodzic ma pełną swobodę w dopasowaniu rozmiaru i kształtu do konkretnej powierzchni pokoju, co czyni go idealnym rozwiązaniem nawet w niewielkich lub wąskich pomieszczeniach.
@@ -322737,8 +322732,8 @@ Zaleca się prać ręcznie, nie chlorować, nie wirować, nie czyścić chemiczn
 <nazwa>ZAFFIRO Nosidełko BabyGrow Roma grey</nazwa>
 <cena>336.43</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5902745614236</EAN>
 <grupa>ZAFFIRO</grupa>
 <opis>Nosidełko ergonomiczne BabyGrow
