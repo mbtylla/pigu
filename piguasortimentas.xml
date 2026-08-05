@@ -501,7 +501,7 @@
     <ean>5710409107235</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>2</stock>
+    <stock>0</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -2149,7 +2149,7 @@
     <ean>191856071181</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>7</stock>
+    <stock>5</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -2685,7 +2685,7 @@
     <ean>5060204032103</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>16</stock>
+    <stock>15</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -3037,7 +3037,7 @@
     <ean>4820148900385</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>78</stock>
+    <stock>76</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -3229,7 +3229,7 @@
     <ean>4779030060136</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>498</stock>
+    <stock>496</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -3277,7 +3277,7 @@
     <ean>5060639144365</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>132</stock>
+    <stock>124</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -4333,7 +4333,7 @@
     <ean>4820148900460</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>10</stock>
+    <stock>8</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -4653,7 +4653,7 @@
     <ean>4779030060204</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>572</stock>
+    <stock>571</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
@@ -6469,7 +6469,7 @@
     <ean>4779030060112</ean>
     <price_lt>0</price_lt>
     <price_after_discount_lt>0</price_after_discount_lt>
-    <stock>964</stock>
+    <stock>960</stock>
     <collection_hours_lt>168</collection_hours_lt>
   </product>
   <product>
