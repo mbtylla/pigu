@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-08-15T18:55:04.890">
+<MARINI timestamp="2026-08-16T18:55:04.953">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -97973,7 +97973,7 @@ Przybliżone wymiary: 18 cm x 16 cm x 30 cm
 <b2b>
 <kod>763080</kod>
 <nazwa>DREWEX Komoda ŻYRAFA dąb santana</nazwa>
-<cena>665.00</cena>
+<cena>530.00</cena>
 <VAT>23</VAT>
 <ilosc>1</ilosc>
 <stan>mała ilość</stan>
@@ -159018,6 +159018,26 @@ Kod EAN: 5901912245723</opis>
 • trzy szuflady na prowadnicach kulkowych
 • nakładka na przewijak</opis>
 <zdjecia>https://marini.pl/b2b/pictures/775917-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>17734</kod>
+<nazwa>KLUPŚ Komoda OLIVER / RADEK III biała z przewijakiem*</nazwa>
+<cena>399.00</cena>
+<VAT>23</VAT>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
+<EAN>5902022534493</EAN>
+<grupa>KLUPŚ/MEBLE/KOMODY</grupa>
+<opis>
+Wymiar:
+bez przewijaka: 87x83x53 cm
+z przewijakiem: 94x83x73 cm
+
+Materiał:
+drewno sosnowe + MDF malowany + płyta wiórowa
+ 
+Łatwa i szybka możliwość montażu nakładki na komodę.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/17734-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5912385</kod>
