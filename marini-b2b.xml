@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-08-18T18:55:04.873">
+<MARINI timestamp="2026-08-18T19:55:04.913">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -259178,17 +259178,6 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <opis/>
 </b2b>
 <b2b>
-<kod>5905007</kod>
-<nazwa>POLDAUN Kołdra Sensidream ultralekka 90x120</nazwa>
-<cena>26.01</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5903753004521</EAN>
-<grupa>POLDAUN</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>779723</kod>
 <nazwa>POLDAUN Kołdra SENSIDREAM ultralekka 90x120</nazwa>
 <cena>26.01</cena>
@@ -259196,6 +259185,17 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <ilosc>0</ilosc>
 <stan>brak</stan>
 <EAN/>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>5905007</kod>
+<nazwa>POLDAUN Kołdra Sensidream ultralekka 90x120</nazwa>
+<cena>26.01</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5903753004521</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
